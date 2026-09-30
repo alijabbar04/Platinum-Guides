@@ -1,0 +1,332 @@
+{
+  "part": {
+    "id": "ch5",
+    "title": "Chapter 5",
+    "subtitle": "Guarma and the return to Lemoyne",
+    "intro": [
+      "Chapter 5 is short: about 5-6 hours. It starts on the island of Guarma, where you have none of your usual gear, then returns you to the mainland for the last few missions before Chapter 6.",
+      "Nothing trophy-related is lost on Guarma. You can never go back to the island after 'Paradise Mercifully Departed', but its unique animals are not needed for Zoologist or Skin Deep. Studying them is optional.",
+      "Back on the mainland, check your Honor. The Chapter 6 honor missions need Honor level 4 of 8, so if you are below that, start raising it now. All 9 missions here have gold medals, and 'No Traitors' pops automatically at the end of the chapter."
+    ]
+  },
+  "steps": [
+    {
+      "id": "ch5-guarma-gear-note",
+      "type": "info",
+      "title": "Know what you have on Guarma",
+      "where": "Guarma",
+      "how": [
+        "Expect to start without your normal weapons, money, horses or journal. They come back in 'Dear Uncle Tacitus'.",
+        "Expect your Dead Eye core to start drained and to have no provisions, so avoid needless damage.",
+        "Make a manual save before each mission if you want to retry for gold."
+      ],
+      "sources": [
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppx"
+      ]
+    },
+    {
+      "id": "ch5-m-welcome-to-the-new-world",
+      "type": "mission",
+      "title": "Play 'Welcome to the New World'",
+      "missionId": "mission-welcome-to-the-new-world",
+      "where": "Guarma",
+      "how": [
+        "The chapter starts with this mission. Follow the story markers."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-m-savagery-unleashed",
+      "type": "mission",
+      "title": "Play 'Savagery Unleashed'",
+      "missionId": "mission-savagery-unleashed",
+      "where": "La Capilla, Guarma",
+      "how": [
+        "Start it from the marker at La Capilla. You can play it before or after 'A Kind and Benevolent Despot'.",
+        "Optional: loot the Sun Hat from a dead enemy. It is a missable hat but not needed for any trophy."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "ch5-m-a-kind-and-benevolent-despot",
+      "type": "mission",
+      "title": "Play 'A Kind and Benevolent Despot'",
+      "missionId": "mission-a-kind-and-benevolent-despot",
+      "where": "Arroyo de la Vibora, Guarma",
+      "how": [
+        "Start it from the Dutch marker at Arroyo de la Vibora."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-guarma-animals",
+      "type": "task",
+      "title": "Optional: study the Guarma-only animals",
+      "where": "Guarma (snakes: under the letter E of Arroyo de la Vibora on the map)",
+      "how": [
+        "Study the three macaws (Blue and Yellow, Great Green, Scarlet) and the Red-footed Booby with binoculars.",
+        "Go to the spot under the E of Arroyo de la Vibora for the Guarma snakes (Red Boa, Rainbow Boa, Sunglow Boa, Fer-de-Lance).",
+        "Kill a snake, then let time pass or quit and continue to spawn another species.",
+        "Skip this entirely if you only care about trophies: none of these count for Zoologist or Skin Deep."
+      ],
+      "tip": "The Cuban Land Crab and Green Iguana also live on Guarma, but they spawn at Flat Iron Lake on the mainland too, so you do not need them here.",
+      "counts": [
+        "tracker:zoologist"
+      ],
+      "missable": {
+        "deadline": "before finishing 'Paradise Mercifully Departed'",
+        "deadlineMissionId": "mission-paradise-mercifully-departed"
+      },
+      "optional": true,
+      "unverified": "Sources disagree on whether the Fer-de-Lance is Guarma-only (PowerPyx says yes; Codeberg leaves it out). No source says any Guarma animal is needed for a trophy.",
+      "sources": [
+        "wildlife#ppx-animals",
+        "wildlife#ppx-trophy",
+        "wildlife#fandom-trophies",
+        "missables#ppx",
+        "missables#ppxanimals",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch5-m-hell-hath-no-fury",
+      "type": "mission",
+      "title": "Play 'Hell Hath No Fury'",
+      "missionId": "mission-hell-hath-no-fury",
+      "where": "Cinco Torres, Guarma",
+      "how": [
+        "Start it from the marker at Cinco Torres."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-warning-leaving-guarma",
+      "type": "warning",
+      "title": "Last chance on Guarma",
+      "how": [
+        "You can never return to Guarma after the next mission (only replay missions later).",
+        "Finish 'Optional: study the Guarma-only animals' now if you want them. They are not needed for any trophy.",
+        "Loot the Sun Hat now if you want it (not trophy-related).",
+        "Make a manual save now."
+      ],
+      "missable": {
+        "deadline": "before finishing 'Paradise Mercifully Departed'",
+        "deadlineMissionId": "mission-paradise-mercifully-departed"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch5-m-paradise-mercifully-departed",
+      "type": "mission",
+      "title": "Play 'Paradise Mercifully Departed'",
+      "missionId": "mission-paradise-mercifully-departed",
+      "where": "Manicato, Guarma",
+      "how": [
+        "Start it from the Bill marker at Manicato.",
+        "After this mission the Honor bar can finally reach its maximum or minimum, so Extreme Personality becomes possible."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-m-dear-uncle-tacitus",
+      "type": "mission",
+      "title": "Play 'Dear Uncle Tacitus'",
+      "missionId": "mission-dear-uncle-tacitus",
+      "where": "Van Horn Trading Post",
+      "how": [
+        "Follow the story marker after arriving at Van Horn Trading Post.",
+        "Your weapons, gear and horses are given back during this mission."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-honor-heads-up",
+      "type": "task",
+      "title": "Check your Honor before Chapter 6",
+      "where": "Anywhere",
+      "how": [
+        "Check your Honor level. You need at least level 4 of 8 (halfway into the white, honourable side) for a Chapter 6 honor mission.",
+        "If you are below that, start raising it now: catch and release fish, and hand in bounties alive.",
+        "Keep greeting people, helping strangers and avoiding crimes against civilians."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "tip": "Chapter 6 has its own honor check step at the very start. Getting ahead now saves time there.",
+      "sources": [
+        "missables#ppx",
+        "missables#damnmodz",
+        "missables#gamesguides",
+        "missables#ggdnsa"
+      ]
+    },
+    {
+      "id": "ch5-m-the-wisdom-of-the-elders",
+      "type": "mission",
+      "title": "Do the stranger strand 'The Wisdom of the Elders'",
+      "missionId": "mission-the-wisdom-of-the-elders",
+      "where": "Wilderness west of Van Horn Trading Post (white ? stranger icon)",
+      "how": [
+        "Look for the white ? stranger icon west of Van Horn Trading Post.",
+        "Complete every part of the strand; it counts as one of the 10 strands for Western Stranger.",
+        "Skip it for now if you prefer: it is not missable and can be finished after the story."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "Research gives Chapter 5 as the unlock chapter; the start location comes only from the PowerPyx strangers map (not in the research files).",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch5-m-fleeting-joy",
+      "type": "mission",
+      "title": "Play 'Fleeting Joy'",
+      "missionId": "mission-fleeting-joy",
+      "where": "Lakay, Bayou Nwa",
+      "how": [
+        "Start it from the Dutch marker at Lakay."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-m-a-fork-in-the-road",
+      "type": "mission",
+      "title": "Play 'A Fork in the Road'",
+      "missionId": "mission-a-fork-in-the-road",
+      "where": "Saint Denis",
+      "how": [
+        "Ride into Saint Denis; the mission starts there on its own.",
+        "This mission unlocks the Chapter 6 honor missions 'Do Not Seek Absolution' (Annesburg) and 'Of Men and Angels' (Saint Denis). They are covered at the start of Chapter 6."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-m-thats-murfree-country",
+      "type": "mission",
+      "title": "Play 'That's Murfree Country'",
+      "missionId": "mission-thats-murfree-country",
+      "where": "Lakay",
+      "how": [
+        "Start it from the Dutch marker at Lakay.",
+        "Optional: you can take one of the scarred Murfree horses during this mission (missable, not trophy-related).",
+        "Finishing it ends Chapter 5 and pops 'No Traitors'."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-no-traitors"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "ch5-legendary-bullgator",
+      "type": "task",
+      "title": "Optional: hunt the Legendary Bullgator",
+      "where": "Bayou Nwa, south of Lagras and west of Lakay",
+      "how": [
+        "Open the Legendary Animals tracker and ride to the Bullgator area in Bayou Nwa, south of Lagras and west of Lakay.",
+        "Hunt it now, or leave it for later: it is not needed for any trophy.",
+        "Sell the pelt to a Trapper and the parts to a Fence if you want the outfit and talisman rewards."
+      ],
+      "counts": [
+        "tracker:legendary-animals"
+      ],
+      "optional": true,
+      "unverified": "Timing is disputed. Red Dead Wiki says the Bullgator becomes huntable after 'That's Murfree Country'; GamesRadar says after the Chapter 4 mission 'Country Pursuits'. The later timing is the safe one. Legendary animals do not count for Zoologist or Skin Deep.",
+      "sources": [
+        "wildlife#fandom-bullgator",
+        "wildlife#fandom-murfree",
+        "wildlife#gr-leg",
+        "wildlife#ppx-animals"
+      ]
+    }
+  ]
+}

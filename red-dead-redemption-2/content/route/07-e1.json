@@ -1,0 +1,293 @@
+{
+  "part": {
+    "id": "e1",
+    "title": "Epilogue Part 1",
+    "subtitle": "Pronghorn Ranch",
+    "intro": [
+      "The Epilogue starts straight after the Chapter 6 credits. Part 1 is ten short story missions around Pronghorn Ranch, Strawberry and Blackwater, plus one cutscene with no medal.",
+      "Nothing in Part 1 can lock you out of a trophy. The only missables are two cosmetic hats, noted in the first two missions.",
+      "Keep making a manual save before every mission and reload if a gold objective fails. Every mission can also be replayed for gold after the credits.",
+      "New Austin (Armadillo, Tumbleweed, Fort Mercer) is safe to explore from now on. Leave most of it for the post-story Cleanup part, which covers collectibles, animals and 100% in one efficient sweep."
+    ]
+  },
+  "steps": [
+    {
+      "id": "e1-what-carries-over",
+      "type": "info",
+      "title": "Check what carried over into the Epilogue",
+      "how": [
+        "Open your weapon wheel, satchel and wardrobe: weapons, outfits and satchel items (kit, trinkets, talismans, valuables, documents, cigarette cards) have carried over.",
+        "Note that cash and horses (including stabled horses) did not carry over.",
+        "Sell any treasure-map valuables you were holding back if you need money now."
+      ],
+      "spoiler": [
+        "From here on you play as John Marston, for the rest of the story and for all post-story free roam."
+      ],
+      "sources": [
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "e1-m-the-wheel",
+      "type": "mission",
+      "title": "Play the Epilogue opener",
+      "missionId": "mission-the-wheel",
+      "where": "Starts automatically near Strawberry",
+      "how": [
+        "The mission starts automatically after the Chapter 6 credits.",
+        "Optional (cosmetic, missable): if your hat gets knocked off during the mission, pick it up to keep the Worn Flat Cap.",
+        "Look after the horse you ride in this mission (Rachel): she becomes your horse afterwards."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "Drive the wagon carefully to Pronghorn Ranch: dropping any supplies fails a gold objective.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "e1-new-austin-open",
+      "type": "info",
+      "title": "Note: New Austin is now safe to explore",
+      "how": [
+        "From now on you can ride into New Austin (the south-west of the map) without being hunted down.",
+        "Three legendary animals (Tatanka Bison, Pronghorn, Cougar), 8 dinosaur bones, several cigarette cards and the desert-only animals and plants are there.",
+        "You don't need to sweep it now: the Cleanup part after the credits covers all of it in order."
+      ],
+      "optional": true,
+      "sources": [
+        "wildlife#fandom-the-wheel",
+        "wildlife#fandom-legendary",
+        "collectibles#ppx-bones",
+        "collectibles#wiki-cards",
+        "wildlife#ppx-animals"
+      ]
+    },
+    {
+      "id": "e1-m-simple-pleasures",
+      "type": "mission",
+      "title": "Do your first day's work at the ranch",
+      "missionId": "mission-simple-pleasures",
+      "where": "Pronghorn Ranch (mission marker)",
+      "how": [
+        "Start the mission at the marker on Pronghorn Ranch.",
+        "Optional (cosmetic, missable): if your Gambler's Hat is knocked off, pick it up to keep it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "e1-m-farming-for-beginners",
+      "type": "mission",
+      "title": "Mend fences and deal with a bull",
+      "missionId": "mission-farming-for-beginners",
+      "where": "Pronghorn Ranch",
+      "how": [
+        "Start the mission at the marker on Pronghorn Ranch.",
+        "When the bull charges, get up onto the large rock beside its path before you throw the lasso.",
+        "At the end, rope the bull, let go and run onto the wagon by the barn."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e1-m-fatherhood-for-beginners",
+      "type": "mission",
+      "title": "Break in a new horse",
+      "missionId": "mission-fatherhood-for-beginners",
+      "where": "Pronghorn Ranch",
+      "how": [
+        "Start the mission at the marker on Pronghorn Ranch.",
+        "To tire the horse quickly, keep riding forward and tap jump repeatedly.",
+        "Keep a treat in your satchel so you can feed the horse afterwards.",
+        "During the riding lesson, give the 'speed up' instruction only once so the other horse stays at a canter."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e1-m-old-habits",
+      "type": "mission",
+      "title": "Deal with trouble at the ranch",
+      "missionId": "mission-old-habits",
+      "where": "Pronghorn Ranch",
+      "how": [
+        "Continue from the marker on Pronghorn Ranch.",
+        "In the fist fight, dodge backwards first, then keep attacking until the scripted finishing move; avoid grapples.",
+        "If the no-hit objective fails despite a clean fight, retry the checkpoint (it is sometimes buggy)."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e1-m-jim-milton-rides-again",
+      "type": "mission",
+      "title": "Ride out on a night raid",
+      "missionId": "mission-jim-milton-rides-again",
+      "where": "Pronghorn Ranch",
+      "how": [
+        "Equip two sidearms beforehand so you can dual wield.",
+        "Start the mission at the marker on Pronghorn Ranch.",
+        "Don't use any health items during the mission.",
+        "If the headshot counter stops registering, restart from a checkpoint."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e1-m-fatherhood-for-idiots",
+      "type": "mission",
+      "title": "Take a trip into Strawberry",
+      "missionId": "mission-fatherhood-for-idiots",
+      "where": "Pronghorn Ranch",
+      "how": [
+        "Start the mission at the marker on Pronghorn Ranch.",
+        "Make sure your Dead Eye meter is full before the confrontation in town.",
+        "Afterwards, ride straight back to Pronghorn Ranch; the return is timed."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "e1-m-motherhood",
+      "type": "mission",
+      "title": "Pick up a telegram",
+      "missionId": "mission-motherhood",
+      "where": "Pronghorn Ranch (ranch hand)",
+      "how": [
+        "Speak to the ranch hand at the marker on Pronghorn Ranch.",
+        "The mission is short: go straight to each objective to stay inside the time limit."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "e1-m-gainful-employment",
+      "type": "mission",
+      "title": "Take on some bounty work",
+      "missionId": "mission-gainful-employment",
+      "where": "Valentine (mission marker)",
+      "how": [
+        "Ride to the mission marker in Valentine.",
+        "When you reach Strawberry, skip questioning the townsfolk: go straight to the Welcome Center (hotel) and upstairs to the room by the bathroom.",
+        "When the target flees, cut straight across at the rail crossing to catch and hogtie him quickly."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "Shooting the target's horse makes the hogtie easy but costs a little Honor.",
+      "spoiler": [
+        "The mission giver is Sadie Adler."
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e1-the-landowning-classes",
+      "type": "info",
+      "title": "Watch the Blackwater bank cutscene (no medal)",
+      "where": "Blackwater (mission marker)",
+      "how": [
+        "Follow the next mission marker to Blackwater.",
+        "'The Landowning Classes' is a cutscene with no gold medal; it leads into the next mission with the bank manager."
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "e1-m-home-of-the-gentry",
+      "type": "mission",
+      "title": "Inspect a property near Blackwater",
+      "missionId": "mission-home-of-the-gentry",
+      "where": "Blackwater (bank)",
+      "how": [
+        "Start the mission from the Blackwater bank.",
+        "Ride straight to each objective; the gold time limit is tight."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "You take on a bank debt in this mission. You cannot pay it off with your own cash; the Part 2 story clears it, so don't save money for it.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e1-m-american-inferno-burnt-out",
+      "type": "mission",
+      "title": "Start the Epilogue-only stranger strand",
+      "missionId": "mission-the-american-inferno-burnt-out",
+      "where": "A hilltop in West Elizabeth (new white '?' stranger icon)",
+      "how": [
+        "After 'Home of the Gentry?', look for a new white '?' stranger icon on a hilltop in West Elizabeth.",
+        "Talk to the writer sitting there to start the strand.",
+        "Visit his cabin for each of the five parts; a day or more must pass between parts, so fit them in during Part 2 or after the credits.",
+        "Finish all five parts: the strand counts towards Western Stranger and 100%."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "optional": true,
+      "unverified": "Unlock timing (after 'Home of the Gentry?'), start location and the waits between parts come from web guides, not the research files. Sources disagree on where it starts: south-west of Strawberry (RDR2.org) vs a hill west of Blackwater (PowerPyx). Research confirms it is an Epilogue strand that is not missable.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-the-american-inferno-burnt-out-stranger-mission-walkthrough/",
+        "https://www.rdr2.org/guides/the-american-inferno-burnt-out-guide/"
+      ]
+    }
+  ]
+}

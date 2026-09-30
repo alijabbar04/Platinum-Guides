@@ -1,0 +1,1004 @@
+{
+  "area": "missions-ch1-3",
+  "generatedAt": "2026-10-01",
+  "sources": [
+    { "id": "ppx", "title": "PowerPyx - Red Dead Redemption 2 Gold Medals Guide", "url": "https://www.powerpyx.com/red-dead-redemption-2-gold-medals-guide/" },
+    { "id": "ppx-walk", "title": "PowerPyx - RDR2 Full Walkthrough (All Story Missions)", "url": "https://www.powerpyx.com/red-dead-redemption-2-full-walkthrough-all-story-missions/" },
+    { "id": "rdr2org-ch1", "title": "RDR2.org - Chapter One Missions & Gold Medals Guide (pages 1-2)", "url": "https://www.rdr2.org/guides/chapter-1-gold-medals-guide/" },
+    { "id": "rdr2org-ch2", "title": "RDR2.org - Chapter 2 Missions and Gold Medals Guide (pages 1-5)", "url": "https://www.rdr2.org/guides/chapter-2-missions-gold-medals-guide/" },
+    { "id": "rdr2org-ch3", "title": "RDR2.org - Chapter 3 Missions and Gold Medals Guide (pages 1-4)", "url": "https://www.rdr2.org/guides/chapter-3-missions-and-gold-medals-guide/" },
+    { "id": "htr", "title": "Hold To Reset - RDR2 Gold Medal Levels Checklist", "url": "https://holdtoreset.com/all-level-checklists-in-red-dead-redemption-2/" },
+    { "id": "gh", "title": "GamesHedge - RDR2 Gold Medals Guide (all chapters)", "url": "https://www.gameshedge.com/red-dead-redemption-2-gold-medals-guide/" },
+    { "id": "gp", "title": "Gamepressure - RDR2 storyline quests list", "url": "https://www.gamepressure.com/red-dead-redemption-2/all-stroryline-quests/z6b77f" },
+    { "id": "gtab", "title": "GTABase - RDR2 Missions List", "url": "https://www.gtabase.com/red-dead-redemption-2/missions/" },
+    { "id": "cb", "title": "mycus/rdr2-missables-checklist (Codeberg)", "url": "https://codeberg.org/mycus/rdr2-missables-checklist" },
+    { "id": "gr", "title": "Game Rant - RDR2 All Missable Content in Chapter 3", "url": "https://gamerant.com/red-dead-redemption-2-missable-content-chapter-3/" },
+    { "id": "px", "title": "PixelTwelve - RDR2 Missable Content Checklist", "url": "https://pixeltwelve.com/articles/red-dead-redemption-2-missable-content" }
+  ],
+  "knownTotals": [
+    { "key": "story-missions-ch1", "value": 6, "sources": ["ppx", "rdr2org-ch1", "gp", "gtab", "htr"], "note": "All 6 have gold medal objectives." },
+    { "key": "gold-medal-missions-ch1", "value": 6, "sources": ["ppx", "htr", "gh"] },
+    { "key": "gold-medal-missions-ch2", "value": 18, "sources": ["ppx", "htr", "gh"], "note": "Counts individual medal-bearing mission parts. Parts without medals (Money Lending and Other Sins I & II, We Loved Once and True I & II, Pouring Forth Oil I & III) are excluded. rdr2.org also says 18 missions. Grouped lists give 16 (gp) or 19 (gtab) - see disputes." },
+    { "key": "gold-medal-missions-ch3", "value": 17, "sources": ["ppx", "htr", "gh"], "note": "Excludes Money Lending and Other Sins IV, The Course of True Love I and Advertising, the New American Art I (no medal). rdr2.org and gtab list 18 story missions for Ch3 because they include Money Lending IV and/or group parts." },
+    { "key": "gold-medal-missions-ch1-3", "value": 41, "sources": ["ppx", "htr", "gh"] },
+    { "key": "gold-medal-missions-game", "value": 104, "sources": ["ppx"], "note": "PowerPyx: 104 story missions have gold medals. GTABase says 105 missions have gold objectives (see disputes)." },
+    { "key": "gold-medals-needed-gold-rush", "value": 70, "sources": ["ppx"], "note": "Gold Rush trophy: 70 story-mission gold medals; there are 34 spare." },
+    { "key": "story-missions-game", "value": 104, "sources": ["gtab"], "note": "DISPUTED: 100% checklist counts 104 story missions, GTABase mission list counts 110 incl. 19 optional honour missions and 1 special-edition mission. Do not enforce; see disputes." }
+  ],
+  "missions": [
+    {
+      "id": "mission-outlaws-from-the-west",
+      "name": "Outlaws from the West",
+      "spoilerFreeTitle": "Snowbound ranch raid",
+      "chapter": "1", "orderInChapter": 1, "type": "story",
+      "giver": "Dutch (story start)", "startLocation": "Colter camp, Grizzlies (blizzard)",
+      "goldRequirements": [
+        "Take no damage during the shootout",
+        "Loot 6 or more items from Adler Ranch",
+        "Complete with at least 80% accuracy"
+      ],
+      "goldTips": [
+        "Fight from cover and pop out only to fire; six enemies total, including one in an upstairs window and one coming from the outhouse.",
+        "Search cupboards, nightstands, drawers and the loft for loot before leaving the ranch.",
+        "Make a manual save before the mission so you can retry; all objectives must be done in one run."
+      ],
+      "sources": ["ppx", "rdr2org-ch1", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-enter-pursued-by-a-memory",
+      "name": "Enter, Pursued by a Memory",
+      "spoilerFreeTitle": "Mountain search and wolf fight",
+      "chapter": "1", "orderInChapter": 2, "type": "story",
+      "giver": "Abigail / gang (automatic after first mission)", "startLocation": "Colter camp",
+      "goldRequirements": [
+        "Kill all the wolves without taking any damage",
+        "Complete with at least 80% accuracy"
+      ],
+      "goldTips": [
+        "Wolves come in two waves (a few on foot, more while riding); stay on high rocks and shoot them as they approach.",
+        "Use Dead Eye to keep accuracy high; misses on the move ruin the 80%."
+      ],
+      "sources": ["ppx", "rdr2org-ch1", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-aftermath-of-genesis",
+      "name": "The Aftermath of Genesis",
+      "spoilerFreeTitle": "Bow hunting in the snow",
+      "chapter": "1", "orderInChapter": 3, "type": "story",
+      "giver": "Pearson (camp food supply) / hunt with Charles", "startLocation": "Colter camp",
+      "goldRequirements": [
+        "Kill each deer with one arrow",
+        "Do not spook either deer",
+        "Get a clean kill on the second deer"
+      ],
+      "goldTips": [
+        "Crouch and approach slowly; check wind direction with Eagle Eye so the deer do not smell you.",
+        "Use Dead Eye and aim at the head/heart so each arrow is a one-shot, clean kill."
+      ],
+      "sources": ["ppx", "rdr2org-ch1", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-old-friends",
+      "name": "Old Friends",
+      "spoilerFreeTitle": "Assault on a rival homestead",
+      "chapter": "1", "orderInChapter": 4, "type": "story",
+      "giver": "Dutch / Bill", "startLocation": "Colter camp",
+      "goldRequirements": [
+        "Catch and hogtie Kieran within 45 seconds",
+        "Kill 3 O'Driscolls in the same Dead Eye use",
+        "Complete within 15 minutes 30 seconds",
+        "Get 15 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Equip the lasso and sprint immediately when the chase begins.",
+        "Play aggressively rather than stealthily to save time; use Dead Eye on groups to get the triple kill and headshots.",
+        "Dead Eye restoratives are allowed; only health items are forbidden."
+      ],
+      "sources": ["ppx", "rdr2org-ch1", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-who-the-hell-is-leviticus-cornwall",
+      "name": "Who the Hell is Leviticus Cornwall?",
+      "spoilerFreeTitle": "Train robbery in the mountains",
+      "chapter": "1", "orderInChapter": 5, "type": "story",
+      "giver": "Dutch / Micah", "startLocation": "Colter camp",
+      "goldRequirements": [
+        "Save Lenny when he is hanging from the train",
+        "After stopping the train, take out the guards within 1 minute 30 seconds",
+        "Take no damage during the shootout",
+        "Get 10 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Stay in cover and use Dead Eye constantly for the headshots and the timed guard fight.",
+        "Prioritise guards who climb or flank to avoid taking damage."
+      ],
+      "missableNotes": [
+        "Documents 'Mining Company Letter to Cornwall' and 'Oil Company Letter to Cornwall' must be picked up during this mission (single source: cb)."
+      ],
+      "sources": ["ppx", "rdr2org-ch1", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-eastward-bound",
+      "name": "Eastward Bound",
+      "spoilerFreeTitle": "Wagon ride out of the mountains",
+      "chapter": "1", "orderInChapter": 6, "type": "story",
+      "giver": "Gang (camp relocation)", "startLocation": "Colter camp",
+      "goldRequirements": [
+        "Pick up Javier when entering Horseshoe Overlook",
+        "Complete within 6 minutes"
+      ],
+      "goldTips": [
+        "Fix the wagon wheel quickly, skip cutscenes and keep the wagon/horse at speed the whole way."
+      ],
+      "missableNotes": [
+        "Chapter 1 ends; Colter camp is left behind. Chapter 1 has no other known missables beyond the Cornwall documents."
+      ],
+      "pointOfNoReturn": true,
+      "sources": ["ppx", "rdr2org-ch1", "htr", "gh"], "confidence": "confirmed"
+    },
+
+    {
+      "id": "mission-polite-society-valentine-style",
+      "name": "Polite Society, Valentine Style",
+      "spoilerFreeTitle": "First trip into town",
+      "chapter": "2", "orderInChapter": 1, "type": "story",
+      "giver": "Opens Chapter 2", "startLocation": "Horseshoe Overlook camp, ride to Valentine",
+      "goldRequirements": [
+        "Return the lost wagon horse to its owner",
+        "Find Karen within 45 seconds"
+      ],
+      "goldTips": [
+        "Help the stranded wagon owner by bringing back the loose horse when the prompt appears.",
+        "When the girls need finding, move straight to the objective (alley, then hotel) without detours."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-americans-at-rest",
+      "name": "Americans at Rest",
+      "spoilerFreeTitle": "Saloon night and brawl",
+      "chapter": "2", "orderInChapter": 2, "type": "story",
+      "giver": "Javier", "startLocation": "Smithfield's Saloon, Valentine",
+      "goldRequirements": [
+        "Save Javier within 15 seconds",
+        "Defeat Tommy within 1 minute 30 seconds"
+      ],
+      "goldTips": [
+        "React immediately when Javier is held up.",
+        "In the fistfight, block and counter-attack rather than trading blows."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-exit-pursued-by-a-bruised-ego",
+      "name": "Exit Pursued by a Bruised Ego",
+      "spoilerFreeTitle": "Hunting trip with Hosea",
+      "chapter": "2", "orderInChapter": 3, "type": "story",
+      "giver": "Hosea", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "Track the bear within 1 minute 30 seconds",
+        "Shoot the bear at least 6 times",
+        "Complete within 12 minutes"
+      ],
+      "goldTips": [
+        "Skip cutscenes and do the crafting/cooking steps quickly.",
+        "Use Dead Eye on the bear to land the 6 hits before it goes down."
+      ],
+      "sources": ["ppx", "htr", "gh", "rdr2org-ch2"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-paying-a-social-call",
+      "name": "Paying a Social Call",
+      "spoilerFreeTitle": "Raid on a rival hideout",
+      "chapter": "2", "orderInChapter": 4, "type": "story",
+      "giver": "Kieran / Dutch", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "Silently kill 4 O'Driscolls",
+        "Get 12 headshots",
+        "Complete with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Use the bow, throwing knives or melee takedowns for the silent kills before the shooting starts.",
+        "Use Dead Eye liberally for headshots and accuracy."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-quiet-time",
+      "name": "A Quiet Time",
+      "spoilerFreeTitle": "Night out drinking in town",
+      "chapter": "2", "orderInChapter": 5, "type": "story",
+      "giver": "Lenny / Dutch", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "Try to make amends with an old rival",
+        "Catch Lenny in the act",
+        "Don't get arrested"
+      ],
+      "goldTips": [
+        "During the drinking section, seek out Tommy in the saloon and interact with him repeatedly.",
+        "At the end, flee the lawmen and leave Valentine instead of fighting them."
+      ],
+      "sources": ["ppx", "htr", "rdr2org-ch2"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-who-is-not-without-sin",
+      "name": "Who is Not without Sin",
+      "spoilerFreeTitle": "Poker and a reverend rescue",
+      "chapter": "2", "orderInChapter": 6, "type": "story",
+      "giver": "Reverend Swanson", "startLocation": "Flatneck Station area (per rdr2.org)",
+      "goldRequirements": [
+        "Win 2 hands of Poker",
+        "Return the Reverend to camp within 2 minutes 5 seconds"
+      ],
+      "goldTips": [
+        "Keep playing after the poker tutorial until you have won two hands.",
+        "Carry a Horse Stimulant for the timed ride back to camp."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-spines-of-america",
+      "name": "The Spines of America",
+      "spoilerFreeTitle": "Stealthy house robbery",
+      "chapter": "2", "orderInChapter": 7, "type": "story",
+      "giver": "Hosea", "startLocation": "Emerald Ranch",
+      "goldRequirements": [
+        "Loot everything from Carmody Dell",
+        "Don't get spotted",
+        "Deliver the wagon to Emerald Ranch within 1 minute 10 seconds"
+      ],
+      "goldTips": [
+        "Go at night; search every drawer, chest and surface in the house.",
+        "On the return, follow the marked road without stopping."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-money-lending-and-other-sins-i-ii",
+      "name": "Money Lending and Other Sins - I & II",
+      "spoilerFreeTitle": "Debt collecting for Strauss",
+      "chapter": "2", "orderInChapter": 8, "type": "story",
+      "giver": "Leopold Strauss", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [],
+      "goldTips": ["No gold medal for this mission part; only one debtor needs to be collected to progress."],
+      "missableNotes": [
+        "Optional mission line; only available in Chapter 2 (listed as a Chapter 2 missable by cb and px)."
+      ],
+      "sources": ["rdr2org-ch2", "ppx", "cb"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-money-lending-and-other-sins-iii",
+      "name": "Money Lending and Other Sins - III",
+      "spoilerFreeTitle": "Debt collecting with Hosea",
+      "chapter": "2", "orderInChapter": 9, "type": "story",
+      "giver": "Hosea / Strauss", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "Complete within 2 minutes 10 seconds"
+      ],
+      "goldTips": ["Skip cutscenes and ride hard; this is purely a speed objective."],
+      "missableNotes": ["Chapter 2 only."],
+      "sources": ["ppx", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-blessed-are-the-meek",
+      "name": "Blessed are the Meek?",
+      "spoilerFreeTitle": "Breakout in Strawberry",
+      "chapter": "2", "orderInChapter": 10, "type": "story",
+      "giver": "Dutch (rescue Micah)", "startLocation": "Horseshoe Overlook camp, ride to Strawberry",
+      "goldRequirements": [
+        "While escaping, kill all mounted Lawmen within 55 seconds",
+        "Get 15 headshots",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Use Dead Eye throughout; restore Dead Eye (not health) with items if needed.",
+        "During the horseback escape, headshot the pursuing lawmen quickly in Dead Eye to beat 55 seconds."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-first-shall-be-last",
+      "name": "The First Shall Be Last",
+      "spoilerFreeTitle": "Riverside rescue with Javier",
+      "chapter": "2", "orderInChapter": 11, "type": "story",
+      "giver": "Javier", "startLocation": "Horseshoe Overlook camp, ride north of Blackwater",
+      "goldRequirements": [
+        "Silently kill the Bounty Hunters by the river with Javier",
+        "Shoot the rope to free Sean",
+        "Get 10 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Use throwing knives or stealth takedowns for the two riverside hunters.",
+        "In the firefight, take out the sniper on the water tower first; use Dead Eye for headshots and the rope shot."
+      ],
+      "missableNotes": [
+        "Unlocks Javier's companion activity to rescue Bill (deadline end of Chapter 4 per cb)."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-pouring-forth-oil-i",
+      "name": "Pouring Forth Oil - I",
+      "spoilerFreeTitle": "Oil job briefing",
+      "chapter": "2", "orderInChapter": 12, "type": "story",
+      "giver": "John", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [],
+      "goldTips": ["No gold medal for part I (it is just the conversation that sets up part II)."],
+      "sources": ["ppx"], "confidence": "single-source"
+    },
+    {
+      "id": "mission-pouring-forth-oil-ii",
+      "name": "Pouring Forth Oil - II",
+      "spoilerFreeTitle": "Stealing an oil wagon",
+      "chapter": "2", "orderInChapter": 13, "type": "story",
+      "giver": "John", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "Deliver the wagon to the drop off within 1 minute 45 seconds"
+      ],
+      "goldTips": [
+        "Take the wagon at night, kill pursuers quickly and keep the wagon at full speed on the road."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-fisher-of-men",
+      "name": "A Fisher of Men",
+      "spoilerFreeTitle": "Fishing lesson with Jack",
+      "chapter": "2", "orderInChapter": 14, "type": "story",
+      "giver": "Abigail", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "After arriving at the river, catch a fish within 1 minute 30 seconds",
+        "Complete within 7 minutes 20 seconds"
+      ],
+      "goldTips": [
+        "Skip cutscenes; cast straight away toward splashes in the water. No combat in this mission."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-pouring-forth-oil-iii",
+      "name": "Pouring Forth Oil - III",
+      "spoilerFreeTitle": "Train job preparation",
+      "chapter": "2", "orderInChapter": 15, "type": "story",
+      "goldRequirements": [],
+      "goldTips": ["No separate gold medal listed for part III (PowerPyx lists only II and IV)."],
+      "sources": ["ppx"], "confidence": "single-source"
+    },
+    {
+      "id": "mission-pouring-forth-oil-iv",
+      "name": "Pouring Forth Oil - IV",
+      "spoilerFreeTitle": "Oil company train robbery",
+      "chapter": "2", "orderInChapter": 16, "type": "story",
+      "goldRequirements": [
+        "Kill all the train guards before Sean fires a shot",
+        "Clear the baggage car of loot",
+        "Escape the Law within 1 minute 30 seconds",
+        "Get 10 kills in Dead Eye",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Move fast at the start so the guards are dead before Sean shoots.",
+        "Baggage car loot spots include cabinets behind the left door, a right-hand shelf, a green cabinet, a cabinet above the mail bags and a chest near the back door.",
+        "Change cover when the second guard wave arrives; use Dead Eye for the 10 Dead Eye kills."
+      ],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-we-loved-once-and-true-i-ii",
+      "name": "We Loved Once and True - I & II",
+      "spoilerFreeTitle": "Helping an old flame",
+      "chapter": "2", "orderInChapter": 17, "type": "story",
+      "giver": "Mary Linton (letter in Arthur's tent)", "startLocation": "Valentine area",
+      "goldRequirements": [],
+      "goldTips": ["No gold medal for parts I and II; only part III has objectives."],
+      "missableNotes": ["Optional; Chapter 2 only (cb). Must be done to reach part III."],
+      "sources": ["ppx", "cb"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-we-loved-once-and-true-iii",
+      "name": "We Loved Once and True - III",
+      "spoilerFreeTitle": "Retrieving a lost brother",
+      "chapter": "2", "orderInChapter": 18, "type": "story",
+      "giver": "Mary Linton (letter in Arthur's tent)", "startLocation": "Horseshoe Overlook camp (letter), meet near Valentine",
+      "goldRequirements": [
+        "Peacefully convince the Chelonians to let you take Jamie",
+        "Return Jamie to Mary within 2 minutes"
+      ],
+      "goldTips": [
+        "Do not use violence; per rdr2.org answer the leader's questions with 'Undecided' then 'Purpose', and shoot the gun out of Jamie's hand rather than him.",
+        "Use a Horse Stimulant for the 2-minute ride back to Valentine station."
+      ],
+      "missableNotes": ["Optional; Chapter 2 only (cb)."],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-good-honest-snake-oil",
+      "name": "Good, Honest, Snake Oil",
+      "spoilerFreeTitle": "Bounty on a travelling salesman",
+      "chapter": "2", "orderInChapter": 19, "type": "story",
+      "giver": "Valentine Sheriff (bounty)", "startLocation": "Valentine Sheriff's office",
+      "goldRequirements": [
+        "Stop Benedict Allbright falling off the cliff",
+        "Hogtie Allbright within 1 minute 15 seconds",
+        "Return Allbright to the sheriff within 1 minute 30 seconds"
+      ],
+      "goldTips": [
+        "Allbright does not run at first, so no sneaking is needed; approach and act promptly.",
+        "Use a Horse Stimulant for the timed return."
+      ],
+      "missableNotes": ["Optional honour-style mission (gtab, px)."],
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-sheep-and-the-goats",
+      "name": "The Sheep and the Goats",
+      "spoilerFreeTitle": "Sheep drive and town shootout",
+      "chapter": "2", "orderInChapter": 20, "type": "story",
+      "giver": "John", "startLocation": "Valentine",
+      "goldRequirements": [
+        "Herd all the sheep in to the pen in Valentine",
+        "Get 25 headshots",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Buy a strong rifle (rdr2.org suggests the Rolling Block) beforehand.",
+        "Stay behind the flock and use the shout to push them; do not fire near the sheep.",
+        "Use Dead Eye liberally in the shootout and watch balconies/rooftops."
+      ],
+      "missableNotes": [
+        "Conservative deadline for Chapter 2 missables (cb): companion activities (Charles hunting, Javier home robbery, Lenny five finger fillet), Chapter-2-only item requests, Money Lending I-III, We Loved Once and True I-III, Pouring Forth Oil II, Charity Handbill and Dutch's Speech Notes documents, antique watch in Wrobel's house."
+      ],
+      "pointOfNoReturn": true,
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-an-american-pastoral-scene",
+      "name": "An American Pastoral Scene",
+      "spoilerFreeTitle": "Wagon ambush on the plains",
+      "chapter": "2", "orderInChapter": 21, "type": "story",
+      "goldRequirements": [
+        "Headshot each of the mounted guards protecting the wagon",
+        "Get 10 kills in Dead Eye",
+        "Complete within 6 minutes",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Use Dead Eye for every mounted guard; skip cutscenes to stay under 6 minutes."],
+      "sources": ["ppx", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-strange-kindness",
+      "name": "A Strange Kindness",
+      "spoilerFreeTitle": "Rescuing a kidnapped man",
+      "chapter": "2", "orderInChapter": 22, "type": "story",
+      "giver": "Dutch", "startLocation": "Horseshoe Overlook camp",
+      "goldRequirements": [
+        "Return the captive to his family within 1 minute 40 seconds",
+        "Get 5 headshots",
+        "Complete with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Spot riders from range and use Dead Eye for clean headshots.",
+        "Ride straight back with a Horse Stimulant ready."
+      ],
+      "missableNotes": [
+        "Final Chapter 2 mission; the gang then moves camp to Clemens Point and Chapter 2 camp content ends."
+      ],
+      "pointOfNoReturn": true,
+      "sources": ["ppx", "rdr2org-ch2", "htr", "gh"], "confidence": "confirmed"
+    },
+
+    {
+      "id": "mission-the-new-south",
+      "name": "The New South",
+      "spoilerFreeTitle": "Chasing a fugitive onto a train",
+      "chapter": "3", "orderInChapter": 1, "type": "story",
+      "giver": "Dutch", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Knock out Anders Anderson without taking a hit",
+        "Catch and return Anders Anderson to jail within 5 minutes 30 seconds",
+        "Catch a fish with Dutch and Hosea"
+      ],
+      "goldTips": [
+        "Board the train fast; block and counter in the fight so you take no hits.",
+        "Ride directly to the Rhodes sheriff; afterwards land a fish during the fishing scene."
+      ],
+      "sources": ["ppx", "htr", "gh", "rdr2org-ch3"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-further-questions-of-female-suffrage",
+      "name": "Further Questions of Female Suffrage",
+      "spoilerFreeTitle": "Wagon ride and raider ambush",
+      "chapter": "3", "orderInChapter": 2, "type": "story",
+      "giver": "Pearson", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Fend off the Lemoyne Raiders in less than 1 minute",
+        "Get 5 headshots",
+        "Complete with at least 85% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Use Dead Eye for fast headshots from the wagon, then cover when raiders dismount."],
+      "sources": ["ppx", "rdr2org-ch3", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-american-distillation",
+      "name": "American Distillation",
+      "spoilerFreeTitle": "Moonshine camp raid",
+      "chapter": "3", "orderInChapter": 3, "type": "story",
+      "giver": "Dutch", "startLocation": "Rhodes sheriff's office (per rdr2.org)",
+      "goldRequirements": [
+        "Win the race back to camp",
+        "Complete the mission without taking any damage",
+        "Get 10 headshots",
+        "Complete with at least 70% accuracy"
+      ],
+      "goldTips": [
+        "Use cover and Dead Eye so you take zero damage.",
+        "Keep horse stamina up for the race."
+      ],
+      "sources": ["ppx", "rdr2org-ch3", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-an-honest-mistake",
+      "name": "An Honest Mistake",
+      "spoilerFreeTitle": "Farm chase with Uncle",
+      "chapter": "3", "orderInChapter": 4, "type": "story",
+      "giver": "Molly (per rdr2.org)", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Save Uncle when he is overpowered",
+        "Get 20 headshots",
+        "Complete with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Use Dead Eye frequently in the chase and barn fight; a scoped rifle helps with headshots."],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-course-of-true-love-i",
+      "name": "The Course of True Love - I",
+      "spoilerFreeTitle": "Meeting a young suitor",
+      "chapter": "3", "orderInChapter": 5, "type": "story",
+      "giver": "Beau Gray", "startLocation": "Caliga Hall area",
+      "goldRequirements": [],
+      "goldTips": ["No gold medal for part I (PowerPyx lists only II and III)."],
+      "missableNotes": ["Optional; Chapter 3 only. Deadline disputed (see disputes)."],
+      "sources": ["ppx", "cb", "gr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-course-of-true-love-ii",
+      "name": "The Course of True Love - II",
+      "spoilerFreeTitle": "Sneaking a message to a lover",
+      "chapter": "3", "orderInChapter": 6, "type": "story",
+      "giver": "Beau Gray", "startLocation": "Caliga Hall area",
+      "goldRequirements": [
+        "Reach Penelope without getting spotted",
+        "Complete within 3 minutes"
+      ],
+      "goldTips": [
+        "Considered one of the hardest golds: skip cutscenes, stay mounted, cut across fields and watch enemy vision cones on the minimap."
+      ],
+      "missableNotes": ["Optional; Chapter 3 only."],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-course-of-true-love-iii",
+      "name": "The Course of True Love - III",
+      "spoilerFreeTitle": "Escorting a rally to town",
+      "chapter": "3", "orderInChapter": 7, "type": "story",
+      "giver": "Beau Gray", "startLocation": "Caliga Hall area",
+      "goldRequirements": [
+        "Complete within 4 minutes 15 seconds"
+      ],
+      "goldTips": ["Skip every cutscene and ride fast when mounted."],
+      "missableNotes": ["Optional; Chapter 3 only."],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-money-lending-and-other-sins-iv",
+      "name": "Money Lending and Other Sins - IV",
+      "spoilerFreeTitle": "More debt collecting",
+      "chapter": "3", "orderInChapter": 8, "type": "story",
+      "giver": "Leopold Strauss", "startLocation": "Clemens Point camp",
+      "goldRequirements": [],
+      "goldTips": ["No gold medal. Debtors are in Rhodes and north of Strawberry."],
+      "missableNotes": ["Optional; Chapter 3 only (cb, gr)."],
+      "sources": ["rdr2org-ch3", "cb", "gr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-preaching-forgiveness-as-he-went",
+      "name": "Preaching Forgiveness as He Went",
+      "spoilerFreeTitle": "Long-range fight with Lenny",
+      "chapter": "3", "orderInChapter": 9, "type": "story",
+      "giver": "Lenny", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Kill 10 Lemoyne Raiders with a long scoped rifle",
+        "Complete within 11 minutes 30 seconds",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Skip cutscenes; snipe from range first, then switch weapons as enemies close in."],
+      "sources": ["ppx", "rdr2org-ch3", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-sodom-back-to-gomorrah",
+      "name": "Sodom? Back to Gomorrah",
+      "spoilerFreeTitle": "Bank robbery and horseback escape",
+      "chapter": "3", "orderInChapter": 10, "type": "story",
+      "giver": "Bill", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Loot all the safes",
+        "Headshot 5 mounted Lawmen during the horseback escape",
+        "Get to Downes Ranch within 1 minute 55 seconds",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Crack every safe (turn the stick until it vibrates, alternating direction).",
+        "Use Dead Eye for the mounted headshots and a Horse Stimulant for the ride to Downes Ranch."
+      ],
+      "sources": ["ppx", "rdr2org-ch3", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-advertising-the-new-american-art-i",
+      "name": "Advertising, the New American Art - I",
+      "spoilerFreeTitle": "Meeting a photographer",
+      "chapter": "3", "orderInChapter": 11, "type": "story",
+      "giver": "Abigail", "startLocation": "Clemens Point camp",
+      "goldRequirements": [],
+      "goldTips": ["No gold medal for part I (PowerPyx lists only part II)."],
+      "sources": ["ppx"], "confidence": "single-source"
+    },
+    {
+      "id": "mission-advertising-the-new-american-art-ii",
+      "name": "Advertising, the New American Art - II",
+      "spoilerFreeTitle": "Saloon standoff for a photographer",
+      "chapter": "3", "orderInChapter": 12, "type": "story",
+      "giver": "Abigail", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Headshot 5 Lemoyne Raiders in the saloon",
+        "Complete with at least 90% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Few enemies; stay in Dead Eye for every shot to protect the 90% accuracy."],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-magicians-for-sport",
+      "name": "Magicians for Sport",
+      "spoilerFreeTitle": "Tracking a missing friend",
+      "chapter": "3", "orderInChapter": 13, "type": "story",
+      "giver": "Dutch (per rdr2.org)", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Inspect all the clues in Trelawny's Caravan",
+        "While tracking, stay within 30 feet of the Trelawny's trail",
+        "Kill 2 Bounty Hunters in the cornfields within 1 minute",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Examine every highlighted clue in the caravan before leaving.",
+        "Watch for birds flying up to locate hunters in the corn, or snipe from the nearby hill."
+      ],
+      "missableNotes": [
+        "Loot the Rare Rolling Block Rifle from the bounty hunter sniper during this mission or it is lost (cb, gr, px).",
+        "Mine Share document in Trelawny's caravan is only obtainable in this mission (cb, gr)."
+      ],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-horse-flesh-for-dinner",
+      "name": "Horse Flesh for Dinner",
+      "spoilerFreeTitle": "Horse theft with John",
+      "chapter": "3", "orderInChapter": 14, "type": "story",
+      "giver": "Tavish Gray (per rdr2.org)", "startLocation": "Caliga Hall area",
+      "goldRequirements": [
+        "Kill the stable hand showing you the horses",
+        "Catch the stallion within 10 seconds",
+        "Get 5 headshots"
+      ],
+      "goldTips": [
+        "A quiet takedown on the stable hand avoids drawing attention.",
+        "Have the lasso ready and act at once when the stallion bolts; Dead Eye makes the headshots easy."
+      ],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-friends-in-very-low-places",
+      "name": "Friends in Very Low Places",
+      "spoilerFreeTitle": "Quiet coach robbery",
+      "chapter": "3", "orderInChapter": 15, "type": "story",
+      "giver": "Josiah Trelawny (per rdr2.org)", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Complete the mission without being spotted",
+        "Complete within 8 minutes 10 seconds"
+      ],
+      "goldTips": ["Skip cutscenes; wait for the driver to step away before opening the lockbox."],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-fine-joys-of-tobacco",
+      "name": "The Fine Joys of Tobacco",
+      "spoilerFreeTitle": "Sabotaging tobacco fields",
+      "chapter": "3", "orderInChapter": 16, "type": "story",
+      "giver": "Hosea", "startLocation": "Braithwaite Manor",
+      "goldRequirements": [
+        "Silently kill the Gray Sean distracts in the wagon store",
+        "Douse the fields within 2 minutes 20 seconds",
+        "Kill 5 Grays during the escape",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Choke/knife the distracted man silently and hide the body in the barn.",
+        "Move quickly between fields; use Dead Eye on pursuers during the escape."
+      ],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-blessed-are-the-peacemakers",
+      "name": "Blessed are the Peacemakers",
+      "spoilerFreeTitle": "Escape from a rival camp",
+      "chapter": "3", "orderInChapter": 17, "type": "story",
+      "giver": "Micah (per rdr2.org, gr)", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Free yourself and perform self-surgery within 1 minute",
+        "Recover your weapons from the O'Driscoll's camp",
+        "Kill the O'Driscoll gang members that beat and shot you",
+        "Escape the O'Driscoll's camp without being spotted"
+      ],
+      "goldTips": [
+        "Swing quickly to grab the file, then rotate the stick to treat the wound.",
+        "Use throwing knives/stealth on guards; collect weapons from the marked spots before leaving."
+      ],
+      "missableNotes": [
+        "Game Rant: do the Sean + Mary-Beth coach robbery companion activity before starting this mission."
+      ],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-short-walk-in-a-pretty-town",
+      "name": "A Short Walk in a Pretty Town",
+      "spoilerFreeTitle": "Town gunfight with sidearms",
+      "chapter": "3", "orderInChapter": 18, "type": "story",
+      "giver": "Dutch / Bill (rdr2.org lists Bill, Rhodes)", "startLocation": "Clemens Point camp / Rhodes",
+      "goldRequirements": [
+        "Kill 3 Lawmen in Dead Eye while saving Bill",
+        "Complete using only sidearms",
+        "Complete within 4 minutes 30 seconds",
+        "Get 20 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Equip good revolvers/pistols beforehand, never switch to a long arm, and use Dead Eye constantly."],
+      "missableNotes": ["Game Rant says The Course of True Love I-III must be finished before this mission (see disputes)."],
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-blood-feuds-ancient-and-modern",
+      "name": "Blood Feuds, Ancient and Modern",
+      "spoilerFreeTitle": "Assault on a plantation manor",
+      "chapter": "3", "orderInChapter": 19, "type": "story",
+      "giver": "Dutch", "startLocation": "Clemens Point camp",
+      "goldRequirements": [
+        "Headshot Gareth and Gerald Braithwaite",
+        "Get 20 headshots",
+        "Complete with at least 85% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": ["Stay in cover and fire only in Dead Eye for accuracy."],
+      "missableNotes": [
+        "Gold Shield valuable and Letter to Angelo Bronte document are only obtainable during this mission (upstairs room at Braithwaite Manor; cb, gr).",
+        "Game Rant also lists a Braithwaite Brooch looted in connection with this mission.",
+        "This is the deadline (cb) for Chapter 3 companion activities (Bill/Sean coach robberies, Sean home robbery, Javier and Kieran fishing, Micah five finger fillet, Tilly dominoes), Chapter-3-only item requests (Hosea ginseng, Kieran burdock root, Molly pocket mirror, Tilly necklace), Money Lending IV and The Course of True Love I-III.",
+        "It leads straight into the chapter finale."
+      ],
+      "pointOfNoReturn": true,
+      "sources": ["ppx", "rdr2org-ch3", "htr"], "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-battle-of-shady-belle",
+      "name": "The Battle of Shady Belle",
+      "spoilerFreeTitle": "Clearing a plantation house",
+      "chapter": "3", "orderInChapter": 20, "type": "story",
+      "giver": "Dutch (follows directly)", "startLocation": "Shady Belle, Lemoyne",
+      "goldRequirements": [
+        "Kill all the Lemoyne Raiders in Shady Belle",
+        "Clear two bodies from Shady Belle within 1 minute 40 seconds",
+        "Complete within 11 minutes"
+      ],
+      "goldTips": ["Skip cutscenes and use a shotgun for fast room clearing; carry the bodies out immediately."],
+      "missableNotes": ["Final Chapter 3 mission; camp moves and Chapter 4 (Saint Denis area) begins."],
+      "pointOfNoReturn": true,
+      "sources": ["ppx", "rdr2org-ch3", "htr", "gh"], "confidence": "confirmed"
+    }
+  ],
+  "missables": [
+    {
+      "id": "missable-ch1-cornwall-letters",
+      "what": "Mining Company Letter to Cornwall and Oil Company Letter to Cornwall (documents)",
+      "deadline": "During 'Who the Hell is Leviticus Cornwall?' (Chapter 1)",
+      "recommendedTiming": "Search the train cars during the mission.",
+      "why": "Mission-only documents (collection/compendium completeness).",
+      "howTo": ["Loot the documents inside the train during the robbery before leaving."],
+      "sources": ["cb"], "confidence": "single-source"
+    },
+    {
+      "id": "missable-ch2-companion-activities",
+      "what": "Chapter 2 companion activities: Charles hunting, Javier home robbery, Lenny five finger fillet",
+      "deadline": "Before starting 'The Sheep and the Goats' (conservative; chapter ends after 'A Strange Kindness')",
+      "recommendedTiming": "Mid Chapter 2 while free-roaming between story missions; check camp regularly.",
+      "why": "Companion-activity trophy tracking; these are tied to the Horseshoe Overlook camp.",
+      "howTo": ["Return to camp in daytime and look for the companion-activity prompt when talking to these characters."],
+      "sources": ["cb", "px"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch2-item-requests",
+      "what": "Chapter-2-only camp item requests (e.g. Abigail $5, Jack comic book and thimble, Javier oleander sage, Mary-Beth fountain pen, Sean Kentucky bourbon, Pearson unskinned rabbit)",
+      "deadline": "Before starting 'The Sheep and the Goats' (conservative)",
+      "recommendedTiming": "Deliver as soon as each request appears in Chapter 2.",
+      "why": "Item requests count toward the item-request trophy; several are limited to Chapter 2 (others run through Chapter 4).",
+      "howTo": ["Talk to camp members to trigger requests, gather the item, and hand it over in camp."],
+      "sources": ["cb", "px"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch2-optional-missions",
+      "what": "Optional Chapter 2 mission lines: Money Lending and Other Sins I-III, We Loved Once and True I-III, Good, Honest, Snake Oil",
+      "deadline": "End of Chapter 2 (cb lists 'The Sheep and the Goats' as deadline)",
+      "recommendedTiming": "Before the last two or three Chapter 2 missions.",
+      "why": "Story-mission completion and gold medals (MLAOS III, WLOAT III and Snake Oil carry medals).",
+      "howTo": ["Pick up the Strauss/Hosea missions in camp, read Mary's letter in Arthur's tent, and take the bounty from the Valentine sheriff."],
+      "sources": ["cb", "px", "gtab"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch2-documents-valuables",
+      "what": "Charity Handbill (Thomas Downes' table in Valentine), Dutch's Speech Notes (near broken wagon at Horseshoe Overlook), Antique Watch (Wrobel's house drawer)",
+      "deadline": "Before 'The Sheep and the Goats'",
+      "recommendedTiming": "While in Chapter 2 free roam.",
+      "why": "Compendium/document completeness.",
+      "howTo": ["Pick up each item at the listed location during Chapter 2."],
+      "sources": ["cb"], "confidence": "single-source"
+    },
+    {
+      "id": "missable-ch3-companion-activities",
+      "what": "Chapter 3 companion activities: Bill coach robbery, Sean coach robbery, Sean home robbery, Javier fishing, Kieran fishing, Micah five finger fillet, Tilly dominoes",
+      "deadline": "Before 'Blood Feuds, Ancient and Modern' (Sean coach robbery: before 'Blessed are the Peacemakers' per gr)",
+      "recommendedTiming": "Early-mid Chapter 3, before the Peacemakers mission.",
+      "why": "Companion-activity trophy tracking; tied to Clemens Point camp.",
+      "howTo": ["Talk to these characters in camp and accept their activity invitations."],
+      "sources": ["cb", "gr", "px"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch3-item-requests",
+      "what": "Chapter-3-only item requests: Hosea 2x American Ginseng, Kieran 2x Burdock Root, Molly Pocket Mirror, Tilly Necklace",
+      "deadline": "Before 'Blood Feuds, Ancient and Modern'",
+      "recommendedTiming": "As soon as requested in Chapter 3.",
+      "why": "Item-request trophy tracking.",
+      "howTo": ["Ginseng grows in south Lemoyne; burdock near water; the pocket mirror is at Martha's Swain (per gr)."],
+      "sources": ["cb", "gr"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch3-optional-missions",
+      "what": "Money Lending and Other Sins IV; The Course of True Love I-III",
+      "deadline": "Before 'Blood Feuds, Ancient and Modern' (cb); Game Rant says True Love must be done before 'A Short Walk in a Pretty Town'",
+      "recommendedTiming": "Do them before 'A Short Walk in a Pretty Town' to be safe.",
+      "why": "Story completion; True Love II and III carry gold medals.",
+      "howTo": ["Talk to Strauss in camp; meet Beau Gray near Caliga Hall."],
+      "sources": ["cb", "gr"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch3-magicians-rifle-mine-share",
+      "what": "Rare Rolling Block Rifle and Mine Share document",
+      "deadline": "During 'Magicians for Sport'",
+      "recommendedTiming": "Loot the sniper bounty hunter in the cornfield/barn and search Trelawny's caravan.",
+      "why": "Unique weapon and document not obtainable later.",
+      "howTo": ["Kill the bounty hunter sniper, loot his rifle, and pick up the mine share inside the caravan."],
+      "sources": ["cb", "gr", "px"], "confidence": "confirmed"
+    },
+    {
+      "id": "missable-ch3-braithwaite-items",
+      "what": "Gold Shield valuable and Letter to Angelo Bronte",
+      "deadline": "During 'Blood Feuds, Ancient and Modern'",
+      "recommendedTiming": "Grab them inside Braithwaite Manor during the mission.",
+      "why": "Mission-only valuable/document.",
+      "howTo": ["Search the room with the fireplace upstairs in the manor during the mission."],
+      "sources": ["cb", "gr"], "confidence": "confirmed"
+    }
+  ],
+  "notes": [
+    "All gold-medal objectives for a mission must be achieved in a single run; checkpoint reloads reset counters. Save manually before each story mission on the first playthrough; Replay Mission uses fixed loadouts and is harder. (sources: ppx)",
+    "Only health items are banned by 'no health items' objectives; Dead Eye restoratives are allowed. (sources: rdr2org-ch1, rdr2org-ch2)",
+    "Timed objectives include cutscenes; skip cutscenes to save time. (sources: rdr2org-ch2, rdr2org-ch3)",
+    "Gold Rush needs 70 of 104 story-mission golds, so hard ones (e.g. The Course of True Love II) can be skipped. (sources: ppx)",
+    "Chapters 2 (Horseshoe Overlook) and 3 (Clemens Point) are the open, free-roam heavy chapters: story missions are started from icons at will, and companion activities and item requests belong to that chapter's camp, so return to camp between missions. Chapter 1 is linear. (sources: px, cb)",
+    "Missions without a gold medal in Ch1-3: Money Lending and Other Sins I & II, IV; We Loved Once and True I & II; Pouring Forth Oil I & III; The Course of True Love I; Advertising, the New American Art I. rdr2.org confirms no medal for Money Lending; the others are inferred from PowerPyx listing only the other parts. (sources: ppx, rdr2org-ch2, rdr2org-ch3)",
+    "No Chapter-2-only legendary animal was found in the sources checked; the Chapter 2 missables are camp activities, item requests, optional mission lines and documents. (sources: cb, px)"
+  ],
+  "disputes": [
+    {
+      "topic": "Mission order within Chapters 2 and 3",
+      "details": "Chapters 2 and 3 are non-linear; guides list missions in different orders.",
+      "positions": [
+        { "claim": "PowerPyx order (used here): Polite Society, Americans at Rest, Exit Pursued, Paying a Social Call, A Quiet Time, Who is Not without Sin, Spines of America, Money Lending, Blessed are the Meek?, First Shall Be Last, Pouring Forth Oil, ... A Strange Kindness last.", "sources": ["ppx", "ppx-walk"] },
+        { "claim": "Other guides use orders such as Who is Not without Sin third, or The New South before Further Questions of Female Suffrage in Chapter 3.", "sources": ["htr", "gtab", "gp"] }
+      ],
+      "suggestedHandling": "Show order as a recommendation. Only fixed points: Polite Society first; The Sheep and the Goats, then A Strange Kindness, end Chapter 2; Blood Feuds, then The Battle of Shady Belle, end Chapter 3."
+    },
+    {
+      "topic": "Accuracy percentages in some medal requirements",
+      "details": "GamesHedge gives 75% instead of 70% (Blessed are the Meek?, The Sheep and the Goats, American Distillation, Preaching Forgiveness, Sodom? Back to Gomorrah) and 80% instead of 85% (Further Questions of Female Suffrage, Blood Feuds).",
+      "positions": [
+        { "claim": "70% / 85% values", "sources": ["ppx", "htr", "rdr2org-ch2", "rdr2org-ch3"] },
+        { "claim": "75% / 80% values", "sources": ["gh"] }
+      ],
+      "suggestedHandling": "Use the PowerPyx values (70% / 85%), which three sources back. Tell players to aim above 85% anyway."
+    },
+    {
+      "topic": "Which mission parts have gold medals / total gold-medal missions",
+      "details": "GTABase marks grouped entries (Money Lending I & II, Pouring Forth Oil I & II, etc.) as having gold objectives and says 105 missions have gold medals. rdr2.org says Money Lending has no gold medal, and PowerPyx counts 104.",
+      "positions": [
+        { "claim": "104 gold-medal missions; Money Lending I/II/IV and the first parts of multi-part missions have no medal", "sources": ["ppx", "rdr2org-ch2", "rdr2org-ch3"] },
+        { "claim": "105 missions with gold objectives", "sources": ["gtab"] }
+      ],
+      "suggestedHandling": "Use 104 and mark the listed parts as 'no medal'. The gold count needed for the trophy is 70 either way."
+    },
+    {
+      "topic": "Total story missions in game and per-chapter counts",
+      "details": "Guides count multi-part missions differently.",
+      "positions": [
+        { "claim": "104 story missions for 100% (and Ch2 = 18, Ch3 = 17 medal missions)", "sources": ["ppx", "htr"] },
+        { "claim": "110 story missions incl. 19 optional honour missions; Ch2 = 19 and Ch3 = 18 entries (grouped)", "sources": ["gtab"] },
+        { "claim": "Grouped quest list: Ch2 = 16, Ch3 = 16", "sources": ["gp"] },
+        { "claim": "Chapter 3 has 18 story missions", "sources": ["rdr2org-ch3"] }
+      ],
+      "suggestedHandling": "Enforce only the gold-medal counts (6 / 18 / 17 = 41 for Ch1-3). Present the story-mission total as 'about 104 (counting varies)'."
+    },
+    {
+      "topic": "Exit Pursued by a Bruised Ego objectives",
+      "details": "rdr2.org lists only the 12-minute and 6-shots objectives.",
+      "positions": [
+        { "claim": "Three objectives incl. 'Track the bear within 1:30'", "sources": ["ppx", "htr", "gh"] },
+        { "claim": "Two objectives", "sources": ["rdr2org-ch2"] }
+      ],
+      "suggestedHandling": "Show all three objectives."
+    },
+    {
+      "topic": "Wording of A Quiet Time objectives",
+      "details": "rdr2.org paraphrases 'make amends' as interacting with Tommy several times in the saloon.",
+      "positions": [
+        { "claim": "Make amends with an old rival; catch Lenny in the act; don't get arrested", "sources": ["ppx", "htr"] },
+        { "claim": "Interact with Tommy four times; avoid arrest", "sources": ["rdr2org-ch2"] }
+      ],
+      "suggestedHandling": "Use the PowerPyx wording, and add the Tommy tip as how to do it."
+    },
+    {
+      "topic": "Deadlines for Chapter 2 and 3 missables",
+      "details": "Sources give different cut-off missions.",
+      "positions": [
+        { "claim": "Ch2 deadline 'The Sheep and the Goats'; Ch3 deadline 'Blood Feuds, Ancient and Modern' for companion activities, requests, Money Lending IV and True Love", "sources": ["cb"] },
+        { "claim": "The Course of True Love before 'A Short Walk in a Pretty Town'; Sean coach robbery before 'Blessed are the Peacemakers'", "sources": ["gr"] },
+        { "claim": "Before the chapter's final group of missions", "sources": ["px"] }
+      ],
+      "suggestedHandling": "Use the earliest deadline: finish Ch2 extras before The Sheep and the Goats, and Ch3 extras before Blessed are the Peacemakers."
+    },
+    {
+      "topic": "Mission givers / start locations",
+      "details": "Most givers and start locations come only from rdr2.org summaries. Some (e.g. Horse Flesh for Dinner: Tavish Gray; American Distillation: Rhodes sheriff's office; Who is Not without Sin: Flatneck Station) were not cross-checked.",
+      "positions": [
+        { "claim": "Givers as recorded", "sources": ["rdr2org-ch1", "rdr2org-ch2", "rdr2org-ch3"] }
+      ],
+      "suggestedHandling": "Show the mission icon's chapter camp as the default start. Treat named givers as secondary info."
+    },
+    {
+      "topic": "Pouring Forth Oil II listed as missable",
+      "details": "Codeberg lists Pouring Forth Oil II among Chapter 2 missable missions, but PowerPyx says The Sheep and the Goats unlocks after Pouring Forth Oil IV, which suggests the chain is required.",
+      "positions": [
+        { "claim": "Pouring Forth Oil II is missable", "sources": ["cb"] },
+        { "claim": "The Pouring Forth Oil chain leads into the chapter finale (GTABase marks only I & II as optional)", "sources": ["ppx", "gtab"] }
+      ],
+      "suggestedHandling": "Tell players to finish all Pouring Forth Oil parts in Chapter 2."
+    }
+  ]
+}

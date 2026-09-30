@@ -1,0 +1,4217 @@
+{
+ "area": "collectibles",
+ "generatedAt": "2026-10-01",
+ "sources": [
+  {
+   "id": "ppx-trophy",
+   "title": "PowerPyx - Red Dead Redemption 2 Trophy Guide & Roadmap",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/"
+  },
+  {
+   "id": "ppx-100",
+   "title": "PowerPyx - RDR2 100% Guide & Checklist",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-100-guide-checklist/"
+  },
+  {
+   "id": "ppx-cards",
+   "title": "PowerPyx - RDR2 All Cigarette Card Locations",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-all-cigarette-card-locations/"
+  },
+  {
+   "id": "ppx-bones",
+   "title": "PowerPyx - RDR2 All Dinosaur Bones Locations",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-all-dinosaur-bones-locations/"
+  },
+  {
+   "id": "ppx-dc",
+   "title": "PowerPyx - RDR2 All Dreamcatchers Locations",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-all-dreamcatchers-locations/"
+  },
+  {
+   "id": "ppx-rc",
+   "title": "PowerPyx - RDR2 All Rock Carving Locations",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-all-rock-carving-locations/"
+  },
+  {
+   "id": "ppx-exotics",
+   "title": "PowerPyx - RDR2 All Exotics Locations",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-all-exotics-locations/"
+  },
+  {
+   "id": "ppx-duchesses",
+   "title": "PowerPyx - Duchesses and other Animals Walkthrough",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-duchesses-and-other-animals-walkthrough/"
+  },
+  {
+   "id": "ppx-strangers",
+   "title": "PowerPyx - RDR2 Stranger Missions Walkthrough (list)",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-stranger-missions-walkthrough/"
+  },
+  {
+   "id": "ppx-treasure",
+   "title": "PowerPyx - RDR2 Treasure Map Locations & Solutions",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-treasure-map-locations-solutions/"
+  },
+  {
+   "id": "ppx-gang",
+   "title": "PowerPyx - RDR2 All Gang Hideout Locations",
+   "url": "https://www.powerpyx.com/red-dead-redemption-2-all-gang-hideout-locations/"
+  },
+  {
+   "id": "wiki-100",
+   "title": "Red Dead Wiki (Fandom) - 100% Completion (RDR2)",
+   "url": "https://reddead.fandom.com/wiki/100%25_Completion_(RDR2)"
+  },
+  {
+   "id": "wiki-cards",
+   "title": "Red Dead Wiki (Fandom) - Cigarette Cards + the 12 '<Set> Card Set' pages + 'Smoking and other Hobbies'",
+   "url": "https://reddead.fandom.com/wiki/Cigarette_Cards"
+  },
+  {
+   "id": "wiki-bones",
+   "title": "Red Dead Wiki (Fandom) - Dinosaur Bones / A Test of Faith",
+   "url": "https://reddead.fandom.com/wiki/Dinosaur_Bones"
+  },
+  {
+   "id": "wiki-dc",
+   "title": "Red Dead Wiki (Fandom) - Dreamcatchers",
+   "url": "https://reddead.fandom.com/wiki/Dreamcatchers"
+  },
+  {
+   "id": "wiki-rc",
+   "title": "Red Dead Wiki (Fandom) - Rock Carvings / Geology for Beginners / Francis Sinclair",
+   "url": "https://reddead.fandom.com/wiki/Rock_Carvings"
+  },
+  {
+   "id": "wiki-duchesses",
+   "title": "Red Dead Wiki (Fandom) - Duchesses and other Animals",
+   "url": "https://reddead.fandom.com/wiki/Duchesses_and_other_Animals"
+  },
+  {
+   "id": "wiki-strangers",
+   "title": "Red Dead Wiki (Fandom) - Strangers",
+   "url": "https://reddead.fandom.com/wiki/Strangers"
+  },
+  {
+   "id": "wiki-trophies",
+   "title": "Red Dead Wiki (Fandom) - Trophies/Achievements in Redemption 2",
+   "url": "https://reddead.fandom.com/wiki/Trophies/Achievements_in_Redemption_2"
+  },
+  {
+   "id": "wiki-betterworld",
+   "title": "Red Dead Wiki (Fandom) - A Better World, A New Friend",
+   "url": "https://reddead.fandom.com/wiki/A_Better_World,_A_New_Friend"
+  },
+  {
+   "id": "wiki-treasure",
+   "title": "Red Dead Wiki (Fandom) - Treasure Map, All That Glitters, High Stakes / Poisonous Trail / Landmarks of Riches / Elemental Trail map pages",
+   "url": "https://reddead.fandom.com/wiki/Treasure_Map"
+  },
+  {
+   "id": "wiki-explorer",
+   "title": "Red Dead Wiki (Fandom) - Explorer Challenges",
+   "url": "https://reddead.fandom.com/wiki/Explorer_Challenges"
+  },
+  {
+   "id": "r2o-cards",
+   "title": "RDR2.org - All Cigarette Cards Location Guide (pages 1-3)",
+   "url": "https://www.rdr2.org/guides/red-dead-redemption-2-all-cigarette-cards-location-guide/"
+  },
+  {
+   "id": "r2o-100",
+   "title": "RDR2.org - 100% Completion Guide",
+   "url": "https://www.rdr2.org/guides/red-dead-redemption-2-100-completion-guide/"
+  },
+  {
+   "id": "gr-bones",
+   "title": "GamesRadar+ - RDR2 Dinosaur Bones locations",
+   "url": "https://www.gamesradar.com/red-dead-redemption-2-dinosaur-bones-locations/"
+  },
+  {
+   "id": "gr-dc",
+   "title": "GamesRadar+ - RDR2 Dreamcatchers guide",
+   "url": "https://www.gamesradar.com/red-dead-redemption-2-dreamcatchers-guide/"
+  },
+  {
+   "id": "tt-ws",
+   "title": "TrueTrophies - Western Stranger trophy guide",
+   "url": "https://www.truetrophies.com/t234791/western-stranger-trophy"
+  }
+ ],
+ "knownTotals": [
+  {
+   "key": "cigarette-card-sets",
+   "value": 12,
+   "sources": [
+    "wiki-cards",
+    "r2o-cards",
+    "ppx-cards"
+   ]
+  },
+  {
+   "key": "cigarette-cards",
+   "value": 144,
+   "sources": [
+    "wiki-cards",
+    "r2o-cards",
+    "ppx-cards"
+   ],
+   "note": "12 per set; 100% only needs ONE complete set; Collector's Item via cards needs all 144 mailed"
+  },
+  {
+   "key": "cigarette-cards-per-set",
+   "value": 12,
+   "sources": [
+    "wiki-cards",
+    "r2o-cards",
+    "ppx-cards"
+   ]
+  },
+  {
+   "key": "dinosaur-bones",
+   "value": 30,
+   "sources": [
+    "wiki-bones",
+    "ppx-bones",
+    "gr-bones"
+   ],
+   "note": "8 in New Austin (Epilogue only); 5 Ambarino, 2 Lemoyne, 12 New Hanover, 3 West Elizabeth"
+  },
+  {
+   "key": "dreamcatchers",
+   "value": 20,
+   "sources": [
+    "wiki-dc",
+    "ppx-dc",
+    "gr-dc"
+   ]
+  },
+  {
+   "key": "rock-carvings",
+   "value": 10,
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ]
+  },
+  {
+   "key": "exotics-requests",
+   "value": 5,
+   "sources": [
+    "wiki-duchesses",
+    "ppx-exotics"
+   ],
+   "note": "19 item lines total (4+3+4+4+4)"
+  },
+  {
+   "key": "stranger-strands-total",
+   "value": 26,
+   "sources": [
+    "ppx-trophy",
+    "tt-ws"
+   ],
+   "note": "PowerPyx count; wiki lists more named strangers incl. Brothers and Sisters, Of Men and Angels, To the Ends of the Earth"
+  },
+  {
+   "key": "stranger-strands-eligible-western-stranger",
+   "value": 22,
+   "sources": [
+    "ppx-trophy",
+    "ppx-strangers",
+    "tt-ws"
+   ]
+  },
+  {
+   "key": "stranger-strands-required-western-stranger",
+   "value": 10,
+   "sources": [
+    "ppx-trophy",
+    "wiki-trophies",
+    "tt-ws"
+   ]
+  },
+  {
+   "key": "stranger-strands-required-100-percent",
+   "value": 10,
+   "sources": [
+    "wiki-100",
+    "ppx-100",
+    "r2o-100"
+   ]
+  },
+  {
+   "key": "collectors-item-eligible-strands",
+   "value": 4,
+   "sources": [
+    "ppx-trophy"
+   ],
+   "note": "cards, bones, rock carvings, exotics"
+  },
+  {
+   "key": "gang-hideouts-required",
+   "value": 6,
+   "sources": [
+    "wiki-100",
+    "ppx-100",
+    "ppx-gang"
+   ],
+   "note": "4 automatic in story + Thieves Landing and Fort Mercer (Epilogue); Twin Rocks is a 7th only in Special/Ultimate editions"
+  },
+  {
+   "key": "treasure-hunt-chains-required-100-percent",
+   "value": 1,
+   "sources": [
+    "wiki-100",
+    "ppx-100"
+   ],
+   "note": "but Explorer challenges (needed for all 90 challenges) need ~3 chains"
+  },
+  {
+   "key": "graves",
+   "value": 9,
+   "sources": [
+    "wiki-100",
+    "ppx-100",
+    "ppx-trophy"
+   ]
+  },
+  {
+   "key": "legendary-fish",
+   "value": 13,
+   "sources": [
+    "ppx-100",
+    "ppx-trophy"
+   ]
+  },
+  {
+   "key": "hunting-requests",
+   "value": 5,
+   "sources": [
+    "wiki-betterworld"
+   ]
+  }
+ ],
+ "trophies": [
+  {
+   "id": "trophy-collectors-item",
+   "name": "Collector's Item",
+   "officialDescription": "Complete one of the Collectable strands.",
+   "grade": "silver",
+   "hidden": false,
+   "online": false,
+   "missable": false,
+   "earnedWhen": "When the Stranger quest behind any ONE collectible strand is fully completed (items mailed and final visit done).",
+   "howTo": [
+    "Pick one strand: Rock Carvings (Geology for Beginners - fastest), Dinosaur Bones (A Test of Faith), Cigarette Cards (Smoking and other Hobbies - all 12 sets mailed), or Exotics (Duchesses and other Animals).",
+    "Collect every item of that strand.",
+    "Mail the locations/sets from any post office, wait the required days, then finish the final meeting with the quest giver."
+   ],
+   "relatedTrackers": [
+    "rock-carvings",
+    "dinosaur-bones",
+    "cigarette-cards",
+    "exotics"
+   ],
+   "tips": [
+    "Only strands tied to a Stranger count; dreamcatchers are not a strand for this trophy (PowerPyx).",
+    "You will need rock carvings, bones and exotics anyway for Best in the West."
+   ],
+   "sources": [
+    "ppx-trophy",
+    "wiki-trophies",
+    "wiki-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "trophy-western-stranger",
+   "name": "Western Stranger",
+   "officialDescription": "Complete 10 Stranger mission strands.",
+   "grade": "bronze",
+   "hidden": false,
+   "online": false,
+   "missable": false,
+   "earnedWhen": "After completing full multi-part stranger strands; can be finished after the story.",
+   "howTo": [
+    "Complete 10 of the 22 eligible strands from first to last part (see notes list).",
+    "Keep going past 10 if it does not pop - PowerPyx reports it can need 12+."
+   ],
+   "relatedTrackers": [
+    "strangers"
+   ],
+   "tips": [
+    "Single-part/optional strands (All That Glitters, Fundraiser, Help a Brother Out, The Widow of Willard's Rest) do not count per PowerPyx."
+   ],
+   "sources": [
+    "ppx-trophy",
+    "ppx-strangers",
+    "tt-ws",
+    "wiki-strangers"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "trophy-best-in-the-west",
+   "name": "Best in the West",
+   "officialDescription": "Attain 100% completion.",
+   "grade": "gold",
+   "hidden": false,
+   "online": false,
+   "missable": false,
+   "earnedWhen": "Post-game clean-up; graves and New Austin items need the Epilogue.",
+   "howTo": [
+    "Collectibles category: 1 point of interest, 9 graves (post-story), 1 full cigarette card set, complete A Test of Faith (30 bones), A Fisher of Fish (13 legendary fish), Duchesses and other Animals (exotics), Geology for Beginners (10 carvings), A Better World, A New Friend (5 hunting requests), 1 treasure hunt chain, all 20 dreamcatchers.",
+    "Missions & events: story, 10 stranger strands, 5 bounties, 25 chance encounters, 1 gang ambush, 6 gang hideouts.",
+    "Compendium, player (all 90 challenges, max cores, bonding 4) and miscellaneous tasks - see other research areas."
+   ],
+   "relatedTrackers": [
+    "cigarette-cards",
+    "dinosaur-bones",
+    "dreamcatchers",
+    "rock-carvings",
+    "exotics",
+    "treasure-hunts",
+    "gang-hideouts",
+    "strangers",
+    "graves",
+    "legendary-fish",
+    "hunting-requests",
+    "challenges"
+   ],
+   "sources": [
+    "wiki-100",
+    "ppx-100",
+    "r2o-100"
+   ],
+   "confidence": "confirmed"
+  }
+ ],
+ "missions": [
+  {
+   "id": "mission-the-noblest-of-men-and-a-woman",
+   "name": "The Noblest of Men, and a Woman",
+   "spoilerFreeTitle": "The Noblest of Men, and a Woman",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-smell-of-the-grease-paint",
+   "name": "The Smell of the Grease Paint",
+   "spoilerFreeTitle": "The Smell of the Grease Paint",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-arcadia-for-amateurs",
+   "name": "Arcadia for Amateurs",
+   "spoilerFreeTitle": "Arcadia for Amateurs",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-american-dreams",
+   "name": "American Dreams",
+   "spoilerFreeTitle": "American Dreams",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-a-fine-night-for-it",
+   "name": "A Fine Night For It",
+   "spoilerFreeTitle": "A Fine Night For It",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-geology-for-beginners",
+   "name": "Geology for Beginners",
+   "spoilerFreeTitle": "Geology for Beginners",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story.",
+    "Also required for Best in the West; counts as a Collector's Item strand."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed",
+   "giver": "Francis Sinclair",
+   "startLocation": "Hut north-west of Strawberry / north-east of Owanjila Dam, Big Valley"
+  },
+  {
+   "id": "mission-a-test-of-faith",
+   "name": "A Test of Faith",
+   "spoilerFreeTitle": "A Test of Faith",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story.",
+    "Also required for Best in the West; counts as a Collector's Item strand. 8 bones are in New Austin, so it can only be finished in the Epilogue."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed",
+   "giver": "Deborah MacGuiness",
+   "startLocation": "The Heartlands south-east of Horseshoe Overlook, north-east of Flatneck Station; finale at Firwood Rise"
+  },
+  {
+   "id": "mission-smoking-and-other-hobbies",
+   "name": "Smoking and other Hobbies",
+   "spoilerFreeTitle": "Smoking and other Hobbies",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story.",
+    "Also required for Best in the West; counts as a Collector's Item strand."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed",
+   "giver": "Phineas T. Ramsbottom",
+   "startLocation": "Flatneck Station (after Chapter 2 'Who is Not Without Sin')"
+  },
+  {
+   "id": "mission-hes-british-of-course",
+   "name": "He's British, of Course",
+   "spoilerFreeTitle": "He's British, of Course",
+   "chapter": "3",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-a-fisher-of-fish",
+   "name": "A Fisher of Fish",
+   "spoilerFreeTitle": "A Fisher of Fish",
+   "chapter": "3",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story.",
+    "Required for Best in the West (all 13 legendary fish)."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-iniquities-of-history",
+   "name": "The Iniquities of History",
+   "spoilerFreeTitle": "The Iniquities of History",
+   "chapter": "3",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-no-good-deed",
+   "name": "No Good Deed",
+   "spoilerFreeTitle": "No Good Deed",
+   "chapter": "3",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-oh-brother",
+   "name": "Oh, Brother",
+   "spoilerFreeTitle": "Oh, Brother",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-a-bright-bouncing-boy",
+   "name": "A Bright Bouncing Boy",
+   "spoilerFreeTitle": "A Bright Bouncing Boy",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-mercies-of-knowledge",
+   "name": "The Mercies of Knowledge",
+   "spoilerFreeTitle": "The Mercies of Knowledge",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-artists-way",
+   "name": "The Artist's Way",
+   "spoilerFreeTitle": "The Artist's Way",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-ties-that-bind-us",
+   "name": "The Ties That Bind Us",
+   "spoilerFreeTitle": "The Ties That Bind Us",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-duchesses-and-other-animals",
+   "name": "Duchesses and other Animals",
+   "spoilerFreeTitle": "Duchesses and other Animals",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story.",
+    "Also required for Best in the West; counts as a Collector's Item strand."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed",
+   "giver": "Algernon Wasp",
+   "startLocation": "Greenhouse behind the hotel in north Saint Denis (after Chapter 4 'The Gilded Cage')"
+  },
+  {
+   "id": "mission-idealism-and-pragmatism-for-beginners",
+   "name": "Idealism and Pragmatism for Beginners",
+   "spoilerFreeTitle": "Idealism and Pragmatism for Beginners",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-wisdom-of-the-elders",
+   "name": "The Wisdom of the Elders",
+   "spoilerFreeTitle": "The Wisdom of the Elders",
+   "chapter": "5",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-veteran",
+   "name": "The Veteran",
+   "spoilerFreeTitle": "The Veteran",
+   "chapter": "6",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-american-inferno-burnt-out",
+   "name": "The American Inferno, Burnt Out",
+   "spoilerFreeTitle": "The American Inferno, Burnt Out",
+   "chapter": "E1",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Counts toward Western Stranger (one of 22 eligible strands per PowerPyx); not missable - can be completed after the story."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "tt-ws"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-all-that-glitters",
+   "name": "All That Glitters",
+   "spoilerFreeTitle": "All That Glitters",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Jack Hall Gang treasure; does NOT count for Western Stranger (PowerPyx). Satisfies the 1 treasure hunt chain for 100%."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-fundraiser",
+   "name": "Fundraiser",
+   "spoilerFreeTitle": "Fundraiser",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Only available until Chapter 6; does NOT count for Western Stranger."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-help-a-brother-out",
+   "name": "Help a Brother Out",
+   "spoilerFreeTitle": "Help a Brother Out",
+   "chapter": "4",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Optional honor story mission, only in Chapter 4 - needed for Lending a Hand, not for Western Stranger."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-the-widow-of-willards-rest",
+   "name": "The Widow of Willard's Rest",
+   "spoilerFreeTitle": "The Widow of Willard's Rest",
+   "chapter": "5",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Only available until Chapter 6 (lost in Epilogue); does NOT count for Western Stranger."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "mission-a-better-world-a-new-friend",
+   "name": "A Better World, A New Friend",
+   "spoilerFreeTitle": "A Better World, A New Friend",
+   "chapter": "2",
+   "orderInChapter": 0,
+   "type": "stranger",
+   "goldRequirements": [],
+   "missableNotes": [
+    "Ms. L. Hobbs hunting requests: 4 lists from Chapter 2, the 5th (Van Horn) only in the Epilogue. Required for Best in the West and leads to the squirrel statue (It's Art). Whether it counts toward Western Stranger is not stated by PowerPyx - see disputes."
+   ],
+   "sources": [
+    "ppx-strangers",
+    "wiki-strangers",
+    "wiki-betterworld",
+    "ppx-100"
+   ],
+   "confidence": "confirmed"
+  }
+ ],
+ "collectibles": [
+  {
+   "id": "card-amazing-inventions-steam-locomotive",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Steam Locomotive (Amazing Inventions)",
+   "region": "Lemoyne",
+   "location": "Abandoned church due east of Bolger Glade: sprint-jump up to the upper landing; the card is in a bird's nest by the wall.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-camera",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Camera (Amazing Inventions)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: the building just south of the photo studio, on its balcony.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-electrical-execution-apparatus",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Electrical Execution Apparatus (Amazing Inventions)",
+   "region": "West Elizabeth",
+   "location": "Hanging Dog Ranch (north of Little Creek River): upstairs in the house, under the bunk bed.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-typewriter",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Typewriter (Amazing Inventions)",
+   "region": "West Elizabeth",
+   "location": "Blackwater: west of the post office, on a barrel beside the west wall of the big barn/warehouse.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-revolver",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Revolver (Amazing Inventions)",
+   "region": "New Hanover",
+   "location": "Annesburg: on a table at the back of the gunsmith.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-telegraph",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Telegraph (Amazing Inventions)",
+   "region": "New Hanover",
+   "location": "Northwest of Van Horn Trading Post at the abandoned train station: on the bench of a stagecoach near the platform.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-manned-glider",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Manned Glider (Amazing Inventions)",
+   "region": "Lemoyne",
+   "location": "Caliga Hall: on the workbench in the middle of the barn west of the mansion.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-dynamite",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Dynamite (Amazing Inventions)",
+   "region": "Lemoyne",
+   "location": "Shady Belle (south-west of Saint Denis): on the railing of the mansion's back porch.",
+   "missableNote": "Wiki notes the card may not appear in Chapter 6; if missing, buy it from Premium Cigarette packs. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-cylinder-phonograph",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Cylinder Phonograph (Amazing Inventions)",
+   "region": "New Hanover",
+   "location": "Valentine: on a saloon windowsill facing the street next to the piano (saloon identity disputed - see disputes).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-player-piano",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Player Piano (Amazing Inventions)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on top of the piano inside the Bastille Saloon (west side of the city).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-electric-light-bulb",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Electric Light Bulb (Amazing Inventions)",
+   "region": "New Hanover",
+   "location": "Doverhill, north-west of Brandywine Drop: on a crate near the back door of the facility.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-amazing-inventions-fountain-pen",
+   "set": "cigarette-cards:amazing-inventions",
+   "name": "Fountain Pen (Amazing Inventions)",
+   "region": "Lemoyne",
+   "location": "Pleasance (north of the 'O' in LEMOYNE): on a desk inside the abandoned schoolhouse.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-edith-corinne",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Edith Corinne (Artists, Writers & Poets)",
+   "region": "Lemoyne",
+   "location": "Braithwaite Manor (south of Rhodes): under the table beside the clothesline in the middle of the grounds.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-elsie-rose",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Elsie Rose (Artists, Writers & Poets)",
+   "region": "West Elizabeth",
+   "location": "Strawberry hotel: on the table at the top of the stairs on the second floor.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-w-g-hoyt",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "W.G. Hoyt (Artists, Writers & Poets)",
+   "region": "New Hanover",
+   "location": "Hani's Bethel (cabin by a small lake above the 'NO' of HANOVER): on a table inside the cabin.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-aldous-bramley",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Aldous Bramley (Artists, Writers & Poets)",
+   "region": "West Elizabeth",
+   "location": "Just outside Blackwater to the south: follow the south road/telegraph line to the blue-grey house with a white porch; card is between the two porch chairs.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-preston-t-stephenson",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Preston T. Stephenson (Artists, Writers & Poets)",
+   "region": "New Hanover",
+   "location": "Annesburg: in the office west of the railroad tracks in the centre of town.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-evelyn-miller",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Evelyn Miller (Artists, Writers & Poets)",
+   "region": "West Elizabeth",
+   "location": "Blackwater: north-west of the warehouse, on a table beside a clothesline.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-slick-hutton",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Slick Hutton (Artists, Writers & Poets)",
+   "region": "New Hanover",
+   "location": "Van Horn Mansion (south-southwest of Van Horn Trading Post, by the river): on a crate at the north-east end of the balcony.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-laurence-carson",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Laurence Carson (Artists, Writers & Poets)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: in the alley opposite the Trapper, on a table tucked between a wooden wall and a red brick wall.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-miss-maud-delancey",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Miss Maud Delancey (Artists, Writers & Poets)",
+   "region": "Lemoyne",
+   "location": "Houseboat in Bluewater Marsh (near the 'W' of BLUEWATER): on a table inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-charles-chatenay",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Charles Chatenay (Artists, Writers & Poets)",
+   "region": "New Hanover",
+   "location": "Chadwick Farm just north-west of Valentine (Mary Linton halfway house): on a small table on the front porch.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-george-dixie",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "George Dixie (Artists, Writers & Poets)",
+   "region": "New Hanover",
+   "location": "Guthrie Farm, Heartland Overflow (below the 'A' of NEW HANOVER): on a bed in the main house.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-artists-writers-poets-richard-mccullough",
+   "set": "cigarette-cards:artists-writers-poets",
+   "name": "Richard McCullough (Artists, Writers & Poets)",
+   "region": "Lemoyne",
+   "location": "North of Saint Denis: go up the road past the cemetery to a gazebo on the west side; card is on a table south-east of it.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-american-paint",
+   "set": "cigarette-cards:horses",
+   "name": "American Paint (Horses (Breeds of Horses))",
+   "region": "Lemoyne",
+   "location": "Rhodes: beneath the cotton mill on the east side of town, on a crate.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-appaloosa",
+   "set": "cigarette-cards:horses",
+   "name": "Appaloosa (Horses (Breeds of Horses))",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on a barrel on the south-central docks behind the large building.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-andalusian",
+   "set": "cigarette-cards:horses",
+   "name": "Andalusian (Horses (Breeds of Horses))",
+   "region": "West Elizabeth",
+   "location": "Painted Sky barn: on a shelf toward the back of the stable.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-american-standardbred",
+   "set": "cigarette-cards:horses",
+   "name": "American Standardbred (Horses (Breeds of Horses))",
+   "region": "Lemoyne",
+   "location": "Catfish Jackson's, the waterside house on the road loop south of Braithwaite Manor: in a bedroom (wiki says the boy's bedroom, on the table).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-nokota",
+   "set": "cigarette-cards:horses",
+   "name": "Nokota (Horses (Breeds of Horses))",
+   "region": "Lemoyne",
+   "location": "Rhodes: on a workbench inside the stable south of the gunsmith.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-ardennes",
+   "set": "cigarette-cards:horses",
+   "name": "Ardennes (Horses (Breeds of Horses))",
+   "region": "West Elizabeth",
+   "location": "Wallace Station: on the middle shelf on the train platform.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-dutch-warmblood",
+   "set": "cigarette-cards:horses",
+   "name": "Dutch Warmblood (Horses (Breeds of Horses))",
+   "region": "New Hanover",
+   "location": "Downes Ranch (south-west of Valentine): on the mantelpiece inside the cottage, next to the bunk bed.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-turkoman",
+   "set": "cigarette-cards:horses",
+   "name": "Turkoman (Horses (Breeds of Horses))",
+   "region": "New Hanover",
+   "location": "Location disputed: wiki places it on a crate at the base of Fort Wallace's north-west tower; rdr2.org places it on a workbench in a cabin by O'Creagh's Run. Safest: buy Premium Cigarettes.",
+   "missableNote": "Fort Wallace pickup is reportedly only possible between Chapter 6 missions 'The King's Son' and the start of 'Our Best Selves' (wiki); cards can always be bought from Premium Cigarette packs instead. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "card-horses-hungarian-half-bred",
+   "set": "cigarette-cards:horses",
+   "name": "Hungarian Half-bred (Horses (Breeds of Horses))",
+   "region": "New Austin",
+   "location": "Armadillo: look through the hole in the blacksmith's front door (north end of town); the card is on the floor inside.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-mustang",
+   "set": "cigarette-cards:horses",
+   "name": "Mustang (Horses (Breeds of Horses))",
+   "region": "New Hanover",
+   "location": "Downes Ranch: upper floor (hay loft) of the barn.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-thoroughbred",
+   "set": "cigarette-cards:horses",
+   "name": "Thoroughbred (Horses (Breeds of Horses))",
+   "region": "Lemoyne",
+   "location": "Rhodes: on a wagon by the railroad tracks north-west of the post office, next to the cotton bales.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-horses-missouri-fox-trotter",
+   "set": "cigarette-cards:horses",
+   "name": "Missouri Fox Trotter (Horses (Breeds of Horses))",
+   "region": "Lemoyne",
+   "location": "Catfish Jackson's area on the Lannahechee River south of Braithwaite Manor: in a bedroom (sources blur this with the Standardbred - check both bedrooms).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "card-famous-gunslingers-frank-heck",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Frank Heck (Famous Gunslingers)",
+   "region": "New Hanover",
+   "location": "Valentine cemetery (north-east of town): resting on a gravestone.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-otis-miller-boys",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Otis Miller Boys (Famous Gunslingers)",
+   "region": "New Hanover",
+   "location": "Six Point Cabin, south-east of the rope bridge in Cumberland Forest: in the back of the blue wagon just east of the cabin.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-jack-hall-gang",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Jack Hall Gang (Famous Gunslingers)",
+   "region": "Ambarino",
+   "location": "Chez Porter (north-west of Window Rock): on the windowsill inside the western shack.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-butcher-brothers",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Butcher Brothers (Famous Gunslingers)",
+   "region": "New Hanover",
+   "location": "Butcher Creek (south of Elysian Pool): on a barrel on the porch of the dirty red south-easternmost house with skins hanging on it.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-flaco-hernandez",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Flaco Hernandez (Famous Gunslingers)",
+   "region": "Lemoyne",
+   "location": "Rhodes: on the edge of the bank's roof (bank is south of the butcher); climb the ladder around the back.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-slim-grant",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Slim Grant (Famous Gunslingers)",
+   "region": "Ambarino",
+   "location": "Fairvale Shanty (above the 'NO' of AMBARINO): on a barrel by the shack.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-landon-ricketts",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Landon Ricketts (Famous Gunslingers)",
+   "region": "New Austin",
+   "location": "Armadillo: behind the house facing the undertaker, on a barrel next to a discarded green shelf.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-black-belle",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Black Belle (Famous Gunslingers)",
+   "region": "West Elizabeth",
+   "location": "Blackwater river-boat pier: facing the pier, go right past a park bench and crates to a barrel.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-billy-midnight",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Billy Midnight (Famous Gunslingers)",
+   "region": "New Austin",
+   "location": "Tumbleweed: on the platform of the windmill on the east side of town.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-emmet-granger",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Emmet Granger (Famous Gunslingers)",
+   "region": "Lemoyne",
+   "location": "Canebreak Manor in Bluewater Marsh (on the 'H' of MARSH): on a table inside the abandoned house. Wiki adds a second temporary copy at Fort Wallace (lean-to on the west side) during Chapter 6.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-jim-boy-calloway",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Jim 'Boy' Calloway (Famous Gunslingers)",
+   "region": "Lemoyne",
+   "location": "Saint Denis cemetery, north-west quarter: inside the mausoleum with a wrought-iron gate and small pointed trees around it.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-famous-gunslingers-bart-love",
+   "set": "cigarette-cards:famous-gunslingers",
+   "name": "Bart Love (Famous Gunslingers)",
+   "region": "West Elizabeth",
+   "location": "Hanging Dog Ranch: on the wall shelf beside the couch inside the house.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-black-widow-spider",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Black Widow Spider (Fauna of America)",
+   "region": "West Elizabeth",
+   "location": "Vetter's Echo cabin (on the road near the 'W' of WEST ELIZABETH): on the desk inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-bloodhound",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Bloodhound (Fauna of America)",
+   "region": "Lemoyne",
+   "location": "Bolger Glade: in the ruined house just north of the 'B' of BOLGER GLADE, near the fireplace.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-bluejay",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Bluejay (Fauna of America)",
+   "region": "New Hanover",
+   "location": "Clingman (west of Van Horn, south-west of Elysian Pool): on the ladder-access tree platform south-east of the tower.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-catfish",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Catfish (Fauna of America)",
+   "region": "Lemoyne",
+   "location": "Saint Denis north-west: on a barrel on the small dock behind Bronte's house.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-coral-snake",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Coral Snake (Fauna of America)",
+   "region": "Lemoyne",
+   "location": "Lakay: on a table inside the largest house on the south side.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-grouper",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Grouper (Fauna of America)",
+   "region": "Lemoyne",
+   "location": "Lagras: at the back of the fishing boat by the western dock (Kamassa River side).",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-large-mouth-bass",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Large Mouth Bass (Fauna of America)",
+   "region": "New Hanover",
+   "location": "Gill Landing cabin (south New Hanover near the Lemoyne border): under the sofa.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-panther",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Panther (Fauna of America)",
+   "region": "New Hanover",
+   "location": "Fort Brennand (south-west of Van Horn): inside the hut/tent, on a crate.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-parrot",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Parrot (Fauna of America)",
+   "region": "Lemoyne",
+   "location": "Macomb's End by the Kamassa River (near the 'Y' of LEMOYNE): on a crate on the pier.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-pheasant",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Pheasant (Fauna of America)",
+   "region": "New Hanover",
+   "location": "Clingman: same ladder tree platform as the Bluejay card.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-snapping-turtle",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Snapping Turtle (Fauna of America)",
+   "region": "New Hanover",
+   "location": "Firwood Rise house (south of Cumberland Forest): in a small crate under the dresser.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-fauna-of-america-turkey",
+   "set": "cigarette-cards:fauna-of-america",
+   "name": "Turkey (Fauna of America)",
+   "region": "New Hanover",
+   "location": "Van Horn Trading Post: upstairs in the burned-out sheriff's office, on the mantel.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-golden-currant",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Golden Currant (Flora of America)",
+   "region": "Lemoyne",
+   "location": "Lakay: in the shack roughly north (north-east) of the big southern house, on a shelf.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-hummingbird-sage",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Hummingbird Sage (Flora of America)",
+   "region": "New Hanover",
+   "location": "Forest shack north-west of Van Horn's train station (road near the 'R' of HANOVER): on a table on the west side.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-oleander-sage",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Oleander Sage (Flora of America)",
+   "region": "Lemoyne",
+   "location": "Saint Denis (between the 'E' and 'N' of the city label): on an upstairs outdoor railing, hidden behind vines.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-yarrow",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Yarrow (Flora of America)",
+   "region": "Lemoyne",
+   "location": "Cabin cluster south-east of Lakay near the Saint Denis border: on the south windowsill inside. Beware the dinner-invitation stranger here - accepting leads to Arthur being knocked out and robbed.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-indian-tobacco",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Indian Tobacco (Flora of America)",
+   "region": "Lemoyne",
+   "location": "Same cabin cluster south-east of Lakay: on a crate just west of the cabin.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-black-mangrove",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Black Mangrove (Flora of America)",
+   "region": "New Hanover",
+   "location": "Emerald Station: under a bench at the train station.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-longleaf-pine",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Longleaf Pine (Flora of America)",
+   "region": "New Hanover",
+   "location": "Annesburg mine (west/south-west side of town): on a crate at the top of the first ladder in the shaft.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-desert-fan-palm",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Desert Fan Palm (Flora of America)",
+   "region": "New Austin",
+   "location": "Tumbleweed: on the front-porch table of the western mansion (above the 'T' of TUMBLEWEED).",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-coastal-redwood",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Coastal Redwood (Flora of America)",
+   "region": "West Elizabeth",
+   "location": "Strawberry: on the table behind the house at the south-east of town (back porch).",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-horse-crippler-cactus",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Horse Crippler Cactus (Flora of America)",
+   "region": "Lemoyne",
+   "location": "Caliga Hall: on the workbench in the lean-to by the north-west pier (Kamassa River).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-blazing-star",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Blazing Star (Flora of America)",
+   "region": "West Elizabeth",
+   "location": "Vetter's Echo cabin: on the railing in front of the door.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-flora-of-america-carolina-lupine",
+   "set": "cigarette-cards:flora-of-america",
+   "name": "Carolina Lupine (Flora of America)",
+   "region": "New Austin",
+   "location": "Tumbleweed: on the sheriff's office roof, behind the sign.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-leila-stetson",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Leila Stetson (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Carmody Dell (near the Cumberland Forest border, across the tracks north-east of the Heartland Oil Fields): windowsill next to the fireplace.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-isabelle-barlow",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Isabelle Barlow (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Doverhill, north of Annesburg: in the abandoned trading/post office by the tracks, on a wall shelf.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-hattie-langtry",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Hattie Langtry (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Meteor House, south-east of the Doverhill trading post (above Roanoke Valley): on a side table inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-isabelle-standish",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Isabelle Standish (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Annesburg mine: go down the ladders to the ground floor; card is on the table in the chamber to the left/right of the entrance area.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-maud-engel",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Maud Engel (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Cornwall Kerosene & Tar (Heartland Oil Fields): head south from the railroad past the log stack and down a small drop; on a table at the central house.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-sadie-russell",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Sadie Russell (Gems of Beauty)",
+   "region": "West Elizabeth",
+   "location": "Blackwater: on a barrel in the chicken coop near the barber.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-geraldine-emerson",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Geraldine Emerson (Gems of Beauty)",
+   "region": "West Elizabeth",
+   "location": "Hanging Dog Ranch: on a crate on the barn's upper floor.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-agnes-guyon",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Agnes Guyon (Gems of Beauty)",
+   "region": "Ambarino",
+   "location": "Millesani Claim shack (above the 'E' of Grizzlies West label area): on a crate inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-jennie-willetts",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Jennie Willetts (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Van Horn Trading Post: west of the post office across the main road, on a barrel in the backyard of the horse-shoeing building.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-ilga-ulmer",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Ilga Ulmer (Gems of Beauty)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on an old desk in the alley near the doctor.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-fay-delaro",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Fay Delaro (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Valentine: upstairs in the southernmost barn of the livestock auction yard, near the window.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-gems-of-beauty-pauline-henderson",
+   "set": "cigarette-cards:gems-of-beauty",
+   "name": "Pauline Henderson (Gems of Beauty)",
+   "region": "New Hanover",
+   "location": "Bacchus Station: on a crate at the north end of the station.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-packet-ship",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Packet Ship (Marvels of Travel)",
+   "region": "New Hanover",
+   "location": "Annesburg: on a crate at the north-east end of the pier/docks.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-schooner",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Schooner (Marvels of Travel)",
+   "region": "New Hanover",
+   "location": "Van Horn Trading Post: on the schooner docked south-east, under a hammock on the boat.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-camel-caravan",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Camel Caravan (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Rhodes: on a table by a clothesline east of the gunsmith (south part of town).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-elephant-carriage",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Elephant Carriage (Marvels of Travel)",
+   "region": "West Elizabeth",
+   "location": "Strawberry: at the top of the outside staircase behind the Trackers Hotel.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-goat-carriage",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Goat Carriage (Marvels of Travel)",
+   "region": "New Hanover",
+   "location": "Emerald Ranch: on the workbench in the north-west (western) stables.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-hot-air-balloon",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Hot Air Balloon (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on a shelf at the back of Doyle's Tavern (north-east/east of the city).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-u-s-frigate",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "U.S. Frigate (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Braithwaite Manor boathouse (west of the manor): on a workbench next to a boat.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-the-showboat",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "The Showboat (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on the southern docks, south of the newspaper seller.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-balener-whaling-vessel",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Balener Whaling Vessel (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Saint Denis south-east docks: inside the small blue booth north of the Maria Isabella, on the windowsill.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-stagecoach",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Stagecoach (Marvels of Travel)",
+   "region": "West Elizabeth",
+   "location": "Riggs Station: on a bench on the train platform.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-steam-locomotive",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Steam Locomotive (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Ruined building north of Clemens Point on the east side of Flat Iron Lake: near a wall inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-marvels-of-travel-velocipede",
+   "set": "cigarette-cards:marvels-of-travel",
+   "name": "Velocipede (Marvels of Travel)",
+   "region": "Lemoyne",
+   "location": "Saint Denis north-west: on the table of a house's front porch.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-president-fisher",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "President Fisher (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Southfield Flats (north of Rhodes): Jansen Mills building south-west of the big pond - on a barrel at the top of the loading ramp.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-president-hardin",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "President Hardin (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Lagras, between the lake and the Kamassa River: by a railing near the shack south-west of the bait shop, opposite two wagon wheels.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-lillian-powell",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "Lillian Powell (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Pleasance: shack north-west of the schoolhouse - in a crate in the bushes on its north-east side.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-leviticus-cornwall",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "Leviticus Cornwall (Prominent Americans)",
+   "region": "New Hanover",
+   "location": "Valentine south-west (farm between the 'I' and 'N' of VALENTINE): on an upturned barrel on the wooden house's front porch, south-west of the show tent.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-jd-mcknight",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "JD McKnight (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Rhodes: on a table inside the gazebo (east of the saloon, south part of town).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-luther-covington",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "Luther Covington (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on a crate on the south-western docks.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-harvey-griggs",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "Harvey Griggs (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Saint Denis freight hall where the rail lines converge (brick building with 'Slow to Stop' painted on it): on a workbench on the left as you enter.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-henrietta-beatrice-woods",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "Henrietta Beatrice Woods (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "North of Saint Denis: follow the road west of the graveyard north to the first junction; card is on a front-porch table of a red house on the east side.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-general-quincy-harris",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "General Quincy Harris (Prominent Americans)",
+   "region": "New Hanover",
+   "location": "Cornwall Kerosene & Tar: at the base of the oil-well tower to the north-east.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-general-cornelius-palmer",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "General Cornelius Palmer (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Hill Haven Ranch (north of Rhodes, north of Mattock Pond): on the table in the shed to the north-west.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-senator-thaddeus-waxman",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "Senator Thaddeus Waxman (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Pleasance: cabin west of the Lillian Powell shack (north-west of the schoolhouse), on the mantel.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-prominent-americans-president-alfred-macalister",
+   "set": "cigarette-cards:prominent-americans",
+   "name": "President Alfred MacAlister (Prominent Americans)",
+   "region": "Lemoyne",
+   "location": "Crawdad Willie's, on the southernmost islands south-west of Saint Denis: on the shack's south-east windowsill.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-laurence-dunn",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Laurence Dunn (Stars of the Stage)",
+   "region": "Lemoyne",
+   "location": "Robard Farm (Southfield Flats, north of Rhodes): on the mantel inside the farmhouse.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-louis-durand",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Louis Durand (Stars of the Stage)",
+   "region": "New Hanover",
+   "location": "West of Van Horn's saloon, across the tracks and a trail: on the east porch of the abandoned/ruined house.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-jesse-raymond",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Jesse Raymond (Stars of the Stage)",
+   "region": "New Austin",
+   "location": "North Tumbleweed: on the mantel/windowsill inside the burned-out house.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-augusta-tremlow",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Augusta Tremlow (Stars of the Stage)",
+   "region": "West Elizabeth",
+   "location": "Hanging Dog Ranch: on the top platform of the windmill.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-mabel-potter",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Mabel Potter (Stars of the Stage)",
+   "region": "Lemoyne",
+   "location": "Saint Denis, Theatre Raleur: in the west corridor, on a table by the fireplace.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-robin-koninsky",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Robin Koninsky (Stars of the Stage)",
+   "region": "Lemoyne",
+   "location": "Theatre Raleur, Saint Denis: backstage on a table, reached by walking off stage-left behind the curtain.",
+   "availableFrom": "4",
+   "missableNote": "Only appears after watching all five theatre shows; the fifth unlocks after Chapter 4 'Fatherhood and Other Dreams'. Wiki: watch them before 'The Gilded Cage' if you want to avoid the game consuming your Theatre Ticket. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-isadore-reid",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Isadore Reid (Stars of the Stage)",
+   "region": "New Hanover",
+   "location": "Valentine south-west cluster of buildings: in the back of one of two adjacent wagons.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-irene-grubb",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Irene Grubb (Stars of the Stage)",
+   "region": "New Austin",
+   "location": "MacFarlane's Ranch train platform: on a bench.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-nettie-palmer",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Nettie Palmer (Stars of the Stage)",
+   "region": "New Hanover",
+   "location": "Valentine: inside the travelling magic lantern show tent, next to the projector.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-jim-cobb",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Jim Cobb (Stars of the Stage)",
+   "region": "Lemoyne",
+   "location": "Eris Field (east of the first 'E' of LEMOYNE): on the west bench of the abandoned house's front porch.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-mittie-comstock",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Mittie Comstock (Stars of the Stage)",
+   "region": "New Hanover",
+   "location": "Larned Sod (south of the 'H' of NEW HANOVER): on a barrel in front of the door.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-stars-of-the-stage-robert-elliot-patchen",
+   "set": "cigarette-cards:stars-of-the-stage",
+   "name": "Robert Elliot Patchen (Stars of the Stage)",
+   "region": "Lemoyne",
+   "location": "North Rhodes (south of Mattock Pond): on a crate next to the yellow hut east of the fence.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-new-york",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "New York (Vistas of America)",
+   "region": "Lemoyne",
+   "location": "Caliga Hall: row of buildings to the south - front porch of the second building from the left on the map.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-saint-denis",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Saint Denis (Vistas of America)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on a small green luggage cart with red wheels near the post office benches by the tracks.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-blackwater",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Blackwater (Vistas of America)",
+   "region": "West Elizabeth",
+   "location": "Blackwater Grand Theatre: ladder at the back leads to the roof; card is on top of a chimney.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-armadillo",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Armadillo (Vistas of America)",
+   "region": "New Austin",
+   "location": "Armadillo: on a barrel inside the pig pen on the west side of town.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-rio-bravo",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Rio Bravo (Vistas of America)",
+   "region": "New Hanover",
+   "location": "Flatneck Station: on the windmill tower's top platform.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-the-grizzlies",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "The Grizzlies (Vistas of America)",
+   "region": "New Austin",
+   "location": "Venter's Place shack (by Lake Don Julio, south of Armadillo): on the table inside.",
+   "availableFrom": "E1",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. New Austin is effectively off-limits to Arthur (lethal bounty hunters) until the Epilogue; buy Premium Cigarettes instead if you want the set earlier. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-san-francisco",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "San Francisco (Vistas of America)",
+   "region": "New Hanover",
+   "location": "Fort Brennand: climb the south-east tower ladder; on the windowsill.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-tall-trees",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Tall Trees (Vistas of America)",
+   "region": "New Hanover",
+   "location": "Flatneck Station: behind the station on a barrel between the firewood stack and a cotton bale.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-valentine",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Valentine (Vistas of America)",
+   "region": "New Hanover",
+   "location": "Valentine train station: on a table inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-chicago",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Chicago (Vistas of America)",
+   "region": "New Hanover",
+   "location": "Emerald Ranch: on the platform of the windmill tower (south side).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-rhodes",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Rhodes (Vistas of America)",
+   "region": "Lemoyne",
+   "location": "Rhodes cemetery (behind the church, east side): on William 'Willie' Bowles's gravestone.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-vistas-of-america-annesburg",
+   "set": "cigarette-cards:vistas-of-america",
+   "name": "Annesburg (Vistas of America)",
+   "region": "New Hanover",
+   "location": "Annesburg west side: on a barrel beside the minecart tracks.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-percy-wood",
+   "set": "cigarette-cards:world-champions",
+   "name": "Percy Wood (Greco-Roman Wrestler) (World Champions)",
+   "region": "New Hanover",
+   "location": "Huron Glen (south of the 'R' of NEW HANOVER): on the well outside the shack.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-edwin-a-rowe",
+   "set": "cigarette-cards:world-champions",
+   "name": "Edwin A. Rowe (Billiards) (World Champions)",
+   "region": "Ambarino",
+   "location": "Clawson's Rest shack (north of Valentine across the Dakota River and tracks): on a windowsill inside.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-theobaud-getzin",
+   "set": "cigarette-cards:world-champions",
+   "name": "Theobaud Getzin (Pugilist) (World Champions)",
+   "region": "New Hanover",
+   "location": "Emerald Ranch: on the shelf on the front porch of the abandoned saloon (north-central, east of the main road).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-h-t-slocum",
+   "set": "cigarette-cards:world-champions",
+   "name": "H.T. Slocum (Oarsman) (World Champions)",
+   "region": "Lemoyne",
+   "location": "Canebreak Manor area, Bluewater Marsh (on the 'H' of MARSH): on a crate under/in the shack.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-r-s-harradon",
+   "set": "cigarette-cards:world-champions",
+   "name": "R.S. Harradon (Cyclist) (World Champions)",
+   "region": "New Hanover",
+   "location": "MacLean's House, across the river from the Slocum shack: on a table on the shack's north-west side.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-e-d-ewing",
+   "set": "cigarette-cards:world-champions",
+   "name": "E.D. Ewing (Walker) (World Champions)",
+   "region": "Lemoyne",
+   "location": "Old Trail Rise shack near Dewberry Creek (New Hanover border), north of the horse shop: open the hatch in the floor; card is on a basement shelf.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-patsey-hill",
+   "set": "cigarette-cards:world-champions",
+   "name": "Patsey Hill (Lawn Tennis) (World Champions)",
+   "region": "Lemoyne",
+   "location": "Saint Denis, Pandella Street (north of the saloon, east of the river): on the back porch of a shack.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-william-sleicher",
+   "set": "cigarette-cards:world-champions",
+   "name": "William Sleicher (Weightlifter) (World Champions)",
+   "region": "New Hanover",
+   "location": "Cornwall Kerosene & Tar small settlement (southern part): on a table in the central house (same house as Maud Engel per wiki).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-edwin-singerly",
+   "set": "cigarette-cards:world-champions",
+   "name": "Edwin Singerly (Pigeon Shooting) (World Champions)",
+   "region": "New Hanover",
+   "location": "Annesburg west side: on the floor at the top of the tower.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-felix-hawley",
+   "set": "cigarette-cards:world-champions",
+   "name": "Felix Hawley (Skater) (World Champions)",
+   "region": "Ambarino",
+   "location": "Barrow Lagoon: on the table inside the only cabin, north-west shore.",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-capt-jack-page",
+   "set": "cigarette-cards:world-champions",
+   "name": "Capt. Jack Page (Hammer Thrower) (World Champions)",
+   "region": "Ambarino",
+   "location": "Clawson's Rest shack by the tracks north of Valentine: on a windowsill inside (same shack as Edwin A. Rowe).",
+   "missableNote": "Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "card-world-champions-axel-mccormack",
+   "set": "cigarette-cards:world-champions",
+   "name": "Axel McCormack (Swinger) (World Champions)",
+   "region": "Lemoyne",
+   "location": "Saint Denis: on a crate in the courtyard behind the Bastille Saloon.",
+   "availableFrom": "2",
+   "missableNote": "Only spawns after you have accepted 'Smoking and other Hobbies' from Phineas T. Ramsbottom. Never truly missable: every card can also come from Premium Cigarette packs bought at general stores.",
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-ambarino-1",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Ambarino #1",
+   "region": "Ambarino",
+   "location": "Grizzlies West, north of the 'L' in VALENTINE: on a rock cliff on the north bank of the Dakota River north-west of Valentine (opposite side of the river from the New Hanover cliff bones).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-ambarino-2",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Ambarino #2",
+   "region": "Ambarino",
+   "location": "Grizzlies East / Cumberland Forest edge, just west of the bottom of the 'I' in AMBARINO: wedged in a red rock outcrop near a hilltop, partly hidden by grey rocks (GamesRadar: north-east of Donner Falls, set into a rock face by big boulders).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-ambarino-3",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Ambarino #3",
+   "region": "Ambarino",
+   "location": "South of Cotorra Springs: on a small ledge just below the top of a cliff (GamesRadar: a small ledge in the Bacchus Station area).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "bone-ambarino-4",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Ambarino #4",
+   "region": "Ambarino",
+   "location": "Grizzlies East, north of the 'O' in AMBARINO: cross the road south of Fairvale Shanty; the bone is on a grassy/flowery hilltop.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-ambarino-5",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Ambarino #5",
+   "region": "Ambarino",
+   "location": "Grizzlies East, slightly south-west of the 'S' in EAST: on the peak/narrow clifftop west of O'Creagh's Run.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-lemoyne-1",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Lemoyne #1",
+   "region": "Lemoyne",
+   "location": "Scarlett Meadows, west side of Dewberry Creek (due west of the 'rr' of DEWBERRY): ribcage in bare dirt between three boulders below where the grass starts, on the bank of a shallow ravine.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-lemoyne-2",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone Lemoyne #2",
+   "region": "Lemoyne",
+   "location": "Scarlett Meadows directly under the 'L' of LEMOYNE: in dry dirt between three boulders at the end of a dried-up riverbed, north of the Dewberry Creek bone.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-1",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #1",
+   "region": "New Hanover",
+   "location": "North-west of Valentine on the Dakota River: near the edge at the top of a cliff / set into the rock by the river bank.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-2",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #2",
+   "region": "New Hanover",
+   "location": "South of Cumberland Falls, between the two parallel roads: fossilised into the base of the rock cliff wall, further downriver from the other Valentine river bone.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-3",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #3",
+   "region": "New Hanover",
+   "location": "Near Emerald Station, north of the 'O' of HANOVER, south of a cabin/hut: small bones in the grass south-east of the hut - use Eagle Eye (GamesRadar: north-east of Heartland Overflow lake near bushes on a hilltop).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-4",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #4",
+   "region": "New Hanover",
+   "location": "Cumberland Forest, south of the 'C' of CUMBERLAND FOREST: on top of a cliff overlooking the forest.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-5",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #5",
+   "region": "New Hanover",
+   "location": "Mountain south-west of Bacchus Station (near the 'S' of STATION): beside a stone spike at the top of the cliff, with Fort Wallace visible - i.e. west of Fort Wallace on a narrow cliff edge.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-6",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #6",
+   "region": "New Hanover",
+   "location": "Roanoke Ridge / Grizzlies East border: on a small rocky plateau just south of the railway bridge west of Roanoke Valley.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-7",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #7",
+   "region": "New Hanover",
+   "location": "On a cliff above the trail from Annesburg toward Brandywine Drop (GamesRadar: a little south of Brandywine Drop among fallen leaves).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-8",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #8",
+   "region": "New Hanover",
+   "location": "West bank of the Kamassa River north of Elysian Pool (east of the 'I' of KAMASSA): climb to the top of the riverside mountain, then drop one level down to a rock shelf facing the river - leave your horse.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-9",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #9",
+   "region": "New Hanover",
+   "location": "Between the 'R' of HANOVER and Van Horn: head south from the roadside brothel across the road to the edge of a clearing in the forest east of Butcher Creek; single bone - use Eagle Eye.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-10",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #10",
+   "region": "New Hanover",
+   "location": "The Heartlands oil derrick/digging site (between the 'A' and 'R' of THE HEARTLANDS): climb down the ladder under the platform; bone is at the bottom of the dark well/cave.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-hanover-11",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #11",
+   "region": "New Hanover",
+   "location": "The Heartlands: follow the dry riverbed next to the oil derrick south up the hill to a rock formation (GamesRadar: hill beside a rocky outcrop north-east of Flatneck Station).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "bone-new-hanover-12",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Hanover #12",
+   "region": "New Hanover",
+   "location": "The Heartlands, north of a small railway bridge (wiki: just east of the second 'T' of the nearby map label; GamesRadar: grassy hill slope east of Flatneck Station).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "bone-west-elizabeth-1",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone West Elizabeth #1",
+   "region": "West Elizabeth",
+   "location": "Inside a small cave north-west of Wallace Station - bring a lantern.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-west-elizabeth-2",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone West Elizabeth #2",
+   "region": "West Elizabeth",
+   "location": "Big Valley, on the trail between the 'W' and 'E' of WEST: on a sparsely wooded slope.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-west-elizabeth-3",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone West Elizabeth #3",
+   "region": "West Elizabeth",
+   "location": "Mount Shann: about halfway up the western trail where it winds in an S-shape (under the 'm' of Beryl's Dream) - GamesRadar describes it as atop a steep cliff east of Black Bone Forest.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-1",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #1",
+   "region": "New Austin",
+   "location": "Hennigan's Stead / Pike's Basin: on the raised plateau at the west end of the canyon, south of the first 'N' of HENNIGAN.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-2",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #2",
+   "region": "New Austin",
+   "location": "Hennigan's Stead: on a hilltop above the San Luis River shore, north of the little islet (above the 'San' of SAN LUIS RIVER).",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-3",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #3",
+   "region": "New Austin",
+   "location": "Cholla Springs, north of the springs near Rattlesnake Hollow: set into a small rock wall at the base of a hill.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-4",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #4",
+   "region": "New Austin",
+   "location": "Cholla Springs: on a small hilltop south-west/west of Jorge's Gap, hidden by bushes - Eagle Eye essential.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-5",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #5",
+   "region": "New Austin",
+   "location": "Rio Bravo, south of the 'B' of RIO BRAVO: on the big rock plateau overlooking Fort Mercer (GamesRadar: prairie north-east of Fort Mercer near a large cactus).",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "bone-new-austin-6",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #6",
+   "region": "New Austin",
+   "location": "Rio Bravo: near the edge of Rio Del Lobo Rock, close to its eastern tip/top.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-7",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #7",
+   "region": "New Austin",
+   "location": "Gaptooth Ridge, just west of the 'G' of RIDGE: on a clifftop overlooking the canyon.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "bone-new-austin-8",
+   "set": "dinosaur-bones",
+   "name": "Dinosaur Bone New Austin #8",
+   "region": "New Austin",
+   "location": "Gaptooth Ridge south of the 'L' of TUMBLEWEED: south-east edge of the plateau/mountain overlooking Tumbleweed; the path up starts on the north side.",
+   "availableFrom": "E1",
+   "missableNote": "New Austin bone: Arthur is killed by bounty hunters there, so collect in the Epilogue as John. Not missable. The 30th (last) bone location cannot be recorded until you have met Deborah MacGuiness and started 'A Test of Faith'.",
+   "sources": [
+    "wiki-bones",
+    "gr-bones",
+    "ppx-bones"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-01",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #1",
+   "region": "Ambarino",
+   "location": "Grizzlies West: on the hill north-east of Cattail Pond (south of the 'S' of WEST), toward the peak in a clearing, on a leafless tree.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-02",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #2",
+   "region": "Ambarino",
+   "location": "Grizzlies West, south-west of Window Rock: just off the trail north of the road between Cattail Pond and Window Rock, uphill past a fallen tree.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-03",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #3",
+   "region": "Ambarino",
+   "location": "Grizzlies East, east of Cotorra Springs toward Bacchus Bridge: in a small wood on a ridge just north of the railroad, right of a trail fork.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-04",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #4",
+   "region": "Ambarino",
+   "location": "Grizzlies East, north-east of the 'O' of AMBARINO: just downhill from The Loft on a dead tree by the road (wiki says south-west of The Loft, GamesRadar south-east).",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-05",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #5",
+   "region": "New Hanover",
+   "location": "South of the first 'E' of VALENTINE: follow the trail south; a big black tree beyond a stump on the right just before the trail rejoins the main road.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-06",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #6",
+   "region": "New Hanover",
+   "location": "West of Caliban's Seat: on the north side of the road running parallel to the river, in a group of trees before the next hills.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-07",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #7",
+   "region": "New Hanover",
+   "location": "North of the 'K' of CITADEL ROCK: in one of two trees between the trail and the railway line, just above the tracks.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-08",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #8",
+   "region": "New Hanover",
+   "location": "The Heartlands, between the DAKOTA RIVER label and Flatneck Station: from Flatneck ride west on the northern trail; on a dead tree atop the hill/cliff overlooking the river.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-09",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #9",
+   "region": "New Hanover",
+   "location": "The Heartlands, just west of the 'E' of NEW in NEW HANOVER, west of where the tracks cross the trail: in the middle of a clump of trees.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-10",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #10",
+   "region": "New Hanover",
+   "location": "Inside the 'N' of THE HEARTLANDS label (top-right corner): a lone, scraggly tree.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-11",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #11",
+   "region": "New Hanover",
+   "location": "Roanoke Ridge near Annesburg: on the hillside between the Kamassa River and Deer Cottage.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "dreamcatcher-12",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #12",
+   "region": "New Hanover",
+   "location": "Annesburg area, just above the letters between the second 'N' and the 'E' of the ANNESBURG label.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "dreamcatcher-13",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #13",
+   "region": "New Hanover",
+   "location": "South of the 'U' of ANNESBURG: on a dead tree up the hill just below/west of a sharp bend in the path.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-14",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #14",
+   "region": "New Hanover",
+   "location": "Hilltop south-west of Annesburg, halfway between the 'D' of ROANOKE RIDGE and the Kamassa River.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc"
+   ],
+   "confidence": "single-source"
+  },
+  {
+   "id": "dreamcatcher-15",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #15",
+   "region": "New Hanover",
+   "location": "Directly south of Elysian Pool, east of the second 'E' of HANOVER: uphill just past a large boulder.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-16",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #16",
+   "region": "New Hanover",
+   "location": "Inside the 'O' of NEW HANOVER (right side): multi-branched tree near the top of a wooded hill.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-17",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #17",
+   "region": "New Hanover",
+   "location": "Heartland Overflow, between the 'A' and 'N' of NEW HANOVER: lone tree north of the trail, north-east of Guthrie Farm before the lakes.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-18",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #18",
+   "region": "Lemoyne",
+   "location": "Just south of the New Hanover border, north-west of Aberdeen Pig Farm (west of the 'p' of PIG): the only tree on a grassy open field beyond the junction under the tracks.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-19",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #19",
+   "region": "Lemoyne",
+   "location": "North of the path between Aberdeen Pig Farm and Lonnie's Shack, just north-west of the LONNIE'S SHACK label: a dead tree beyond the tracks.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-20",
+   "set": "dreamcatchers",
+   "name": "Dreamcatcher #20",
+   "region": "New Hanover",
+   "location": "On the Lemoyne/New Hanover border north of the 'B' of BLUEWATER MARSH: tree between two diverging roads just west of a junction.",
+   "availableFrom": "2",
+   "missableNote": "Not missable; all are in areas open to Arthur from Chapter 2 and can be finished in the Epilogue.",
+   "sources": [
+    "wiki-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "dreamcatcher-reward-ancient-arrowhead",
+   "set": "dreamcatchers-reward",
+   "name": "Ancient Arrowhead (reward after all 20)",
+   "region": "New Hanover",
+   "location": "Elysian Pool: walk through the waterfall into the cave, equip the lantern, keep to the right-hand passages and climb to the cave painting; interact with the animal's eye to take the Ancient Arrowhead (bow stamina perk).",
+   "availableFrom": "2",
+   "sources": [
+    "wiki-dc",
+    "ppx-dc",
+    "gr-dc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-01",
+   "set": "rock-carvings",
+   "name": "Rock Carving #1",
+   "region": "Ambarino",
+   "location": "Grizzlies West: at the end of the road up Mount Hagen, carved into the mountainside.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-02",
+   "set": "rock-carvings",
+   "name": "Rock Carving #2",
+   "region": "Ambarino",
+   "location": "Whinyard Strait (east of the 'H' of WHINYARD): on a rock facing the river.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-03",
+   "set": "rock-carvings",
+   "name": "Rock Carving #3",
+   "region": "New Hanover",
+   "location": "Bacchus Station: approach the mountain from the south side of the river, go to the top and take the passage down between the trees; carving is high up near the top, facing the river.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-04",
+   "set": "rock-carvings",
+   "name": "Rock Carving #4",
+   "region": "New Hanover",
+   "location": "West edge of Cumberland Forest: on a cliff facing west over the Dakota River - follow the small pass down (or drop down at full health).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-05",
+   "set": "rock-carvings",
+   "name": "Rock Carving #5",
+   "region": "West Elizabeth",
+   "location": "Western shore of Owanjila Lake, roughly opposite Owanjila Dam.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-06",
+   "set": "rock-carvings",
+   "name": "Rock Carving #6",
+   "region": "West Elizabeth",
+   "location": "North of Strawberry (top-right of the 'T' of WEST): on the mountain edge facing a valley - follow the path down toward a giant skeleton and round the corner toward the drop.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-07",
+   "set": "rock-carvings",
+   "name": "Rock Carving #7",
+   "region": "New Hanover",
+   "location": "Near the top of the mountain north-west of Flatneck Station (looks like two stone walls stacked).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-08",
+   "set": "rock-carvings",
+   "name": "Rock Carving #8",
+   "region": "Ambarino",
+   "location": "Grizzlies East, south of Moonstone Pond: on a rock on the plateau (pyramid carving).",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-09",
+   "set": "rock-carvings",
+   "name": "Rock Carving #9",
+   "region": "New Hanover",
+   "location": "Roanoke Ridge, west of the 'N' of ROANOKE near Brandywine Drop: on a rock facing the road, visible from the road.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "rock-carving-10",
+   "set": "rock-carvings",
+   "name": "Rock Carving #10",
+   "region": "New Hanover",
+   "location": "East side of Elysian Pool by the road, just north of the bridge: large carving.",
+   "availableFrom": "2",
+   "missableNote": "Not missable. Only 9 can be recorded before meeting Francis Sinclair; the 10th needs the quest started. After the final cutscene grab the Old Brass Compass (talisman material) from his cabin table before leaving - the cabin locks afterwards.",
+   "sources": [
+    "wiki-rc",
+    "ppx-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "exotics-request-1",
+   "set": "exotics",
+   "name": "Duchesses and other Animals - Request 1",
+   "region": "Lemoyne (mostly)",
+   "location": "Items: 5 Little Egret Plumes, 5 Reddish Egret Plumes, 5 Snowy Egret Plumes, 15 Lady of the Night Orchids. Where: Egrets: daytime (around noon) in the west Bayou Nwa; Lady of the Night grows on trees in Bayou Nwa. Deliver to Algernon Wasp's greenhouse in north Saint Denis to unlock the next list.",
+   "availableFrom": "4",
+   "missableNote": "No deadline found in sources: requests can be finished after the story. Each list only opens after the previous one is handed in, so pre-farming plumes/eggs/orchids speeds it up (watch the Herbalist 9 interaction noted on the wiki).",
+   "sources": [
+    "wiki-duchesses",
+    "ppx-exotics"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "exotics-request-2",
+   "set": "exotics",
+   "name": "Duchesses and other Animals - Request 2",
+   "region": "Lemoyne (mostly)",
+   "location": "Items: 20 Heron Plumes, 7 Lady Slipper Orchids, 10 Moccasin Flower Orchids. Where: Herons: Bayou Nwa / Bluewater Marsh by day; Lady Slipper on the ground in Big Valley and Tall Trees; Moccasin Flower around Butcher Creek, Roanoke Ridge. Deliver to Algernon Wasp's greenhouse in north Saint Denis to unlock the next list.",
+   "availableFrom": "4",
+   "missableNote": "No deadline found in sources: requests can be finished after the story. Each list only opens after the previous one is handed in, so pre-farming plumes/eggs/orchids speeds it up (watch the Herbalist 9 interaction noted on the wiki).",
+   "sources": [
+    "wiki-duchesses",
+    "ppx-exotics"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "exotics-request-3",
+   "set": "exotics",
+   "name": "Duchesses and other Animals - Request 3",
+   "region": "Lemoyne (mostly)",
+   "location": "Items: 25 Gator Eggs, 3 Acuna's Star Orchids, 7 Cigar Orchids, 5 Ghost Orchids. Where: Gator nests (3-5 eggs each) near water in the Lemoyne swamps around Shady Belle and the bayou; orchids on trees in the Lemoyne wetlands. Deliver to Algernon Wasp's greenhouse in north Saint Denis to unlock the next list.",
+   "availableFrom": "4",
+   "missableNote": "No deadline found in sources: requests can be finished after the story. Each list only opens after the previous one is handed in, so pre-farming plumes/eggs/orchids speeds it up (watch the Herbalist 9 interaction noted on the wiki).",
+   "sources": [
+    "wiki-duchesses",
+    "ppx-exotics"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "exotics-request-4",
+   "set": "exotics",
+   "name": "Duchesses and other Animals - Request 4",
+   "region": "Lemoyne (mostly)",
+   "location": "Items: 30 Spoonbill Plumes, 10 Rat Tail Orchids, 5 Spider Orchids, 5 Night Scented Orchids. Where: Spoonbills: Bluewater Marsh / Bayou Nwa around noon; Rat Tail in Bayou Nwa & Bluewater Marsh; Spider around Bayall Edge; Night Scented south-east of Braithwaite Manor / Bolger Glade. Deliver to Algernon Wasp's greenhouse in north Saint Denis to unlock the next list.",
+   "availableFrom": "4",
+   "missableNote": "No deadline found in sources: requests can be finished after the story. Each list only opens after the previous one is handed in, so pre-farming plumes/eggs/orchids speeds it up (watch the Herbalist 9 interaction noted on the wiki).",
+   "sources": [
+    "wiki-duchesses",
+    "ppx-exotics"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "exotics-request-5",
+   "set": "exotics",
+   "name": "Duchesses and other Animals - Request 5",
+   "region": "Lemoyne (mostly)",
+   "location": "Items: 5 Clamshell Orchids, 5 Queen's Orchids, 10 Sparrow's Egg Orchids, 5 Dragon's Mouth Orchids. Where: Clamshell on the west banks of the Kamassa/Lannahechee west of Saint Denis; Queen's in the swamp between Lagras and Lakay; Sparrow's Egg in Roanoke Ridge between Elysian Pool and Roanoke Valley; Dragon's Mouth in Grizzlies East. Deliver to Algernon Wasp's greenhouse in north Saint Denis to unlock the next list.",
+   "availableFrom": "4",
+   "missableNote": "No deadline found in sources: requests can be finished after the story. Each list only opens after the previous one is handed in, so pre-farming plumes/eggs/orchids speeds it up (watch the Herbalist 9 interaction noted on the wiki).",
+   "sources": [
+    "wiki-duchesses",
+    "ppx-exotics"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-jack-hall-gang-start",
+   "set": "treasure-hunts:jack-hall-gang",
+   "name": "Jack Hall Gang - start",
+   "region": "New Hanover",
+   "location": "Buy the map from Maximo Cristobal Valdespino west of Flatneck Station / south-west of Horseshoe Overlook ('All That Glitters'); decline $10 so he drops to $5. If lost, buy it from a fence.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-jack-hall-gang-clue-1",
+   "set": "treasure-hunts:jack-hall-gang",
+   "name": "Jack Hall Gang - clue 1",
+   "region": "New Hanover",
+   "location": "Caliban's Seat: climb up, take the path down the right-hand side, jump across ledges to a crevice in the rock wall.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-jack-hall-gang-clue-2",
+   "set": "treasure-hunts:jack-hall-gang",
+   "name": "Jack Hall Gang - clue 2",
+   "region": "Ambarino",
+   "location": "Cotorra Springs among the geysers: under the central rock/stone pile of the rectangular arrangement (wiki: the largest rock at the top - circle it until the prompt appears).",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-jack-hall-gang-treasure",
+   "set": "treasure-hunts:jack-hall-gang",
+   "name": "Jack Hall Gang - treasure",
+   "region": "Ambarino",
+   "location": "O'Creagh's Run: swim to the small island; loose rock on its south side hides 2 gold bars.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-poisonous-trail-start",
+   "set": "treasure-hunts:poisonous-trail",
+   "name": "Poisonous Trail - start",
+   "region": "Ambarino",
+   "location": "Cairn Lodge at Cairn Lake (far north-west): lockbox under the bed next to the door.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-poisonous-trail-clue-1",
+   "set": "treasure-hunts:poisonous-trail",
+   "name": "Poisonous Trail - clue 1",
+   "region": "Lemoyne",
+   "location": "Scarlett Meadows near Face Rock, west of Ringneck Creek, north-west of Hill Haven Ranch: in the base of a hollow/dead tree halfway up a hill.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-poisonous-trail-clue-2",
+   "set": "treasure-hunts:poisonous-trail",
+   "name": "Poisonous Trail - clue 2",
+   "region": "New Hanover",
+   "location": "Serpent Mound, lower Roanoke Ridge west of Van Horn: in the hole at the centre of the oval stone formation at the mound's west end.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-poisonous-trail-treasure",
+   "set": "treasure-hunts:poisonous-trail",
+   "name": "Poisonous Trail - treasure",
+   "region": "New Hanover",
+   "location": "Elysian Pool waterfall cave: bring a lantern, drop down on the right, crawl through the gap and hug the right wall to the tunnel end; 4 gold bars.",
+   "availableFrom": "2",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-high-stakes-start",
+   "set": "treasure-hunts:high-stakes",
+   "name": "High Stakes - start",
+   "region": "West Elizabeth",
+   "location": "Random treasure hunter encounter between Diablo Ridge and Riggs Station; hogtie/knock him down (or kill) for the map, or buy it from a fence if you let him go several times.",
+   "availableFrom": "3",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-high-stakes-clue-1",
+   "set": "treasure-hunts:high-stakes",
+   "name": "High Stakes - clue 1",
+   "region": "New Hanover",
+   "location": "Behind the Cumberland Falls waterfall (walk up the log on the right side).",
+   "availableFrom": "3",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-high-stakes-clue-2",
+   "set": "treasure-hunts:high-stakes",
+   "name": "High Stakes - clue 2",
+   "region": "Ambarino",
+   "location": "Barrow Lagoon (frozen lake north-west of Valentine): in the log/broken tree between the island and shore.",
+   "availableFrom": "3",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "treasure-high-stakes-treasure",
+   "set": "treasure-hunts:high-stakes",
+   "name": "High Stakes - treasure",
+   "region": "New Hanover",
+   "location": "Ridge between Fort Wallace and Bacchus Station above the river: drop ledge to ledge down the cliff side (above a rock carving) to a crevice; 3 gold bars.",
+   "availableFrom": "3",
+   "missableNote": "Not missable.",
+   "sources": [
+    "ppx-treasure",
+    "wiki-treasure"
+   ],
+   "confidence": "confirmed"
+  }
+ ],
+ "missables": [
+  {
+   "id": "missable-robin-koninsky-card",
+   "what": "Pick up the Robin Koninsky (Stars of the Stage) card from Theatre Raleur without spending the Theatre Ticket",
+   "deadline": "Before starting Chapter 4 'The Gilded Cage' (only matters for the ticket; card itself is buyable)",
+   "recommendedTiming": "Chapter 4, right after 'Fatherhood and Other Dreams'",
+   "why": "The card only appears after all 5 shows; after 'The Gilded Cage' the game auto-uses your Theatre Ticket for admission. Not trophy-critical - cards can be bought.",
+   "howTo": [
+    "Finish 'Fatherhood and Other Dreams'.",
+    "Watch all five Theatre Raleur shows.",
+    "Walk off stage-left behind the curtain and take the card."
+   ],
+   "sources": [
+    "wiki-cards",
+    "r2o-cards"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "missable-old-brass-compass",
+   "what": "Old Brass Compass in Francis Sinclair's cabin",
+   "deadline": "Leaving the cabin after the Geology for Beginners finale",
+   "recommendedTiming": "Immediately after the final cutscene",
+   "why": "The cabin locks afterwards (PowerPyx; wiki says a reload trick/patch may reopen it). Talisman crafting material, not needed for Collector's Item.",
+   "howTo": [
+    "Re-enter the cabin after the cutscene and loot the compass from the table."
+   ],
+   "sources": [
+    "ppx-rc",
+    "wiki-rc"
+   ],
+   "confidence": "confirmed"
+  },
+  {
+   "id": "missable-fort-wallace-cards",
+   "what": "Physical Turkoman / Emmet Granger cards at Fort Wallace",
+   "deadline": "Start of Chapter 6 'Our Best Selves' (wiki)",
+   "recommendedTiming": "Ignore - buy Premium Cigarettes",
+   "why": "Wiki says the Fort Wallace copies are only reachable between 'The King's Son' and 'Our Best Selves'. Emmet Granger also exists at Canebreak Manor; every card can be bought, so nothing is truly lost.",
+   "howTo": [
+    "Buy Premium Cigarettes at a general store, drop them, repeat until the card appears."
+   ],
+   "sources": [
+    "wiki-cards"
+   ],
+   "confidence": "single-source"
+  }
+ ],
+ "notes": [
+  "Trophies that depend on this area: Collector's Item (silver, any 1 of 4 strands), Western Stranger (bronze, 10 strands), Best in the West (gold, 100%), plus It's Art (squirrel statue, from A Better World A New Friend) and Paying Respects (9 graves). No trophy needs all cigarette cards specifically. (sources: ppx-trophy, wiki-trophies)",
+  "100% (Best in the West) needs: 1 cigarette card set, all 30 bones (A Test of Faith), all 20 dreamcatchers, all 10 rock carvings (Geology for Beginners), all exotics (Duchesses), all 13 legendary fish (A Fisher of Fish), all 5 hunting requests (A Better World, A New Friend), 1 treasure hunt chain, 1 point of interest, 9 graves, 6 gang hideouts. (sources: wiki-100, ppx-100, r2o-100)",
+  "Collecting items alone does nothing for 100%/Collector's Item: bones, carvings and card sets must be mailed at a post office, time must pass (about 1 day bones, 2 days carvings), then the final visit to the quest giver completes the strand. (sources: ppx-bones, ppx-rc, wiki-rc)",
+  "Cigarette card shortcut: buy Premium Cigarettes at a general store, drop the packs from the satchel and rebuy; each pack gives a random card. Roughly $700-$2000 depending on satchel/honor; rewards and fencing duplicates recoup it. Do NOT sell a card you still need - mailing needs the physical card even if the compendium shows it. (sources: ppx-cards, wiki-cards)",
+  "Premium Cigarettes are sold at Armadillo, Rhodes, Saint Denis, Strawberry, Tumbleweed, Valentine, Van Horn Trading Post and Wallace Station general stores. (sources: wiki-cards)",
+  "Phineas T. Ramsbottom (Smoking and other Hobbies) appears at Flatneck Station from Chapter 2 after 'Who is Not Without Sin'. About one card per set only spawns in the world after accepting his quest. (sources: ppx-cards, wiki-cards)",
+  "Set-completion rewards: first set mailed = Vintage Civil War Handcuffs; all 12 = extra $200. (sources: wiki-cards, r2o-cards)",
+  "Picking up another card after completing Smoking and other Hobbies can re-open it in the log (wiki oversight). (sources: wiki-cards)",
+  "Dinosaur bones: 8 of 30 are in New Austin, so A Test of Faith can only be finished as John in the Epilogue. (sources: ppx-bones, wiki-bones, gr-bones)",
+  "Explorer challenges (part of all 90 challenges for 100%): rank 1 = find any treasure map; ranks 2-10 = find a treasure, where intermediate maps count. Jack Hall + Poisonous Trail + High Stakes are enough; Landmarks of Riches (starts at the obelisk NW of Owanjila) and Elemental Trail (Epilogue, starts SW of Tumbleweed) are optional. Torn/Sketched maps do not count. (sources: wiki-explorer, ppx-treasure, wiki-treasure)",
+  "Gang hideouts for 100%: Six Point Cabin (Ch2), Shady Belle (Ch3), Beaver Hollow (Ch5), Hanging Dog Ranch (Ch6) are automatic from story; Thieves Landing and Fort Mercer must be cleared in the Epilogue. (sources: ppx-gang, ppx-100)",
+  "Eligible Western Stranger strands (22, PowerPyx): Noblest of Men and a Woman, Smell of the Grease Paint, Arcadia for Amateurs, American Dreams, A Fine Night For It, Geology for Beginners, A Test of Faith, Smoking and other Hobbies, He's British of Course, A Fisher of Fish, Iniquities of History, No Good Deed, Oh Brother, A Bright Bouncing Boy, Mercies of Knowledge, The Artist's Way, Ties That Bind Us, Duchesses and other Animals, Idealism and Pragmatism for Beginners, Wisdom of the Elders, The Veteran, American Inferno Burnt Out. (sources: ppx-strangers, tt-ws)",
+  "Duchesses and other Animals opens in Chapter 4 after 'The Gilded Cage'; saving Algernon from choking is NOT required (another guest saves him). Cash total $750 (wiki) / $760 (PowerPyx) plus Exotic Hat and Algernon's Revolver. (sources: wiki-duchesses, ppx-duchesses)",
+  "Egret/heron/spoonbill farming tip: noon in the western Bayou Nwa; to respawn, ride away (e.g. to Rhodes), fast travel, sleep, return. Plants glow blue in Eagle Eye and never despawn. (sources: ppx-exotics)",
+  "Coordinates are intentionally omitted; location text uses map-label letters and landmarks as the sources do."
+ ],
+ "disputes": [
+  {
+   "topic": "Cigarette cards needed for 100%",
+   "details": "PowerPyx's trophy guide says all four collectible strands (incl. all 144 cards) are needed for 100%, and its checklist line lists '144 Cigarette Cards', while its own checklist text, the in-game task text it quotes, the wiki and RDR2.org say only ONE complete set is needed.",
+   "positions": [
+    {
+     "claim": "Only 1 complete set of 12 cards is required for 100%",
+     "sources": [
+      "wiki-100",
+      "wiki-cards",
+      "r2o-100",
+      "ppx-100",
+      "ppx-cards"
+     ]
+    },
+    {
+     "claim": "All 144 cards needed for 100%",
+     "sources": [
+      "ppx-trophy"
+     ]
+    }
+   ],
+   "suggestedHandling": "Tell the player 1 set suffices for 100%; all 144 are only needed if they choose cards for Collector's Item (rock carvings are faster)."
+  },
+  {
+   "topic": "Dinosaur bones needed for 100%",
+   "details": "The wiki Dinosaur Bones and Rock Carvings pages claim finding just one item is enough, but the wiki 100% page, PowerPyx and RDR2.org require completing A Test of Faith / Geology for Beginners.",
+   "positions": [
+    {
+     "claim": "All 30 bones / all 10 carvings (complete the strand)",
+     "sources": [
+      "wiki-100",
+      "ppx-100",
+      "ppx-bones",
+      "ppx-rc",
+      "r2o-100"
+     ]
+    },
+    {
+     "claim": "At least one bone/carving",
+     "sources": [
+      "wiki-bones",
+      "wiki-rc"
+     ]
+    }
+   ],
+   "suggestedHandling": "Require the full strands."
+  },
+  {
+   "topic": "Gang hideouts for 100%",
+   "details": "Wiki says 'clear 6'; RDR2.org says 'all'; PowerPyx says all 6 (7 exist only in Special/Ultimate editions via Twin Rocks).",
+   "positions": [
+    {
+     "claim": "6",
+     "sources": [
+      "wiki-100",
+      "ppx-100",
+      "ppx-gang"
+     ]
+    },
+    {
+     "claim": "All hideouts",
+     "sources": [
+      "r2o-100"
+     ]
+    }
+   ],
+   "suggestedHandling": "Say 6 (all six standard-edition hideouts); Twin Rocks is a bonus only in some editions."
+  },
+  {
+   "topic": "Western Stranger eligibility of A Better World, A New Friend and other wiki-listed strangers",
+   "details": "PowerPyx's 22-strand list excludes hunting requests, Brothers and Sisters One and All, Of Men and Angels and To the Ends of the Earth, which the wiki lists as stranger missions. TrueTrophies only says multi-part strands count.",
+   "positions": [
+    {
+     "claim": "22 eligible strands as listed by PowerPyx",
+     "sources": [
+      "ppx-strangers",
+      "ppx-trophy"
+     ]
+    },
+    {
+     "claim": "Wiki lists additional stranger missions without stating eligibility",
+     "sources": [
+      "wiki-strangers"
+     ]
+    }
+   ],
+   "suggestedHandling": "Recommend finishing 12+ strands from the PowerPyx list; do not rely on the unlisted ones."
+  },
+  {
+   "topic": "Turkoman card location",
+   "details": "Wiki: crate at the base of Fort Wallace's NW tower (time-limited, Chapter 6). RDR2.org: workbench in a cabin by O'Creagh's Run.",
+   "positions": [
+    {
+     "claim": "Fort Wallace NW tower",
+     "sources": [
+      "wiki-cards"
+     ]
+    },
+    {
+     "claim": "Cabin near O'Creagh's Run",
+     "sources": [
+      "r2o-cards"
+     ]
+    }
+   ],
+   "suggestedHandling": "Tell players to buy it from Premium Cigarette packs."
+  },
+  {
+   "topic": "Cylinder Phonograph card saloon",
+   "details": "Wiki: Smithfield's Saloon windowsill by the piano; RDR2.org: Keane's Saloon, Valentine.",
+   "positions": [
+    {
+     "claim": "Smithfield's Saloon",
+     "sources": [
+      "wiki-cards"
+     ]
+    },
+    {
+     "claim": "Keane's Saloon",
+     "sources": [
+      "r2o-cards"
+     ]
+    }
+   ],
+   "suggestedHandling": "Check the windowsills by the piano in both Valentine saloons, or buy it."
+  },
+  {
+   "topic": "American Standardbred / Missouri Fox Trotter cards",
+   "details": "Wiki gives the identical spot (boy's bedroom table at Catfish Jackson's) for both; RDR2.org gives two different bedrooms in houses south of Braithwaite Manor by the water/Lannahechee River.",
+   "positions": [
+    {
+     "claim": "Same table in Catfish Jackson's boy's bedroom",
+     "sources": [
+      "wiki-cards"
+     ]
+    },
+    {
+     "claim": "Two different bedrooms of riverside houses south of Braithwaite",
+     "sources": [
+      "r2o-cards"
+     ]
+    }
+   ],
+   "suggestedHandling": "Search all bedrooms at Catfish Jackson's; fallback to buying."
+  },
+  {
+   "topic": "Cigarette card set names",
+   "details": "RDR2.org uses 'Breeds of Horses', 'Fauna/Flora of North America', 'The World's Champion'; the wiki uses 'Horses', 'Fauna/Flora of America', 'World Champions'; PowerPyx abbreviates ('Artists', 'Americans'). Card spellings also differ (Elsie/Elise Rose, George/Georgie Dixie, Richard/Rochard McCullough, Theobaud/Theobald Getzin).",
+   "positions": [
+    {
+     "claim": "Wiki names",
+     "sources": [
+      "wiki-cards"
+     ]
+    },
+    {
+     "claim": "RDR2.org names",
+     "sources": [
+      "r2o-cards"
+     ]
+    }
+   ],
+   "suggestedHandling": "Use wiki spellings (used here); verify against the in-game compendium when possible."
+  },
+  {
+   "topic": "Riggs Station state",
+   "details": "Wiki's Marvels of Travel table lists Riggs Station (Stagecoach card) under New Hanover; RDR2.org says West Elizabeth.",
+   "positions": [
+    {
+     "claim": "West Elizabeth",
+     "sources": [
+      "r2o-cards"
+     ]
+    },
+    {
+     "claim": "New Hanover",
+     "sources": [
+      "wiki-cards"
+     ]
+    }
+   ],
+   "suggestedHandling": "Recorded as West Elizabeth; merge agent may verify with map data."
+  },
+  {
+   "topic": "Dreamcatcher near The Loft / Annesburg cluster",
+   "details": "Wiki puts the Grizzlies East dreamcatcher south-west of The Loft, GamesRadar south-east. Three Annesburg-area dreamcatchers (wiki #11, #12, #14) could not be matched one-to-one to GamesRadar descriptions.",
+   "positions": [
+    {
+     "claim": "South-west of The Loft",
+     "sources": [
+      "wiki-dc"
+     ]
+    },
+    {
+     "claim": "South-east of The Loft",
+     "sources": [
+      "gr-dc"
+     ]
+    }
+   ],
+   "suggestedHandling": "Use map pins from the coordinate agent; wording kept generic ('downhill from The Loft')."
+  },
+  {
+   "topic": "Dinosaur bone wording mismatches",
+   "details": "Wiki and GamesRadar number bones differently; Ambarino #3 and New Hanover #11/#12 and New Austin #5 descriptions differ in landmark and are marked single-source.",
+   "positions": [
+    {
+     "claim": "Wiki region/map-letter descriptions",
+     "sources": [
+      "wiki-bones"
+     ]
+    },
+    {
+     "claim": "GamesRadar landmark descriptions",
+     "sources": [
+      "gr-bones"
+     ]
+    }
+   ],
+   "suggestedHandling": "Rely on coordinate dataset pins for these four."
+  },
+  {
+   "topic": "Duchesses and other Animals cash reward total",
+   "details": "Total cash: wiki $750 vs PowerPyx $760.",
+   "positions": [
+    {
+     "claim": "$750",
+     "sources": [
+      "wiki-duchesses"
+     ]
+    },
+    {
+     "claim": "$760",
+     "sources": [
+      "ppx-duchesses"
+     ]
+    }
+   ],
+   "suggestedHandling": "Do not state an exact cash total."
+  },
+  {
+   "topic": "High Stakes treasure availability",
+   "details": "PowerPyx: Chapter 3 after 'The New South'. Wiki: after triggering All That Glitters (meeting Maximo).",
+   "positions": [
+    {
+     "claim": "Chapter 3 after The New South",
+     "sources": [
+      "ppx-treasure"
+     ]
+    },
+    {
+     "claim": "After meeting Maximo (All That Glitters)",
+     "sources": [
+      "wiki-treasure"
+     ]
+    }
+   ],
+   "suggestedHandling": "Tell players to meet Maximo first and look for the hunter from Chapter 3 on."
+  },
+  {
+   "topic": "Blackwater cards for Arthur",
+   "details": "Several cards are in Blackwater (Typewriter, Aldous Bramley, Evelyn Miller, Black Belle, Sadie Russell, Blackwater vista). Whether Arthur can safely collect them before the Epilogue was not verified in this research.",
+   "positions": [
+    {
+     "claim": "No availability restriction stated",
+     "sources": [
+      "wiki-cards",
+      "r2o-cards"
+     ]
+    }
+   ],
+   "suggestedHandling": "No availableFrom set; buying cards avoids the issue."
+  }
+ ]
+}

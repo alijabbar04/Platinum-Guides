@@ -1,0 +1,1163 @@
+{
+ "missableSteps": [
+  {
+   "order": 4,
+   "part": "start",
+   "id": "start-honor-strategy",
+   "type": "info",
+   "title": "Stay honourable for the whole story",
+   "how": [
+    "Keep Arthur's Honor on the good (white) side from the very start.",
+    "You need at least Honor level 4 of 8 by Chapter 6, or one of the optional honor missions will not start and Lending a Hand is lost.",
+    "Greet people, help strangers you meet on the road, and hogtie rather than kill when you can.",
+    "Don't rob or kill random people. If you do something dishonourable by accident, reload.",
+    "Catching and releasing fish, and handing in bounties alive, are quick ways to raise Honor.",
+    "Leave Extreme Personality (maximum Honor) for Chapter 6 or later. The top Honor level is locked until late in the story."
+   ],
+   "unverified": "Guides describe the Chapter 6 requirement as 'level 4 of 8', 'halfway into the white' or just 'high honor'. These mean the same thing, but aim higher to be safe."
+  },
+  {
+   "order": 11,
+   "part": "ch1",
+   "id": "ch1-w-before-leviticus-cornwall",
+   "type": "warning",
+   "title": "Save before the train mission",
+   "deadline": "during 'Who the Hell is Leviticus Cornwall?'",
+   "how": [
+    "Make a manual save now.",
+    "The next mission contains two documents that can only be picked up during it: 'Mining Company Letter to Cornwall' and 'Oil Company Letter to Cornwall'.",
+    "They are for compendium completeness only. No trophy needs them, so don't reload just for these."
+   ],
+   "unverified": "Only one source (the Codeberg missables checklist) lists these two documents as missable. The research does not say exactly where in the train they are."
+  },
+  {
+   "order": 12,
+   "part": "ch1",
+   "id": "ch1-m-who-the-hell-is-leviticus-cornwall",
+   "type": "mission",
+   "title": "Play 'Who the Hell is Leviticus Cornwall?'",
+   "missionName": "Who the Hell is Leviticus Cornwall?",
+   "deadline": "the two Cornwall letters are lost when this mission ends",
+   "how": [
+    "Start it from the mission marker at Colter camp.",
+    "After the shootout, search the train cars and pick up both Cornwall letters before you leave.",
+    "Don't use any health items during the mission."
+   ],
+   "unverified": "Only one source lists the Cornwall letters, and it gives no exact location inside the train."
+  },
+  {
+   "order": 13,
+   "part": "ch1",
+   "id": "ch1-w-before-eastward-bound",
+   "type": "warning",
+   "title": "Save before leaving the mountains",
+   "how": [
+    "Make a manual save now, in a slot you will keep.",
+    "The next mission ends Chapter 1 and you can't return to Colter camp during the story.",
+    "Nothing trophy-related is lost here. If you skipped the Cornwall letters during the train mission, they are already gone. That doesn't matter for trophies."
+   ],
+   "unverified": "Sources disagree on which mission closes Chapter 1. The mission research marks 'Eastward Bound' as the point of no return, while the missables research names 'Who the Hell is Leviticus Cornwall?'. There are no trophy missables in Chapter 1 either way."
+  },
+  {
+   "order": 18,
+   "part": "ch2",
+   "id": "ch2-t-give-to-the-poor",
+   "type": "task",
+   "title": "Donate $250 to the camp tithing box",
+   "deadline": "before finishing 'Banking, the Old American Art' (end of Chapter 4)",
+   "how": [
+    "Walk to the tithing box in camp and interact with it.",
+    "Donate cash. Your donations add up across visits.",
+    "Keep donating from story payouts until your own total reaches $250. Gang members' donations don't count.",
+    "Tick this step when the trophy pops."
+   ],
+   "unverified": "PowerPyx says donated valuables also count towards the $250. Other guides recommend plain cash because it's tracked reliably. Donate cash to be safe."
+  },
+  {
+   "order": 21,
+   "part": "ch2",
+   "id": "ch2-t-friends-with-benefits",
+   "type": "task",
+   "title": "Do a companion activity with Charles",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Go back to camp in daytime and talk to Charles.",
+    "Accept his hunting outing and finish it.",
+    "If he doesn't offer it, do another story mission or sleep in your tent, then try again.",
+    "Javier's home robbery in Valentine also counts, but it costs Honor. Prefer the hunt.",
+    "Don't rely on table games with gang members (five finger fillet, dominoes). They may not count."
+   ],
+   "unverified": "Guides disagree on whether finished camp table games (such as Lenny's five finger fillet) count. PowerPyx and DamnModz say they don't; one search-summary source says they do. Guides also disagree on whether Javier's Chapter 2 home robbery can still be done in Chapter 3. Do Charles's hunt in Chapter 2 to be safe. The research says the hunt is for bison but that detail comes from one source."
+  },
+  {
+   "order": 22,
+   "part": "ch2",
+   "id": "ch2-t-errand-boy",
+   "type": "task",
+   "title": "Deliver camp item requests",
+   "deadline": "Chapter 2 requests: before 'The Sheep and the Goats'. Trophy: before finishing 'Banking, the Old American Art'",
+   "how": [
+    "Spend some daytime (08:00-20:00) in camp and talk to gang members. Some will ask for an item.",
+    "Do the Chapter-2-only requests first: Abigail wants $5, Jack a comic book and a thimble, Javier Oleander Sage, Mary-Beth a fountain pen, Sean Kentucky Bourbon, Pearson an unskinned rabbit.",
+    "Buy Kentucky Bourbon (Sean) or Pomade (Bill) at a General Store. Buy Moonshine for Charles at a Fence.",
+    "Mary-Beth's fountain pen is on a nightstand at Osman Grove, east of Emerald Ranch.",
+    "Hand each item over by talking to the person who asked.",
+    "Deliver 5 in total. Chapters 3 and 4 give more chances, but finish in Chapter 2 if you can."
+   ],
+   "unverified": "One source (the Red Dead Wiki, via search summary) says item requests also appear in the Epilogue. Other guides say Chapters 2-4 only. Treat the end of Chapter 4 as the hard deadline."
+  },
+  {
+   "order": 30,
+   "part": "ch2",
+   "id": "ch2-m-money-lending-and-other-sins-i-ii",
+   "type": "mission",
+   "title": "Collect Strauss's debts (Money Lending I & II)",
+   "missionName": "Money Lending and Other Sins - I & II",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Talk to Leopold Strauss in camp to get the debt-collection jobs.",
+    "Visit every debtor on his list, not just one. The story only needs one, but guides say all of them must be done for Lending a Hand.",
+    "There is no gold medal for this part."
+   ],
+   "unverified": "The mission research says collecting one debtor is enough to move on; the missables research says every collection task must be done for Lending a Hand. Collect them all."
+  },
+  {
+   "order": 31,
+   "part": "ch2",
+   "id": "ch2-m-money-lending-and-other-sins-iii",
+   "type": "mission",
+   "title": "Play 'Money Lending and Other Sins III'",
+   "missionName": "Money Lending and Other Sins - III",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Start it from the mission icon at camp once it appears.",
+    "Skip cutscenes and ride hard. The gold medal is only a time limit."
+   ]
+  },
+  {
+   "order": 36,
+   "part": "ch2",
+   "id": "ch2-m-pouring-forth-oil-ii",
+   "type": "mission",
+   "title": "Play 'Pouring Forth Oil II'",
+   "missionName": "Pouring Forth Oil - II",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Start it from John's mission icon.",
+    "Kill pursuers quickly and keep the wagon at full speed on the road."
+   ],
+   "unverified": "Codeberg lists Pouring Forth Oil II as a missable Chapter 2 mission, and PowerPyx says to do it for Lending a Hand to be safe. PowerPyx also says 'The Sheep and the Goats' only unlocks after Pouring Forth Oil IV, which suggests this chain is required anyway. Finish it in Chapter 2 regardless."
+  },
+  {
+   "order": 40,
+   "part": "ch2",
+   "id": "ch2-m-we-loved-once-and-true-i-ii",
+   "type": "mission",
+   "title": "Read the letter in Arthur's tent (We Loved Once I & II)",
+   "missionName": "We Loved Once and True - I & II",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Check Arthur's tent for a letter. Read it to start 'We Loved Once and True'.",
+    "The letter may arrive earlier than this point. Start it as soon as it's there.",
+    "Play parts I and II. They have no gold medals, but you need them to reach part III."
+   ]
+  },
+  {
+   "order": 41,
+   "part": "ch2",
+   "id": "ch2-m-we-loved-once-and-true-iii",
+   "type": "mission",
+   "title": "Play 'We Loved Once and True III'",
+   "missionName": "We Loved Once and True - III",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Start part III when it's offered.",
+    "Stay peaceful the whole way through.",
+    "When talking to the group's leader, answer 'Undecided', then 'Purpose'.",
+    "If a gun is drawn, shoot the gun out of his hand. Don't shoot the person.",
+    "Use a Horse Stimulant for the timed ride back to Valentine station."
+   ],
+   "unverified": "The dialogue answers come from rdr2.org only."
+  },
+  {
+   "order": 42,
+   "part": "ch2",
+   "id": "ch2-m-good-honest-snake-oil",
+   "type": "mission",
+   "title": "Take the bounty from the Valentine sheriff",
+   "missionName": "Good, Honest, Snake Oil",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Go to the Valentine Sheriff's Office and start 'Good, Honest, Snake Oil'.",
+    "Approach the target calmly and act promptly. He doesn't run at first, so there's no need to sneak.",
+    "Hogtie him. Don't kill him.",
+    "Use a Horse Stimulant for the timed return to the sheriff."
+   ],
+   "unverified": "Codeberg says this mission stays available until the end of Chapter 5; PowerPyx treats it as a Chapter 2 mission. Do it now."
+  },
+  {
+   "order": 43,
+   "part": "ch2",
+   "id": "ch2-t-lending-a-hand-check",
+   "type": "task",
+   "title": "Check the Chapter 2 honor missions are done",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Open Pause > Progress > Story.",
+    "Confirm these are complete: Money Lending and Other Sins III, We Loved Once and True I-III, Good, Honest, Snake Oil, Pouring Forth Oil II.",
+    "Money Lending I and II aren't listed in the log. Make sure you visited every debtor Strauss gave you.",
+    "If any yellow honor-mission icon is still on the map, do it now."
+   ]
+  },
+  {
+   "order": 60,
+   "part": "ch2",
+   "id": "ch2-t-chapter-2-documents",
+   "type": "task",
+   "title": "Grab the Chapter 2 documents (optional)",
+   "deadline": "before starting 'The Sheep and the Goats'",
+   "how": [
+    "Dutch's Speech Notes: near the broken wagon at Horseshoe Overlook.",
+    "Charity Handbill: on Thomas Downes's table.",
+    "Antique Watch: in a drawer in Wrobel's house."
+   ],
+   "unverified": "Only one source (Codeberg) lists these, and it doesn't give full locations: 'Thomas Downes' table in Valentine' and 'Wrobel's house' aren't described further in the research."
+  },
+  {
+   "order": 61,
+   "part": "ch2",
+   "id": "ch2-w-before-the-sheep-and-the-goats",
+   "type": "warning",
+   "title": "Stop: Chapter 2 extras end with the next mission",
+   "how": [
+    "Don't start 'The Sheep and the Goats' until everything below is ticked.",
+    "'Check the Chapter 2 honor missions are done': Money Lending I-III, We Loved Once and True I-III, Good, Honest, Snake Oil, Pouring Forth Oil II.",
+    "'Do a companion activity with Charles' (Friends With Benefits, Chapter 2).",
+    "'Deliver camp item requests': hand in any Chapter-2-only request you're holding.",
+    "'Donate $250 to the camp tithing box': not lost yet (deadline Chapter 4), but finish it now if you can.",
+    "Do the 'An American Pastoral Scene' step if its icon is already on the map.",
+    "'Grab the Chapter 2 documents (optional)' if you want them.",
+    "Make a manual save now, in a slot you will keep."
+   ],
+   "unverified": "Codeberg names 'The Sheep and the Goats' as the cut-off for Chapter 2 missables. Other sources say only 'end of Chapter 2' (after 'A Strange Kindness'). The earlier deadline is used here to be safe."
+  },
+  {
+   "order": 63,
+   "part": "ch2",
+   "id": "ch2-w-before-a-strange-kindness",
+   "type": "warning",
+   "title": "Save before the last Chapter 2 mission",
+   "how": [
+    "The next mission ends Chapter 2. The gang then leaves Horseshoe Overlook, and everything tied to that camp is gone.",
+    "If you haven't done the 'An American Pastoral Scene' step yet, do it now if its icon is on the map.",
+    "Give to the Poor and Errand Boy can still be finished in Chapters 3 and 4.",
+    "Make a manual save now, in a slot you will keep."
+   ]
+  },
+  {
+   "order": 67,
+   "part": "ch3",
+   "id": "ch3-friends-with-benefits-activity",
+   "type": "task",
+   "title": "Do a companion activity at Clemens Point",
+   "deadline": "Before 'Blood Feuds, Ancient and Modern' (Sean's coach robbery: before 'Blessed are the Peacemakers' per one source). Do it before 'Blessed are the Peacemakers' to be safe.",
+   "how": [
+    "Return to camp during the day and talk to Sean or Bill: each offers a stagecoach robbery.",
+    "Alternatively, go fishing with Javier or Kieran.",
+    "Accept the invitation and play the activity through to the end.",
+    "If nobody offers one, do a story mission or sleep in your tent, then check camp again at another time of day.",
+    "Don't count on table games (five finger fillet, dominoes) with gang members for this; do an outing instead."
+   ],
+   "unverified": "Sources disagree on whether camp table games count as companion activities: PowerPyx and DamnModz say no, while a missables checklist and search snippets list them. Game Rant alone says Sean's coach robbery is gone after 'Blessed are the Peacemakers'."
+  },
+  {
+   "order": 69,
+   "part": "ch3",
+   "id": "ch3-errand-boy-requests",
+   "type": "task",
+   "title": "Deliver the Chapter 3 camp item requests",
+   "deadline": "Chapter-3-only requests are gone after 'Blood Feuds, Ancient and Modern'. The trophy itself stays possible until 'Banking, the Old American Art' (Chapter 4).",
+   "how": [
+    "Spend some daytime (about 08:00-20:00) in camp and talk to gang members until they ask for items.",
+    "For Hosea: pick 2 American Ginseng (grows in south Lemoyne).",
+    "For Kieran: pick 2 Burdock Root (grows near water).",
+    "For Molly: find a Pocket Mirror (at Martha's Swain).",
+    "For Tilly: find the Necklace she asks for.",
+    "If Pearson asks for his Naval Compass, it is in the boathouse at Braithwaite Manor.",
+    "Hand each item over by talking to that person in camp. Keep going until your running total of deliveries reaches 5."
+   ],
+   "unverified": "Only Game Rant gives the Pocket Mirror location. The Red Dead Wiki (via a search snippet) says item requests also appear in Epilogue Part 2, but most guides treat Errand Boy as lost after Chapter 4."
+  },
+  {
+   "order": 72,
+   "part": "ch3",
+   "id": "ch3-m-the-course-of-true-love-i",
+   "type": "mission",
+   "title": "Play 'The Course of True Love - I'",
+   "missionName": "The Course of True Love - I",
+   "deadline": "Before 'A Short Walk in a Pretty Town' (safest; another source says before 'Blood Feuds, Ancient and Modern')",
+   "how": [
+    "Ride to the Caliga Hall area near Rhodes and find Beau Gray's mission icon.",
+    "Play the mission. This part has no gold medal.",
+    "Only parts II and III appear in the Story log, but you must play part I to open them."
+   ],
+   "unverified": "Sources disagree on the deadline: Game Rant says before 'A Short Walk in a Pretty Town', while the Codeberg checklist and PowerPyx say before 'Blood Feuds, Ancient and Modern'. This route uses the earlier one."
+  },
+  {
+   "order": 73,
+   "part": "ch3",
+   "id": "ch3-m-the-course-of-true-love-ii",
+   "type": "mission",
+   "title": "Play 'The Course of True Love - II'",
+   "missionName": "The Course of True Love - II",
+   "deadline": "Before 'A Short Walk in a Pretty Town' (safest; another source says before 'Blood Feuds, Ancient and Modern')",
+   "how": [
+    "Start part II from Beau Gray's icon once part I is done.",
+    "Save manually before starting it; this is one of the hardest golds.",
+    "Skip cutscenes and stay on horseback."
+   ],
+   "unverified": "The deadline is disputed: Game Rant says before 'A Short Walk in a Pretty Town'; Codeberg and PowerPyx say before 'Blood Feuds, Ancient and Modern'."
+  },
+  {
+   "order": 74,
+   "part": "ch3",
+   "id": "ch3-m-the-course-of-true-love-iii",
+   "type": "mission",
+   "title": "Play 'The Course of True Love - III'",
+   "missionName": "The Course of True Love - III",
+   "deadline": "Before 'A Short Walk in a Pretty Town' (safest; another source says before 'Blood Feuds, Ancient and Modern')",
+   "how": [
+    "Start part III from Beau Gray's icon once part II is done.",
+    "Save manually before starting it.",
+    "Skip every cutscene: the timer includes them."
+   ],
+   "unverified": "The deadline is disputed: Game Rant says before 'A Short Walk in a Pretty Town'; Codeberg and PowerPyx say before 'Blood Feuds, Ancient and Modern'."
+  },
+  {
+   "order": 75,
+   "part": "ch3",
+   "id": "ch3-m-money-lending-and-other-sins-iv",
+   "type": "mission",
+   "title": "Play 'Money Lending and Other Sins - IV'",
+   "missionName": "Money Lending and Other Sins - IV",
+   "deadline": "Before 'Blood Feuds, Ancient and Modern' (do it before 'Blessed are the Peacemakers' to be safe)",
+   "how": [
+    "Talk to Strauss at camp to get the new debts.",
+    "Visit each debtor. They are in Rhodes and north of Strawberry.",
+    "Collect every debt. This part has no gold medal and doesn't appear in the Story log, but Lending a Hand needs it."
+   ]
+  },
+  {
+   "order": 84,
+   "part": "ch3",
+   "id": "ch3-m-magicians-for-sport",
+   "type": "mission",
+   "title": "Play 'Magicians for Sport' and loot the rare rifle",
+   "missionName": "Magicians for Sport",
+   "deadline": "During 'Magicians for Sport' only (rifle and Mine Share document)",
+   "how": [
+    "Save manually before starting the mission.",
+    "In the caravan, examine every highlighted clue and pick up the Mine Share document before you leave.",
+    "When the bounty hunters attack in the cornfield, find and kill the sniper.",
+    "Loot the sniper's body and take the Rare Rolling Block Rifle. You can't get it anywhere else."
+   ],
+   "unverified": "Missing the rifle doesn't block any trophy: 100% needs only 48 weapons. Some sources list its deadline as the end of Chapter 3 rather than this mission, so loot it here to be safe."
+  },
+  {
+   "order": 88,
+   "part": "ch3",
+   "id": "ch3-checkpoint-camp-extras",
+   "type": "task",
+   "title": "Check off all Chapter 3 extras now",
+   "deadline": "Before 'Blessed are the Peacemakers' (earliest cut-off given by any source)",
+   "how": [
+    "Confirm you finished 'Do a companion activity at Clemens Point'. It must be an outing (robbery or fishing), not a table game.",
+    "Confirm you finished 'The Course of True Love' I, II and III and 'Money Lending and Other Sins - IV'. Open Pause > Progress > Story and look for yellow Honor mission icons you haven't done.",
+    "Deliver any open Chapter 3 item requests (see 'Deliver the Chapter 3 camp item requests').",
+    "Make a manual save in a new slot."
+   ],
+   "unverified": "The Chapter 3 cut-offs are disputed: Codeberg says 'Blood Feuds, Ancient and Modern'; Game Rant says 'A Short Walk in a Pretty Town' for True Love and 'Blessed are the Peacemakers' for Sean's coach robbery."
+  },
+  {
+   "order": 91,
+   "part": "ch3",
+   "id": "ch3-warning-blood-feuds",
+   "type": "warning",
+   "title": "Point of no return: Chapter 3 extras end next",
+   "deadline": "Before starting 'Blood Feuds, Ancient and Modern'",
+   "how": [
+    "Starting 'Blood Feuds, Ancient and Modern' ends everything tied to the Clemens Point camp. Finish these first:",
+    "'Do a companion activity at Clemens Point' (Friends With Benefits).",
+    "'Play The Course of True Love - I', '- II' and '- III' (Lending a Hand).",
+    "'Play Money Lending and Other Sins - IV' (Lending a Hand).",
+    "'Deliver the Chapter 3 camp item requests' (Errand Boy).",
+    "'Play Magicians for Sport and loot the rare rifle' (if you missed the rifle, reload an older save only if you care about it; no trophy needs it).",
+    "Make a manual save now in a new slot and keep it."
+   ]
+  },
+  {
+   "order": 92,
+   "part": "ch3",
+   "id": "ch3-m-blood-feuds-ancient-and-modern",
+   "type": "mission",
+   "title": "Play 'Blood Feuds, Ancient and Modern'",
+   "missionName": "Blood Feuds, Ancient and Modern",
+   "deadline": "During 'Blood Feuds, Ancient and Modern' (Gold Shield, Letter to Angelo Bronte)",
+   "how": [
+    "Start the mission from Dutch's icon at camp.",
+    "Inside Braithwaite Manor, search the upstairs room with the fireplace. Take the Gold Shield valuable and the Letter to Angelo Bronte document. They are only available in this mission and aren't needed for any trophy.",
+    "Stay in cover and fire only in Dead Eye to keep your accuracy high."
+   ],
+   "unverified": "Game Rant also mentions a Braithwaite Brooch looted during this mission; no other source confirms it. GamesHedge gives 80% instead of 85% for the accuracy objective."
+  },
+  {
+   "order": 93,
+   "part": "ch3",
+   "id": "ch3-warning-chapter-end",
+   "type": "warning",
+   "title": "Chapter 3 ends with the next mission",
+   "how": [
+    "Everything in 'Point of no return: Chapter 3 extras end next' was already due. There is nothing more to finish here.",
+    "If the game gives you free roam before the next mission, make a manual save in a new slot. Keep your saves from before 'Blood Feuds, Ancient and Modern'.",
+    "After the next mission the gang moves camp and Chapter 4 begins."
+   ],
+   "unverified": "The mission research says 'The Battle of Shady Belle' follows directly after 'Blood Feuds, Ancient and Modern', so you may get no free roam in between. Both missions are marked as points of no return."
+  },
+  {
+   "order": 97,
+   "part": "ch4",
+   "id": "ch4-friends-with-benefits-activity",
+   "type": "task",
+   "title": "Do a companion activity at Shady Belle",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "Return to camp during the day and look for an outing offer.",
+    "Accept one: a stagecoach robbery with Micah or Lenny, hunting with Pearson, or the cattle theft with Uncle.",
+    "Play the activity through to the end. Friends With Benefits pops if you did one in Chapters 2 and 3 as well.",
+    "If nobody offers one, do a story mission or sleep in your tent, then check camp again.",
+    "Don't count on table games with gang members. Do an outing."
+   ],
+   "unverified": "Sources disagree on whether camp table games count as companion activities. PowerPyx and DamnModz say they don't."
+  },
+  {
+   "order": 98,
+   "part": "ch4",
+   "id": "ch4-m-high-and-low-finance",
+   "type": "mission",
+   "title": "Play 'High and Low Finance' (Special Edition)",
+   "missionName": "High and Low Finance",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "If you own the Special or Ultimate Edition, talk to Charles at camp and accept his bank robbery.",
+    "Save manually before starting it.",
+    "It also counts as your Chapter 4 companion activity for Friends With Benefits."
+   ],
+   "unverified": "Only one source covers this mission's details. It has gold objectives, but PowerPyx and a Steam guide say it is not one of the 104 medal missions that count towards Gold Rush; GTABase counts 105 including it. Don't rely on it for the 70 golds."
+  },
+  {
+   "order": 100,
+   "part": "ch4",
+   "id": "ch4-m-help-a-brother-out",
+   "type": "mission",
+   "title": "Play 'Help a Brother Out'",
+   "missionName": "Help a Brother Out",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "Find Brother Dorkins' marker in Saint Denis and start the mission.",
+    "Save manually before starting it.",
+    "In the shop, don't threaten the owner. Go straight to the bookshelf clue and pull the shelf."
+   ]
+  },
+  {
+   "order": 101,
+   "part": "ch4",
+   "id": "ch4-m-brothers-and-sisters-one-and-all",
+   "type": "mission",
+   "title": "Play 'Brothers and Sisters, One and All'",
+   "missionName": "Brothers and Sisters, One and All",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "Wait a few in-game hours after 'Help a Brother Out' (sleep or do other things), then return to the church area in Saint Denis.",
+    "Start the mission from the marker.",
+    "Save manually before starting it.",
+    "At the crossroads, ignore the injured man and run straight down the right-hand path to find the kid."
+   ]
+  },
+  {
+   "order": 102,
+   "part": "ch4",
+   "id": "ch4-fatherhood-and-other-dreams-i",
+   "type": "task",
+   "title": "Read Mary's letter: 'Fatherhood and Other Dreams - I'",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "After 'Angelo Bronte, a Man of Honor', find and read Mary Linton's letter at camp in Arthur's room.",
+    "Ride to the marker in Saint Denis and play part I. It has no gold medal.",
+    "Part II becomes available afterwards (next step)."
+   ],
+   "unverified": "The research data doesn't list part I as a separate mission. Its content (the letter, and that part II is the one with the medal) comes from the missables data and the mission name notes."
+  },
+  {
+   "order": 103,
+   "part": "ch4",
+   "id": "ch4-m-fatherhood-and-other-dreams",
+   "type": "mission",
+   "title": "Play 'Fatherhood and Other Dreams - II'",
+   "missionName": "Fatherhood and Other Dreams (II)",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "Start part II from Mary's marker in Saint Denis.",
+    "Save manually before starting it.",
+    "When the coach bolts, chase it straight away on a nearby horse or your own.",
+    "At the end, agree when Mary suggests going to the theatre."
+   ]
+  },
+  {
+   "order": 104,
+   "part": "ch4",
+   "id": "ch4-money-lending-and-other-sins-v",
+   "type": "task",
+   "title": "Do 'Money Lending and Other Sins - V' for Strauss",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "Don't rob or knock out anyone at the Davisons' homestead before taking this debt.",
+    "Talk to Strauss at camp and accept the new debt collection.",
+    "Collect the debt. This part isn't shown in the Story log, but Lending a Hand needs it."
+   ],
+   "unverified": "The research data doesn't list Money Lending V as a separate mission, and doesn't give the debtor's exact location beyond the Davisons' homestead."
+  },
+  {
+   "order": 116,
+   "part": "ch4",
+   "id": "ch4-m-american-fathers",
+   "type": "mission",
+   "title": "Play 'American Fathers - II'",
+   "missionName": "American Fathers (II)",
+   "deadline": "Before completing 'Banking, the Old American Art' (replayable after the story)",
+   "how": [
+    "Ride to the marker near Cornwall Kerosene & Tar and start the mission.",
+    "Save manually before starting it.",
+    "When the escape starts, look behind you and Dead Eye both horseback pursuers at once. They can crash and die on their own, which fails the objective."
+   ]
+  },
+  {
+   "order": 118,
+   "part": "ch4",
+   "id": "ch4-give-to-the-poor-final-check",
+   "type": "task",
+   "title": "Make sure you've donated $250 to the tithing box",
+   "deadline": "Before completing 'Banking, the Old American Art' (the tithing box is gone afterwards)",
+   "how": [
+    "Walk to the camp tithing box and check your personal donation total in the ledger.",
+    "If it is under $250, donate cash until your own total reaches $250. Other gang members' donations don't count.",
+    "Confirm that Give to the Poor has popped."
+   ],
+   "unverified": "PowerPyx says donated valuables also count; other guides recommend cash. Use cash to be sure."
+  },
+  {
+   "order": 119,
+   "part": "ch4",
+   "id": "ch4-errand-boy-finish",
+   "type": "task",
+   "title": "Finish Errand Boy (5 item requests)",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "If Errand Boy hasn't popped yet, spend daytime (about 08:00-20:00) in camp and talk to gang members until someone asks for an item.",
+    "Easy ones: give Abigail $5, buy Kentucky Bourbon for Sean or Pomade for Bill at a general store, or buy Moonshine at a fence for Charles.",
+    "If Sadie asks for her Harmonica, deliver it too.",
+    "Hand each item over in camp until your total reaches 5 and the trophy pops."
+   ],
+   "unverified": "The Red Dead Wiki (via a search snippet) says item requests also appear in Epilogue Part 2. Most guides treat Chapter 4 as the hard deadline, so finish it here."
+  },
+  {
+   "order": 123,
+   "part": "ch4",
+   "id": "ch4-m-revenge-is-a-dish-best-eaten",
+   "type": "mission",
+   "title": "Play 'Revenge is a Dish Best Eaten'",
+   "missionName": "Revenge is a Dish Best Eaten",
+   "deadline": "During 'Revenge is a Dish Best Eaten' (the two documents only)",
+   "how": [
+    "Bring a revolver or repeater for the headshots. Shotgun kills may not register as headshots.",
+    "Save manually before starting it.",
+    "Search every room in the mansion. Pick up the 'List of Accounts' and 'Telegram to Police Chief Lambert' documents if you want them; no trophy needs them."
+   ]
+  },
+  {
+   "order": 124,
+   "part": "ch4",
+   "id": "ch4-warning-banking",
+   "type": "warning",
+   "title": "Point of no return: finish all camp extras first",
+   "deadline": "Before completing 'Banking, the Old American Art'",
+   "how": [
+    "Starting 'Banking, the Old American Art' ends the gang's camp extras for good. Finish these first:",
+    "'Do a companion activity at Shady Belle' (Friends With Benefits must have popped).",
+    "'Make sure you've donated $250 to the tithing box' (Give to the Poor must have popped).",
+    "'Finish Errand Boy (5 item requests)' (Errand Boy must have popped).",
+    "'Play Help a Brother Out' and 'Play Brothers and Sisters, One and All' (Lending a Hand; also unlocks a Chapter 6 Honor mission).",
+    "'Read Mary's letter: Fatherhood and Other Dreams - I' and 'Play Fatherhood and Other Dreams - II' (Lending a Hand).",
+    "'Do Money Lending and Other Sins - V for Strauss' (Lending a Hand; not shown in the Story log).",
+    "Optional before the cut-off: 'Play American Fathers - II' (gold medal) and 'Play High and Low Finance (Special Edition)'.",
+    "Open Pause > Progress > Story and check that no yellow Honor mission icons are left.",
+    "Make a manual save now in a new slot and keep it. Tap reveal for what happens to your gear."
+   ]
+  },
+  {
+   "order": 130,
+   "part": "ch5",
+   "id": "ch5-guarma-animals",
+   "type": "task",
+   "title": "Optional: study the Guarma-only animals",
+   "deadline": "before finishing 'Paradise Mercifully Departed'",
+   "how": [
+    "Study the three macaws (Blue and Yellow, Great Green, Scarlet) and the Red-footed Booby with binoculars.",
+    "Go to the spot under the E of Arroyo de la Vibora for the Guarma snakes (Red Boa, Rainbow Boa, Sunglow Boa, Fer-de-Lance).",
+    "Kill a snake, then let time pass or quit and continue to spawn another species.",
+    "Skip this entirely if you only care about trophies: none of these count for Zoologist or Skin Deep."
+   ],
+   "unverified": "Sources disagree on whether the Fer-de-Lance is Guarma-only (PowerPyx says yes; Codeberg leaves it out). No source says any Guarma animal is needed for a trophy."
+  },
+  {
+   "order": 132,
+   "part": "ch5",
+   "id": "ch5-warning-leaving-guarma",
+   "type": "warning",
+   "title": "Last chance on Guarma",
+   "deadline": "before finishing 'Paradise Mercifully Departed'",
+   "how": [
+    "You can never return to Guarma after the next mission (only replay missions later).",
+    "Finish 'Optional: study the Guarma-only animals' now if you want them. They are not needed for any trophy.",
+    "Loot the Sun Hat now if you want it (not trophy-related).",
+    "Make a manual save now."
+   ]
+  },
+  {
+   "order": 135,
+   "part": "ch5",
+   "id": "ch5-honor-heads-up",
+   "type": "task",
+   "title": "Check your Honor before Chapter 6",
+   "how": [
+    "Check your Honor level. You need at least level 4 of 8 (halfway into the white, honourable side) for a Chapter 6 honor mission.",
+    "If you are below that, start raising it now: catch and release fish, and hand in bounties alive.",
+    "Keep greeting people, helping strangers and avoiding crimes against civilians."
+   ]
+  },
+  {
+   "order": 141,
+   "part": "ch6",
+   "id": "ch6-honor-check",
+   "type": "task",
+   "title": "Raise your Honor to at least level 4 of 8",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Check your Honor (d-pad down). It must be at least halfway into the white, honourable side: level 4 of 8.",
+    "If it is lower, raise it before anything else: catch and release fish, and hand in bounties alive.",
+    "Help strangers in need, greet people and do not rob or kill civilians.",
+    "Keep it at 4 or higher until both parts of 'Do Not Seek Absolution' are done.",
+    "Aim higher if you can: you need maximum Honor anyway for Extreme Personality later in this chapter."
+   ],
+   "unverified": "The +50% Honor gain in Chapter 6 is reported by guides and community sources, not officially confirmed."
+  },
+  {
+   "order": 142,
+   "part": "ch6",
+   "id": "ch6-honor-missions-overview",
+   "type": "info",
+   "title": "How the Chapter 6 honor missions work",
+   "how": [
+    "Honor missions have a yellow icon on the map. You need every one of them for Lending a Hand.",
+    "Replaying them from the Story menu after the game does NOT count, so do them now.",
+    "Chapter 6 list: Money Lending and Other Sins VI & VII, Do Not Seek Absolution I & II, Of Men and Angels I & II, The Course of True Love IV & V, Archeology for Beginners, Honor, Amongst Thieves, Mrs. Sadie Adler, Widow I & II.",
+    "Some parts are not shown in the Story log (the Money Lending debts). Do them anyway.",
+    "Do them in the order below: all but the Sadie Adler pair come before 'The Fine Art of Conversation'."
+   ]
+  },
+  {
+   "order": 143,
+   "part": "ch6",
+   "id": "ch6-money-lending-vi-vii",
+   "type": "task",
+   "title": "Do Money Lending and Other Sins VI and VII",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Talk to Strauss (the LS marker) in camp at Beaver Hollow.",
+    "Collect the first debt near Moonstone Pond, west of camp.",
+    "Collect the second debt at the Annesburg mine entrance, then follow up at Butcher Creek.",
+    "Return to camp and talk to Strauss again to finish part VII.",
+    "Do these BEFORE 'Mrs. Sadie Adler, Widow', or they can disappear."
+   ],
+   "unverified": "Debtor locations come from GTABase, not the research files. Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 144,
+   "part": "ch6",
+   "id": "ch6-m-do-not-seek-absolution-i",
+   "type": "mission",
+   "title": "Complete Do Not Seek Absolution I",
+   "missionName": "Do Not Seek Absolution I",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Ride to Annesburg and find Edith Downes (yellow honor-mission icon).",
+    "If the icon does not appear, your Honor is too low: raise it and come back."
+   ],
+   "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 145,
+   "part": "ch6",
+   "id": "ch6-m-do-not-seek-absolution-ii",
+   "type": "mission",
+   "title": "Complete Do Not Seek Absolution II",
+   "missionName": "Do Not Seek Absolution II",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Let about 4 in-game hours pass after part I (do other tasks or sleep).",
+    "Return to Annesburg and start part II from Archie Downes."
+   ],
+   "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 146,
+   "part": "ch6",
+   "id": "ch6-of-men-and-angels",
+   "type": "task",
+   "title": "Do Of Men and Angels I and II",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Go to the church in Saint Denis and talk to Sister Calderon.",
+    "Complete part I, then part II when it becomes available.",
+    "If she is not there, check the Story log for 'Brothers and Sisters, One and All': without it these missions never appear."
+   ]
+  },
+  {
+   "order": 147,
+   "part": "ch6",
+   "id": "ch6-course-of-true-love-iv",
+   "type": "task",
+   "title": "Read Penelope's letter (The Course of True Love IV)",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Read Penelope's letter in Arthur's tent at Beaver Hollow.",
+    "Ride to the Braithwaite Manor area and play part IV (no gold medal). Part V follows."
+   ],
+   "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 148,
+   "part": "ch6",
+   "id": "ch6-m-the-course-of-true-love-v",
+   "type": "mission",
+   "title": "Complete The Course of True Love V",
+   "missionName": "The Course of True Love V",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Continue the strand at the cabin behind Braithwaite Manor.",
+    "The gold timer is very strict: make a manual save before starting."
+   ],
+   "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 149,
+   "part": "ch6",
+   "id": "ch6-m-the-widow-of-willards-rest",
+   "type": "mission",
+   "title": "Start The Widow of Willard's Rest now",
+   "missionName": "The Widow of Willard's Rest",
+   "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+   "how": [
+    "Ride north of Annesburg to the white ? stranger icon near a grave and start the strand.",
+    "Come back a few in-game days later for the next part, and again a few days after that.",
+    "Finish all parts before the end of Chapter 6 (tap reveal for why).",
+    "It does not count for Western Stranger, so it is safe to skip if you are short on time. Do it for completeness."
+   ],
+   "unverified": "Research only says it is lost after Chapter 6 and is available from Chapter 5. The location, number of parts and the Epilogue outcome come from PowerPyx and GTABase pages outside the research files."
+  },
+  {
+   "order": 156,
+   "part": "ch6",
+   "id": "ch6-m-archeology-for-beginners",
+   "type": "mission",
+   "title": "Complete Archeology for Beginners",
+   "missionName": "Archeology for Beginners",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Start it from Rains Fall at the Wapiti Indian Reservation.",
+    "When Captain Monroe asks for help during the mission, ACCEPT. Refusing means 'Honor, Amongst Thieves' never appears and Lending a Hand is lost.",
+    "Do not kill anyone if you want the Owl Feather trinket (missable, not trophy-related)."
+   ],
+   "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 157,
+   "part": "ch6",
+   "id": "ch6-m-honor-amongst-thieves",
+   "type": "mission",
+   "title": "Complete Honor, Amongst Thieves",
+   "missionName": "Honor, Amongst Thieves",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Start it from Captain Monroe's yellow icon near the Wapiti Indian Reservation."
+   ],
+   "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe."
+  },
+  {
+   "order": 159,
+   "part": "ch6",
+   "id": "ch6-fundraiser-check",
+   "type": "task",
+   "title": "Finish the 'Fundraiser' stranger if still open",
+   "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+   "how": [
+    "Check Pause > Progress for the 'Fundraiser' stranger. If you already did it, tick this and move on.",
+    "If not, look for the white ? stranger icon in north-west Saint Denis and complete it.",
+    "It does not count for Western Stranger; it is only lost after Chapter 6."
+   ],
+   "unverified": "Research only says Fundraiser is available until Chapter 6 and does not count for Western Stranger. The north-west Saint Denis location comes from PowerPyx's strangers map. This is a reminder step; the strand itself may already be routed earlier."
+  },
+  {
+   "order": 160,
+   "part": "ch6",
+   "id": "ch6-warning-fine-art-of-conversation",
+   "type": "warning",
+   "title": "Stop: finish the honor missions before this one",
+   "deadline": "before starting 'The Fine Art of Conversation'",
+   "how": [
+    "Finish 'Do Money Lending and Other Sins VI and VII'.",
+    "Finish 'Complete Do Not Seek Absolution I' and 'Complete Do Not Seek Absolution II'.",
+    "Finish 'Do Of Men and Angels I and II' (lost after the next mission for certain).",
+    "Finish 'Read Penelope's letter (The Course of True Love IV)' and 'Complete The Course of True Love V'.",
+    "Finish 'Complete Archeology for Beginners' and 'Complete Honor, Amongst Thieves'.",
+    "Keep your Honor at level 4 or higher until all of these are done.",
+    "Check Pause > Progress > Story for any yellow honor mission you have not done.",
+    "'Mrs. Sadie Adler, Widow' is the exception: it only appears later, and it is covered after this mission.",
+    "Make a manual save now, in a separate slot."
+   ],
+   "unverified": "Of Men and Angels is lost here according to every source. Codeberg says the other Chapter 6 honor missions are lost here too; the mission data says they last until the end of Chapter 6. Treat this as the deadline."
+  },
+  {
+   "order": 164,
+   "part": "ch6",
+   "id": "ch6-sadie-adler-widow-i",
+   "type": "task",
+   "title": "Do Mrs. Sadie Adler, Widow I",
+   "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+   "how": [
+    "Make sure both Money Lending debts (VI and VII) are done first, or they can vanish.",
+    "Talk to Sadie in camp when her yellow icon appears and play part I (no gold medal).",
+    "If her icon is not there yet, play 'Favored Sons' (and 'The Bridge to Nowhere' if still open) first, then check again.",
+    "Do not start any further main mission until part II is done too."
+   ],
+   "unverified": "Research lists this mission after 'Goodbye, Dear Friend' but gives no exact unlock. GTABase/Red Dead Wiki summaries say it needs 'Goodbye, Dear Friend' and appears after 'Favored Sons' (or after 'The Bridge to Nowhere', depending on mission order). Codeberg's claim that it is lost at 'The Fine Art of Conversation' cannot be right if it only unlocks later."
+  },
+  {
+   "order": 165,
+   "part": "ch6",
+   "id": "ch6-m-mrs-sadie-adler-widow",
+   "type": "mission",
+   "title": "Complete Mrs. Sadie Adler, Widow II",
+   "missionName": "Mrs. Sadie Adler, Widow (II)",
+   "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+   "how": [
+    "Continue straight on from part I.",
+    "This is the last Chapter 6 honor mission. Lending a Hand should pop after it if every earlier honor mission is done."
+   ],
+   "unverified": "No source states exactly which honor mission pops the trophy; it unlocks after the last required one you complete."
+  },
+  {
+   "order": 169,
+   "part": "ch6",
+   "id": "ch6-spend-cash",
+   "type": "task",
+   "title": "Spend your cash before the finale",
+   "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+   "how": [
+    "Spend your money now on things that carry over: weapons, weapon upgrades, outfits and satchel items.",
+    "Keep treasure-map valuables and other items rather than selling them; items carry over, cash does not (tap reveal for why).",
+    "Horses, including stabled ones, do not carry over either, so do not buy new ones now."
+   ],
+   "unverified": "The Aberdeen Pig Farm money trick is reported only by Red Dead Wiki."
+  },
+  {
+   "order": 170,
+   "part": "ch6",
+   "id": "ch6-warning-chapter-end",
+   "type": "warning",
+   "title": "Point of no return: the Chapter 6 finale",
+   "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+   "how": [
+    "The next mission runs straight into the chapter finale ('Red Dead Redemption'). After it you cannot return to this point (tap reveal for why).",
+    "Check that 'Do Mrs. Sadie Adler, Widow I' and 'Complete Mrs. Sadie Adler, Widow II' are done, plus every step in the earlier warning. Look for yellow icons in Pause > Progress > Story.",
+    "Finish 'Start The Widow of Willard's Rest now' and 'Finish the 'Fundraiser' stranger if still open'.",
+    "Finish any other stranger strand you have started as Arthur. Sources disagree on whether some can be finished later (e.g. The Mercies of Knowledge, Arcadia for Amateurs).",
+    "Finish 'Spend your cash before the finale': cash and all horses, including stabled ones, are lost.",
+    "Also lost: the camp, Chapter 6 honor missions, O'Driscoll compendium entries and any unseen Charlotte Balfour encounters.",
+    "Kept: weapons, outfits, kit, trinkets, talismans, valuables, documents and cigarette cards.",
+    "Your ending choice and Honor only change the final scenes; no trophy depends on them.",
+    "Make a manual save now in a separate slot and never overwrite it. It is your only way back to this point in the story."
+   ],
+   "unverified": "Codeberg lists some Arthur-only strands (The Mercies of Knowledge, Arcadia for Amateurs part III, The Widow of Willard's Rest, Fundraiser) as lost here, while the collectibles research says the Western Stranger strands can be finished after the story. A single PowerPyx commenter also reports that unfinished bounty posters are removed after Chapter 6."
+  },
+  {
+   "order": 200,
+   "part": "e2",
+   "id": "e2-before-final-mission",
+   "type": "warning",
+   "title": "Save before the final mission",
+   "how": [
+    "Make a manual save now in a separate slot.",
+    "Nothing trophy-related is lost by finishing the story: every mission can be replayed afterwards and all collectibles stay available.",
+    "Optional insurance: study a Carolina Parakeet in the Lemoyne bayou if you haven't yet (one source claims it can disappear).",
+    "Put a repeater with high-velocity ammo and a scoped bolt-action rifle in your weapon loadout."
+   ],
+   "unverified": "Only one source (a Codeberg missables list) treats the Carolina Parakeet as missable; others say it is not needed for Zoologist."
+  }
+ ],
+ "fullRouteOrder": [
+  "0 start start-how-to-use",
+  "1 start start-game-facts",
+  "2 start start-manual-saves",
+  "3 start start-gold-medals",
+  "4 start start-honor-strategy",
+  "5 start start-missable-trophies",
+  "6 start start-time-budget",
+  "7 ch1 ch1-m-outlaws-from-the-west [Outlaws from the West]",
+  "8 ch1 ch1-m-enter-pursued-by-a-memory [Enter, Pursued by a Memory]",
+  "9 ch1 ch1-m-the-aftermath-of-genesis [The Aftermath of Genesis]",
+  "10 ch1 ch1-m-old-friends [Old Friends]",
+  "11 ch1 ch1-w-before-leviticus-cornwall",
+  "12 ch1 ch1-m-who-the-hell-is-leviticus-cornwall [Who the Hell is Leviticus Cornwall?]",
+  "13 ch1 ch1-w-before-eastward-bound",
+  "14 ch1 ch1-m-eastward-bound [Eastward Bound]",
+  "15 ch2 ch2-i-open-chapter",
+  "16 ch2 ch2-m-polite-society-valentine-style [Polite Society, Valentine Style]",
+  "17 ch2 ch2-t-trusty-steed",
+  "18 ch2 ch2-t-give-to-the-poor",
+  "19 ch2 ch2-m-americans-at-rest [Americans at Rest]",
+  "20 ch2 ch2-m-exit-pursued-by-a-bruised-ego [Exit Pursued by a Bruised Ego]",
+  "21 ch2 ch2-t-friends-with-benefits",
+  "22 ch2 ch2-t-errand-boy",
+  "23 ch2 ch2-m-paying-a-social-call [Paying a Social Call]",
+  "24 ch2 ch2-s-start-challenges",
+  "25 ch2 ch2-m-a-quiet-time [A Quiet Time]",
+  "26 ch2 ch2-m-who-is-not-without-sin [Who is Not without Sin]",
+  "27 ch2 ch2-m-smoking-and-other-hobbies [Smoking and other Hobbies]",
+  "28 ch2 ch2-m-all-that-glitters [All That Glitters]",
+  "29 ch2 ch2-m-the-spines-of-america [The Spines of America]",
+  "30 ch2 ch2-m-money-lending-and-other-sins-i-ii [Money Lending and Other Sins - I & II]",
+  "31 ch2 ch2-m-money-lending-and-other-sins-iii [Money Lending and Other Sins - III]",
+  "32 ch2 ch2-m-blessed-are-the-meek [Blessed are the Meek?]",
+  "33 ch2 ch2-m-the-first-shall-be-last [The First Shall Be Last]",
+  "34 ch2 ch2-m-an-american-pastoral-scene [An American Pastoral Scene]",
+  "35 ch2 ch2-m-pouring-forth-oil-i [Pouring Forth Oil - I]",
+  "36 ch2 ch2-m-pouring-forth-oil-ii [Pouring Forth Oil - II]",
+  "37 ch2 ch2-m-a-fisher-of-men [A Fisher of Men]",
+  "38 ch2 ch2-m-pouring-forth-oil-iii [Pouring Forth Oil - III]",
+  "39 ch2 ch2-m-pouring-forth-oil-iv [Pouring Forth Oil - IV]",
+  "40 ch2 ch2-m-we-loved-once-and-true-i-ii [We Loved Once and True - I & II]",
+  "41 ch2 ch2-m-we-loved-once-and-true-iii [We Loved Once and True - III]",
+  "42 ch2 ch2-m-good-honest-snake-oil [Good, Honest, Snake Oil]",
+  "43 ch2 ch2-t-lending-a-hand-check",
+  "44 ch2 ch2-t-locked-and-loaded",
+  "45 ch2 ch2-s-hobby-horse",
+  "46 ch2 ch2-m-geology-for-beginners [Geology for Beginners]",
+  "47 ch2 ch2-s-rock-carvings",
+  "48 ch2 ch2-m-a-test-of-faith [A Test of Faith]",
+  "49 ch2 ch2-m-the-noblest-of-men-and-a-woman [The Noblest of Men, and a Woman]",
+  "50 ch2 ch2-m-the-smell-of-the-grease-paint [The Smell of the Grease Paint]",
+  "51 ch2 ch2-m-arcadia-for-amateurs [Arcadia for Amateurs]",
+  "52 ch2 ch2-m-american-dreams [American Dreams]",
+  "53 ch2 ch2-m-a-fine-night-for-it [A Fine Night For It]",
+  "54 ch2 ch2-m-a-better-world-a-new-friend [A Better World, A New Friend]",
+  "55 ch2 ch2-m-fundraiser [Fundraiser]",
+  "56 ch2 ch2-s-homesteads",
+  "57 ch2 ch2-s-legendary-animals",
+  "58 ch2 ch2-i-self-sufficient",
+  "59 ch2 ch2-i-natural-progress",
+  "60 ch2 ch2-t-chapter-2-documents",
+  "61 ch2 ch2-w-before-the-sheep-and-the-goats",
+  "62 ch2 ch2-m-the-sheep-and-the-goats [The Sheep and the Goats]",
+  "63 ch2 ch2-w-before-a-strange-kindness",
+  "64 ch2 ch2-m-a-strange-kindness [A Strange Kindness]",
+  "65 ch3 ch3-manual-save-start",
+  "66 ch3 ch3-m-the-new-south [The New South]",
+  "67 ch3 ch3-friends-with-benefits-activity",
+  "68 ch3 ch3-m-further-questions-of-female-suffrage [Further Questions of Female Suffrage]",
+  "69 ch3 ch3-errand-boy-requests",
+  "70 ch3 ch3-m-american-distillation [American Distillation]",
+  "71 ch3 ch3-m-an-honest-mistake [An Honest Mistake]",
+  "72 ch3 ch3-m-the-course-of-true-love-i [The Course of True Love - I]",
+  "73 ch3 ch3-m-the-course-of-true-love-ii [The Course of True Love - II]",
+  "74 ch3 ch3-m-the-course-of-true-love-iii [The Course of True Love - III]",
+  "75 ch3 ch3-m-money-lending-and-other-sins-iv [Money Lending and Other Sins - IV]",
+  "76 ch3 ch3-m-preaching-forgiveness-as-he-went [Preaching Forgiveness as He Went]",
+  "77 ch3 ch3-m-sodom-back-to-gomorrah [Sodom? Back to Gomorrah]",
+  "78 ch3 ch3-m-advertising-the-new-american-art-i [Advertising, the New American Art - I]",
+  "79 ch3 ch3-m-advertising-the-new-american-art-ii [Advertising, the New American Art - II]",
+  "80 ch3 ch3-m-a-fisher-of-fish [A Fisher of Fish]",
+  "81 ch3 ch3-m-hes-british-of-course [He's British, of Course]",
+  "82 ch3 ch3-m-the-iniquities-of-history [The Iniquities of History]",
+  "83 ch3 ch3-m-no-good-deed [No Good Deed]",
+  "84 ch3 ch3-m-magicians-for-sport [Magicians for Sport]",
+  "85 ch3 ch3-m-horse-flesh-for-dinner [Horse Flesh for Dinner]",
+  "86 ch3 ch3-m-friends-in-very-low-places [Friends in Very Low Places]",
+  "87 ch3 ch3-m-the-fine-joys-of-tobacco [The Fine Joys of Tobacco]",
+  "88 ch3 ch3-checkpoint-camp-extras",
+  "89 ch3 ch3-m-blessed-are-the-peacemakers [Blessed are the Peacemakers]",
+  "90 ch3 ch3-m-a-short-walk-in-a-pretty-town [A Short Walk in a Pretty Town]",
+  "91 ch3 ch3-warning-blood-feuds",
+  "92 ch3 ch3-m-blood-feuds-ancient-and-modern [Blood Feuds, Ancient and Modern]",
+  "93 ch3 ch3-warning-chapter-end",
+  "94 ch3 ch3-m-the-battle-of-shady-belle [The Battle of Shady Belle]",
+  "95 ch4 ch4-manual-save-start",
+  "96 ch4 ch4-m-the-joys-of-civilization [The Joys of Civilization]",
+  "97 ch4 ch4-friends-with-benefits-activity",
+  "98 ch4 ch4-m-high-and-low-finance [High and Low Finance]",
+  "99 ch4 ch4-m-angelo-bronte-a-man-of-honor [Angelo Bronte, a Man of Honor]",
+  "100 ch4 ch4-m-help-a-brother-out [Help a Brother Out]",
+  "101 ch4 ch4-m-brothers-and-sisters-one-and-all [Brothers and Sisters, One and All]",
+  "102 ch4 ch4-fatherhood-and-other-dreams-i",
+  "103 ch4 ch4-m-fatherhood-and-other-dreams [Fatherhood and Other Dreams (II)]",
+  "104 ch4 ch4-money-lending-and-other-sins-v",
+  "105 ch4 ch4-m-no-no-and-thrice-no [No, No and Thrice, No]",
+  "106 ch4 ch4-m-the-gilded-cage [The Gilded Cage]",
+  "107 ch4 ch4-m-duchesses-and-other-animals [Duchesses and other Animals]",
+  "108 ch4 ch4-m-a-bright-bouncing-boy [A Bright Bouncing Boy]",
+  "109 ch4 ch4-m-the-mercies-of-knowledge [The Mercies of Knowledge]",
+  "110 ch4 ch4-m-the-artists-way [The Artist's Way]",
+  "111 ch4 ch4-m-idealism-and-pragmatism-for-beginners [Idealism and Pragmatism for Beginners]",
+  "112 ch4 ch4-m-the-ties-that-bind-us [The Ties That Bind Us]",
+  "113 ch4 ch4-m-oh-brother [Oh, Brother]",
+  "114 ch4 ch4-hobby-horse-saint-denis",
+  "115 ch4 ch4-american-fathers-i",
+  "116 ch4 ch4-m-american-fathers [American Fathers (II)]",
+  "117 ch4 ch4-m-a-fine-night-of-debauchery [A Fine Night of Debauchery]",
+  "118 ch4 ch4-give-to-the-poor-final-check",
+  "119 ch4 ch4-errand-boy-finish",
+  "120 ch4 ch4-m-horsemen-apocalypses [Horsemen, Apocalypses]",
+  "121 ch4 ch4-m-urban-pleasures [Urban Pleasures]",
+  "122 ch4 ch4-m-country-pursuits [Country Pursuits]",
+  "123 ch4 ch4-m-revenge-is-a-dish-best-eaten [Revenge is a Dish Best Eaten]",
+  "124 ch4 ch4-warning-banking",
+  "125 ch4 ch4-m-banking-the-old-american-art [Banking, The Old American Art]",
+  "126 ch5 ch5-guarma-gear-note",
+  "127 ch5 ch5-m-welcome-to-the-new-world [Welcome to the New World]",
+  "128 ch5 ch5-m-savagery-unleashed [Savagery Unleashed]",
+  "129 ch5 ch5-m-a-kind-and-benevolent-despot [A Kind and Benevolent Despot]",
+  "130 ch5 ch5-guarma-animals",
+  "131 ch5 ch5-m-hell-hath-no-fury [Hell Hath No Fury]",
+  "132 ch5 ch5-warning-leaving-guarma",
+  "133 ch5 ch5-m-paradise-mercifully-departed [Paradise Mercifully Departed]",
+  "134 ch5 ch5-m-dear-uncle-tacitus [Dear Uncle Tacitus]",
+  "135 ch5 ch5-honor-heads-up",
+  "136 ch5 ch5-m-the-wisdom-of-the-elders [The Wisdom of the Elders]",
+  "137 ch5 ch5-m-fleeting-joy [Fleeting Joy]",
+  "138 ch5 ch5-m-a-fork-in-the-road [A Fork in the Road]",
+  "139 ch5 ch5-m-thats-murfree-country [That's Murfree Country]",
+  "140 ch5 ch5-legendary-bullgator",
+  "141 ch6 ch6-honor-check",
+  "142 ch6 ch6-honor-missions-overview",
+  "143 ch6 ch6-money-lending-vi-vii",
+  "144 ch6 ch6-m-do-not-seek-absolution-i [Do Not Seek Absolution I]",
+  "145 ch6 ch6-m-do-not-seek-absolution-ii [Do Not Seek Absolution II]",
+  "146 ch6 ch6-of-men-and-angels",
+  "147 ch6 ch6-course-of-true-love-iv",
+  "148 ch6 ch6-m-the-course-of-true-love-v [The Course of True Love V]",
+  "149 ch6 ch6-m-the-widow-of-willards-rest [The Widow of Willard's Rest]",
+  "150 ch6 ch6-m-icarus-and-friends [Icarus and Friends]",
+  "151 ch6 ch6-m-visiting-hours [Visiting Hours]",
+  "152 ch6 ch6-m-just-a-social-call [Just a Social Call]",
+  "153 ch6 ch6-m-the-delights-of-van-horn [The Delights of Van Horn]",
+  "154 ch6 ch6-m-the-bridge-to-nowhere [The Bridge to Nowhere]",
+  "155 ch6 ch6-m-a-rage-unleashed [A Rage Unleashed]",
+  "156 ch6 ch6-m-archeology-for-beginners [Archeology for Beginners]",
+  "157 ch6 ch6-m-honor-amongst-thieves [Honor, Amongst Thieves]",
+  "158 ch6 ch6-m-the-veteran [The Veteran]",
+  "159 ch6 ch6-fundraiser-check",
+  "160 ch6 ch6-warning-fine-art-of-conversation",
+  "161 ch6 ch6-m-the-fine-art-of-conversation [The Fine Art of Conversation]",
+  "162 ch6 ch6-m-goodbye-dear-friend [Goodbye, Dear Friend]",
+  "163 ch6 ch6-m-favored-sons [Favored Sons]",
+  "164 ch6 ch6-sadie-adler-widow-i",
+  "165 ch6 ch6-m-mrs-sadie-adler-widow [Mrs. Sadie Adler, Widow (II)]",
+  "166 ch6 ch6-m-the-kings-son [The King's Son]",
+  "167 ch6 ch6-m-my-last-boy [My Last Boy]",
+  "168 ch6 ch6-extreme-personality",
+  "169 ch6 ch6-spend-cash",
+  "170 ch6 ch6-warning-chapter-end",
+  "171 ch6 ch6-m-our-best-selves [Our Best Selves]",
+  "172 ch6 ch6-m-red-dead-redemption [Red Dead Redemption]",
+  "173 e1 e1-what-carries-over",
+  "174 e1 e1-m-the-wheel [The Wheel]",
+  "175 e1 e1-new-austin-open",
+  "176 e1 e1-m-simple-pleasures [Simple Pleasures]",
+  "177 e1 e1-m-farming-for-beginners [Farming, for Beginners]",
+  "178 e1 e1-m-fatherhood-for-beginners [Fatherhood, for Beginners]",
+  "179 e1 e1-m-old-habits [Old Habits]",
+  "180 e1 e1-m-jim-milton-rides-again [Jim Milton Rides, Again?]",
+  "181 e1 e1-m-fatherhood-for-idiots [Fatherhood, for Idiots]",
+  "182 e1 e1-m-motherhood [Motherhood]",
+  "183 e1 e1-m-gainful-employment [Gainful Employment]",
+  "184 e1 e1-the-landowning-classes",
+  "185 e1 e1-m-home-of-the-gentry [Home of the Gentry?]",
+  "186 e1 e1-m-american-inferno-burnt-out [The American Inferno, Burnt Out]",
+  "187 e2 e2-m-bare-knuckle-friendships [Bare Knuckle Friendships]",
+  "188 e2 e2-hobbs-final-request",
+  "189 e2 e2-m-home-improvement-for-beginners [Home Improvement for Beginners]",
+  "190 e2 e2-m-an-honest-days-labors [An Honest Day's Labors]",
+  "191 e2 e2-m-the-tool-box [The Tool Box]",
+  "192 e2 e2-m-a-new-jerusalem [A New Jerusalem]",
+  "193 e2 e2-study-rufus",
+  "194 e2 e2-m-a-quick-favor-for-an-old-friend [A Quick Favor for an Old Friend]",
+  "195 e2 e2-m-uncles-bad-day [Uncle's Bad Day]",
+  "196 e2 e2-the-best-of-women",
+  "197 e2 e2-m-trying-again [Trying Again]",
+  "198 e2 e2-m-a-really-big-bastard [A Really Big Bastard]",
+  "199 e2 e2-m-a-new-future-imagined [A New Future Imagined]",
+  "200 e2 e2-before-final-mission",
+  "201 e2 e2-m-american-venom [American Venom]",
+  "202 e2 e2-after-the-credits",
+  "203 cleanup cleanup-start-manual-save",
+  "204 cleanup cleanup-pony-up",
+  "205 cleanup cleanup-locked-and-loaded",
+  "206 cleanup cleanup-take-from-the-rich",
+  "207 cleanup cleanup-trusty-steed",
+  "208 cleanup cleanup-hobby-horse",
+  "209 cleanup cleanup-self-sufficient",
+  "210 cleanup cleanup-breaking-and-entering",
+  "211 cleanup cleanup-artificial-intelligence",
+  "212 cleanup cleanup-new-austin-sweep",
+  "213 cleanup cleanup-collectors-item",
+  "214 cleanup cleanup-paying-respects",
+  "215 cleanup cleanup-its-art",
+  "216 cleanup cleanup-legendary-fish",
+  "217 cleanup cleanup-exotics-dreamcatchers-treasure",
+  "218 cleanup cleanup-western-stranger",
+  "219 cleanup cleanup-zoologist-skin-deep",
+  "220 cleanup cleanup-grin-and-bear-it",
+  "221 cleanup cleanup-gold-medal-replays",
+  "222 cleanup cleanup-all-challenges",
+  "223 cleanup cleanup-best-in-the-west",
+  "224 cleanup cleanup-bountiful",
+  "225 cleanup cleanup-extreme-personality",
+  "226 online online-breakout",
+  "227 online online-picked-to-perfection",
+  "228 online online-butchered",
+  "229 online online-master-craftsman",
+  "230 online online-eventful",
+  "231 online online-gun-for-hire",
+  "232 online online-home-comforts",
+  "233 online online-horses-for-courses",
+  "234 online online-non-regulation",
+  "235 online online-series-major",
+  "236 online online-buckle-up",
+  "237 online online-getting-started",
+  "238 online online-posse-up",
+  "239 online online-strength-in-numbers",
+  "240 online online-alls-fair",
+  "241 online online-the-real-deal",
+  "242 online online-notorious",
+  "243 online online-legend-of-the-west"
+ ]
+}

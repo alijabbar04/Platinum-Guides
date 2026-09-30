@@ -1,0 +1,2155 @@
+{
+  "area": "missions-ch4-e2",
+  "generatedAt": "2026-10-01",
+  "sources": [
+    {
+      "id": "ppx",
+      "title": "PowerPyx - Red Dead Redemption 2 Gold Medals Guide",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-gold-medals-guide/"
+    },
+    {
+      "id": "ppxt",
+      "title": "PowerPyx - Red Dead Redemption 2 Trophy Guide & Roadmap",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/"
+    },
+    {
+      "id": "fandom",
+      "title": "Red Dead Wiki (Fandom) - Missions in Redemption 2 + individual mission pages (read via MediaWiki API)",
+      "url": "https://reddead.fandom.com/wiki/Missions_in_Redemption_2"
+    },
+    {
+      "id": "fandom-missables",
+      "title": "Red Dead Wiki (Fandom) - Missable Content in Redemption 2",
+      "url": "https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2"
+    },
+    {
+      "id": "steamgm",
+      "title": "Steam Community Guide - RDR2 Gold Medals, Challenges and 100% Completion Guide",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3270312816"
+    },
+    {
+      "id": "gtabase",
+      "title": "GTABase - Red Dead Redemption 2 Missions list (and 'Red Dead Redemption' mission page)",
+      "url": "https://www.gtabase.com/red-dead-redemption-2/missions/"
+    },
+    {
+      "id": "rdr2org-endings",
+      "title": "RDR2.org - Red Dead Redemption 2 Endings Guide",
+      "url": "https://www.rdr2.org/guides/story-mode/endings-guide/"
+    }
+  ],
+  "knownTotals": [
+    {
+      "key": "gold-medal-missions-ch4",
+      "value": 14,
+      "sources": [
+        "ppx",
+        "steamgm"
+      ],
+      "note": "Excludes Special Edition 'High and Low Finance' and the no-medal missions Money Lending V, American Fathers I (cutscene), Lost and Not Quite Found (cutscene)."
+    },
+    {
+      "key": "gold-medal-missions-ch5",
+      "value": 9,
+      "sources": [
+        "ppx",
+        "steamgm"
+      ],
+      "note": "Includes A Fork in the Road and That's Murfree Country; Icarus and Friends counts as Chapter 6."
+    },
+    {
+      "key": "gold-medal-missions-ch6",
+      "value": 19,
+      "sources": [
+        "ppx",
+        "steamgm"
+      ],
+      "note": "Includes Icarus and Friends and the honor missions DNSA I, DNSA II, Course of True Love V, Archeology for Beginners, Honor Amongst Thieves, Mrs. Sadie Adler Widow II. Excludes no-medal Course of True Love IV, Mrs Sadie Adler Widow I, Money Lending VI & VII, Of Men and Angels."
+    },
+    {
+      "key": "gold-medal-missions-e1",
+      "value": 10,
+      "sources": [
+        "ppx",
+        "steamgm"
+      ],
+      "note": "'The Landowning Classes' has no medal."
+    },
+    {
+      "key": "gold-medal-missions-e2",
+      "value": 11,
+      "sources": [
+        "ppx",
+        "steamgm"
+      ],
+      "note": "'The Best of Women' (cutscene) has no medal."
+    },
+    {
+      "key": "gold-medal-missions-ch4-to-e2",
+      "value": 63,
+      "sources": [
+        "ppx",
+        "steamgm"
+      ],
+      "note": "14+9+19+10+11. Chapters 1-3 therefore hold 41 of the 104."
+    },
+    {
+      "key": "gold-medal-missions-total",
+      "value": 104,
+      "sources": [
+        "ppx",
+        "steamgm",
+        "ppxt"
+      ],
+      "note": "70 golds needed for 'Gold Rush'. GTABase says 105 because it counts Special Edition 'High and Low Finance' (see disputes)."
+    },
+    {
+      "key": "story-missions-total-gtabase",
+      "value": 110,
+      "sources": [
+        "gtabase"
+      ],
+      "note": "GTABase count of all story missions incl. no-medal ones and the SE mission; PowerPyx roadmap says 108 main missions. Informational only."
+    }
+  ],
+  "missions": [
+    {
+      "id": "mission-the-joys-of-civilization",
+      "name": "The Joys of Civilization",
+      "spoilerFreeTitle": "Arrival in Saint Denis",
+      "chapter": "4",
+      "orderInChapter": 1,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Catch the street urchin before he reaches the market",
+        "Complete within 5 minutes 30 seconds"
+      ],
+      "goldTips": [
+        "Skip the horse the mission offers and use your own bonded horse to keep pace with the kid.",
+        "Cut corners instead of following the kid's exact route (e.g. climb the walls to reach the next street and wait where he drops down).",
+        "Shooting the coach he jumps onto stops it, but risks alerting the law and failing the mission."
+      ],
+      "missableNotes": [
+        "Unlocks the Saint Denis gunsmith Semi-Automatic Pistol for purchase (per steamgm weapon list)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-angelo-bronte-a-man-of-honor",
+      "name": "Angelo Bronte, a Man of Honor",
+      "spoilerFreeTitle": "A Meeting with a Saint Denis Boss",
+      "chapter": "4",
+      "orderInChapter": 2,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Encounter the dog and the drunk",
+        "Don't get spotted by the law",
+        "Complete within 10 minutes 40 seconds",
+        "Get 4 headshots"
+      ],
+      "goldTips": [
+        "The timer is very strict: after meeting the dog and the drunk, go straight to the grave-robbing site on the right instead of waiting for John.",
+        "The last grave robber tends to run back towards where the dog was; chase him down immediately.",
+        "steamgm reports the 5th grave robber occasionally fails to spawn; restart the game if so. Many players call this one of the hardest golds - a good candidate to skip for the 70."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-help-a-brother-out",
+      "name": "Help a Brother Out",
+      "spoilerFreeTitle": "A Favor for a Monk",
+      "chapter": "4",
+      "orderInChapter": 3,
+      "type": "story",
+      "giver": "Brother Dorkins (white stranger-style marker)",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Find the captives without threatening the store owner",
+        "Complete within 2 minutes 45 seconds"
+      ],
+      "goldTips": [
+        "On entering the fence's shop go straight to the bookshelf clue and pull the shelf - do not intimidate the owner."
+      ],
+      "missableNotes": [
+        "Optional Honor mission required for 'Lending a Hand'. Missable: only available in Chapter 4 (ends with 'Banking, The Old American Art').",
+        "Must be completed to unlock 'Brothers and Sisters, One and All', which in turn unlocks the Chapter 6 honor mission 'Of Men and Angels'."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-brothers-and-sisters-one-and-all",
+      "name": "Brothers and Sisters, One and All",
+      "spoilerFreeTitle": "A Theft Outside the Church",
+      "chapter": "4",
+      "orderInChapter": 4,
+      "type": "story",
+      "giver": "Brother Dorkins / Sister Calderon",
+      "startLocation": "Saint Denis (church area, appears some in-game hours after 'Help a Brother Out')",
+      "goldRequirements": [
+        "Find the kid within 19 seconds"
+      ],
+      "goldTips": [
+        "When you reach the injured man, ignore him and run straight down the right-hand path at the crossroads to find the kid."
+      ],
+      "missableNotes": [
+        "Optional Honor mission required for 'Lending a Hand'. Missable after Chapter 4.",
+        "Required to unlock the Chapter 6 honor mini-quest 'Of Men and Angels' (also required for 'Lending a Hand')."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-fatherhood-and-other-dreams",
+      "name": "Fatherhood and Other Dreams (II)",
+      "spoilerFreeTitle": "Helping Mary in Saint Denis",
+      "chapter": "4",
+      "orderInChapter": 5,
+      "type": "story",
+      "giver": "Mary Linton (start by reading her letter at camp)",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Catch the wagon and take it to the secluded spot within 1 minute 45 seconds",
+        "Take Mary to the theater"
+      ],
+      "goldTips": [
+        "When the coach bolts, grab a nearby horse (no honor loss) or your own bonded horse and chase immediately.",
+        "Take the shortcut on the right when the wagon turns in Bayou Nwa.",
+        "At the end, accept Mary's suggestion to go to the theater."
+      ],
+      "missableNotes": [
+        "Optional Honor mission required for 'Lending a Hand'; missable after Chapter 4. Only unlocks after 'Angelo Bronte, a Man of Honor'."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-no-no-and-thrice-no",
+      "name": "No, No and Thrice, No",
+      "spoilerFreeTitle": "A Rescue with Susan",
+      "chapter": "4",
+      "orderInChapter": 6,
+      "type": "story",
+      "giver": "Mary-Beth Gaskill / Susan Grimshaw",
+      "startLocation": "Shady Belle (camp)",
+      "goldRequirements": [
+        "Kill both of the Foreman boys yourself during the chase",
+        "Complete with at least 90% accuracy"
+      ],
+      "goldTips": [
+        "Use Dead Eye during the chase; if you are slow, Susan kills one brother and the objective fails.",
+        "Missing more than a shot or two breaks the 90% accuracy - tag body shots in Dead Eye if you miss."
+      ],
+      "missableNotes": [
+        "If Arthur kills Anthony Foreman here, the Epilogue bounty on Anthony Foreman is unavailable (fandom Missable Content page; not a trophy item)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-gilded-cage",
+      "name": "The Gilded Cage",
+      "spoilerFreeTitle": "The Mayor's Garden Party",
+      "chapter": "4",
+      "orderInChapter": 7,
+      "type": "story",
+      "giver": "Hosea Matthews & Dutch van der Linde",
+      "startLocation": "Shady Belle",
+      "goldRequirements": [
+        "While at the party, pour some drinks, compliment a guest's attire, accept a gift and save a life",
+        "Follow the servant without being detected"
+      ],
+      "goldTips": [
+        "Drinks: the three women at the foot of the right-hand stairway. Gift: the two gentlemen behind them (accept the opera ticket). Attire: the woman in the exotic hat near the band gazebo. Save a life: the choking man near Hosea (it is Algernon Wasp).",
+        "Keep a large gap while following the servant Pierre; getting close gets you spotted."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-american-fathers",
+      "name": "American Fathers (II)",
+      "spoilerFreeTitle": "The Oil Refinery Break-In",
+      "chapter": "4",
+      "orderInChapter": 8,
+      "type": "story",
+      "giver": "Eagle Flies (part I is a cutscene with Rains Fall/Evelyn Miller at the Saint Denis courthouse)",
+      "startLocation": "Near Cornwall Kerosene & Tar, Heartland Oil Fields",
+      "goldRequirements": [
+        "Infiltrate the factory by hiding in the wagon",
+        "Reach Danbury's office without being detected",
+        "Kill all the horseback pursuers during the escape",
+        "Complete with at least 80% accuracy"
+      ],
+      "goldTips": [
+        "Crouch-sprint along the left side upstairs to reach the office quickly.",
+        "Known glitch: the two horseback pursuers can crash into the entrance post and die on their own, failing the objective - look behind you as the escape starts and Dead Eye both of them immediately."
+      ],
+      "missableNotes": [
+        "Optional branch (not needed to finish Chapter 4) but it has a gold medal; unavailable after Chapter 4 ends (replayable after the story)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-fine-night-of-debauchery",
+      "name": "A Fine Night of Debauchery",
+      "spoilerFreeTitle": "Riverboat Card Game",
+      "chapter": "4",
+      "orderInChapter": 9,
+      "type": "story",
+      "giver": "Josiah Trelawny",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Win the game of Poker without Strauss's help",
+        "After your cover is blown, escape the boat in under 35 seconds",
+        "Get 5 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Fold the first hand (it always loses); go all-in on the next hands, which are rigged in your favour.",
+        "Once the shooting starts, get the 5 headshots from the first cover, vault the bar and push forward; leave only when Javier says to go (leaving early fails the mission)."
+      ],
+      "missableNotes": [
+        "Unlocks the Semi-Auto Shotgun at gunsmiths (steamgm weapon list)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-horsemen-apocalypses",
+      "name": "Horsemen, Apocalypses",
+      "spoilerFreeTitle": "An Attack on Shady Belle",
+      "chapter": "4",
+      "orderInChapter": 10,
+      "type": "story",
+      "giver": "Sadie Adler",
+      "startLocation": "Shady Belle",
+      "goldRequirements": [
+        "Shoot the O'Driscolls in the boat before they disembark",
+        "Complete using only sidearms",
+        "Complete with at least 70% accuracy",
+        "Get 15 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Stay in position and farm headshots with Dead Eye instead of immediately following Dutch's prompts.",
+        "The boat O'Driscolls appear to the right of Sadie after she kills three enemies - head there when Arthur asks why Sadie isn't going inside."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-urban-pleasures",
+      "name": "Urban Pleasures",
+      "spoilerFreeTitle": "The Trolley Station Job",
+      "chapter": "4",
+      "orderInChapter": 11,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Rob all the customers in the trolley station",
+        "Kill 10 lawmen while on the trolley",
+        "Prevent any lawmen jumping on the back of the wagon",
+        "Shoot the dynamite Lenny throws",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Dead Eye-only tonics do not count as health items - bring plenty.",
+        "Equip the double-barrel Sawed-Off Shotgun as a sidearm to hit Lenny's dynamite at the bridge out of town.",
+        "No accuracy requirement, so prioritise killing riders quickly."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-country-pursuits",
+      "name": "Country Pursuits",
+      "spoilerFreeTitle": "A Trip into the Bayou",
+      "chapter": "4",
+      "orderInChapter": 12,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Shady Belle / Lagras",
+      "goldRequirements": [
+        "Return Jules to the skiff within 1 minute 40 seconds",
+        "Shoot the Bullgator 5 times"
+      ],
+      "goldTips": [
+        "First-person mode helps you move through the water to Jules; sprint the whole way back (Arthur does not tire here)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-revenge-is-a-dish-best-eaten",
+      "name": "Revenge is a Dish Best Eaten",
+      "spoilerFreeTitle": "Raid on the Mansion",
+      "chapter": "4",
+      "orderInChapter": 13,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Lagras",
+      "goldRequirements": [
+        "Search every room in Bronte's mansion",
+        "Carry Bronte to the skiff within 1 minute 30 seconds",
+        "Get 20 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Search the rooms left and right of the stairway before the middle room.",
+        "Shotgun kills may not register as headshots because of pellet spread - use a revolver/repeater."
+      ],
+      "missableNotes": [
+        "Missable documents in this mission: 'List of Accounts' and 'Telegram to Police Chief Lambert' (fandom; documents are not trophy items)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-banking-the-old-american-art",
+      "name": "Banking, The Old American Art",
+      "spoilerFreeTitle": "The Big City Bank Job (Chapter 4 finale)",
+      "chapter": "4",
+      "orderInChapter": 14,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Shady Belle",
+      "goldRequirements": [
+        "Crack the safe without making any mistakes",
+        "Complete using only sidearms",
+        "Get 25 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Safe combination is always 19, 72, 54 - turn slowly as you approach each number (controller vibrates strongly near the right number).",
+        "Take plenty of Dead Eye tonics and sidearm ammo; on replay you have limited supplies.",
+        "steamgm reports the mission is buggy on replay (companions can stop during the ride)."
+      ],
+      "missableNotes": [
+        "POINT OF NO RETURN for Chapter 4. Finish everything first: the camp trophies 'Give to the Poor' ($250 tithing box), 'Errand Boy' (5 item requests) and 'Friends With Benefits' (companion activity in the Ch2, Ch3 and Ch4 camps) all become unobtainable after this mission.",
+        "Chapter 4 optional honor missions (Help a Brother Out, Brothers and Sisters One and All, Fatherhood and Other Dreams I & II, Money Lending and Other Sins V) are lost after this mission.",
+        "The Chapter 4 camp companion activities (incl. the Special Edition bank robbery 'High and Low Finance') expire here.",
+        "After this mission you temporarily lose your weapons, money, horses and journal until you return from the Chapter 5 island (they are restored).",
+        "Completing Chapter 4 awards the 'Washed Ashore' story trophy (automatic)."
+      ],
+      "pointOfNoReturn": true,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-welcome-to-the-new-world",
+      "name": "Welcome to the New World",
+      "spoilerFreeTitle": "Chapter 5 Opener",
+      "chapter": "5",
+      "orderInChapter": 1,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Guarma (island)",
+      "goldRequirements": [
+        "Do not fall behind while walking with the chain gang",
+        "Get 10 headshots"
+      ],
+      "goldTips": [
+        "Your Dead Eye core starts drained - rely on normal aimed shots and save Dead Eye for groups.",
+        "You have no provisions at the start, so avoid unnecessary damage."
+      ],
+      "missableNotes": [
+        "Guarma is a separate island you can never return to after Chapter 5 (except via mission replay)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-savagery-unleashed",
+      "name": "Savagery Unleashed",
+      "spoilerFreeTitle": "Freeing the Workers",
+      "chapter": "5",
+      "orderInChapter": 2,
+      "type": "story",
+      "giver": "Hercule Fontaine / Leon",
+      "startLocation": "La Capilla, Guarma",
+      "goldRequirements": [
+        "Release all the workers within 4 seconds",
+        "Complete within 5 minutes 40 seconds",
+        "Get 8 headshots"
+      ],
+      "goldTips": [
+        "Enter Dead Eye, tag the soldier doing the hanging first, then the three ropes.",
+        "Follow Leon's instructions promptly so he keeps moving."
+      ],
+      "missableNotes": [
+        "Sun Hat can be looted from enemies in the Guarma missions (missable hat, not trophy-related)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-kind-and-benevolent-despot",
+      "name": "A Kind and Benevolent Despot",
+      "spoilerFreeTitle": "Infiltrating the Compound",
+      "chapter": "5",
+      "orderInChapter": 3,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Arroyo de la Vibora, Guarma",
+      "goldRequirements": [
+        "Get Javier to safety in under 2 minutes",
+        "Get 10 headshots"
+      ],
+      "goldTips": [
+        "Push ahead of Dutch during the escape and clear spawning soldiers; if you fall behind he stops and wastes time.",
+        "In the sugar fields stay behind Dutch and shoot only soldiers that appear behind you; use short Dead Eye bursts."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-hell-hath-no-fury",
+      "name": "Hell Hath No Fury",
+      "spoilerFreeTitle": "Defending the Fortress",
+      "chapter": "5",
+      "orderInChapter": 4,
+      "type": "story",
+      "giver": "Hercule Fontaine",
+      "startLocation": "Cinco Torres, Guarma",
+      "goldRequirements": [
+        "Prevent 4 boats from reaching the shore",
+        "Destroy the naval ship without missing a shot",
+        "Complete with at least 70% accuracy"
+      ],
+      "goldTips": [
+        "Aim cannon shots at the ship's funnel and wait for the camera shake to stop before firing so no shot misses."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-paradise-mercifully-departed",
+      "name": "Paradise Mercifully Departed",
+      "spoilerFreeTitle": "Leaving the Island",
+      "chapter": "5",
+      "orderInChapter": 5,
+      "type": "story",
+      "giver": "Bill Williamson",
+      "startLocation": "Manicato, Guarma",
+      "goldRequirements": [
+        "Kill the first 2 sentries without being spotted",
+        "Escort the captain to the boat within 1 minute 45 seconds",
+        "Complete within 6 minutes 45 seconds",
+        "Get 25 headshots"
+      ],
+      "goldTips": [
+        "Kill the right-hand sentry as soon as Micah starts moving on the minimap, or Micah alerts the other one."
+      ],
+      "missableNotes": [
+        "POINT OF NO RETURN for Guarma: after this mission you cannot go back to the island. Guarma-only animals (3 macaws, 4 snakes, red-footed booby) are NOT needed for 'Zoologist' or 'Skin Deep'.",
+        "'Extreme Personality' (max/min honor) cannot pop until this mission is done (ppxt)."
+      ],
+      "pointOfNoReturn": true,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-dear-uncle-tacitus",
+      "name": "Dear Uncle Tacitus",
+      "spoilerFreeTitle": "Return to the Mainland",
+      "chapter": "5",
+      "orderInChapter": 6,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Van Horn Trading Post",
+      "goldRequirements": [
+        "Leave Shady Belle without being detected by the Pinkertons",
+        "Complete within 8 minutes"
+      ],
+      "goldTips": [
+        "When the Pinkertons enter Shady Belle, wait a second then crouch-walk out behind them."
+      ],
+      "missableNotes": [
+        "Your gear and horses are restored on return; Arthur has roughly $450 on him afterwards (fandom)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-fleeting-joy",
+      "name": "Fleeting Joy",
+      "spoilerFreeTitle": "Reunion at Lakay",
+      "chapter": "5",
+      "orderInChapter": 7,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Lakay, Bayou Nwa",
+      "goldRequirements": [
+        "Kill 2 Pinkertons during the Dead Eye ambush",
+        "Get 5 headshots with the Gatling Gun",
+        "Get at least 70% accuracy with the Gatling Gun",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Avoid Dead Eye in the first shootout so you have a full core for the Maxim/Gatling section.",
+        "On the Gatling Gun only fire in Dead Eye at locked targets; once you have 5 headshots get off the gun to protect your accuracy."
+      ],
+      "missableNotes": [
+        "Shady Belle / Lakay camp content ends; the gang relocates to Beaver Hollow."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-fork-in-the-road",
+      "name": "A Fork in the Road",
+      "spoilerFreeTitle": "A Visit to the Doctor",
+      "chapter": "5",
+      "orderInChapter": 8,
+      "type": "story",
+      "giver": "Doctor (Saint Denis) - triggered by Arthur collapsing in Saint Denis",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Complete within 3 minutes 5 seconds"
+      ],
+      "goldTips": [
+        "After leaving the doctor's office take the road on the left and walk straight to the crossroads to end the mission.",
+        "steamgm: if a pedestrian blocks your path on the way to the doctor you may miss the time - restart."
+      ],
+      "missableNotes": [
+        "Unlocks the Chapter 6 optional honor missions 'Do Not Seek Absolution' (Annesburg) and 'Of Men and Angels' (Saint Denis)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-thats-murfree-country",
+      "name": "That's Murfree Country",
+      "spoilerFreeTitle": "Scouting a New Camp",
+      "chapter": "5",
+      "orderInChapter": 9,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Lakay",
+      "goldRequirements": [
+        "Deliver Meredith to her mother within 2 minutes",
+        "Get 15 headshots",
+        "Complete with at least 85% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Choose to go on horseback rather than by canoe - your own horse is faster than the village horse.",
+        "When delivering Meredith, take the left downhill shortcut at the three-way junction and ride straight into Annesburg.",
+        "You can kill the two patrolling Murfrees without waiting for Charles."
+      ],
+      "missableNotes": [
+        "Completing this mission advances into Chapter 6 (Beaver Hollow). Awards the 'No Traitors' Chapter 5 trophy (automatic).",
+        "Scarred Murfree horses (Black Rabicano Tennessee Walker / Blanket Appaloosa) can be taken here (missable horses, not trophy items)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-icarus-and-friends",
+      "name": "Icarus and Friends",
+      "spoilerFreeTitle": "A Balloon Ride",
+      "chapter": "6",
+      "orderInChapter": 1,
+      "type": "story",
+      "giver": "Sadie Adler",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Keep the balloon at the correct altitude for the entire journey",
+        "Get 5 headshots from the balloon",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Only the flight to the prison island counts for the altitude objective.",
+        "Tag and fire immediately in Dead Eye for the balloon headshots; after the crash use body shots to protect accuracy."
+      ],
+      "missableNotes": [
+        "Can be played in Chapter 5 but is listed under Chapter 6 in the replay menu."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-visiting-hours",
+      "name": "Visiting Hours",
+      "spoilerFreeTitle": "A Prison Rescue",
+      "chapter": "6",
+      "orderInChapter": 2,
+      "type": "story",
+      "giver": "Sadie Adler",
+      "startLocation": "Copperhead Landing",
+      "goldRequirements": [
+        "Get headshots on both prison guards when sniping from the tower",
+        "Escape to the boat within 2 minutes 45 seconds",
+        "Complete within 9 minutes",
+        "Complete with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "During the escape run to cover rather than fighting, kill the five mounted guards, then crouch-run through the bushes to the boat.",
+        "Often rated one of the hardest golds (steamgm 5/5)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-just-a-social-call",
+      "name": "Just a Social Call",
+      "spoilerFreeTitle": "A Meeting in Annesburg",
+      "chapter": "6",
+      "orderInChapter": 3,
+      "type": "story",
+      "giver": "Micah Bell",
+      "startLocation": "Annesburg",
+      "goldRequirements": [
+        "Headshot 3 mounted enemies",
+        "After killing Cornwall, reach the horses within 2 minutes 45 seconds",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Keep moving while shooting to make the time limit; Dead Eye the riders as soon as they spawn during the horseback escape."
+      ],
+      "missableNotes": [
+        "Newsboy Cap can be looted from enemies (missable hat)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-do-not-seek-absolution-i",
+      "name": "Do Not Seek Absolution I",
+      "spoilerFreeTitle": "A Mother's Request in Annesburg",
+      "chapter": "6",
+      "orderInChapter": 4,
+      "type": "story",
+      "giver": "Edith Downes",
+      "startLocation": "Annesburg",
+      "goldRequirements": [
+        "Complete within 1 minute 20 seconds"
+      ],
+      "missableNotes": [
+        "Optional Honor mission for 'Lending a Hand'. Requires honor of at least level 4 of 8 (ppxt) and becomes available after 'A Fork in the Road'. Lost after Chapter 6."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-do-not-seek-absolution-ii",
+      "name": "Do Not Seek Absolution II",
+      "spoilerFreeTitle": "A Son's Request",
+      "chapter": "6",
+      "orderInChapter": 5,
+      "type": "story",
+      "giver": "Archie Downes",
+      "startLocation": "Annesburg",
+      "goldRequirements": [
+        "Find Edith Downes within 1 minute 10 seconds"
+      ],
+      "missableNotes": [
+        "Optional Honor mission for 'Lending a Hand'; lost after Chapter 6."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-course-of-true-love-v",
+      "name": "The Course of True Love V",
+      "spoilerFreeTitle": "Helping the Young Couple",
+      "chapter": "6",
+      "orderInChapter": 6,
+      "type": "story",
+      "giver": "Penelope Braithwaite (part IV starts from her letter at Beaver Hollow)",
+      "startLocation": "Braithwaite Manor (cabin behind it)",
+      "goldRequirements": [
+        "Headshot 5 of the Braithwaites as they pursue the train",
+        "Complete within 7 minutes 30 seconds"
+      ],
+      "goldTips": [
+        "Very strict timer: cut left across the Braithwaite fields to the station and keep the train at full throttle."
+      ],
+      "missableNotes": [
+        "Optional Honor mission (IV & V) for 'Lending a Hand'; requires Course of True Love I-III from Chapter 3. Lost after Chapter 6."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-delights-of-van-horn",
+      "name": "The Delights of Van Horn",
+      "spoilerFreeTitle": "Ambush near Van Horn",
+      "chapter": "6",
+      "orderInChapter": 7,
+      "type": "story",
+      "giver": "Micah Bell",
+      "startLocation": "Roanoke Ridge",
+      "goldRequirements": [
+        "Headshot 5 soldiers with a long scoped rifle",
+        "Complete with at least 85% accuracy"
+      ],
+      "goldTips": [
+        "Use Dead Eye for the 5 scoped headshots, then switch to a repeater/rifle for the mounted soldiers to protect accuracy."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-bridge-to-nowhere",
+      "name": "The Bridge to Nowhere",
+      "spoilerFreeTitle": "Bridge Demolition",
+      "chapter": "6",
+      "orderInChapter": 8,
+      "type": "story",
+      "giver": "John Marston",
+      "startLocation": "Bacchus Station",
+      "goldRequirements": [
+        "Plant the dynamite within 1 minute 35 seconds",
+        "Escape the oncoming train within 19 seconds"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-rage-unleashed",
+      "name": "A Rage Unleashed",
+      "spoilerFreeTitle": "Recovering Stolen Horses",
+      "chapter": "6",
+      "orderInChapter": 9,
+      "type": "story",
+      "giver": "Reverend Swanson",
+      "startLocation": "Beaver Hollow",
+      "goldRequirements": [
+        "Knock out 2 soldiers on the boat",
+        "Round up the horses and reach shore within 1 minute 30 seconds"
+      ],
+      "goldTips": [
+        "Keep weapons holstered when ambushing so Arthur knocks out rather than kills.",
+        "Swim to the nearest horse, mount and sprint straight to shore."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-archeology-for-beginners",
+      "name": "Archeology for Beginners",
+      "spoilerFreeTitle": "A Sacred Site with Rains Fall",
+      "chapter": "6",
+      "orderInChapter": 10,
+      "type": "story",
+      "giver": "Rains Fall",
+      "startLocation": "Wapiti Indian Reservation",
+      "goldRequirements": [
+        "Recover the relics without being detected",
+        "Recover the relics within 1 minute 30 seconds"
+      ],
+      "goldTips": [
+        "Remount after Arthur first dismounts and ride to the army camp; crouch-sprint via the rock by the horses to the Chanupa, then back behind the barrel.",
+        "Use bushes for cover; a known bug can have an outer soldier spot you even while in stealth - leave quickly if so."
+      ],
+      "missableNotes": [
+        "Optional Honor mission for 'Lending a Hand'; lost after Chapter 6.",
+        "Do not kill anyone to receive the Owl Feather trinket (missable trinket).",
+        "Accept Captain Monroe's request during this mission to unlock 'Honor, Amongst Thieves'."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-honor-amongst-thieves",
+      "name": "Honor, Amongst Thieves",
+      "spoilerFreeTitle": "A Favor for Captain Monroe",
+      "chapter": "6",
+      "orderInChapter": 11,
+      "type": "story",
+      "giver": "Captain Lyndon Monroe",
+      "startLocation": "Wapiti Indian Reservation",
+      "goldRequirements": [
+        "Recover the vaccine without being detected",
+        "Complete within 5 minutes"
+      ],
+      "goldTips": [
+        "Approach the wagon on its right side at normal (not full) gallop and wait for the prompt before jumping aboard."
+      ],
+      "missableNotes": [
+        "Optional Honor mission for 'Lending a Hand'; only offered if you accept Monroe's request in 'Archeology for Beginners'. Lost after Chapter 6."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-fine-art-of-conversation",
+      "name": "The Fine Art of Conversation",
+      "spoilerFreeTitle": "A Peace Meeting",
+      "chapter": "6",
+      "orderInChapter": 12,
+      "type": "story",
+      "giver": "Josiah Trelawny / Rains Fall",
+      "startLocation": "Beaver Hollow",
+      "goldRequirements": [
+        "Kill a pursuer's horse during the escape",
+        "Complete within 9 minutes 30 seconds",
+        "Complete with at least 75% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "No headshot requirement - body shots with a shotgun keep accuracy high; Dead Eye a pursuer's horse during the chase."
+      ],
+      "missableNotes": [
+        "'Of Men and Angels' (Sister Calderon, Saint Denis) becomes unavailable after this mission (fandom) - do it first; it is required for 'Lending a Hand'."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-goodbye-dear-friend",
+      "name": "Goodbye, Dear Friend",
+      "spoilerFreeTitle": "A Public Event in Saint Denis",
+      "chapter": "6",
+      "orderInChapter": 13,
+      "type": "story",
+      "giver": "Sadie Adler / Dutch van der Linde",
+      "startLocation": "Saint Denis",
+      "goldRequirements": [
+        "Find Colm's backup within 45 seconds",
+        "Get 8 headshots with a long scoped rifle",
+        "Complete within 6 minutes 30 seconds"
+      ],
+      "goldTips": [
+        "Go straight up the ladder, through the window and right to the sniper; have your knife ready to finish him fast.",
+        "The scope moves slowly and auto-tracks Dutch at first; tag in Dead Eye then cancel it to move faster. Start with full Dead Eye."
+      ],
+      "missableNotes": [
+        "Awards the 'Third Time Lucky' story trophy (automatic)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-mrs-sadie-adler-widow",
+      "name": "Mrs. Sadie Adler, Widow (II)",
+      "spoilerFreeTitle": "Sadie's Business at the Ranch",
+      "chapter": "6",
+      "orderInChapter": 14,
+      "type": "story",
+      "giver": "Sadie Adler (at camp)",
+      "startLocation": "Beaver Hollow",
+      "goldRequirements": [
+        "Headshot the sniper in the barn",
+        "Secure the barn without taking any damage",
+        "Complete within 5 minutes 30 seconds"
+      ],
+      "goldTips": [
+        "Use a rifle/repeater and peek from cover briefly; go around the barn and shoot the last O'Driscoll through the window."
+      ],
+      "missableNotes": [
+        "Optional Honor mission (I & II) for 'Lending a Hand'; lost after Chapter 6.",
+        "fandom: completing this before 'Money Lending and Other Sins VI & VII' can make those debt missions disappear - do the debts first."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-favored-sons",
+      "name": "Favored Sons",
+      "spoilerFreeTitle": "An Ambush with Eagle Flies",
+      "chapter": "6",
+      "orderInChapter": 15,
+      "type": "story",
+      "giver": "Eagle Flies",
+      "startLocation": "Cumberland Forest",
+      "goldRequirements": [
+        "Kill the soldier on the cannon within 45 seconds",
+        "Get 35 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-kings-son",
+      "name": "The King's Son",
+      "spoilerFreeTitle": "Fort Wallace Infiltration",
+      "chapter": "6",
+      "orderInChapter": 16,
+      "type": "story",
+      "giver": "Charles Smith",
+      "startLocation": "Wapiti Indian Reservation",
+      "goldRequirements": [
+        "While infiltrating Fort Wallace, headshot every soldier blocking your way to Eagle Flies",
+        "Kill 15 enemies while escaping in the canoe",
+        "Complete with at least 80% accuracy"
+      ],
+      "goldTips": [
+        "Wait for Charles's command to shoot paired guards together with the bow."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-my-last-boy",
+      "name": "My Last Boy",
+      "spoilerFreeTitle": "Assault on the Oil Fields",
+      "chapter": "6",
+      "orderInChapter": 17,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Beaver Hollow",
+      "goldRequirements": [
+        "Save Paytah",
+        "Get 30 headshots",
+        "Complete with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Paytah is struggling with a soldier by a train car on the left after you cross the Gatling-gun train - kill that soldier.",
+        "Bring rifles/repeaters; body-shot a few enemies if accuracy slips."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-our-best-selves",
+      "name": "Our Best Selves",
+      "spoilerFreeTitle": "The Army Payroll Train",
+      "chapter": "6",
+      "orderInChapter": 18,
+      "type": "story",
+      "giver": "Dutch van der Linde",
+      "startLocation": "Beaver Hollow",
+      "goldRequirements": [
+        "Get a headshot in Dead Eye after jumping from Dutch's horse",
+        "Complete within 11 minutes",
+        "Fight through the train with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "After leaping onto the train, Dead Eye-headshot the soldier who knocks John off.",
+        "Accuracy stops counting once you reach the Maxim gun - be careful before that point."
+      ],
+      "missableNotes": [
+        "This mission rolls straight into the Chapter 6 finale; make a manual save BEFORE starting it if you want an Arthur save to return to (see 'Red Dead Redemption')."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-red-dead-redemption",
+      "name": "Red Dead Redemption",
+      "spoilerFreeTitle": "Chapter 6 Finale",
+      "chapter": "6",
+      "orderInChapter": 19,
+      "type": "story",
+      "giver": "Abigail Roberts / story (auto-continues from 'Our Best Selves')",
+      "startLocation": "Beaver Hollow",
+      "goldRequirements": [
+        "Get 7 headshots while covering Sadie from the lighthouse",
+        "After Sadie is captured, reach Abigail and Sadie within 1 minute",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "After Sadie is captured, run left through the houses to avoid a Pinkerton's line of fire, kill the one at the dock and rush in.",
+        "No overall headshot/time limit beyond the lighthouse section - take careful shots for accuracy.",
+        "Since patch 1.15 replays keep your stats, 3 of each tonic and your chosen horse (fandom)."
+      ],
+      "missableNotes": [
+        "POINT OF NO RETURN: after this mission you play as John and never control Arthur again. Make a separate manual save beforehand.",
+        "Lost at this point: all Chapter 6 optional honor missions ('Lending a Hand'), Arthur's money, all of Arthur's horses (including stabled ones), the Beaver Hollow camp, O'Driscoll compendium entries (they are replaced by the Laramie gang), Charlotte Balfour encounters if not all seen as Arthur, and Gertrude Braithwaite's journal point of interest.",
+        "Carries over to John: weapons, outfits, satchel items (kit, trinkets, talismans, valuables, documents), collectibles such as cigarette cards. Tip: hold unused treasure maps/valuables until the Epilogue.",
+        "Workaround reported by fandom: letting Arthur be robbed at the Aberdeen Pig Farm before 'Our Best Selves' lets John recover that money in the Epilogue.",
+        "Ending choice (help John vs go back for the money) and Arthur's honor only change the ending scenes; no trophy depends on them. The 'Redemption' trophy unlocks on completion either way."
+      ],
+      "pointOfNoReturn": true,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase",
+        "rdr2org-endings",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-wheel",
+      "name": "The Wheel",
+      "spoilerFreeTitle": "Epilogue Part 1 Opener",
+      "chapter": "E1",
+      "orderInChapter": 1,
+      "type": "story",
+      "giver": "John Marston (automatic)",
+      "startLocation": "Strawberry",
+      "goldRequirements": [
+        "Reach Pronghorn Ranch without dropping any supplies",
+        "Reclaim the wagon within 1 minute"
+      ],
+      "missableNotes": [
+        "Knock John's hat off and pick it up to save the Worn Flat Cap (missable hat).",
+        "The horse Rachel becomes John's after this mission (unique horse)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-simple-pleasures",
+      "name": "Simple Pleasures",
+      "spoilerFreeTitle": "First Day at the Ranch",
+      "chapter": "E1",
+      "orderInChapter": 2,
+      "type": "story",
+      "giver": "Tom Dickens",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "When milking, fill a bucket within 10 seconds",
+        "Complete within 5 minutes 15 seconds"
+      ],
+      "missableNotes": [
+        "John's Gambler's Hat must be knocked off and picked up to be saved (missable hat)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-farming-for-beginners",
+      "name": "Farming, for Beginners",
+      "spoilerFreeTitle": "Fences and a Bull",
+      "chapter": "E1",
+      "orderInChapter": 3,
+      "type": "story",
+      "giver": "Tom Dickens",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "Fix the first section of fence in 1 minute 30 seconds",
+        "Avoid being hit by the bull"
+      ],
+      "goldTips": [
+        "Jump onto the large rock beside the bull's charge path before throwing the rope; at the end rope it, release and run onto the wagon by the barn.",
+        "steamgm: being dragged while lassoing does not void the objective."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-fatherhood-for-beginners",
+      "name": "Fatherhood, for Beginners",
+      "spoilerFreeTitle": "Horse Work with Jack",
+      "chapter": "E1",
+      "orderInChapter": 4,
+      "type": "story",
+      "giver": "David Geddes",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "Tire out Jeremiah within 45 seconds",
+        "Feed Jeremiah a treat",
+        "Teach Jack to ride without his horse bucking him off",
+        "Win the race back to Pronghorn Ranch"
+      ],
+      "goldTips": [
+        "Spam jump while riding forward to drain Jeremiah's stamina fast.",
+        "Tell Jack to speed up only once so his horse keeps cantering."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-old-habits",
+      "name": "Old Habits",
+      "spoilerFreeTitle": "Trouble at the Ranch",
+      "chapter": "E1",
+      "orderInChapter": 5,
+      "type": "story",
+      "giver": "John Marston (automatic)",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "Defeat the Laramie without taking a hit",
+        "Defeat the Laramie within 25 seconds"
+      ],
+      "goldTips": [
+        "Dodge backwards first, then spam attack until the scripted choke-slam; avoid grapples.",
+        "steamgm: the no-hit objective is occasionally buggy - just retry."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-jim-milton-rides-again",
+      "name": "Jim Milton Rides, Again?",
+      "spoilerFreeTitle": "Night Raid",
+      "chapter": "E1",
+      "orderInChapter": 6,
+      "type": "story",
+      "giver": "David Geddes",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "Get 10 kills while dual wielding sidearms",
+        "Get 15 headshots",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "steamgm: the headshot counter sometimes fails to register - retry if so."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-fatherhood-for-idiots",
+      "name": "Fatherhood, for Idiots",
+      "spoilerFreeTitle": "A Trip to Strawberry with Jack",
+      "chapter": "E1",
+      "orderInChapter": 7,
+      "type": "story",
+      "giver": "Abigail",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "Kill all 3 enemies in Dead Eye",
+        "After the confrontation, return to Pronghorn Ranch within 1 minute 30 seconds"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-motherhood",
+      "name": "Motherhood",
+      "spoilerFreeTitle": "A Telegram and a Talk",
+      "chapter": "E1",
+      "orderInChapter": 8,
+      "type": "story",
+      "giver": "Abe (ranch hand)",
+      "startLocation": "Pronghorn Ranch",
+      "goldRequirements": [
+        "Complete within 1 minute 30 seconds"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-gainful-employment",
+      "name": "Gainful Employment",
+      "spoilerFreeTitle": "Bounty Work with Sadie",
+      "chapter": "E1",
+      "orderInChapter": 9,
+      "type": "story",
+      "giver": "Sadie Adler",
+      "startLocation": "Valentine",
+      "goldRequirements": [
+        "After arriving in Strawberry, locate the bounty within 30 seconds",
+        "After mounting your horse, catch and hogtie the bounty within 1 minute 15 seconds"
+      ],
+      "goldTips": [
+        "Skip questioning townsfolk; go straight to the Strawberry Welcome Center/hotel room upstairs by the bathroom.",
+        "Killing the bounty's horse (small honor loss) or cutting straight across at the rail crossing makes the hogtie easy."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-home-of-the-gentry",
+      "name": "Home of the Gentry?",
+      "spoilerFreeTitle": "Inspecting a Property",
+      "chapter": "E1",
+      "orderInChapter": 10,
+      "type": "story",
+      "giver": "Ansel Atherton (bank, Blackwater) - after the no-medal cutscene 'The Landowning Classes'",
+      "startLocation": "Blackwater",
+      "goldRequirements": [
+        "Complete within 2 minutes 30 seconds"
+      ],
+      "missableNotes": [
+        "John takes a bank loan to buy Beecher's Hope here. The debt cannot be paid off with your own cash - it is cleared through the Epilogue Part 2 story."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-bare-knuckle-friendships",
+      "name": "Bare Knuckle Friendships",
+      "spoilerFreeTitle": "Finding an Old Friend in Saint Denis",
+      "chapter": "E2",
+      "orderInChapter": 1,
+      "type": "story",
+      "giver": "Uncle",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "After arriving in Saint Denis, find Charles within 1 minute 50 seconds",
+        "Kill all of Guido Martelli's men within 10 seconds"
+      ],
+      "goldTips": [
+        "Go to the fence rather than the bar, speak to the shopkeeper at the door and leave immediately for the next location.",
+        "Dead Eye-tag all of Martelli's men at once."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-home-improvement-for-beginners",
+      "name": "Home Improvement for Beginners",
+      "spoilerFreeTitle": "Clearing the Old Shack",
+      "chapter": "E2",
+      "orderInChapter": 2,
+      "type": "story",
+      "giver": "Uncle",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Complete within 18 seconds"
+      ],
+      "goldTips": [
+        "Do not skip the cutscene (skipping adds load time that counts)."
+      ],
+      "missableNotes": [
+        "ppxt (Patch 1.03): replaying this mission after the story was reported to unlock 'Lending a Hand' instantly if missed - may have been patched; do not rely on it."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-an-honest-days-labors",
+      "name": "An Honest Day's Labors",
+      "spoilerFreeTitle": "A Bounty Recovery",
+      "chapter": "E2",
+      "orderInChapter": 3,
+      "type": "story",
+      "giver": "Sadie Adler",
+      "startLocation": "Blackwater Saloon",
+      "goldRequirements": [
+        "Kill all of Langton's men during the horseback escape",
+        "After choosing your approach, escape with Shane Finley within 5 minutes",
+        "Complete with at least 70% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-the-tool-box",
+      "name": "The Tool Box",
+      "spoilerFreeTitle": "Hauling Lumber",
+      "chapter": "E2",
+      "orderInChapter": 4,
+      "type": "story",
+      "giver": "Albert Cakes",
+      "startLocation": "Blackwater",
+      "goldRequirements": [
+        "Headshot all Skinner Brothers hiding up trees",
+        "Find Mr. Wayne within 2 minutes 15 seconds",
+        "Complete using only sidearms",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Dual-wield; hip-fire the machete rushers (no accuracy requirement).",
+        "When Charles mentions the tree ambushers, Dead Eye-tag their heads carefully."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-new-jerusalem",
+      "name": "A New Jerusalem",
+      "spoilerFreeTitle": "Building the House",
+      "chapter": "E2",
+      "orderInChapter": 5,
+      "type": "story",
+      "giver": "Uncle",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Hammer the nails in with 80% accuracy",
+        "Complete within 3 minutes 35 seconds"
+      ],
+      "goldTips": [
+        "Sources differ on technique: fandom suggests rapidly pressing the button; steamgm suggests holding it for a split second per nail."
+      ],
+      "missableNotes": [
+        "Awards the 'Cowboy Builder' story trophy (automatic)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-quick-favor-for-an-old-friend",
+      "name": "A Quick Favor for an Old Friend",
+      "spoilerFreeTitle": "Trouble in Rhodes",
+      "chapter": "E2",
+      "orderInChapter": 6,
+      "type": "story",
+      "giver": "Uncle",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Force Cortez's men to flee from Rhodes within 30 seconds",
+        "Get 5 headshots while covering Sadie with a long scoped rifle",
+        "Get 4 hip fire kills",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Get the hip-fire kills with a shotgun right at the start of the ambush.",
+        "Use high-damage weapons to clear Rhodes quickly."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-uncles-bad-day",
+      "name": "Uncle's Bad Day",
+      "spoilerFreeTitle": "A Rescue in Tall Trees",
+      "chapter": "E2",
+      "orderInChapter": 7,
+      "type": "story",
+      "giver": "Uncle",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Get 5 headshots using the bow",
+        "After freeing Uncle, return to Beecher's Hope within 3 minutes 10 seconds",
+        "Complete with at least 80% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Dead Eye-tagged bow shots home in, making the 5 bow headshots easy.",
+        "Stay just ahead of Charles and Uncle clearing enemies so they keep moving; kill the three Skinners that spawn behind them near the horses quickly."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-trying-again",
+      "name": "Trying Again",
+      "spoilerFreeTitle": "Fishing with Jack",
+      "chapter": "E2",
+      "orderInChapter": 8,
+      "type": "story",
+      "giver": "Jack",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Catch a fish",
+        "Complete within 5 minutes 20 seconds"
+      ],
+      "goldTips": [
+        "Land a fish before Jack asks about Rufus, then put the rod away immediately."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-really-big-bastard",
+      "name": "A Really Big Bastard",
+      "spoilerFreeTitle": "A Bounty in Tall Trees",
+      "chapter": "E2",
+      "orderInChapter": 9,
+      "type": "story",
+      "giver": "Abigail / Sadie Adler",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Shoot the bear 4 times as it charges",
+        "Headshot both the rival bounty hunters in Dead Eye",
+        "Complete within 7 minutes 15 seconds"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-a-new-future-imagined",
+      "name": "A New Future Imagined",
+      "spoilerFreeTitle": "A Day in Blackwater",
+      "chapter": "E2",
+      "orderInChapter": 10,
+      "type": "story",
+      "giver": "Abigail",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Complete within 7 minutes 30 seconds"
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-american-venom",
+      "name": "American Venom",
+      "spoilerFreeTitle": "Final Mission",
+      "chapter": "E2",
+      "orderInChapter": 11,
+      "type": "story",
+      "giver": "Abigail / Sadie Adler",
+      "startLocation": "Beecher's Hope",
+      "goldRequirements": [
+        "Help Sadie catch Cleet within 35 seconds",
+        "Headshot the sniper who shoots Charles",
+        "Complete with at least 85% accuracy",
+        "Complete the mission without taking any health items"
+      ],
+      "goldTips": [
+        "Bring a repeater with high-velocity ammo and a scoped bolt-action rifle.",
+        "For the sniper: advance with Sadie to the rocks nearest him, wait for the prompt, then lean out in Dead Eye and tag his head. Peeking early gets John killed.",
+        "85% accuracy - favour body shots."
+      ],
+      "missableNotes": [
+        "Completing this finishes the story: 'Endless Summer' trophy (automatic), $20,000 reward, end credits, then free roam as John at Beecher's Hope.",
+        "After the credits every story mission (including missed optional ones) can be replayed from Pause > Progress > Story for gold medals; replays do not count for 'Lending a Hand' (ppxt).",
+        "Micah's Revolver can be picked up at the final showdown location on Mount Hagen afterwards (steamgm)."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "ppx",
+        "fandom",
+        "steamgm",
+        "ppxt",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mission-high-and-low-finance",
+      "name": "High and Low Finance",
+      "spoilerFreeTitle": "Bank Job with Charles (Special Edition)",
+      "chapter": "4",
+      "orderInChapter": 15,
+      "type": "side",
+      "giver": "Charles Smith (camp companion activity, Special/Ultimate Edition only)",
+      "startLocation": "Shady Belle camp",
+      "goldRequirements": [
+        "Complete within 5 minutes 45 seconds",
+        "Don't take any damage during the escape"
+      ],
+      "missableNotes": [
+        "Special/Ultimate Edition content only; counts as the Chapter 4 companion activity for 'Friends With Benefits'. Expires at the end of Chapter 4.",
+        "NOT counted in the 104 medal missions used for 'Gold Rush' by PowerPyx/steamgm; see disputes."
+      ],
+      "pointOfNoReturn": false,
+      "sources": [
+        "steamgm",
+        "fandom",
+        "gtabase"
+      ],
+      "confidence": "single-source"
+    }
+  ],
+  "missables": [
+    {
+      "id": "missable-chapter-4-camp-trophies",
+      "what": "Camp trophies 'Give to the Poor', 'Errand Boy' and 'Friends With Benefits'",
+      "deadline": "Before completing 'Banking, The Old American Art' (end of Chapter 4)",
+      "recommendedTiming": "Chapters 2-4; finish in Chapter 4 at the latest before starting the bank job",
+      "why": "The tithing box, companion item requests and companion activities only exist in the Chapter 2-4 camps.",
+      "howTo": [
+        "Donate $250 total (cash or valuables) to the camp tithing box.",
+        "Deliver 5 camp companion item requests.",
+        "Complete at least one companion activity in each of the Chapter 2, 3 and 4 camps."
+      ],
+      "sources": [
+        "ppxt",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-chapter-4-honor-missions",
+      "what": "Chapter 4 optional honor missions: Help a Brother Out, Brothers and Sisters One and All, Fatherhood and Other Dreams I & II, Money Lending and Other Sins V",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Before 'Banking, The Old American Art'",
+      "recommendedTiming": "As soon as each unlocks in Chapter 4",
+      "why": "Optional story missions expire at chapter end and are required for 'Lending a Hand'; Brothers and Sisters also gates the Chapter 6 mini-quest Of Men and Angels.",
+      "howTo": [
+        "Talk to Brother Dorkins in Saint Denis for Help a Brother Out, then return some in-game hours later for Brothers and Sisters.",
+        "Read Mary Linton's letter at camp for Fatherhood and Other Dreams.",
+        "Take the debt from Strauss at camp for Money Lending V (do not rob/knock out the Davisons' homestead first)."
+      ],
+      "sources": [
+        "ppxt",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-chapter-6-honor-missions",
+      "what": "Chapter 6 optional honor missions: Do Not Seek Absolution I & II, Of Men and Angels I & II, The Course of True Love IV & V, Archeology for Beginners, Honor Amongst Thieves, Money Lending and Other Sins VI & VII, Mrs. Sadie Adler Widow I & II",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Before 'Red Dead Redemption' (Of Men and Angels: before 'The Fine Art of Conversation')",
+      "recommendedTiming": "Early in Chapter 6 before advancing the main story",
+      "why": "All expire when Arthur's story ends. Do Not Seek Absolution needs honor level 4 of 8. Money Lending VI & VII can disappear if Mrs. Sadie Adler Widow is done first.",
+      "howTo": [
+        "Keep honor high (at least mid-bar/level 4).",
+        "Do Money Lending VI & VII before Mrs. Sadie Adler, Widow.",
+        "Visit Sister Calderon in Saint Denis before The Fine Art of Conversation.",
+        "Accept Captain Monroe's request during Archeology for Beginners."
+      ],
+      "sources": [
+        "ppxt",
+        "fandom-missables",
+        "fandom"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-arthur-end-of-chapter-6",
+      "what": "Everything tied to Arthur: his cash, his horses (including stabled ones), the gang camp, Arthur-only encounters",
+      "deadline": "Completing 'Red Dead Redemption' (end of Chapter 6)",
+      "recommendedTiming": "Keep a manual save before 'Our Best Selves'",
+      "why": "Control passes permanently to John. Weapons, outfits and satchel items transfer; money and horses do not. No trophy requires Arthur-only content beyond the honor missions, but the save lets you revisit Arthur.",
+      "howTo": [
+        "Spend Arthur's cash before the finale (or use the Aberdeen Pig Farm trick per fandom).",
+        "Do not sell treasure-map valuables yet - they carry over.",
+        "Make a separate manual save before 'Our Best Selves'."
+      ],
+      "sources": [
+        "fandom",
+        "fandom-missables",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-guarma",
+      "what": "Guarma island (Chapter 5) content - exclusive animals, Sun Hat",
+      "deadline": "Completing 'Paradise Mercifully Departed'",
+      "recommendedTiming": "Optional; nothing trophy-relevant",
+      "why": "The island cannot be revisited. Guarma-exclusive animals are not needed for 'Zoologist' or 'Skin Deep'; Cuban Land Crab and Green Iguana also spawn on the mainland (Flat Iron Lake island).",
+      "howTo": [
+        "Optionally study/skin Guarma animals while there for completeness only."
+      ],
+      "sources": [
+        "ppxt",
+        "fandom-missables"
+      ],
+      "confidence": "confirmed"
+    }
+  ],
+  "notes": [
+    "Gold medal requirements were cross-checked across PowerPyx, Red Dead Wiki mission pages and the Steam 100% guide; all 63 Chapter 4-Epilogue lists match in substance (only wording/typos differ). (sources: ppx, fandom, steamgm)",
+    "All objectives for a gold must be met in a single run of the mission; a replay resets progress on every objective. Since patch 1.15, replays give reasonable stats/tonics/your horse. (sources: ppx, steamgm, fandom)",
+    "The gold checklist is not shown on the first playthrough, but objectives still count if met. Recommended: manual save before each mission and reload if a gold fails. (sources: ppx)",
+    "Chapter trophies in this range are automatic: Washed Ashore (Ch4), No Traitors (Ch5), Third Time Lucky ('Goodbye, Dear Friend'), Redemption ('Red Dead Redemption'), Cowboy Builder ('A New Jerusalem'), Endless Summer (finish Epilogue). (sources: ppxt, fandom)",
+    "Ending choice in 'Red Dead Redemption' (help John escape vs go back for the money) plus Arthur's honor changes the finale scenes; no trophy depends on the ending or honor at that point. 'Extreme Personality' (max or min honor) can be earned any time after Guarma, including post-game as John. (sources: ppxt, fandom, rdr2org-endings)",
+    "John's honor affects gameplay (e.g. store discounts) but not the story. (sources: fandom)",
+    "Epilogue: John works at Pronghorn Ranch (Part 1), then buys Beecher's Hope with a bank loan (Part 2). The loan cannot be paid down with cash you hold; the story clears it. Completing 'American Venom' pays $20,000 and returns free roam at Beecher's Hope. (sources: fandom, ppxt)",
+    "Arthur's items that carry over to John: weapons, outfits, kit, trinkets, talismans, valuables, documents; NOT money or horses. Stabled horses are lost too. (sources: fandom)",
+    "Chapter 4 ending temporarily strips weapons, money, horses and journal until the Guarma chapter ends; they are restored in 'Dear Uncle Tacitus'. (sources: fandom)",
+    "PowerPyx comment section (single user report): unfinished bounty wanted posters held by Arthur are removed after Chapter 6. Treat as unverified. (sources: ppxt)"
+  ],
+  "disputes": [
+    {
+      "topic": "Total gold medal missions: 104 vs 105 (High and Low Finance)",
+      "details": "Special/Ultimate Edition companion mission 'High and Low Finance' (Charles bank robbery, Chapter 4) has gold objectives. GTABase counts 105 medal missions; PowerPyx and the Steam guide count 104 and the Steam guide states it does not count toward 'Gold Rush'. A PowerPyx commenter says it appears in the Chapter 4 story tab.",
+      "positions": [
+        {
+          "claim": "104 medal missions; HLF does not count toward the 70",
+          "sources": [
+            "ppx",
+            "steamgm"
+          ]
+        },
+        {
+          "claim": "105 missions have gold objectives including HLF",
+          "sources": [
+            "gtabase"
+          ]
+        }
+      ],
+      "suggestedHandling": "Show 104 as the trophy-relevant total and list HLF separately as an optional Special Edition extra that may not count."
+    },
+    {
+      "topic": "Mission names/part numbers",
+      "details": "PowerPyx lists 'Horsemen, Apocalypse', 'American Fathers - II', 'Fatherhood and Other Dreams - II', 'Mrs. Sadie Adler, Widow - II', 'The Course of True Love - V', 'Bare Knuckles Friendships', 'That's Murfee Country'. Fandom/Steam use 'Horsemen, Apocalypses', 'Bare Knuckle Friendships', 'That's Murfree Country' and describe the multi-part missions as I & II / IV & V where only the later part carries the medal.",
+      "positions": [
+        {
+          "claim": "PowerPyx spellings/part numbers",
+          "sources": [
+            "ppx"
+          ]
+        },
+        {
+          "claim": "Fandom/Steam spellings (Apocalypses, Bare Knuckle, Murfree)",
+          "sources": [
+            "fandom",
+            "steamgm",
+            "gtabase"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use fandom spellings; note that the medal belongs to the final part (II or V) of multi-part honor missions."
+    },
+    {
+      "topic": "Chapter assignment of Icarus and Friends, A Fork in the Road, That's Murfree Country",
+      "details": "Icarus and Friends can be played before That's Murfree Country (i.e. during Chapter 5) but is filed under Chapter 6 in the replay menu. Fandom's flowchart treats A Fork in the Road / That's Murfree Country as leading into Chapter 6, while PowerPyx, Steam and GTABase list both under Chapter 5.",
+      "positions": [
+        {
+          "claim": "Fork in the Road and Murfree Country are Chapter 5; Icarus is Chapter 6",
+          "sources": [
+            "ppx",
+            "steamgm",
+            "gtabase"
+          ]
+        },
+        {
+          "claim": "Icarus playable in Ch5 but counted as Ch6 on replay",
+          "sources": [
+            "fandom"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use the replay-menu grouping (Ch5: 9 missions incl. Fork & Murfree; Ch6: 19 incl. Icarus) and mention Icarus can be played early."
+    },
+    {
+      "topic": "Order of missions within chapters",
+      "details": "Many Chapter 4 and 6 missions are branching/optional and can be done in different orders (fandom calculates millions of sequences). Chapter 5 'Savagery Unleashed' and 'A Kind and Benevolent Despot' can be done in either order (Steam/GTABase list Savagery first, PowerPyx lists Despot first).",
+      "positions": [
+        {
+          "claim": "Savagery Unleashed before Despot",
+          "sources": [
+            "steamgm",
+            "gtabase"
+          ]
+        },
+        {
+          "claim": "Despot before Savagery (list order only)",
+          "sources": [
+            "ppx"
+          ]
+        }
+      ],
+      "suggestedHandling": "orderInChapter is a typical order (GTABase/Steam), not mandatory; tell players to follow available markers."
+    },
+    {
+      "topic": "How the ending is determined",
+      "details": "RDR2.org describes the ending as depending only on the final choice (money vs John). Fandom describes four variants: each choice has a high-honor and low-honor version. Neither affects trophies.",
+      "positions": [
+        {
+          "claim": "Ending depends entirely on the final choice",
+          "sources": [
+            "rdr2org-endings"
+          ]
+        },
+        {
+          "claim": "Four endings: choice x Arthur's honor level",
+          "sources": [
+            "fandom"
+          ]
+        }
+      ],
+      "suggestedHandling": "Say the finale varies with both the choice and honor; no trophy depends on it."
+    },
+    {
+      "topic": "'Lending a Hand' replay trick",
+      "details": "PowerPyx (patch 1.03 era) reports that replaying 'Home Improvement for Beginners' after the story unlocked 'Lending a Hand' even with missed honor missions; it may have been patched since.",
+      "positions": [
+        {
+          "claim": "Trick works (patch 1.03)",
+          "sources": [
+            "ppxt"
+          ]
+        }
+      ],
+      "suggestedHandling": "Mention as an unverified fallback only; tell players to do every honor mission on the main playthrough."
+    },
+    {
+      "topic": "A New Jerusalem hammering technique",
+      "details": "Fandom advises rapidly pressing the prompt; the Steam guide advises holding the button briefly for each nail. Requirement text (80% nail accuracy) is the same.",
+      "positions": [
+        {
+          "claim": "Spam the button",
+          "sources": [
+            "fandom"
+          ]
+        },
+        {
+          "claim": "Hold briefly per nail",
+          "sources": [
+            "steamgm"
+          ]
+        }
+      ],
+      "suggestedHandling": "Present both tips."
+    }
+  ]
+}

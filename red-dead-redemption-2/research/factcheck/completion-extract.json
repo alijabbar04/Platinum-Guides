@@ -1,0 +1,685 @@
+{
+ "completion": {
+  "id": "completion",
+  "title": "Best in the West (100%)",
+  "short": "100% Completion",
+  "description": [
+   "Everything Pause > Progress > Total Completion asks for. Rows that point at another tracker fill in from it. Nothing here is missable; most people finish it after the story."
+  ],
+  "goal": 38,
+  "goalLabel": "categories",
+  "trophyIds": [
+   "trophy-best-in-the-west"
+  ],
+  "groups": [
+   {
+    "id": "pct-story",
+    "title": "Story & side",
+    "items": [
+     {
+      "id": "pct-story",
+      "label": "All story missions",
+      "kind": "check"
+     },
+     {
+      "id": "pct-strangers",
+      "label": "10 Stranger strands",
+      "kind": "link",
+      "trackerId": "strangers"
+     },
+     {
+      "id": "pct-bounties",
+      "label": "Bounties",
+      "kind": "counter",
+      "target": 5
+     },
+     {
+      "id": "pct-random-encounters",
+      "label": "Random encounters",
+      "kind": "counter",
+      "target": 25
+     },
+     {
+      "id": "pct-gang-ambush",
+      "label": "Gang ambush",
+      "kind": "counter",
+      "target": 1
+     },
+     {
+      "id": "pct-gang-hideouts",
+      "label": "Gang hideouts (Thieves Landing and Fort Mercer are Epilogue)",
+      "kind": "counter",
+      "target": 6
+     }
+    ]
+   },
+   {
+    "id": "pct-collect",
+    "title": "Collectibles",
+    "items": [
+     {
+      "id": "pct-points-of-interest",
+      "label": "Point of interest",
+      "kind": "counter",
+      "target": 1
+     },
+     {
+      "id": "pct-graves",
+      "label": "Graves",
+      "kind": "link",
+      "trackerId": "graves"
+     },
+     {
+      "id": "pct-card-set",
+      "label": "One complete cigarette card set",
+      "kind": "counter",
+      "target": 1
+     },
+     {
+      "id": "pct-dinosaur-bones",
+      "label": "Dinosaur bones",
+      "kind": "link",
+      "trackerId": "dinosaur-bones"
+     },
+     {
+      "id": "pct-legendary-fish",
+      "label": "Legendary fish",
+      "kind": "link",
+      "trackerId": "legendary-fish"
+     },
+     {
+      "id": "pct-exotics",
+      "label": "Exotics requests",
+      "kind": "link",
+      "trackerId": "exotics"
+     },
+     {
+      "id": "pct-rock-carvings",
+      "label": "Rock carvings",
+      "kind": "link",
+      "trackerId": "rock-carvings"
+     },
+     {
+      "id": "pct-hunting-requests",
+      "label": "Hunting requests (Ms. Hobbs)",
+      "kind": "counter",
+      "target": 5
+     },
+     {
+      "id": "pct-treasure-chain",
+      "label": "One full treasure map chain",
+      "kind": "counter",
+      "target": 1
+     },
+     {
+      "id": "pct-dreamcatchers",
+      "label": "Dreamcatchers",
+      "kind": "link",
+      "trackerId": "dreamcatchers"
+     }
+    ]
+   },
+   {
+    "id": "pct-compendium",
+    "title": "Compendium",
+    "items": [
+     {
+      "id": "pct-animals",
+      "label": "Animals",
+      "kind": "counter",
+      "target": 50
+     },
+     {
+      "id": "pct-equipment",
+      "label": "Equipment",
+      "kind": "counter",
+      "target": 10
+     },
+     {
+      "id": "pct-fish",
+      "label": "Fish",
+      "kind": "counter",
+      "target": 10
+     },
+     {
+      "id": "pct-gangs",
+      "label": "Gangs",
+      "kind": "counter",
+      "target": 6
+     },
+     {
+      "id": "pct-horse-breeds",
+      "label": "Horse breeds",
+      "kind": "counter",
+      "target": 10
+     },
+     {
+      "id": "pct-plants",
+      "label": "Plants",
+      "kind": "counter",
+      "target": 20
+     },
+     {
+      "id": "pct-weapons",
+      "label": "Weapons",
+      "kind": "counter",
+      "target": 48
+     }
+    ]
+   },
+   {
+    "id": "pct-misc",
+    "title": "Skills & misc",
+    "items": [
+     {
+      "id": "pct-cores",
+      "label": "Health, Stamina and Dead Eye at level 10",
+      "kind": "check"
+     },
+     {
+      "id": "pct-bonding",
+      "label": "Horse bonding level 4",
+      "kind": "check"
+     },
+     {
+      "id": "pct-challenges",
+      "label": "All 90 challenges",
+      "kind": "link",
+      "trackerId": "challenges"
+     },
+     {
+      "id": "pct-shacks",
+      "label": "Shacks",
+      "kind": "counter",
+      "target": 5
+     },
+     {
+      "id": "pct-legendary-animals",
+      "label": "5 legendary animals",
+      "kind": "link",
+      "trackerId": "legendary-animals"
+     },
+     {
+      "id": "pct-hobby-horse",
+      "label": "Each table game once",
+      "kind": "link",
+      "trackerId": "hobby-horse"
+     },
+     {
+      "id": "pct-ranters",
+      "label": "Ranters and ravers",
+      "kind": "counter",
+      "target": 5
+     },
+     {
+      "id": "pct-bath",
+      "label": "Take a bath",
+      "kind": "check"
+     },
+     {
+      "id": "pct-show",
+      "label": "Watch a show",
+      "kind": "check"
+     },
+     {
+      "id": "pct-theatre",
+      "label": "Watch a Theatre Raleur show",
+      "kind": "check"
+     },
+     {
+      "id": "pct-recipes",
+      "label": "Craft one of each of 6 recipe types",
+      "kind": "counter",
+      "target": 6
+     },
+     {
+      "id": "pct-rob-coach",
+      "label": "Rob a coach",
+      "kind": "check"
+     },
+     {
+      "id": "pct-rob-home",
+      "label": "Rob a home",
+      "kind": "check"
+     },
+     {
+      "id": "pct-rob-shop",
+      "label": "Rob a shop",
+      "kind": "check"
+     },
+     {
+      "id": "pct-rob-train",
+      "label": "Rob a train",
+      "kind": "check"
+     }
+    ]
+   }
+  ],
+  "hasMap": false
+ },
+ "grind": {
+  "id": "grind",
+  "title": "Grind Counters",
+  "short": "Grind",
+  "description": [
+   "Running totals for the trophies that build up over time. Use + and − to keep count; the game only shows some of these."
+  ],
+  "goal": 7,
+  "goalLabel": "goals met",
+  "trophyIds": [
+   "trophy-take-from-the-rich",
+   "trophy-pony-up",
+   "trophy-grin-and-bear-it",
+   "trophy-self-sufficient",
+   "trophy-bountiful",
+   "trophy-extreme-personality",
+   "trophy-trusty-steed"
+  ],
+  "groups": [
+   {
+    "id": "grind-counters",
+    "title": "Counters",
+    "items": [
+     {
+      "id": "grind-take-from-the-rich",
+      "label": "Take from the Rich: rob or loot",
+      "kind": "counter",
+      "target": 250,
+      "unit": "$"
+     },
+     {
+      "id": "grind-pony-up",
+      "label": "Pony Up: spend across shops",
+      "kind": "counter",
+      "target": 5000,
+      "unit": "$"
+     },
+     {
+      "id": "grind-grin-and-bear-it",
+      "label": "Grin and Bear It: bear attacks survived (bear killed)",
+      "kind": "counter",
+      "target": 18
+     },
+     {
+      "id": "grind-self-sufficient",
+      "label": "Self Sufficient: different items crafted",
+      "kind": "counter",
+      "target": 30,
+      "detail": "30 different recipes, not 30 crafts."
+     }
+    ]
+   },
+   {
+    "id": "grind-bountiful",
+    "title": "Bountiful: $250 bounty in every state, held 3 days",
+    "items": [
+     {
+      "id": "bounty-lemoyne",
+      "label": "$250+ bounty in Lemoyne",
+      "kind": "check"
+     },
+     {
+      "id": "bounty-newhanover",
+      "label": "$250+ bounty in New Hanover",
+      "kind": "check"
+     },
+     {
+      "id": "bounty-westelizabeth",
+      "label": "$250+ bounty in West Elizabeth",
+      "kind": "check"
+     },
+     {
+      "id": "bounty-ambarino",
+      "label": "$250+ bounty in Ambarino",
+      "kind": "check"
+     },
+     {
+      "id": "bounty-newaustin",
+      "label": "$250+ bounty in New Austin",
+      "kind": "check"
+     }
+    ]
+   },
+   {
+    "id": "grind-other",
+    "title": "Milestones",
+    "items": [
+     {
+      "id": "grind-extreme-personality",
+      "label": "Extreme Personality: maximum (or minimum) Honor reached",
+      "kind": "check"
+     },
+     {
+      "id": "grind-trusty-steed",
+      "label": "Trusty Steed: bonding level 4 with a horse",
+      "kind": "check"
+     }
+    ]
+   }
+  ],
+  "hasMap": false
+ },
+ "trophies": [
+  {
+   "id": "trophy-legend-of-the-west",
+   "name": "Legend of the West",
+   "description": "Unlock all other trophies.",
+   "howTo": [
+    "Earn all 34 other single-player trophies and all 17 Red Dead Online trophies.",
+    "Protect the 4 missable story trophies (Lending a Hand, Friends With Benefits, Give to the Poor, Errand Boy) in your first playthrough - they force a new game if missed."
+   ]
+  },
+  {
+   "id": "trophy-best-in-the-west",
+   "name": "Best in the West",
+   "description": "Attain 100% completion.",
+   "howTo": [
+    "Finish all story missions (optional ones can be skipped for 100%).",
+    "Complete 10 Stranger strands, 5 bounties, 25 random encounters, 1 gang ambush and all 6 gang hideouts.",
+    "Collectibles: 1 point of interest, all 9 graves, 1 full cigarette card set (12), 30 dinosaur bones, 13 legendary fish, all exotics requests, 10 rock carvings, all hunting requests, 1 treasure map chain, 20 dreamcatchers.",
+    "Compendium: 50 animals, 10 equipment, 10 fish, 6 gangs, 10 horse breeds, 20 plants, 48 weapons.",
+    "Max Health, Stamina and Dead Eye cores' level (10), reach bonding level 4 with a horse and complete all 90 challenges (9 categories x 10).",
+    "Misc: 5 shacks, 5 legendary animals, play each table game once, 5 ranters/ravers, a bath, a show, a Theatre Raleur show, craft one of each of 6 recipe types, and one coach, home, shop and train robbery."
+   ]
+  },
+  {
+   "id": "trophy-endless-summer",
+   "name": "Endless Summer",
+   "description": "Complete the Epilogue.",
+   "howTo": [
+    "Finish the Epilogue. The game continues in free roam afterwards for cleanup."
+   ]
+  },
+  {
+   "id": "trophy-collectors-item",
+   "name": "Collector's Item",
+   "description": "Complete one of the Collectable strands.",
+   "howTo": [
+    "Choose one: all 10 Rock Carvings (quickest), all 30 Dinosaur Bones, all 144 Cigarette Cards, or all Exotics requests.",
+    "Turn in / finish the associated stranger strand if one applies."
+   ]
+  },
+  {
+   "id": "trophy-gold-rush",
+   "name": "Gold Rush",
+   "description": "Earn 70 Gold Medals in Story missions.",
+   "howTo": [
+    "During the story, try to meet each mission's optional gold objectives (shown after the mission and in the mission log).",
+    "Replay missed missions via Pause > Progress > Story, select a completed mission, and replay it.",
+    "Pick the 70 easiest; there are 34 spare medals, so skip any mission that repeatedly wastes time."
+   ]
+  },
+  {
+   "id": "trophy-lending-a-hand",
+   "name": "Lending a Hand",
+   "description": "Complete all optional Honor story missions.",
+   "howTo": [
+    "Chapter 2: do Money Lending and Other Sins I-III (Strauss debts), Good, Honest, Snake Oil (Valentine sheriff's office area), We Loved Once and True I-III (letter in Arthur's tent).",
+    "Chapter 3: do The Course of True Love I-III (Beau Gray, Rhodes) and Money Lending and Other Sins IV.",
+    "Chapter 4: do Help a Brother Out and Brothers and Sisters, One and All (Brother Dorkins, Saint Denis), Fatherhood and Other Dreams I-II, Money Lending and Other Sins V.",
+    "Chapter 6: do Do Not Seek Absolution I-II (Edith Downes, Annesburg - needs high Honor), Of Men and Angels I-II, The Course of True Love IV-V, Archeology for Beginners, Honor, Amongst Thieves, Money Lending and Other Sins VI-VII, Mrs. Sadie Adler, Widow I-II.",
+    "In Archeology for Beginners, agree to help Captain Monroe - this spawns Honor, Amongst Thieves.",
+    "Before ending each chapter check the Progress > Story log for yellow honor-mission icons you haven't done, and keep a chapter-start manual save."
+   ]
+  },
+  {
+   "id": "trophy-redemption",
+   "name": "Redemption",
+   "description": "Complete 'Red Dead Redemption'.",
+   "howTo": [
+    "Before starting the final Chapter 6 mission, make sure every Chapter 6 optional honor mission is complete (Lending a Hand) and keep a manual save.",
+    "Complete 'Red Dead Redemption'."
+   ]
+  },
+  {
+   "id": "trophy-artificial-intelligence",
+   "name": "Artificial Intelligence",
+   "description": "Discover the fate of Marko Dragic.",
+   "howTo": [
+    "Start 'A Bright Bouncing Boy' with Marko Dragic (Chapter 4+).",
+    "Do part II at night (sleep if needed).",
+    "Wait about 2 in-game days, then return for the final part to find out what happened to Dragic."
+   ]
+  },
+  {
+   "id": "trophy-back-in-the-mud",
+   "name": "Back in the Mud",
+   "description": "Complete Chapter 1.",
+   "howTo": [
+    "Play through the story until Chapter 1 ends."
+   ]
+  },
+  {
+   "id": "trophy-bountiful",
+   "name": "Bountiful",
+   "description": "Survive 3 days holding a bounty of $250 in all states.",
+   "howTo": [
+    "Make a manual backup save (and consider turning off autosave).",
+    "Raise bounties to $250+ in Lemoyne, New Hanover, West Elizabeth, Ambarino and New Austin (New Austin already carries a story-related bounty per PowerPyx).",
+    "Ambarino is hardest: rob a train after it crosses into Ambarino, or kill a civilian in the wilds and carry the body until a witness reports you.",
+    "Once all states have $250+, go somewhere remote, make camp and sleep through 3 days (or sleep in a rented room repeatedly)."
+   ]
+  },
+  {
+   "id": "trophy-breaking-and-entering",
+   "name": "Breaking and Entering",
+   "description": "Recover the stash from 4 homesteads.",
+   "howTo": [
+    "Loot 4 of these 7: Chez Porter (barn loft stash), Aberdeen Pig Farm (back room after greeting the owners), Lonnie's Shack (threaten a survivor for the stash location), Van Horn Mansion (money on downstairs table), Catfish Jackson's (threaten the son; chimney or outside crate), Watson's Cabin (cellar - the shotgun counts as the stash), Willard's Rest (Chapter 6+, lockbox after the dinner scene).",
+    "Make a manual save before each robbery - killing owners or failing can close off a homestead."
+   ]
+  },
+  {
+   "id": "trophy-cowboy-builder",
+   "name": "Cowboy Builder",
+   "description": "Complete 'A New Jerusalem'.",
+   "howTo": [
+    "Play the Epilogue and complete 'A New Jerusalem'."
+   ]
+  },
+  {
+   "id": "trophy-errand-boy",
+   "name": "Errand Boy",
+   "description": "Deliver 5 camp companion item requests.",
+   "howTo": [
+    "Spend time in camp during the day (roughly 8:00-20:00) in Chapters 2-4 and talk to members; some will ask for an item (e.g. Pearson a compass, Mary-Beth a fountain pen, Jack a penny dreadful, Tilly a necklace, Charles oleander, Dutch a pipe).",
+    "Find or buy the item and hand it over; repeat until 5 are delivered."
+   ]
+  },
+  {
+   "id": "trophy-extreme-personality",
+   "name": "Extreme Personality",
+   "description": "Reach maximum or minimum Honor level.",
+   "howTo": [
+    "Make a manual save first so you can restore your normal honor.",
+    "Low route (fastest): commit crimes, kill and loot civilians until the bar reaches the far left.",
+    "High route: help strangers, return bounties alive, fish/hunt properly, donate, etc. until the far right."
+   ]
+  },
+  {
+   "id": "trophy-friends-with-benefits",
+   "name": "Friends With Benefits",
+   "description": "Complete a Companion Activity in each camp.",
+   "howTo": [
+    "At each camp, look for companion activity map icons or companions offering an outing (e.g. Chapter 2: Charles hunting, Javier home robbery; Chapter 3: Sean or Bill coach robbery, Javier or Kieran fishing; Chapter 4: Uncle cattle robbery, Pearson hunting).",
+    "Complete one activity per chapter camp - doing several in one chapter does not make up for a missed chapter.",
+    "If nothing shows up, sleep or wait in camp to advance time."
+   ]
+  },
+  {
+   "id": "trophy-give-to-the-poor",
+   "name": "Give to the Poor",
+   "description": "Donate $250 to the gang tithing box.",
+   "howTo": [
+    "At camp, interact with the tithing box (ledger) and donate cash; donations add up across visits.",
+    "Reach $250 total before the end of Chapter 4."
+   ]
+  },
+  {
+   "id": "trophy-grin-and-bear-it",
+   "name": "Grin and Bear It",
+   "description": "Survive 18 bear attacks and kill the bear each time in Story Mode.",
+   "howTo": [
+    "Go to the area between Wallace Station and Watson's Cabin (north of Little Creek River), a common grizzly spawn.",
+    "Equip a strong repeater or shotgun with express ammo.",
+    "Let the bear knock you down, mash the escape prompt, then shoot it from the ground during the prompt until it dies - kills done any other way don't count.",
+    "Respawn bears by leaving the area (e.g. train to Saint Denis and back), camping and sleeping, or reloading the save; repeat 18 times."
+   ]
+  },
+  {
+   "id": "trophy-hobby-horse",
+   "name": "Hobby Horse",
+   "description": "Play all mini games.",
+   "howTo": [
+    "Play (join) one game each of Poker, Blackjack, Dominoes and Five Finger Fillet; you do not need to win.",
+    "Example locations from PowerPyx: Five Finger Fillet in Strawberry, Blackjack in the Rhodes saloon, Dominoes in a Saint Denis park, Poker in a Saint Denis saloon.",
+    "Check Pause > Progress > Total Completion > Table Games."
+   ]
+  },
+  {
+   "id": "trophy-it-was-this-big",
+   "name": "It was THIS Big!",
+   "description": "Catch a fish weighing at least 16 lbs (7.3 kg).",
+   "howTo": [
+    "Catch any fish of 16 lb or more; legendary fish (fishing rod + legendary lure) guarantee it."
+   ]
+  },
+  {
+   "id": "trophy-its-art",
+   "name": "It's Art",
+   "description": "Find a permanent home for the squirrel statue.",
+   "howTo": [
+    "Complete all 5 hunting requests (posters in train stations) by mailing perfect carcasses; the last request only unlocks after Epilogue Part 1.",
+    "Visit Ms. Hobbs east of Strawberry to receive the squirrel statue.",
+    "Place it on the living-room fireplace at Beecher's Hope, sleep, and find it after it goes missing: main bedroom chest, main bedroom chimney, chest in loft above kitchen, wheelbarrow by the barn, chest on barn upper floor, then Mount Shann north of Strawberry.",
+    "Put it back each time until the trophy unlocks."
+   ]
+  },
+  {
+   "id": "trophy-just-a-scratch",
+   "name": "Just a Scratch",
+   "description": "Complete 'Enter, Pursued by a Memory'.",
+   "howTo": [
+    "Continue the main story; the trophy pops on finishing 'Enter, Pursued by a Memory'."
+   ]
+  },
+  {
+   "id": "trophy-locked-and-loaded",
+   "name": "Locked and Loaded",
+   "description": "Upgrade each available component for a single sidearm or longarm weapon.",
+   "howTo": [
+    "Save manually, visit a gunsmith (e.g. Valentine) and customize one gun.",
+    "Buy every component option (e.g. for the Cattleman: grip, barrel, rifling, sights); reload if you want the money back."
+   ]
+  },
+  {
+   "id": "trophy-no-traitors",
+   "name": "No Traitors",
+   "description": "Complete Chapter 5.",
+   "howTo": [
+    "Finish Chapter 5."
+   ]
+  },
+  {
+   "id": "trophy-paying-respects",
+   "name": "Paying Respects",
+   "description": "Find the graves of each of your fallen companions.",
+   "howTo": [
+    "After the story, visit and interact with each of 9 graves: Hosea and Lenny (together, Bluewater Marsh area north of Saint Denis), Sean (hill by Flat Iron Lake NW of Rhodes), Kieran (field east of Braithwaite Manor), Susan (cliff over the railroad near Emerald Station), Arthur (east of Bacchus Station), Eagle Flies (west side of Donner Falls), Davey (Colter), Jenny (near Glacier / Spider Gorge).",
+    "Order doesn't matter."
+   ]
+  },
+  {
+   "id": "trophy-pony-up",
+   "name": "Pony Up",
+   "description": "Spend $5000 across all shops.",
+   "howTo": [
+    "Make a manual save, then spend money at stables, gunsmiths, general stores, tailors etc.",
+    "Optionally reload the save afterwards to get the money back once the trophy pops."
+   ]
+  },
+  {
+   "id": "trophy-self-sufficient",
+   "name": "Self Sufficient",
+   "description": "Craft 30 unique items in Story Mode.",
+   "howTo": [
+    "Craft many different recipes: ammo types, tonics, cooked meats, horse items, weapons like arrows, etc., via the camp/satchel crafting menu."
+   ]
+  },
+  {
+   "id": "trophy-settling-feuds",
+   "name": "Settling Feuds",
+   "description": "Complete Chapter 3.",
+   "howTo": [
+    "Finish Chapter 3. Before doing so, complete a Chapter 3 camp companion activity and the Chapter 3 honor missions."
+   ]
+  },
+  {
+   "id": "trophy-skin-deep",
+   "name": "Skin Deep",
+   "description": "Skin every species of animal in Story Mode.",
+   "howTo": [
+    "Kill and skin every skinnable species; track in Pause > Progress > Compendium > Animals.",
+    "Guarma-only species are not required; small plucked/picked-up animals are not needed."
+   ]
+  },
+  {
+   "id": "trophy-take-from-the-rich",
+   "name": "Take From the Rich",
+   "description": "Rob or loot $250.",
+   "howTo": [
+    "Loot the bodies of enemies you kill in missions and encounters and do robberies; cash totals accumulate to $250."
+   ]
+  },
+  {
+   "id": "trophy-third-time-lucky",
+   "name": "Third Time Lucky",
+   "description": "Complete 'Goodbye, Dear Friend'.",
+   "howTo": [
+    "Progress through Chapter 6 (Beaver Hollow) and complete 'Goodbye, Dear Friend'."
+   ]
+  },
+  {
+   "id": "trophy-to-greener-pastures",
+   "name": "To Greener Pastures",
+   "description": "Complete Chapter 2.",
+   "howTo": [
+    "Finish Chapter 2 of the story. Before doing so, make sure Chapter 2 missables are done (a Chapter 2 camp companion activity, Chapter 2 honor missions)."
+   ]
+  },
+  {
+   "id": "trophy-trusty-steed",
+   "name": "Trusty Steed",
+   "description": "Reach max bonding level with a horse.",
+   "howTo": [
+    "Ride, feed, brush, pat and calm the same horse until bonding level 4 (check the Horse screen)."
+   ]
+  },
+  {
+   "id": "trophy-washed-ashore",
+   "name": "Washed Ashore",
+   "description": "Complete Chapter 4.",
+   "howTo": [
+    "Finish Chapter 4. This is the key point of no return: the tithing box, camp item requests and Chapter 4 companion activity must be finished before it."
+   ]
+  },
+  {
+   "id": "trophy-western-stranger",
+   "name": "Western Stranger",
+   "description": "Complete 10 Stranger mission strands.",
+   "howTo": [
+    "Complete every part of 10 different Stranger strands (white '?' icons).",
+    "Check Pause > Progress > Total Completion > Strangers."
+   ]
+  },
+  {
+   "id": "trophy-zoologist",
+   "name": "Zoologist",
+   "description": "Study every animal across all states in Story Mode.",
+   "howTo": [
+    "Use binoculars (or aim) on animals and press the study prompt until the compendium entry registers; variants count separately.",
+    "Guarma-only animals are not required (Cuban land crab and green iguana can also be found on the main map)."
+   ]
+  }
+ ]
+}

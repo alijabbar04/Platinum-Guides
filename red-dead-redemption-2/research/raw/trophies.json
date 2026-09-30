@@ -1,0 +1,1797 @@
+{
+  "area": "trophies",
+  "generatedAt": "2026-10-01",
+  "sources": [
+    {
+      "id": "ppx",
+      "title": "PowerPyx - Red Dead Redemption 2 Trophy Guide & Roadmap",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/"
+    },
+    {
+      "id": "ppx-stash",
+      "title": "PowerPyx - RDR2 Homestead Stash Locations",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-homestead-stash-locations/"
+    },
+    {
+      "id": "ppx-100",
+      "title": "PowerPyx - RDR2 100% Guide & Checklist",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-100-guide-checklist/"
+    },
+    {
+      "id": "rdr2org",
+      "title": "RDR2.org Wiki - Trophies",
+      "url": "https://www.rdr2.org/wiki/trophies/"
+    },
+    {
+      "id": "gtabase",
+      "title": "GTABase - RDR2 Achievements & Trophies Full List",
+      "url": "https://www.gtabase.com/red-dead-redemption-2/guides/red-dead-redemption-2-achievements-trophies-full-list-ps4-xbox-one"
+    },
+    {
+      "id": "damnmodz",
+      "title": "DamnModz - RDR2 Trophy Guide & Platinum Roadmap",
+      "url": "https://damnmodz.com/wiki/playstation-trophies/red-dead-redemption-2/"
+    },
+    {
+      "id": "vgtimes",
+      "title": "VGTimes - RDR2 all trophies for PS4 (52 trophies, secret flags)",
+      "url": "https://vgtimes.com/games/red-dead-redemption-2/achievements-and-trophies/ps4/"
+    },
+    {
+      "id": "vgr",
+      "title": "VGR - RDR2 Lending a Hand: All Missable Quests Guide",
+      "url": "https://vgr.com/red-dead-redemption-2-lending-a-hand-all-missable-quests-guide/"
+    },
+    {
+      "id": "pixel-miss",
+      "title": "Pixeltwelve - RDR2 Missable Content",
+      "url": "https://pixeltwelve.com/articles/red-dead-redemption-2-missable-content"
+    },
+    {
+      "id": "htr-graves",
+      "title": "HoldToReset - RDR2 Graves Guide (all 9 graves)",
+      "url": "https://holdtoreset.com/graves-guide-where-to-find-all-9-graves-in-red-dead-redemption-2/"
+    },
+    {
+      "id": "gg-collector",
+      "title": "GamerGuides - Collector's Item trophy page",
+      "url": "https://www.gamerguides.com/red-dead-redemption-2/psn-trophies/collector-s-item"
+    },
+    {
+      "id": "ws-lending",
+      "title": "Web search result summaries (TrueAchievements / GameFAQs / PSNProfiles snippets) for Lending a Hand - not fetched directly",
+      "url": "https://www.trueachievements.com/a262339/lending-a-hand-achievement"
+    },
+    {
+      "id": "ws-fwb",
+      "title": "Web search result summaries (Steam guide / TrueAchievements / PST snippets) for Friends With Benefits - not fetched directly",
+      "url": "https://www.trueachievements.com/a262346/friends-with-benefits-achievement"
+    },
+    {
+      "id": "ws-errand",
+      "title": "Web search result summaries (Red Dead Wiki Errand Boy page / GosuNoob snippets) - not fetched directly",
+      "url": "https://reddead.fandom.com/wiki/Errand_Boy"
+    },
+    {
+      "id": "ws-bear",
+      "title": "Web search result summaries (PST / TrueAchievements / Steam snippets) for Grin and Bear It - not fetched directly",
+      "url": "https://www.playstationtrophies.org/game/red-dead-redemption-2/trophy/241834-grin-and-bear-it.html"
+    },
+    {
+      "id": "ws-bounty",
+      "title": "Web search result summaries (XboxAchievements / Steam / PSNProfiles forum snippets) for Bountiful - not fetched directly",
+      "url": "https://forum.psnprofiles.com/topic/68152-tips-help-for-bountiful-trophy-rdr2/"
+    },
+    {
+      "id": "ws-art",
+      "title": "Web search result summaries (TrueAchievements / Twinfinite snippets) for It's Art - not fetched directly",
+      "url": "https://twinfinite.net/guides/red-dead-redemption-2-its-art/"
+    },
+    {
+      "id": "ws-gold",
+      "title": "Web search result summaries (PowerPyx Gold Medals guide / TrueAchievements snippets) for Gold Rush - not fetched directly",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-gold-medals-guide/"
+    },
+    {
+      "id": "ws-honor",
+      "title": "Web search result summaries (PST / TrueAchievements / GameFAQs snippets) for Extreme Personality - not fetched directly",
+      "url": "https://www.playstationtrophies.org/game/red-dead-redemption-2/trophy/241822-extreme-personality.html"
+    },
+    {
+      "id": "ws-collector",
+      "title": "Web search result summaries (XboxAchievements / PST snippets) for Collector's Item - not fetched directly",
+      "url": "https://www.playstationtrophies.org/game/red-dead-redemption-2/trophy/241825-collectors-item.html"
+    },
+    {
+      "id": "ws-hidden",
+      "title": "Web search result summary stating 52 trophies, 12 hidden (PST/TrueTrophies listing snippets) - not fetched directly",
+      "url": "https://www.playstationtrophies.org/game/red-dead-redemption-2/trophies"
+    },
+    {
+      "id": "ws-100",
+      "title": "Web search result summaries (Red Dead Wiki / GTABase 100% checklist snippets) - not fetched directly",
+      "url": "https://reddead.fandom.com/wiki/100%25_Completion_(RDR2)"
+    },
+    {
+      "id": "ws-stash",
+      "title": "Web search result summaries (Twinfinite / GosuNoob snippets) for homestead stashes - not fetched directly",
+      "url": "https://twinfinite.net/guides/red-dead-redemption-2-homestead-stash-locations-breaking-entering-trophy-achievement/"
+    },
+    {
+      "id": "ws-server",
+      "title": "Web search result summaries on Red Dead Online PS4 server status (PSU / Rockstar service status) - not fetched directly",
+      "url": "https://support.rockstargames.com/servicestatus"
+    },
+    {
+      "id": "fc-ppx-locked",
+      "title": "Fact-check (research/factcheck/completion-verdicts.json): PowerPyx trophy guide wording",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/"
+    }
+  ],
+  "knownTotals": [
+    {
+      "key": "trophies",
+      "value": 52,
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "damnmodz",
+        "vgtimes"
+      ],
+      "note": "incl. platinum (Legend of the West). GTABase phrases it as 51 + 1 platinum."
+    },
+    {
+      "key": "trophies-platinum",
+      "value": 1,
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase",
+        "damnmodz"
+      ]
+    },
+    {
+      "key": "trophies-gold",
+      "value": 3,
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase",
+        "damnmodz"
+      ],
+      "note": "Endless Summer, Best in the West, Notorious (online). PowerPyx roadmap splits as 2 offline gold + 1 online gold."
+    },
+    {
+      "key": "trophies-silver",
+      "value": 4,
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase",
+        "damnmodz"
+      ],
+      "note": "Redemption, Lending a Hand, Gold Rush, Collector's Item"
+    },
+    {
+      "key": "trophies-bronze",
+      "value": 44,
+      "sources": [
+        "rdr2org",
+        "damnmodz"
+      ],
+      "note": "GTABase header says 43 but its own table lists 44 bronze rows; rdr2.org table omits Cowboy Builder (51 rows) but its header says 44. 44 = 28 offline + 16 online. See disputes."
+    },
+    {
+      "key": "trophies-online",
+      "value": 17,
+      "sources": [
+        "gtabase",
+        "damnmodz",
+        "rdr2org"
+      ],
+      "note": "16 bronze + 1 gold (Notorious). All prefixed 'Red Dead Online:' in PS descriptions. Required for platinum."
+    },
+    {
+      "key": "trophies-offline",
+      "value": 35,
+      "sources": [
+        "ppx",
+        "gtabase"
+      ],
+      "note": "incl. platinum: 1 platinum + 2 gold + 4 silver + 28 bronze"
+    },
+    {
+      "key": "trophies-hidden",
+      "value": 12,
+      "sources": [
+        "vgtimes",
+        "ws-hidden"
+      ],
+      "note": "7 chapter/story-mission trophies + Redemption, Cowboy Builder, Endless Summer, Paying Respects, It's Art. GTABase and rdr2.org mark none as secret - see disputes."
+    },
+    {
+      "key": "missable-trophies",
+      "value": 4,
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss"
+      ],
+      "note": "Lending a Hand, Friends With Benefits, Give to the Poor, Errand Boy"
+    },
+    {
+      "key": "gold-medals-available",
+      "value": 104,
+      "sources": [
+        "ppx",
+        "ws-gold",
+        "damnmodz"
+      ],
+      "note": "70 needed for Gold Rush"
+    },
+    {
+      "key": "lending-a-hand-missions",
+      "value": 28,
+      "sources": [
+        "pixel-miss",
+        "ws-lending"
+      ],
+      "note": "Mission-part count; VGR's list omits 'Of Men and Angels I-II' giving 26"
+    }
+  ],
+  "trophies": [
+    {
+      "id": "trophy-legend-of-the-west",
+      "name": "Legend of the West",
+      "officialDescription": "Unlock all other trophies.",
+      "grade": "platinum",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Automatically after the other 51 trophies, including all 17 Red Dead Online trophies.",
+      "howTo": [
+        "Earn all 34 other single-player trophies and all 17 Red Dead Online trophies.",
+        "Protect the 4 missable story trophies (Lending a Hand, Friends With Benefits, Give to the Poor, Errand Boy) in your first playthrough - they force a new game if missed."
+      ],
+      "prerequisites": [
+        "PlayStation Plus for Red Dead Online",
+        "Red Dead Online servers online"
+      ],
+      "relatedTrackers": [
+        "story",
+        "gold-medals",
+        "100-percent",
+        "challenges",
+        "compendium",
+        "online-rank"
+      ],
+      "tips": [
+        "Estimated 240-300 hours total (about 200 story, 40-100 online); difficulty about 6/10 per PowerPyx/DamnModz."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-back-in-the-mud",
+      "name": "Back in the Mud",
+      "officialDescription": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks automatically at the end of Chapter 1 (Colter).",
+      "howTo": [
+        "Play through the story until Chapter 1 ends."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-just-a-scratch",
+      "name": "Just a Scratch",
+      "officialDescription": "Complete 'Enter, Pursued by a Memory'.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks on completing the story mission 'Enter, Pursued by a Memory' (Chapter 2).",
+      "howTo": [
+        "Continue the main story; the trophy pops on finishing 'Enter, Pursued by a Memory'."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-to-greener-pastures",
+      "name": "To Greener Pastures",
+      "officialDescription": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks automatically at the end of Chapter 2.",
+      "howTo": [
+        "Finish Chapter 2 of the story. Before doing so, make sure Chapter 2 missables are done (a Chapter 2 camp companion activity, Chapter 2 honor missions)."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-settling-feuds",
+      "name": "Settling Feuds",
+      "officialDescription": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks automatically at the end of Chapter 3.",
+      "howTo": [
+        "Finish Chapter 3. Before doing so, complete a Chapter 3 camp companion activity and the Chapter 3 honor missions."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-washed-ashore",
+      "name": "Washed Ashore",
+      "officialDescription": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks automatically at the end of Chapter 4.",
+      "howTo": [
+        "Finish Chapter 4. This is the key point of no return: the tithing box, camp item requests and Chapter 4 companion activity must be finished before it."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-no-traitors",
+      "name": "No Traitors",
+      "officialDescription": "Complete Chapter 5.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks automatically at the end of Chapter 5.",
+      "howTo": [
+        "Finish Chapter 5."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-third-time-lucky",
+      "name": "Third Time Lucky",
+      "officialDescription": "Complete 'Goodbye, Dear Friend'.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks on completing the Chapter 6 mission 'Goodbye, Dear Friend'.",
+      "howTo": [
+        "Progress through Chapter 6 (Beaver Hollow) and complete 'Goodbye, Dear Friend'."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-redemption",
+      "name": "Redemption",
+      "officialDescription": "Complete 'Red Dead Redemption'.",
+      "grade": "silver",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks on finishing the final Chapter 6 mission, just before the Epilogue begins.",
+      "howTo": [
+        "Before starting the final Chapter 6 mission, make sure every Chapter 6 optional honor mission is complete (Lending a Hand) and keep a manual save.",
+        "Complete 'Red Dead Redemption'."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-cowboy-builder",
+      "name": "Cowboy Builder",
+      "officialDescription": "Complete 'A New Jerusalem'.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - Epilogue mission 'A New Jerusalem'.",
+      "howTo": [
+        "Play the Epilogue and complete 'A New Jerusalem'."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-endless-summer",
+      "name": "Endless Summer",
+      "officialDescription": "Complete the Epilogue.",
+      "grade": "gold",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Story - unlocks on finishing Epilogue Part 2 (the end of the story).",
+      "howTo": [
+        "Finish the Epilogue. The game continues in free roam afterwards for cleanup."
+      ],
+      "relatedTrackers": [
+        "story"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-lending-a-hand",
+      "name": "Lending a Hand",
+      "officialDescription": "Complete all optional Honor story missions.",
+      "grade": "silver",
+      "hidden": false,
+      "online": false,
+      "missable": true,
+      "missableDeadline": "Each mission is lost when its chapter ends: Chapter 2 set before finishing Chapter 2, Chapter 3 set before finishing Chapter 3, Chapter 4 set before finishing Chapter 4, Chapter 6 set before starting/finishing the final Chapter 6 mission ('Red Dead Redemption'). Some are time-sensitive even within a chapter.",
+      "earnedWhen": "Story - after the last required optional honor mission in a single playthrough.",
+      "howTo": [
+        "Chapter 2: do Money Lending and Other Sins I-III (Strauss debts), Good, Honest, Snake Oil (Valentine sheriff's office area), We Loved Once and True I-III (letter in Arthur's tent).",
+        "Chapter 3: do The Course of True Love I-III (Beau Gray, Rhodes) and Money Lending and Other Sins IV.",
+        "Chapter 4: do Help a Brother Out and Brothers and Sisters, One and All (Brother Dorkins, Saint Denis), Fatherhood and Other Dreams I-II, Money Lending and Other Sins V.",
+        "Chapter 6: do Do Not Seek Absolution I-II (Edith Downes, Annesburg - needs high Honor), Of Men and Angels I-II, The Course of True Love IV-V, Archeology for Beginners, Honor, Amongst Thieves, Money Lending and Other Sins VI-VII, Mrs. Sadie Adler, Widow I-II.",
+        "In Archeology for Beginners, agree to help Captain Monroe - this spawns Honor, Amongst Thieves.",
+        "Before ending each chapter check the Progress > Story log for yellow honor-mission icons you haven't done, and keep a chapter-start manual save."
+      ],
+      "prerequisites": [
+        "Honor level high enough (about level 4 positive) by Chapter 6 to unlock 'Do Not Seek Absolution'"
+      ],
+      "relatedTrackers": [
+        "story",
+        "honor"
+      ],
+      "tips": [
+        "Do each honor mission as soon as its icon appears; several despawn as the story advances.",
+        "Play honorably (greet people, help strangers, don't kill civilians) through Chapters 2-6 so Chapter 6 honor gating is never an issue."
+      ],
+      "sources": [
+        "ppx",
+        "vgr",
+        "pixel-miss",
+        "damnmodz",
+        "ws-lending"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-best-in-the-west",
+      "name": "Best in the West",
+      "officialDescription": "Attain 100% completion.",
+      "grade": "gold",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Grind - post-story cleanup; tracked in Pause > Progress > Total Completion.",
+      "howTo": [
+        "Finish all story missions (optional ones can be skipped for 100%).",
+        "Complete 10 Stranger strands, 5 bounties, 25 random encounters, 1 gang ambush and all 6 gang hideouts.",
+        "Collectibles: 1 point of interest, all 9 graves, 1 full cigarette card set (12), 30 dinosaur bones, 13 legendary fish, all exotics requests, 10 rock carvings, all hunting requests, 1 treasure map chain, 20 dreamcatchers.",
+        "Compendium: 50 animals, 10 equipment, 10 fish, 6 gangs, 10 horse breeds, 20 plants, 48 weapons.",
+        "Raise the Health, Stamina and Dead Eye attributes to level 10, reach bonding level 4 with a horse and complete all 90 challenges (9 categories x 10).",
+        "Misc: 5 shacks, 5 legendary animals, play each table game once, 5 ranters/ravers, a bath, a show, a Théâtre Râleur show, craft one of each of 6 recipe types, and one coach, home, shop and train robbery."
+      ],
+      "relatedTrackers": [
+        "100-percent",
+        "challenges",
+        "compendium",
+        "collectibles",
+        "strangers"
+      ],
+      "tips": [
+        "Use Progress > Total Completion to see what is outstanding instead of guessing.",
+        "Weapons: only 48 of 59 are needed, which covers the few missable ones."
+      ],
+      "sources": [
+        "ppx",
+        "ppx-100",
+        "damnmodz",
+        "ws-100"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-gold-rush",
+      "name": "Gold Rush",
+      "officialDescription": "Earn 70 Gold Medals in Story missions.",
+      "grade": "silver",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Grind - 70 of the 104 story missions with gold-medal objectives.",
+      "howTo": [
+        "During the story, try to meet each mission's optional gold objectives (shown after the mission and in the mission log).",
+        "Replay missed missions via Pause > Progress > Story, select a completed mission, and replay it.",
+        "Pick the 70 easiest; there are 34 spare medals, so skip any mission that repeatedly wastes time."
+      ],
+      "relatedTrackers": [
+        "gold-medals"
+      ],
+      "tips": [
+        "Replays let you carry better gear/stats, making later attempts easier.",
+        "Restart a checkpoint as soon as you fail an objective."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "ws-gold"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-friends-with-benefits",
+      "name": "Friends With Benefits",
+      "officialDescription": "Complete a Companion Activity in each camp.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": true,
+      "missableDeadline": "One activity in the Chapter 2 camp (Horseshoe Overlook) before Chapter 2 ends, one in the Chapter 3 camp (Clemens Point) before Chapter 3 ends, one in the Chapter 4 camp (Shady Belle) before Chapter 4 ends.",
+      "earnedWhen": "Story - after doing at least one companion activity in each of the Chapter 2, 3 and 4 camps.",
+      "howTo": [
+        "At each camp, look for companion activity map icons or companions offering an outing (e.g. Chapter 2: Charles hunting, Javier home robbery; Chapter 3: Sean or Bill coach robbery, Javier or Kieran fishing; Chapter 4: Uncle cattle robbery, Pearson hunting).",
+        "Complete one activity per chapter camp - doing several in one chapter does not make up for a missed chapter.",
+        "If nothing shows up, sleep or wait in camp to advance time."
+      ],
+      "relatedTrackers": [
+        "camp"
+      ],
+      "tips": [
+        "Do one as soon as you reach each new camp.",
+        "Progress can be checked via Rockstar Social Club stats (per PowerPyx)."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss",
+        "ws-fwb"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-hobby-horse",
+      "name": "Hobby Horse",
+      "officialDescription": "Play all mini games.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Any time Poker, Blackjack, Dominoes and Five Finger Fillet have each been played once.",
+      "howTo": [
+        "Play (join) one game each of Poker, Blackjack, Dominoes and Five Finger Fillet; you do not need to win.",
+        "Example locations from PowerPyx: Five Finger Fillet in Strawberry, Blackjack in the Rhodes saloon, Dominoes in a Saint Denis park, Poker in a Saint Denis saloon.",
+        "Check Pause > Progress > Total Completion > Table Games."
+      ],
+      "relatedTrackers": [
+        "100-percent"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-breaking-and-entering",
+      "name": "Breaking and Entering",
+      "officialDescription": "Recover the stash from 4 homesteads.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Any time from Chapter 2 once 4 of the 7 homestead stashes are looted.",
+      "howTo": [
+        "Loot 4 of these 7: Chez Porter (barn loft stash), Aberdeen Pig Farm (back room after greeting the owners), Lonnie's Shack (threaten a survivor for the stash location), Van Horn Mansion (money on downstairs table), Catfish Jackson's (threaten the son; chimney or outside crate), Watson's Cabin (cellar - the shotgun counts as the stash), Willard's Rest (Chapter 6+, lockbox after the dinner scene).",
+        "Make a manual save before each robbery - killing owners or failing can close off a homestead."
+      ],
+      "relatedTrackers": [
+        "robberies"
+      ],
+      "tips": [
+        "Wear a bandana to reduce honor loss.",
+        "Aim to finish during Chapters 2-3; it can also be done after the story."
+      ],
+      "sources": [
+        "ppx",
+        "ppx-stash",
+        "damnmodz",
+        "ws-stash"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-artificial-intelligence",
+      "name": "Artificial Intelligence",
+      "officialDescription": "Discover the fate of Marko Dragic.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "After the final part of the Stranger strand 'A Bright Bouncing Boy' (available Chapter 4 onward).",
+      "howTo": [
+        "Start 'A Bright Bouncing Boy' with Marko Dragic (Chapter 4+).",
+        "Do part II at night (sleep if needed).",
+        "Wait about 2 in-game days, then return for the final part to find out what happened to Dragic."
+      ],
+      "relatedTrackers": [
+        "strangers"
+      ],
+      "tips": [
+        "Counts toward Western Stranger as well."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-take-from-the-rich",
+      "name": "Take From the Rich",
+      "officialDescription": "Rob or loot $250.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Naturally during the story - loot enemy bodies and robberies accumulate.",
+      "howTo": [
+        "Loot the bodies of enemies you kill in missions and encounters and do robberies; cash totals accumulate to $250."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-give-to-the-poor",
+      "name": "Give to the Poor",
+      "officialDescription": "Donate $250 to the gang tithing box.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": true,
+      "missableDeadline": "Before finishing Chapter 4 (the tithing box is only usable in Chapters 2-4).",
+      "earnedWhen": "Once your cumulative personal donations reach $250.",
+      "howTo": [
+        "At camp, interact with the tithing box (ledger) and donate cash; donations add up across visits.",
+        "Reach $250 total before the end of Chapter 4."
+      ],
+      "relatedTrackers": [
+        "camp"
+      ],
+      "tips": [
+        "Direct cash donations are the most reliable; PowerPyx says valuables you contribute also count, other sources recommend cash.",
+        "Only your own donations count, not other gang members'."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-pony-up",
+      "name": "Pony Up",
+      "officialDescription": "Spend $5000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Cumulative shop spending of $5000 in story mode.",
+      "howTo": [
+        "Make a manual save, then spend money at stables, gunsmiths, general stores, tailors etc.",
+        "Optionally reload the save afterwards to get the money back once the trophy pops."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-extreme-personality",
+      "name": "Extreme Personality",
+      "officialDescription": "Reach maximum or minimum Honor level.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Only possible late: the honor bar's final level is locked until a Chapter 5 story point ('Paradise Mercifully Departed'); easiest in Chapter 6 or Epilogue.",
+      "howTo": [
+        "Cannot unlock before you finish the Chapter 5 mission 'Paradise Mercifully Departed' (PowerPyx; TrueTrophies snippets agree).",
+        "Make a manual save first so you can restore your normal honor.",
+        "Low route (fastest): commit crimes, kill and loot civilians until the bar reaches the far left.",
+        "High route: help strangers, return bounties alive, fish/hunt properly, donate, etc. until the far right."
+      ],
+      "relatedTrackers": [
+        "honor"
+      ],
+      "tips": [
+        "Do NOT tank honor before Chapter 6's 'Do Not Seek Absolution' is done (needed for Lending a Hand).",
+        "Honor gains are boosted in Chapter 6 per community reports."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "ws-honor"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-western-stranger",
+      "name": "Western Stranger",
+      "officialDescription": "Complete 10 Stranger mission strands.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "After fully completing 10 separate Stranger questlines (all parts).",
+      "howTo": [
+        "Complete every part of 10 different Stranger strands (white '?' icons).",
+        "Check Pause > Progress > Total Completion > Strangers."
+      ],
+      "relatedTrackers": [
+        "strangers",
+        "100-percent"
+      ],
+      "tips": [
+        "The trophy may pop a little after the 10th strand; keep playing if Social Club shows 10/10."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-bountiful",
+      "name": "Bountiful",
+      "officialDescription": "Survive 3 days holding a bounty of $250 in all states.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Any time you hold at least $250 bounty in all five states simultaneously for 3 in-game days.",
+      "howTo": [
+        "Make a manual backup save (and consider turning off autosave).",
+        "Raise bounties to $250+ in Lemoyne, New Hanover, West Elizabeth, Ambarino and New Austin (New Austin already carries a story-related bounty per PowerPyx).",
+        "Ambarino is hardest: rob a train after it crosses into Ambarino, or kill a civilian in the wilds and carry the body until a witness reports you.",
+        "Once all states have $250+, go somewhere remote, make camp and sleep through 3 days (or sleep in a rented room repeatedly)."
+      ],
+      "tips": [
+        "Dying while building bounties doesn't matter; only the 3 days holding all 5 counts.",
+        "Easier in the Epilogue with better weapons."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "ws-bounty"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-collectors-item",
+      "name": "Collector's Item",
+      "officialDescription": "Complete one of the Collectable strands.",
+      "grade": "silver",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "After completing one full collectible strand.",
+      "howTo": [
+        "Choose one: all 10 Rock Carvings (quickest), all 30 Dinosaur Bones, all 144 Cigarette Cards, or all Exotics requests.",
+        "Turn in / finish the associated stranger strand if one applies."
+      ],
+      "relatedTrackers": [
+        "collectibles"
+      ],
+      "tips": [
+        "100% only needs 1 cigarette card set, but Rock Carvings, Dinosaur Bones and Exotics are all needed for 100% anyway."
+      ],
+      "sources": [
+        "ppx",
+        "gg-collector",
+        "ws-collector"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-paying-respects",
+      "name": "Paying Respects",
+      "officialDescription": "Find the graves of each of your fallen companions.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Post-story (Epilogue/free roam) after visiting all 9 graves.",
+      "howTo": [
+        "After the story, visit and interact with each of 9 graves: Hosea and Lenny (together, Bluewater Marsh area north of Saint Denis), Sean (hill by Flat Iron Lake NW of Rhodes), Kieran (meadow west of Shady Belle, south of Bolger Glade), Susan (hill above the railroad south-west of Elysian Pool), Arthur (hilltop south-east of the Mysterious Hill Home, east of Bacchus Station), Eagle Flies (west side of Donner Falls), Davey (Colter), Jenny (near Glacier / Spider Gorge).",
+        "Order doesn't matter."
+      ],
+      "relatedTrackers": [
+        "graves",
+        "100-percent"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "htr-graves"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-errand-boy",
+      "name": "Errand Boy",
+      "officialDescription": "Deliver 5 camp companion item requests.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": true,
+      "missableDeadline": "Before finishing Chapter 4 (treat as missable; see disputes on Epilogue requests).",
+      "earnedWhen": "After delivering any 5 requested items to camp members.",
+      "howTo": [
+        "Spend time in camp during the day (roughly 8:00-20:00) in Chapters 2-4 and talk to members; some will ask for an item (e.g. Pearson a compass, Mary-Beth a fountain pen, Jack a penny dreadful, Tilly a necklace, Charles oleander, Dutch a pipe).",
+        "Find or buy the item and hand it over; repeat until 5 are delivered."
+      ],
+      "relatedTrackers": [
+        "camp"
+      ],
+      "tips": [
+        "Requests are random and easy to miss if you only return to camp for story missions."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss",
+        "ws-errand"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-its-art",
+      "name": "It's Art",
+      "officialDescription": "Find a permanent home for the squirrel statue.",
+      "grade": "bronze",
+      "hidden": true,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Post-story: needs Beecher's Hope (Epilogue) and all 5 Ms. Hobbs hunting requests.",
+      "howTo": [
+        "Complete all 5 hunting requests (posters in train stations) by mailing perfect carcasses; the last request only unlocks after Epilogue Part 1.",
+        "Visit Ms. Hobbs east of Strawberry to receive the squirrel statue.",
+        "Place it on the living-room fireplace at Beecher's Hope, sleep, and find it after it goes missing: main bedroom chest, main bedroom chimney, chest in loft above kitchen, wheelbarrow by the barn, chest on barn upper floor, then Mount Shann north of Strawberry.",
+        "Put it back each time until the trophy unlocks."
+      ],
+      "relatedTrackers": [
+        "hunting-requests",
+        "100-percent"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "ws-art"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-self-sufficient",
+      "name": "Self Sufficient",
+      "officialDescription": "Craft 30 unique items in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "After crafting 30 different item types (not 30 crafts total).",
+      "howTo": [
+        "Craft many different recipes: ammo types, tonics, cooked meats, horse items, weapons like arrows, etc., via the camp/satchel crafting menu."
+      ],
+      "relatedTrackers": [
+        "crafting"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-skin-deep",
+      "name": "Skin Deep",
+      "officialDescription": "Skin every species of animal in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Grind - after skinning every skinnable species on the main map.",
+      "howTo": [
+        "Kill and skin every skinnable species; track in Pause > Progress > Compendium > Animals.",
+        "Guarma-only species are not required; small plucked/picked-up animals are not needed."
+      ],
+      "relatedTrackers": [
+        "compendium-animals"
+      ],
+      "tips": [
+        "Study each animal with binoculars before killing it to progress Zoologist at the same time."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-zoologist",
+      "name": "Zoologist",
+      "officialDescription": "Study every animal across all states in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Grind - after studying every animal/variant on the main map.",
+      "howTo": [
+        "Use binoculars (or aim) on animals and press the study prompt until the compendium entry registers; variants count separately.",
+        "Guarma-only animals are not required (Cuban land crab and green iguana can also be found on the main map)."
+      ],
+      "relatedTrackers": [
+        "compendium-animals"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-it-was-this-big",
+      "name": "It was THIS Big!",
+      "officialDescription": "Catch a fish weighing at least 16 lbs (7.3 kg).",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Naturally while catching the 13 legendary fish needed for 100%.",
+      "howTo": [
+        "Catch any fish of 16 lb or more; legendary fish (fishing rod + legendary lure) guarantee it."
+      ],
+      "relatedTrackers": [
+        "legendary-fish"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-locked-and-loaded",
+      "name": "Locked and Loaded",
+      "officialDescription": "Upgrade each available component for a single sidearm or longarm weapon.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "After changing every customisable component slot once on a single weapon at a gunsmith.",
+      "howTo": [
+        "Save manually, visit a gunsmith (e.g. Valentine) and open Customize for one weapon (PowerPyx uses the Double-Action Revolver as the example).",
+        "Change each component slot once: grip, barrel length, barrel rifling and sights. You do not need to buy every variant of each slot.",
+        "The trophy pops once every slot on that gun has been changed; reload the save afterwards if you want the money back."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase",
+        "fc-ppx-locked"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-grin-and-bear-it",
+      "name": "Grin and Bear it",
+      "officialDescription": "Survive 18 bear attacks and kill the bear each time in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Grind - after 18 successful bear-attack struggles.",
+      "howTo": [
+        "Go to the area between Wallace Station and Watson's Cabin (north of Little Creek River), a common grizzly spawn.",
+        "Equip a strong repeater or shotgun with express ammo.",
+        "Let the bear knock you down, mash the escape prompt, then shoot it from the ground during the prompt until it dies - kills done any other way don't count.",
+        "Respawn bears by leaving the area (e.g. train to Saint Denis and back), camping and sleeping, or reloading the save; repeat 18 times."
+      ],
+      "tips": [
+        "Can take several hours depending on spawn luck."
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "ws-bear"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-trusty-steed",
+      "name": "Trusty Steed",
+      "officialDescription": "Reach max bonding level with a horse.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Naturally by riding and caring for one horse until bonding level 4.",
+      "howTo": [
+        "Ride, feed, brush, pat and calm the same horse until bonding level 4 (check the Horse screen)."
+      ],
+      "relatedTrackers": [
+        "horse-bonding",
+        "100-percent"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-breakout",
+      "name": "Breakout",
+      "officialDescription": "Red Dead Online: Complete the Intro.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After the Red Dead Online tutorial (ends back at camp with Cripps).",
+      "howTo": [
+        "Start Red Dead Online and play through the intro missions until you return to your camp."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-series-major",
+      "name": "Series Major",
+      "officialDescription": "Red Dead Online: Take part in a Series.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After finishing a Showdown or Race Series match.",
+      "howTo": [
+        "Join a Showdown or Race Series from Pause > Online and play until the match ends."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-gun-for-hire",
+      "name": "Gun For Hire",
+      "officialDescription": "Red Dead Online: Accept 10 Free Roam missions from characters (around the world).",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After accepting 10 free roam missions.",
+      "howTo": [
+        "Accept 10 free roam missions from NPC mission givers on the map; check Pause > Progress > Awards > Free Roam."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-eventful",
+      "name": "Eventful",
+      "officialDescription": "Red Dead Online: Play 5 Free Roam Events.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After taking part in 5 free roam events to completion.",
+      "howTo": [
+        "Accept free roam event invites (on-screen prompt) and stay until each event ends; winning not required."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-buckle-up",
+      "name": "Buckle Up",
+      "officialDescription": "Red Dead Online: Achieve 5 gold belt buckles from awards.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After earning the gold tier of 5 different awards.",
+      "howTo": [
+        "Pick easy awards (e.g. weapon-kill counts, trade/shop visits, travel or horse awards) and push them to gold tier; check Pause > Progress > Awards."
+      ],
+      "relatedTrackers": [
+        "online",
+        "online-awards"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-the-real-deal",
+      "name": "The Real Deal",
+      "officialDescription": "Red Dead Online: Achieve MVP 3 times (in a round with at least 4 players).",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After being MVP in 3 series rounds with 4+ players.",
+      "howTo": [
+        "Play Showdown Series with 4+ players and top the scoreboard 3 times; objective-based modes help."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-horses-for-courses",
+      "name": "Horses for Courses",
+      "officialDescription": "Red Dead Online: Concurrently own 5 horses.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "Once 5 horses are owned at the same time.",
+      "howTo": [
+        "Unlock extra stable stalls and buy cheap horses until you own 5 at once (PowerPyx estimates about $1700 total)."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-getting-started",
+      "name": "Getting Started",
+      "officialDescription": "Red Dead Online: Reach Rank 10.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "Naturally at online rank 10.",
+      "howTo": [
+        "Earn XP via online story missions, series, free roam missions and events."
+      ],
+      "relatedTrackers": [
+        "online-rank"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-notorious",
+      "name": "Notorious",
+      "officialDescription": "Red Dead Online: Reach Rank 50.",
+      "grade": "gold",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "Grind - online rank 50.",
+      "howTo": [
+        "Keep earning XP in Red Dead Online until rank 50 (roughly 40 hours without exploits per PowerPyx)."
+      ],
+      "relatedTrackers": [
+        "online-rank"
+      ],
+      "tips": [
+        "Most other online trophies come naturally on the way."
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-alls-fair",
+      "name": "All's Fair",
+      "officialDescription": "Red Dead Online: Successfully counter a rival Posse's Free Roam mission.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After stopping a rival posse from completing their free roam mission.",
+      "howTo": [
+        "Find a posse running a free roam mission and stop them (you should get a red on-screen notice).",
+        "Boosting option: with a friend, each form a separate posse and counter each other's mission."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-home-comforts",
+      "name": "Home Comforts",
+      "officialDescription": "Red Dead Online: Purchase 5 camp improvements.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After buying 5 camp upgrades from Cripps.",
+      "howTo": [
+        "Talk to Cripps at your camp and buy 5 improvements; cheapest are camp flags (about $50 each per PowerPyx)."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-non-regulation",
+      "name": "Non-Regulation",
+      "officialDescription": "Red Dead Online: Craft 25 pieces of ammunition.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After crafting 25 ammo pieces (same type is fine).",
+      "howTo": [
+        "Buy an ammo recipe from the fence, then craft ammo 25 times at a campfire; track in Awards > Survivalist."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-posse-up",
+      "name": "Posse Up",
+      "officialDescription": "Red Dead Online: Form a Persistent Posse.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "Instantly on creating a persistent posse.",
+      "howTo": [
+        "Open the posse menu, choose Form Posse, set type to Persistent and pay the fee (about $200 per PowerPyx); no members needed."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-master-craftsman",
+      "name": "Master Craftsman",
+      "officialDescription": "Red Dead Online: Craft 20 items (excluding ammo).",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After crafting 20 non-ammo items.",
+      "howTo": [
+        "Cook meat at a campfire repeatedly (each cooked meat counts) until 20 non-ammo crafts; track in Awards > Survivalist."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-butchered",
+      "name": "Butchered",
+      "officialDescription": "Red Dead Online: Sell 20 items to the Butcher.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After selling 20 animal parts/items to butchers.",
+      "howTo": [
+        "Hunt and skin several animals near a town and sell all the parts to a butcher."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-picked-to-perfection",
+      "name": "Picked to Perfection",
+      "officialDescription": "Red Dead Online: Pick 25 Herbs.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After picking 25 plants.",
+      "howTo": [
+        "Pick any 25 herbs, berries or mushrooms in the wild (Eagle Eye highlights them); track in Awards > Survivalist."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-strength-in-numbers",
+      "name": "Strength in Numbers",
+      "officialDescription": "Red Dead Online: Complete a Free Roam mission as part of a Posse with at least 2 members.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": true,
+      "missable": false,
+      "earnedWhen": "After completing a free roam mission in a posse of 2+.",
+      "howTo": [
+        "Form or join a posse with at least one other player and complete any free roam mission together."
+      ],
+      "relatedTrackers": [
+        "online"
+      ],
+      "sources": [
+        "ppx",
+        "rdr2org",
+        "gtabase"
+      ],
+      "confidence": "confirmed"
+    }
+  ],
+  "missables": [
+    {
+      "id": "missable-lending-a-hand",
+      "what": "All 28 optional honor story mission parts across Chapters 2, 3, 4 and 6",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Per chapter: end of Chapter 2, 3, 4, and the final Chapter 6 mission ('Red Dead Redemption')",
+      "recommendedTiming": "As soon as each yellow honor-mission icon appears; audit the Story log before ending each chapter",
+      "why": "Missions vanish once their chapter ends and must all be done in one playthrough; Chapter 6 'Do Not Seek Absolution' needs high honor",
+      "howTo": [
+        "Keep chapter-start manual saves",
+        "Stay on the honorable side of the honor bar",
+        "In Archeology for Beginners agree to help Captain Monroe"
+      ],
+      "sources": [
+        "ppx",
+        "vgr",
+        "pixel-miss",
+        "damnmodz"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-friends-with-benefits",
+      "what": "One companion activity in each of the Chapter 2, 3 and 4 camps",
+      "trophy": "trophy-friends-with-benefits",
+      "deadline": "End of Chapter 2 / Chapter 3 / Chapter 4 respectively",
+      "recommendedTiming": "First free time after arriving at each new camp",
+      "why": "Each camp's activities disappear when the gang moves; extras in one chapter don't substitute",
+      "howTo": [
+        "Accept a companion outing (hunt, robbery, fishing) in each chapter camp"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss",
+        "ws-fwb"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-give-to-the-poor",
+      "what": "$250 cumulative tithing box donations",
+      "trophy": "trophy-give-to-the-poor",
+      "deadline": "End of Chapter 4",
+      "recommendedTiming": "Chapter 2-3 whenever you have spare cash",
+      "why": "The tithing box is only available in Chapters 2-4",
+      "howTo": [
+        "Donate cash at the camp ledger/tithing box until the total is $250"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "missable-errand-boy",
+      "what": "5 camp companion item requests",
+      "trophy": "trophy-errand-boy",
+      "deadline": "End of Chapter 4 (conservative)",
+      "recommendedTiming": "Chapters 2-3, visiting camp during daytime",
+      "why": "Requests are random and tied to Chapters 2-4 camps",
+      "howTo": [
+        "Talk to camp members in daytime and deliver requested items"
+      ],
+      "sources": [
+        "ppx",
+        "damnmodz",
+        "pixel-miss"
+      ],
+      "confidence": "confirmed"
+    }
+  ],
+  "notes": [
+    "All 17 Red Dead Online trophies carry the prefix 'Red Dead Online:' in the PlayStation descriptions; GTABase's Xbox-style list omits it. (sources: rdr2org, gtabase)",
+    "The PS4 trophy list is shared when played on PS5 via backward compatibility. Red Dead Online requires PlayStation Plus. As of late Sept 2026 search results report RDO PS4 services operational with no announced shutdown - re-verify before relying on online trophies. (sources: ws-server)",
+    "Cheats disable saving and trophies; no difficulty setting affects trophies. (sources: damnmodz)",
+    "100% completion needs only one cigarette card set (12 cards), while Collector's Item via cigarette cards needs all 144. (sources: ppx-100, ppx)",
+    "Rare Rolling Block Rifle and owl feather trinket are missable items but are not tied to trophies (48/59 weapons suffices for 100%). (sources: pixel-miss, ppx-100)"
+  ],
+  "disputes": [
+    {
+      "topic": "Bronze trophy count",
+      "details": "GTABase header says 43 bronze (and total '51 + platinum'), but its own table contains 44 bronze rows; rdr2.org header says 44 bronze but its table omits Cowboy Builder.",
+      "positions": [
+        {
+          "claim": "44 bronze (1P/3G/4S/44B = 52)",
+          "sources": [
+            "rdr2org",
+            "damnmodz"
+          ]
+        },
+        {
+          "claim": "43 bronze (header only)",
+          "sources": [
+            "gtabase"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use 44 bronze; 1+3+4+44 = 52 which matches every source's total."
+    },
+    {
+      "topic": "Hidden trophy flags",
+      "details": "PSNProfiles/PST/TrueTrophies could not be fetched (HTTP 403). VGTimes lists 12 secret trophies and a search summary also states 12 hidden; GTABase and rdr2.org mark none as secret.",
+      "positions": [
+        {
+          "claim": "12 hidden: the 7 chapter/mission story trophies, Redemption, Cowboy Builder, Endless Summer, Paying Respects, It's Art",
+          "sources": [
+            "vgtimes",
+            "ws-hidden"
+          ]
+        },
+        {
+          "claim": "No trophies secret",
+          "sources": [
+            "gtabase",
+            "rdr2org"
+          ]
+        }
+      ],
+      "suggestedHandling": "Mark the 12 as hidden (spoiler-safe) but verify on PSNProfiles before release."
+    },
+    {
+      "topic": "Name of the persistent posse trophy",
+      "details": "rdr2.org lists it as 'Posse'; PowerPyx and GTABase list 'Posse Up'.",
+      "positions": [
+        {
+          "claim": "Posse Up",
+          "sources": [
+            "ppx",
+            "gtabase"
+          ]
+        },
+        {
+          "claim": "Posse",
+          "sources": [
+            "rdr2org"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use 'Posse Up'."
+    },
+    {
+      "topic": "Lending a Hand mission count / list",
+      "details": "VGR's list omits 'Of Men and Angels I-II' (26 parts); Pixeltwelve includes it and search summaries say 28 total.",
+      "positions": [
+        {
+          "claim": "28 mission parts including Of Men and Angels I-II",
+          "sources": [
+            "pixel-miss",
+            "ws-lending"
+          ]
+        },
+        {
+          "claim": "List without Of Men and Angels",
+          "sources": [
+            "vgr"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players to do all 28 including Of Men and Angels; check the Story log for any yellow honor mission."
+    },
+    {
+      "topic": "Lending a Hand recovery via replay",
+      "details": "PowerPyx mentions that replaying a mission after the story (patch 1.03 era) may unlock the trophy regardless; VGR says some users got it post-epilogue without all missions but it's not guaranteed; Pixeltwelve and DamnModz say replays do not substitute.",
+      "positions": [
+        {
+          "claim": "Post-story replay may unlock it",
+          "sources": [
+            "ppx",
+            "vgr"
+          ]
+        },
+        {
+          "claim": "Replays do not count; a missed mission means a new playthrough/old save",
+          "sources": [
+            "pixel-miss",
+            "damnmodz"
+          ]
+        }
+      ],
+      "suggestedHandling": "Treat as strictly missable; mention the replay workaround only as unreliable."
+    },
+    {
+      "topic": "Friends With Benefits - do camp table games count?",
+      "details": "Search summaries list Lenny's Five Finger Fillet and Tilly's dominoes as qualifying companion activities if finished; DamnModz says camp card games don't count.",
+      "positions": [
+        {
+          "claim": "Finished camp table games with companions count",
+          "sources": [
+            "ws-fwb"
+          ]
+        },
+        {
+          "claim": "Camp card games don't count",
+          "sources": [
+            "damnmodz"
+          ]
+        }
+      ],
+      "suggestedHandling": "Recommend a map-marked outing (hunt, fishing, robbery) per chapter to be safe."
+    },
+    {
+      "topic": "Errand Boy availability window",
+      "details": "Most guides say requests only occur in Chapters 2-4 (missable); the Red Dead Wiki (via search snippet) says requests also appear in Epilogue Part 2, and that they need not be finished in the chapter they're given.",
+      "positions": [
+        {
+          "claim": "Only Chapters 2-4; missable after Chapter 4",
+          "sources": [
+            "ppx",
+            "damnmodz",
+            "pixel-miss"
+          ]
+        },
+        {
+          "claim": "Also in Epilogue Part 2",
+          "sources": [
+            "ws-errand"
+          ]
+        }
+      ],
+      "suggestedHandling": "Treat as missable with Chapter 4 deadline."
+    },
+    {
+      "topic": "Grin and Bear It - bear type",
+      "details": "One search-summarized guide claims only grizzly bears count and black bears don't; no other fetched source addresses it.",
+      "positions": [
+        {
+          "claim": "Grizzlies only",
+          "sources": [
+            "ws-bear"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players to farm grizzlies (the recommended spot has grizzlies anyway)."
+    },
+    {
+      "topic": "Bountiful - New Austin",
+      "details": "PowerPyx says New Austin carries an automatic $250 bounty during the story; a search summary says a New Austin bounty isn't needed even in the Epilogue.",
+      "positions": [
+        {
+          "claim": "New Austin has a built-in bounty",
+          "sources": [
+            "ppx"
+          ]
+        },
+        {
+          "claim": "No need to create a New Austin bounty",
+          "sources": [
+            "ws-bounty"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players to check the New Austin bounty on the map; create one if missing."
+    },
+    {
+      "topic": "Give to the Poor - what counts",
+      "details": "PowerPyx says valuable items contributed also count; Pixeltwelve says cash tracks most easily; DamnModz says only your personal donations count.",
+      "positions": [
+        {
+          "claim": "Valuables count too",
+          "sources": [
+            "ppx"
+          ]
+        },
+        {
+          "claim": "Use direct cash",
+          "sources": [
+            "pixel-miss",
+            "damnmodz"
+          ]
+        }
+      ],
+      "suggestedHandling": "Donate $250 cash."
+    },
+    {
+      "topic": "Collector's Item and 100%",
+      "details": "The PowerPyx trophy guide summary implied all four strands are needed for 100%; the PowerPyx 100% checklist says only 1 cigarette card set is needed.",
+      "positions": [
+        {
+          "claim": "Only 1 cigarette card set for 100%",
+          "sources": [
+            "ppx-100"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use the checklist: Rock Carvings are required anyway and are the fastest route to Collector's Item."
+    },
+    {
+      "topic": "Source access gaps",
+      "details": "PSNProfiles, PlayStationTrophies.org, TrueTrophies/TrueAchievements, GameFAQs, Exophase and the Red Dead Wiki blocked direct fetch (403/402). Their facts appear only via web-search summaries (ws-* sources).",
+      "positions": [],
+      "suggestedHandling": "Verify hidden flags, exact PSN description wording and rarities against PSNProfiles manually."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "RDR2 Platinum Ledger",
+    "slug": "rdr2-platinum-ledger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alijabbar.rdr2ledger"
+    },
+    "android": {
+      "package": "com.alijabbar.rdr2ledger",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#17120d",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-sharing",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#17120d",
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 180
+        }
+      ],
+      "./plugins/withReleaseSigning"
+    ],
+    "scheme": "rdr2ledger",
+    "backgroundColor": "#17120d",
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}

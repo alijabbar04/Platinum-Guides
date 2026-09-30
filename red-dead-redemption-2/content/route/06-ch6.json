@@ -1,0 +1,897 @@
+{
+  "part": {
+    "id": "ch6",
+    "title": "Chapter 6",
+    "subtitle": "Beaver Hollow",
+    "intro": [
+      "Chapter 6 is the most important chapter for missables. It holds the final set of honor missions for Lending a Hand (silver), and they are lost when the chapter ends. Some sources say most of them are lost earlier, at 'The Fine Art of Conversation', so this route does all of them before that mission.",
+      "First job: get your Honor to at least level 4 of 8. 'Do Not Seek Absolution' will not start without it. Guides report that Honor gains are 50% faster in this chapter, which also makes it the best place to try for Extreme Personality (maximum Honor).",
+      "The chapter ends with two back-to-back missions. After them your cash and horses are gone (tap reveal on the warnings for why). Keep a manual save before the finale. Expect roughly 10-15 hours with all side content."
+    ]
+  },
+  "steps": [
+    {
+      "id": "ch6-honor-check",
+      "type": "task",
+      "title": "Raise your Honor to at least level 4 of 8",
+      "where": "Anywhere (check the Honor bar)",
+      "before": [
+        "Do this before any Chapter 6 main mission"
+      ],
+      "how": [
+        "Check your Honor (d-pad down). It must be at least halfway into the white, honourable side: level 4 of 8.",
+        "If it is lower, raise it before anything else: catch and release fish, and hand in bounties alive.",
+        "Help strangers in need, greet people and do not rob or kill civilians.",
+        "Keep it at 4 or higher until both parts of 'Do Not Seek Absolution' are done.",
+        "Aim higher if you can: you need maximum Honor anyway for Extreme Personality later in this chapter."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand",
+        "trophy-extreme-personality"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "tip": "Sources describe the requirement as level 4/8, \"halfway on the white side\" or just \"high Honor\". These all mean the same, so aim for at least the middle of the white side.",
+      "unverified": "The +50% Honor gain in Chapter 6 is reported by guides and community sources, not officially confirmed.",
+      "sources": [
+        "missables#ppx",
+        "missables#damnmodz",
+        "missables#gamesguides",
+        "missables#ggdnsa",
+        "missables#codeberg",
+        "trophies#ppx",
+        "trophies#ws-honor"
+      ]
+    },
+    {
+      "id": "ch6-honor-missions-overview",
+      "type": "info",
+      "title": "How the Chapter 6 honor missions work",
+      "how": [
+        "Honor missions have a yellow icon on the map. You need every one of them for Lending a Hand.",
+        "Replaying them from the Story menu after the game does NOT count, so do them now.",
+        "Chapter 6 list: Money Lending and Other Sins VI & VII, Do Not Seek Absolution I & II, Of Men and Angels I & II, The Course of True Love IV & V, Archeology for Beginners, Honor, Amongst Thieves, Mrs. Sadie Adler, Widow I & II.",
+        "Some parts are not shown in the Story log (the Money Lending debts). Do them anyway.",
+        "Do them in the order below: all but the Sadie Adler pair come before 'The Fine Art of Conversation'."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#ppxomaa",
+        "trophies#ppx",
+        "trophies#pixel-miss",
+        "trophies#ws-lending"
+      ]
+    },
+    {
+      "id": "ch6-money-lending-vi-vii",
+      "type": "task",
+      "title": "Do Money Lending and Other Sins VI and VII",
+      "where": "Beaver Hollow camp (Strauss); debtors near Moonstone Pond and at Annesburg",
+      "how": [
+        "Talk to Strauss (the LS marker) in camp at Beaver Hollow.",
+        "Collect the first debt near Moonstone Pond, west of camp.",
+        "Collect the second debt at the Annesburg mine entrance, then follow up at Butcher Creek.",
+        "Return to camp and talk to Strauss again to finish part VII.",
+        "Do these BEFORE 'Mrs. Sadie Adler, Widow', or they can disappear."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Debtor locations come from GTABase, not the research files. Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missions-ch4-e2#fandom-missables",
+        "missions-ch4-e2#fandom-missables",
+        "https://www.gtabase.com/red-dead-redemption-2/missions/money-lending-and-other-sins-vi-vii"
+      ]
+    },
+    {
+      "id": "ch6-m-do-not-seek-absolution-i",
+      "type": "mission",
+      "title": "Complete Do Not Seek Absolution I",
+      "missionId": "mission-do-not-seek-absolution-i",
+      "where": "Annesburg (Edith Downes, yellow icon)",
+      "before": [
+        "Honor at least level 4 of 8 (see 'Raise your Honor to at least level 4 of 8')",
+        "'A Fork in the Road' finished"
+      ],
+      "how": [
+        "Ride to Annesburg and find Edith Downes (yellow honor-mission icon).",
+        "If the icon does not appear, your Honor is too low: raise it and come back."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#ggdnsa"
+      ]
+    },
+    {
+      "id": "ch6-m-do-not-seek-absolution-ii",
+      "type": "mission",
+      "title": "Complete Do Not Seek Absolution II",
+      "missionId": "mission-do-not-seek-absolution-ii",
+      "where": "Annesburg (Archie Downes)",
+      "before": [
+        "'Do Not Seek Absolution I'",
+        "About 4 in-game hours after part I"
+      ],
+      "how": [
+        "Let about 4 in-game hours pass after part I (do other tasks or sleep).",
+        "Return to Annesburg and start part II from Archie Downes."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch6-of-men-and-angels",
+      "type": "task",
+      "title": "Do Of Men and Angels I and II",
+      "where": "Saint Denis church (Sister Calderon)",
+      "before": [
+        "'Brothers and Sisters, One and All' done in Chapter 4",
+        "'A Fork in the Road' finished"
+      ],
+      "how": [
+        "Go to the church in Saint Denis and talk to Sister Calderon.",
+        "Complete part I, then part II when it becomes available.",
+        "If she is not there, check the Story log for 'Brothers and Sisters, One and All': without it these missions never appear."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "tip": "No gold medal here. Some trophy lists leave these missions out, but most sources include them in Lending a Hand. Do them to be safe.",
+      "sources": [
+        "missables#ppx",
+        "missables#ppxomaa",
+        "missables#codeberg",
+        "missions-ch4-e2#fandom",
+        "trophies#pixel-miss",
+        "trophies#ws-lending",
+        "trophies#vgr"
+      ]
+    },
+    {
+      "id": "ch6-course-of-true-love-iv",
+      "type": "task",
+      "title": "Read Penelope's letter (The Course of True Love IV)",
+      "where": "Beaver Hollow camp (Arthur's tent)",
+      "before": [
+        "The Course of True Love I-III done in Chapter 3"
+      ],
+      "how": [
+        "Read Penelope's letter in Arthur's tent at Beaver Hollow.",
+        "Ride to the Braithwaite Manor area and play part IV (no gold medal). Part V follows."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "ch6-m-the-course-of-true-love-v",
+      "type": "mission",
+      "title": "Complete The Course of True Love V",
+      "missionId": "mission-the-course-of-true-love-v",
+      "where": "Cabin behind Braithwaite Manor",
+      "before": [
+        "Read Penelope's letter (The Course of True Love IV)"
+      ],
+      "how": [
+        "Continue the strand at the cabin behind Braithwaite Manor.",
+        "The gold timer is very strict: make a manual save before starting."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch6-m-the-widow-of-willards-rest",
+      "type": "mission",
+      "title": "Start The Widow of Willard's Rest now",
+      "missionId": "mission-the-widow-of-willards-rest",
+      "where": "Willard's Rest, north of Annesburg (north-east corner of the map)",
+      "how": [
+        "Ride north of Annesburg to the white ? stranger icon near a grave and start the strand.",
+        "Come back a few in-game days later for the next part, and again a few days after that.",
+        "Finish all parts before the end of Chapter 6 (tap reveal for why).",
+        "It does not count for Western Stranger, so it is safe to skip if you are short on time. Do it for completeness."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "missable": {
+        "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+        "deadlineMissionId": "mission-red-dead-redemption"
+      },
+      "tip": "The parts need days to pass between them, so start it early in the chapter. You can already start it in Chapter 5.",
+      "spoiler": [
+        "If the strand is not finished as Arthur, the widow is found dead in her cabin in the Epilogue."
+      ],
+      "unverified": "Research only says it is lost after Chapter 6 and is available from Chapter 5. The location, number of parts and the Epilogue outcome come from PowerPyx and GTABase pages outside the research files.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "missables#codeberg",
+        "https://www.powerpyx.com/red-dead-redemption-2-the-widow-of-willards-rest-stranger-encounter/",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch6-m-icarus-and-friends",
+      "type": "mission",
+      "title": "Play 'Icarus and Friends'",
+      "missionId": "mission-icarus-and-friends",
+      "where": "Saint Denis (Sadie)",
+      "how": [
+        "Start it from the Sadie marker in Saint Denis. (It may already be open at the end of Chapter 5; it counts as a Chapter 6 mission either way.)"
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-visiting-hours",
+      "type": "mission",
+      "title": "Play 'Visiting Hours'",
+      "missionId": "mission-visiting-hours",
+      "where": "Copperhead Landing (Sadie)",
+      "how": [
+        "Start it from the Sadie marker at Copperhead Landing.",
+        "Make a manual save first: this gold is rated one of the hardest."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-just-a-social-call",
+      "type": "mission",
+      "title": "Play 'Just a Social Call'",
+      "missionId": "mission-just-a-social-call",
+      "where": "Annesburg (Micah)",
+      "how": [
+        "Start it from the Micah marker at Annesburg.",
+        "Optional: loot the Newsboy Cap from an enemy (missable hat, not trophy-related)."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "ch6-m-the-delights-of-van-horn",
+      "type": "mission",
+      "title": "Play 'The Delights of Van Horn'",
+      "missionId": "mission-the-delights-of-van-horn",
+      "where": "Roanoke Ridge (Micah)",
+      "how": [
+        "Start it from the Micah marker in Roanoke Ridge."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-the-bridge-to-nowhere",
+      "type": "mission",
+      "title": "Play 'The Bridge to Nowhere'",
+      "missionId": "mission-the-bridge-to-nowhere",
+      "where": "Bacchus Station (John)",
+      "how": [
+        "Start it from the John marker at Bacchus Station."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-a-rage-unleashed",
+      "type": "mission",
+      "title": "Play 'A Rage Unleashed'",
+      "missionId": "mission-a-rage-unleashed",
+      "where": "Beaver Hollow (Reverend Swanson)",
+      "how": [
+        "Start it from the Swanson marker in camp."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-archeology-for-beginners",
+      "type": "mission",
+      "title": "Complete Archeology for Beginners",
+      "missionId": "mission-archeology-for-beginners",
+      "where": "Wapiti Indian Reservation (Rains Fall, yellow icon)",
+      "how": [
+        "Start it from Rains Fall at the Wapiti Indian Reservation.",
+        "When Captain Monroe asks for help during the mission, ACCEPT. Refusing means 'Honor, Amongst Thieves' never appears and Lending a Hand is lost.",
+        "Do not kill anyone if you want the Owl Feather trinket (missable, not trophy-related)."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#fandom-missables",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch6-m-honor-amongst-thieves",
+      "type": "mission",
+      "title": "Complete Honor, Amongst Thieves",
+      "missionId": "mission-honor-amongst-thieves",
+      "where": "Wapiti Indian Reservation (Captain Monroe, yellow icon)",
+      "before": [
+        "Accepted Captain Monroe's request in 'Archeology for Beginners'"
+      ],
+      "how": [
+        "Start it from Captain Monroe's yellow icon near the Wapiti Indian Reservation."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Research disagrees on the deadline. The mission data and PowerPyx say this is lost when Chapter 6 ends; Codeberg lists every Chapter 6 honor mission as lost at 'The Fine Art of Conversation'. This guide uses the earlier deadline to be safe.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch6-m-the-veteran",
+      "type": "mission",
+      "title": "Do the stranger strand 'The Veteran'",
+      "missionId": "mission-the-veteran",
+      "where": "O'Creagh's Run (white ? stranger icon)",
+      "how": [
+        "Find the white ? stranger icon at O'Creagh's Run.",
+        "Complete every part; it counts as one of the 10 strands for Western Stranger.",
+        "Optional: a Legendary Northern Pike can be caught during part II. It is not needed for any trophy or for 100%.",
+        "Skip it for now if you prefer: it is not missable."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "Start location comes from the PowerPyx strangers map; the Northern Pike detail is single-source (Red Dead Wiki).",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "wildlife#fandom-veteran",
+        "wildlife#fandom-legendary-fish-pages",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch6-fundraiser-check",
+      "type": "task",
+      "title": "Finish the 'Fundraiser' stranger if still open",
+      "where": "North-west Saint Denis (white ? stranger icon)",
+      "how": [
+        "Check Pause > Progress for the 'Fundraiser' stranger. If you already did it, tick this and move on.",
+        "If not, look for the white ? stranger icon in north-west Saint Denis and complete it.",
+        "It does not count for Western Stranger; it is only lost after Chapter 6."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "missable": {
+        "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+        "deadlineMissionId": "mission-red-dead-redemption"
+      },
+      "unverified": "Research only says Fundraiser is available until Chapter 6 and does not count for Western Stranger. The north-west Saint Denis location comes from PowerPyx's strangers map. This is a reminder step; the strand itself may already be routed earlier.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "missables#codeberg",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch6-warning-fine-art-of-conversation",
+      "type": "warning",
+      "title": "Stop: finish the honor missions before this one",
+      "how": [
+        "Finish 'Do Money Lending and Other Sins VI and VII'.",
+        "Finish 'Complete Do Not Seek Absolution I' and 'Complete Do Not Seek Absolution II'.",
+        "Finish 'Do Of Men and Angels I and II' (lost after the next mission for certain).",
+        "Finish 'Read Penelope's letter (The Course of True Love IV)' and 'Complete The Course of True Love V'.",
+        "Finish 'Complete Archeology for Beginners' and 'Complete Honor, Amongst Thieves'.",
+        "Keep your Honor at level 4 or higher until all of these are done.",
+        "Check Pause > Progress > Story for any yellow honor mission you have not done.",
+        "'Mrs. Sadie Adler, Widow' is the exception: it only appears later, and it is covered after this mission.",
+        "Make a manual save now, in a separate slot."
+      ],
+      "missable": {
+        "deadline": "before starting 'The Fine Art of Conversation'",
+        "deadlineMissionId": "mission-the-fine-art-of-conversation"
+      },
+      "unverified": "Of Men and Angels is lost here according to every source. Codeberg says the other Chapter 6 honor missions are lost here too; the mission data says they last until the end of Chapter 6. Treat this as the deadline.",
+      "sources": [
+        "missions-ch4-e2#fandom",
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#ppxomaa"
+      ]
+    },
+    {
+      "id": "ch6-m-the-fine-art-of-conversation",
+      "type": "mission",
+      "title": "Play 'The Fine Art of Conversation'",
+      "missionId": "mission-the-fine-art-of-conversation",
+      "where": "Beaver Hollow",
+      "how": [
+        "Start it from the marker at camp once every step above is ticked."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-goodbye-dear-friend",
+      "type": "mission",
+      "title": "Play 'Goodbye, Dear Friend'",
+      "missionId": "mission-goodbye-dear-friend",
+      "where": "Saint Denis",
+      "how": [
+        "Start it from the story marker.",
+        "'Third Time Lucky' pops when you finish it.",
+        "Start with a full Dead Eye core for the gold."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-third-time-lucky"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-favored-sons",
+      "type": "mission",
+      "title": "Play 'Favored Sons'",
+      "missionId": "mission-favored-sons",
+      "where": "Cumberland Forest (Eagle Flies)",
+      "how": [
+        "Start it from the Eagle Flies marker in Cumberland Forest."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-sadie-adler-widow-i",
+      "type": "task",
+      "title": "Do Mrs. Sadie Adler, Widow I",
+      "where": "Beaver Hollow camp (Sadie, yellow icon)",
+      "before": [
+        "'Do Money Lending and Other Sins VI and VII' finished",
+        "'Goodbye, Dear Friend' finished"
+      ],
+      "how": [
+        "Make sure both Money Lending debts (VI and VII) are done first, or they can vanish.",
+        "Talk to Sadie in camp when her yellow icon appears and play part I (no gold medal).",
+        "When Sadie asks for your help, ACCEPT. Declining blocks part II and loses Lending a Hand.",
+        "If her icon is not there yet, play 'Favored Sons' (and 'The Bridge to Nowhere' if still open) first, then check again.",
+        "Do not start any further main mission until part II is done too."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'My Last Boy'",
+        "deadlineMissionId": "mission-my-last-boy"
+      },
+      "unverified": "Unlock timing differs between sources (after 'Favored Sons' and 'The Delights of Van Horn' per the Red Dead Wiki; after 'Goodbye, Dear Friend' per GamerGuides). A fact-check found it is lost once 'My Last Boy' starts, and that a checklist claiming it is lost at 'The Fine Art of Conversation' is wrong (it isn't available yet then).",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missions-ch4-e2#fandom-missables",
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "https://www.gtabase.com/red-dead-redemption-2/missions/mrs-sadie-adler-widow-ii",
+        "https://reddead.fandom.com/wiki/Mrs._Sadie_Adler,_Widow",
+        "https://reddead.fandom.com/wiki/My_Last_Boy",
+        "https://www.gamerguides.com/red-dead-redemption-2/guide/walkthrough/chapter-6/mrs-sadie-adler-widow"
+      ]
+    },
+    {
+      "id": "ch6-m-mrs-sadie-adler-widow",
+      "type": "mission",
+      "title": "Complete Mrs. Sadie Adler, Widow II",
+      "missionId": "mission-mrs-sadie-adler-widow",
+      "where": "Continues from part I (ranch in Big Valley)",
+      "before": [
+        "Mrs. Sadie Adler, Widow I"
+      ],
+      "how": [
+        "Continue straight on from part I.",
+        "This is the last Chapter 6 honor mission. Lending a Hand should pop after it if every earlier honor mission is done."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'My Last Boy'",
+        "deadlineMissionId": "mission-my-last-boy"
+      },
+      "unverified": "Unlock timing differs between sources (after 'Favored Sons' and 'The Delights of Van Horn' per the Red Dead Wiki; after 'Goodbye, Dear Friend' per GamerGuides). A fact-check found it is lost once 'My Last Boy' starts, and that a checklist claiming it is lost at 'The Fine Art of Conversation' is wrong (it isn't available yet then).",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "trophies#ppx",
+        "trophies#vgr",
+        "https://www.gtabase.com/red-dead-redemption-2/missions/mrs-sadie-adler-widow-ii",
+        "https://reddead.fandom.com/wiki/Mrs._Sadie_Adler,_Widow",
+        "https://reddead.fandom.com/wiki/My_Last_Boy",
+        "https://www.gamerguides.com/red-dead-redemption-2/guide/walkthrough/chapter-6/mrs-sadie-adler-widow"
+      ]
+    },
+    {
+      "id": "ch6-m-the-kings-son",
+      "type": "mission",
+      "title": "Play 'The King's Son'",
+      "missionId": "mission-the-kings-son",
+      "where": "Wapiti Indian Reservation (Charles)",
+      "how": [
+        "Start it from the Charles marker at the Wapiti Indian Reservation."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-w-before-my-last-boy",
+      "type": "warning",
+      "title": "Stop: Sadie's honor mission ends with the next mission",
+      "how": [
+        "Don't start 'My Last Boy' until both Sadie steps are ticked: 'Do Mrs. Sadie Adler, Widow I' and 'Complete Mrs. Sadie Adler, Widow II'.",
+        "If her yellow icon never appeared, play the other open main missions ('Favored Sons', 'The Bridge to Nowhere', 'The Delights of Van Horn') and check camp again.",
+        "Make a manual save now in a slot you will keep."
+      ],
+      "missable": {
+        "deadline": "before starting 'My Last Boy'",
+        "deadlineMissionId": "mission-my-last-boy"
+      },
+      "counts": [
+        "trophy-lending-a-hand"
+      ],
+      "sources": [
+        "https://reddead.fandom.com/wiki/Mrs._Sadie_Adler,_Widow",
+        "https://reddead.fandom.com/wiki/My_Last_Boy",
+        "https://www.gamerguides.com/red-dead-redemption-2/guide/walkthrough/chapter-6/mrs-sadie-adler-widow"
+      ]
+    },
+    {
+      "id": "ch6-m-my-last-boy",
+      "type": "mission",
+      "title": "Play 'My Last Boy'",
+      "missionId": "mission-my-last-boy",
+      "where": "Beaver Hollow (Dutch)",
+      "how": [
+        "Start it from the Dutch marker in camp.",
+        "Bring rifles or repeaters for the fights."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-extreme-personality",
+      "type": "task",
+      "title": "Try for maximum Honor (Extreme Personality)",
+      "where": "Anywhere",
+      "before": [
+        "'Paradise Mercifully Departed' finished",
+        "All Chapter 6 honor missions done"
+      ],
+      "how": [
+        "This trophy cannot unlock before the Chapter 5 mission 'Paradise Mercifully Departed', which you have finished by now, so Chapter 6 is the earliest point it can pop.",
+        "Check your Honor bar. If it is near the far right, push it to the maximum now: catch and release fish, hand in bounties alive, help strangers.",
+        "The trophy pops the moment the bar hits the end.",
+        "If you are far off, leave it: it can also be done after the story as John (see Cleanup).",
+        "Only try the dishonourable route (minimum Honor) from a separate manual save, and reload afterwards."
+      ],
+      "counts": [
+        "trophy-extreme-personality"
+      ],
+      "tip": "Honor gains are reported to be 50% higher in Chapter 6, which makes the honourable route quicker here than later.",
+      "unverified": "The Chapter 6 +50% Honor bonus comes from guides and community reports only.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "trophies#ws-honor",
+        "missables#ppx",
+        "missables#damnmodz",
+        "missables#gamesguides",
+        "missables#ggdnsa",
+        "missions-ch4-e2#ppxt",
+        "trophies#fc-ppx-locked"
+      ]
+    },
+    {
+      "id": "ch6-spend-cash",
+      "type": "task",
+      "title": "Spend your cash before the finale",
+      "where": "Any shop, gunsmith or tailor",
+      "how": [
+        "Spend your money now on things that carry over: weapons, weapon upgrades, outfits and satchel items.",
+        "Keep treasure-map valuables and other items rather than selling them; items carry over, cash does not (tap reveal for why).",
+        "Horses, including stabled ones, do not carry over either, so do not buy new ones now."
+      ],
+      "missable": {
+        "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+        "deadlineMissionId": "mission-red-dead-redemption"
+      },
+      "tip": "Red Dead Wiki reports a workaround: let Arthur be robbed at the Aberdeen Pig Farm before 'Our Best Selves', and the money can be recovered in the Epilogue. Treat it as unconfirmed.",
+      "spoiler": [
+        "After 'Red Dead Redemption' you play as John for the rest of the game. Arthur's cash and horses are gone; weapons, outfits and satchel items transfer to John."
+      ],
+      "unverified": "The Aberdeen Pig Farm money trick is reported only by Red Dead Wiki.",
+      "sources": [
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-warning-chapter-end",
+      "type": "warning",
+      "title": "Point of no return: the Chapter 6 finale",
+      "how": [
+        "The next mission runs straight into the chapter finale ('Red Dead Redemption'). After it you cannot return to this point (tap reveal for why).",
+        "Check every step in the earlier warnings is done (Sadie's honor mission had to be finished before 'My Last Boy'). Look for yellow icons in Pause > Progress > Story.",
+        "Finish 'Start The Widow of Willard's Rest now' and 'Finish the 'Fundraiser' stranger if still open'.",
+        "Finish any other stranger strand you have started as Arthur. Sources disagree on whether some can be finished later (e.g. The Mercies of Knowledge, Arcadia for Amateurs).",
+        "Finish 'Spend your cash before the finale': cash and all horses, including stabled ones, are lost.",
+        "Also lost: the camp, Chapter 6 honor missions, O'Driscoll compendium entries and any unseen Charlotte Balfour encounters.",
+        "Kept: weapons, outfits, kit, trinkets, talismans, valuables, documents and cigarette cards.",
+        "Your ending choice and Honor only change the final scenes; no trophy depends on them.",
+        "Make a manual save now in a separate slot and never overwrite it. It is your only way back to this point in the story."
+      ],
+      "missable": {
+        "deadline": "before finishing 'Red Dead Redemption' (end of Chapter 6)",
+        "deadlineMissionId": "mission-red-dead-redemption"
+      },
+      "spoiler": [
+        "After 'Red Dead Redemption', Arthur is gone for good and you play as John Marston for the Epilogue and all post-game.",
+        "That is why Arthur's cash, horses and Arthur-only strangers are lost, while his weapons, outfits and satchel items pass to John."
+      ],
+      "unverified": "Codeberg lists some Arthur-only strands (The Mercies of Knowledge, Arcadia for Amateurs part III, The Widow of Willard's Rest, Fundraiser) as lost here, while the collectibles research says the Western Stranger strands can be finished after the story. A single PowerPyx commenter also reports that unfinished bounty posters are removed after Chapter 6.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#rdr2org-endings",
+        "missions-ch4-e2#fandom-missables",
+        "missables#codeberg",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables",
+        "missions-ch4-e2#gtabase",
+        "collectibles#ppx-strangers"
+      ]
+    },
+    {
+      "id": "ch6-m-our-best-selves",
+      "type": "mission",
+      "title": "Play 'Our Best Selves'",
+      "missionId": "mission-our-best-selves",
+      "where": "Beaver Hollow (Dutch)",
+      "before": [
+        "Manual save made (see 'Point of no return: the Chapter 6 finale')"
+      ],
+      "how": [
+        "Start it from the Dutch marker in camp.",
+        "It rolls straight into 'Red Dead Redemption' with no free roam in between."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch6-m-red-dead-redemption",
+      "type": "mission",
+      "title": "Play 'Red Dead Redemption'",
+      "missionId": "mission-red-dead-redemption",
+      "where": "Beaver Hollow (continues automatically)",
+      "how": [
+        "Play on from 'Our Best Selves'.",
+        "Pick whichever ending choice you like; it does not affect any trophy.",
+        "'Redemption' pops when the mission ends."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "trophy-redemption"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missions-ch4-e2#rdr2org-endings",
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    }
+  ]
+}

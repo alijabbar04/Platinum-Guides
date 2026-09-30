@@ -1,0 +1,727 @@
+{
+  "part": {
+    "id": "ch3",
+    "title": "Chapter 3",
+    "subtitle": "Clemens Point",
+    "intro": [
+      "Chapter 3 moves the gang to a new camp at Clemens Point, near Rhodes in Lemoyne. Like Chapter 2 it is an open chapter: you start story missions from map icons whenever you like, so there is plenty of time for side content between them.",
+      "Several things in this chapter are lost for good when it ends. You need one companion activity in this camp (Friends With Benefits), and several item requests only exist here (Errand Boy). The optional Honor missions The Course of True Love I-III and Money Lending and Other Sins IV all count towards Lending a Hand. A unique rifle can only be looted during 'Magicians for Sport'.",
+      "Guides disagree on exactly when the Chapter 3 extras disappear. The latest possible cut-off is 'Blood Feuds, Ancient and Modern'. One source says some go earlier, so this route clears everything before 'Blessed are the Peacemakers', which keeps you safe whichever source is right.",
+      "This chapter also opens four Stranger strands (they count towards Western Stranger). Return to camp during the day between missions to pick up activities and item requests. The whole story takes roughly 50-60 hours; Chapter 3 is one of the longer, free-roam-heavy chapters."
+    ]
+  },
+  "steps": [
+    {
+      "id": "ch3-manual-save-start",
+      "type": "task",
+      "title": "Make a Chapter 3 start save",
+      "where": "Clemens Point camp",
+      "how": [
+        "When Chapter 3 begins, make a manual save in a separate slot and don't overwrite it.",
+        "Keep making manual saves before each story mission. If a gold objective fails, reload instead of finishing the mission."
+      ],
+      "tip": "Gold objectives must all be met in one run, and a checkpoint reload resets their counters.",
+      "sources": [
+        "missables#ppx",
+        "missables#damnmodz",
+        "missions-ch1-3#ppx"
+      ]
+    },
+    {
+      "id": "ch3-m-the-new-south",
+      "type": "mission",
+      "title": "Play 'The New South'",
+      "missionId": "mission-the-new-south",
+      "where": "Clemens Point camp (Dutch)",
+      "how": [
+        "Start the mission from Dutch's icon at camp.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "Chapter 3 mission order varies between guides. Some put 'Further Questions of Female Suffrage' first. Any order works except the last two missions ('Blood Feuds, Ancient and Modern', then 'The Battle of Shady Belle').",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#rdr2org-ch3"
+      ]
+    },
+    {
+      "id": "ch3-friends-with-benefits-activity",
+      "type": "task",
+      "title": "Do a companion activity at Clemens Point",
+      "where": "Clemens Point camp",
+      "how": [
+        "Return to camp during the day and look for an activity you can start now: fishing with Javier or Kieran, or Javier's Valentine home robbery or Charles's hunt if they carried over from Chapter 2.",
+        "Sean's and Bill's stagecoach robberies only appear after 'Friends in Very Low Places', so don't wait for them here.",
+        "Accept the invitation and play the activity through to the end.",
+        "If nobody offers one, do a story mission or sleep in your tent, then check camp again at another time of day.",
+        "Don't count on table games (five finger fillet, dominoes) with gang members for this; do an outing instead."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits"
+      ],
+      "tip": "You need one activity in each of the Chapter 2, 3 and 4 camps. Extra activities in this chapter can't make up for a missed chapter.",
+      "missable": {
+        "deadline": "Before 'Blood Feuds, Ancient and Modern' (Sean's coach robbery: before 'Blessed are the Peacemakers' per one source). Do it before 'Blessed are the Peacemakers' to be safe.",
+        "deadlineMissionId": "mission-blood-feuds-ancient-and-modern"
+      },
+      "unverified": "Sources disagree on whether camp table games count as companion activities: PowerPyx and DamnModz say no, while a missables checklist and search snippets list them. Game Rant alone says Sean's coach robbery is gone after 'Blessed are the Peacemakers'. A fact-check against the Red Dead Wiki found the Chapter 3 coach robberies only unlock after 'Friends in Very Low Places', so the route now points at fishing first.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#pixel12",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "trophies#ppx",
+        "trophies#ws-fwb",
+        "https://reddead.fandom.com/wiki/Friends_With_Benefits"
+      ]
+    },
+    {
+      "id": "ch3-m-further-questions-of-female-suffrage",
+      "type": "mission",
+      "title": "Play 'Further Questions of Female Suffrage'",
+      "missionId": "mission-further-questions-of-female-suffrage",
+      "where": "Clemens Point camp (Pearson)",
+      "how": [
+        "Start the mission from Pearson's icon at camp.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "One source (GamesHedge) gives 80% instead of 85% for the accuracy objective. Aim above 85%.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-errand-boy-requests",
+      "type": "task",
+      "title": "Deliver the Chapter 3 camp item requests",
+      "where": "Clemens Point camp",
+      "how": [
+        "Spend some daytime (about 08:00-20:00) in camp and talk to gang members until they ask for items.",
+        "For Hosea: pick 2 American Ginseng (grows in south Lemoyne).",
+        "For Kieran: pick 2 Burdock Root (grows near water).",
+        "For Molly: find a Pocket Mirror (at Martha's Swain).",
+        "For Tilly: find the Necklace she asks for.",
+        "If Pearson asks for his Naval Compass, it is in the boathouse at Braithwaite Manor.",
+        "Hand each item over by talking to that person in camp. Keep going until your running total of deliveries reaches 5."
+      ],
+      "counts": [
+        "trophy-errand-boy"
+      ],
+      "tip": "Any 5 deliveries across Chapters 2-4 unlock Errand Boy. If you already have 5 from Chapter 2, these are optional.",
+      "missable": {
+        "deadline": "Chapter-3-only requests are gone after 'Blood Feuds, Ancient and Modern'. The trophy itself stays possible until 'Banking, the Old American Art' (Chapter 4).",
+        "deadlineMissionId": "mission-blood-feuds-ancient-and-modern"
+      },
+      "unverified": "Only Game Rant gives the Pocket Mirror location. The Red Dead Wiki (via a search snippet) says item requests also appear in Epilogue Part 2, but most guides treat Errand Boy as lost after Chapter 4.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "trophies#ws-errand"
+      ]
+    },
+    {
+      "id": "ch3-m-american-distillation",
+      "type": "mission",
+      "title": "Play 'American Distillation'",
+      "missionId": "mission-american-distillation",
+      "where": "Rhodes sheriff's office",
+      "how": [
+        "Start the mission from its map icon (rdr2.org places the start at the Rhodes sheriff's office).",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "Only rdr2.org gives the start location. GamesHedge gives 75% instead of 70% for the accuracy objective.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-m-an-honest-mistake",
+      "type": "mission",
+      "title": "Play 'An Honest Mistake'",
+      "missionId": "mission-an-honest-mistake",
+      "where": "Clemens Point camp",
+      "how": [
+        "Start the mission from its icon at camp.",
+        "Bring a scoped rifle: it makes the headshots easier.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-m-the-course-of-true-love-i",
+      "type": "mission",
+      "title": "Play 'The Course of True Love - I'",
+      "missionId": "mission-the-course-of-true-love-i",
+      "where": "Caliga Hall area, near Rhodes (Beau Gray)",
+      "how": [
+        "Ride to the Caliga Hall area near Rhodes and find Beau Gray's mission icon.",
+        "Play the mission. This part has no gold medal.",
+        "Only parts II and III appear in the Story log, but you must play part I to open them."
+      ],
+      "counts": [
+        "trophy-lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "Before 'A Short Walk in a Pretty Town' (safest; another source says before 'Blood Feuds, Ancient and Modern')",
+        "deadlineMissionId": "mission-a-short-walk-in-a-pretty-town"
+      },
+      "unverified": "Sources disagree on the deadline: Game Rant says before 'A Short Walk in a Pretty Town', while the Codeberg checklist and PowerPyx say before 'Blood Feuds, Ancient and Modern'. This route uses the earlier one.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch3-m-the-course-of-true-love-ii",
+      "type": "mission",
+      "title": "Play 'The Course of True Love - II'",
+      "missionId": "mission-the-course-of-true-love-ii",
+      "where": "Caliga Hall area, near Rhodes (Beau Gray)",
+      "how": [
+        "Start part II from Beau Gray's icon once part I is done.",
+        "Save manually before starting it; this is one of the hardest golds.",
+        "Skip cutscenes and stay on horseback."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "tip": "Gold Rush only needs 70 of the 104 medals. If this gold defeats you, finish the mission anyway: Lending a Hand only needs the mission completed.",
+      "missable": {
+        "deadline": "Before 'A Short Walk in a Pretty Town' (safest; another source says before 'Blood Feuds, Ancient and Modern')",
+        "deadlineMissionId": "mission-a-short-walk-in-a-pretty-town"
+      },
+      "unverified": "The deadline is disputed: Game Rant says before 'A Short Walk in a Pretty Town'; Codeberg and PowerPyx say before 'Blood Feuds, Ancient and Modern'.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "missions-ch1-3#gr",
+        "missables#ppx"
+      ]
+    },
+    {
+      "id": "ch3-m-the-course-of-true-love-iii",
+      "type": "mission",
+      "title": "Play 'The Course of True Love - III'",
+      "missionId": "mission-the-course-of-true-love-iii",
+      "where": "Caliga Hall area, near Rhodes (Beau Gray)",
+      "how": [
+        "Start part III from Beau Gray's icon once part II is done.",
+        "Save manually before starting it.",
+        "Skip every cutscene: the timer includes them."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "Before 'A Short Walk in a Pretty Town' (safest; another source says before 'Blood Feuds, Ancient and Modern')",
+        "deadlineMissionId": "mission-a-short-walk-in-a-pretty-town"
+      },
+      "unverified": "The deadline is disputed: Game Rant says before 'A Short Walk in a Pretty Town'; Codeberg and PowerPyx say before 'Blood Feuds, Ancient and Modern'.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "missions-ch1-3#gr",
+        "missables#ppx"
+      ]
+    },
+    {
+      "id": "ch3-m-money-lending-and-other-sins-iv",
+      "type": "mission",
+      "title": "Play 'Money Lending and Other Sins - IV'",
+      "missionId": "mission-money-lending-and-other-sins-iv",
+      "where": "Clemens Point camp (Strauss)",
+      "how": [
+        "Talk to Strauss at camp to get the new debts.",
+        "Visit each debtor. They are in Rhodes and north of Strawberry.",
+        "Collect every debt. This part has no gold medal and doesn't appear in the Story log, but Lending a Hand needs it."
+      ],
+      "counts": [
+        "trophy-lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "Before 'Blood Feuds, Ancient and Modern' (do it before 'Blessed are the Peacemakers' to be safe)",
+        "deadlineMissionId": "mission-blood-feuds-ancient-and-modern"
+      },
+      "sources": [
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch3-m-preaching-forgiveness-as-he-went",
+      "type": "mission",
+      "title": "Play 'Preaching Forgiveness as He Went'",
+      "missionId": "mission-preaching-forgiveness-as-he-went",
+      "where": "Clemens Point camp (Lenny)",
+      "how": [
+        "Start the mission from Lenny's icon at camp.",
+        "Carry a long scoped rifle.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "GamesHedge gives 75% instead of 70% for the accuracy objective.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-m-sodom-back-to-gomorrah",
+      "type": "mission",
+      "title": "Play 'Sodom? Back to Gomorrah'",
+      "missionId": "mission-sodom-back-to-gomorrah",
+      "where": "Clemens Point camp (Bill)",
+      "how": [
+        "Start the mission from Bill's icon at camp.",
+        "Bring a Horse Stimulant for the timed ride.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "GamesHedge gives 75% instead of 70% for the accuracy objective.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-m-advertising-the-new-american-art-i",
+      "type": "mission",
+      "title": "Play 'Advertising, the New American Art - I'",
+      "missionId": "mission-advertising-the-new-american-art-i",
+      "where": "Clemens Point camp (Abigail)",
+      "how": [
+        "Start the mission from Abigail's icon at camp.",
+        "Play it through. This part has no gold medal."
+      ],
+      "unverified": "'No gold medal' is inferred: PowerPyx lists only part II as having a medal.",
+      "sources": [
+        "missions-ch1-3#ppx"
+      ]
+    },
+    {
+      "id": "ch3-m-advertising-the-new-american-art-ii",
+      "type": "mission",
+      "title": "Play 'Advertising, the New American Art - II'",
+      "missionId": "mission-advertising-the-new-american-art-ii",
+      "where": "Clemens Point camp (Abigail)",
+      "how": [
+        "Start part II from its icon once part I is done.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-m-a-fisher-of-fish",
+      "type": "mission",
+      "title": "Start the Stranger strand 'A Fisher of Fish'",
+      "missionId": "mission-a-fisher-of-fish",
+      "where": "Fishing hut on the north shore of Flat Iron Lake, south-east of Flatneck Station (Jeremy Gill)",
+      "how": [
+        "Ride to the north shore of Flat Iron Lake and talk to Jeremy Gill at the stranger icon to start the strand.",
+        "Nothing more to do now. The 13 legendary fish are part of the post-story cleanup (legendary fish tracker).",
+        "The strand can't be fully finished before Epilogue Part 2, because the final invitation only arrives then."
+      ],
+      "counts": [
+        "tracker:strangers",
+        "tracker:legendary-fish",
+        "trophy-western-stranger"
+      ],
+      "unverified": "The strand is filed under Chapter 3 in the collectibles data, but the wildlife data says it opens after the Chapter 2 mission 'A Fisher of Men'. If you already started it in Chapter 2, just tick this step.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "wildlife#ppx-fish",
+        "wildlife#fandom-fisher-of-fish"
+      ]
+    },
+    {
+      "id": "ch3-m-hes-british-of-course",
+      "type": "mission",
+      "title": "Do the Stranger strand 'He's British, of Course'",
+      "missionId": "mission-hes-british-of-course",
+      "where": "Wilderness south of Emerald Ranch",
+      "how": [
+        "Look for the white stranger icon south of Emerald Ranch and start the strand.",
+        "Play every part that becomes available now. If the next part needs a wait, come back later in Chapter 3 or Chapter 4."
+      ],
+      "counts": [
+        "tracker:strangers",
+        "trophy-western-stranger"
+      ],
+      "unverified": "The research data only places this strand in Chapter 3. The start location (south of Emerald Ranch) comes from the PowerPyx stranger map. The strand counts towards Western Stranger and can also be finished after the story.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch3-m-the-iniquities-of-history",
+      "type": "mission",
+      "title": "Do the Stranger strand 'The Iniquities of History'",
+      "missionId": "mission-the-iniquities-of-history",
+      "where": "Rhodes",
+      "how": [
+        "Look for the white stranger icon in Rhodes and start the strand.",
+        "Play every part that becomes available. Anything left over can be finished later."
+      ],
+      "counts": [
+        "tracker:strangers",
+        "trophy-western-stranger"
+      ],
+      "unverified": "The start location (Rhodes) comes from the PowerPyx stranger map, not from the research data.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch3-m-no-good-deed",
+      "type": "mission",
+      "title": "Do the Stranger strand 'No Good Deed'",
+      "missionId": "mission-no-good-deed",
+      "where": "Rhodes",
+      "how": [
+        "Look for the white stranger icon in Rhodes and start the strand.",
+        "Play every part that becomes available. Anything left over can be finished later."
+      ],
+      "counts": [
+        "tracker:strangers",
+        "trophy-western-stranger"
+      ],
+      "unverified": "The start location (Rhodes) comes from the PowerPyx stranger map, not from the research data.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch3-m-magicians-for-sport",
+      "type": "mission",
+      "title": "Play 'Magicians for Sport' and loot the rare rifle",
+      "missionId": "mission-magicians-for-sport",
+      "where": "Clemens Point camp",
+      "how": [
+        "Save manually before starting the mission.",
+        "In the caravan, examine every highlighted clue and pick up the Mine Share document before you leave.",
+        "When the bounty hunters attack in the cornfield, find and kill the sniper.",
+        "Loot the sniper's body and take the Rare Rolling Block Rifle. You can't get it anywhere else."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "tracker:completion"
+      ],
+      "tip": "Birds flying up out of the corn show where the hunters are hiding. You can also snipe from the nearby hill.",
+      "missable": {
+        "deadline": "During 'Magicians for Sport' only (rifle and Mine Share document)",
+        "deadlineMissionId": "mission-magicians-for-sport"
+      },
+      "unverified": "Missing the rifle doesn't block any trophy: 100% needs only 48 weapons. Some sources list its deadline as the end of Chapter 3 rather than this mission, so loot it here to be safe.",
+      "sources": [
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "missions-ch1-3#px",
+        "missions-ch1-3#ppx",
+        "missables#ppxweap",
+        "missables#codeberg",
+        "trophies#pixel-miss"
+      ]
+    },
+    {
+      "id": "ch3-m-horse-flesh-for-dinner",
+      "type": "mission",
+      "title": "Play 'Horse Flesh for Dinner'",
+      "missionId": "mission-horse-flesh-for-dinner",
+      "where": "Caliga Hall area",
+      "how": [
+        "Start the mission from its map icon.",
+        "Have your lasso selected before the stallion part.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "This mission opens the horse fence at Clemens Cove, which you need for a Horseman challenge.",
+      "unverified": "The mission giver (Tavish Gray) comes from rdr2.org only.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "challenges#ppx"
+      ]
+    },
+    {
+      "id": "ch3-m-friends-in-very-low-places",
+      "type": "mission",
+      "title": "Play 'Friends in Very Low Places'",
+      "missionId": "mission-friends-in-very-low-places",
+      "where": "Clemens Point camp",
+      "how": [
+        "Start the mission from its icon.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-m-the-fine-joys-of-tobacco",
+      "type": "mission",
+      "title": "Play 'The Fine Joys of Tobacco'",
+      "missionId": "mission-the-fine-joys-of-tobacco",
+      "where": "Braithwaite Manor (Hosea)",
+      "how": [
+        "Start the mission from Hosea's icon.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-checkpoint-camp-extras",
+      "type": "task",
+      "title": "Check off all Chapter 3 extras now",
+      "where": "Clemens Point camp",
+      "how": [
+        "Confirm you finished 'Do a companion activity at Clemens Point'. It must be an outing (robbery or fishing), not a table game.",
+        "Confirm you finished 'The Course of True Love' I, II and III and 'Money Lending and Other Sins - IV'. Open Pause > Progress > Story and look for yellow Honor mission icons you haven't done.",
+        "Deliver any open Chapter 3 item requests (see 'Deliver the Chapter 3 camp item requests').",
+        "Make a manual save in a new slot."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits",
+        "trophy-lending-a-hand",
+        "trophy-errand-boy"
+      ],
+      "tip": "The next story mission is the earliest cut-off any source gives for Chapter 3 extras. Clearing everything here means you never depend on which source is right.",
+      "missable": {
+        "deadline": "Before 'Blessed are the Peacemakers' (earliest cut-off given by any source)",
+        "deadlineMissionId": "mission-blessed-are-the-peacemakers"
+      },
+      "unverified": "The Chapter 3 cut-offs are disputed: Codeberg says 'Blood Feuds, Ancient and Modern'; Game Rant says 'A Short Walk in a Pretty Town' for True Love and 'Blessed are the Peacemakers' for Sean's coach robbery.",
+      "sources": [
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "missions-ch1-3#px",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch3-m-blessed-are-the-peacemakers",
+      "type": "mission",
+      "title": "Play 'Blessed are the Peacemakers'",
+      "missionId": "mission-blessed-are-the-peacemakers",
+      "where": "Clemens Point camp",
+      "how": [
+        "Start the mission only after finishing 'Check off all Chapter 3 extras now'.",
+        "Save manually before starting it.",
+        "Before you leave the area, pick up your weapons from the marked spots."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "The mission giver (Micah) comes from rdr2.org and Game Rant only.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "missions-ch1-3#gr"
+      ]
+    },
+    {
+      "id": "ch3-m-a-short-walk-in-a-pretty-town",
+      "type": "mission",
+      "title": "Play 'A Short Walk in a Pretty Town'",
+      "missionId": "mission-a-short-walk-in-a-pretty-town",
+      "where": "Clemens Point camp / Rhodes",
+      "how": [
+        "Before starting, equip your best revolvers or pistols. The gold needs sidearms only, so never switch to a long arm.",
+        "Carry Dead Eye tonics. Only health items are banned; Dead Eye items are allowed.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-warning-blood-feuds",
+      "type": "warning",
+      "title": "Point of no return: Chapter 3 extras end next",
+      "how": [
+        "Starting 'Blood Feuds, Ancient and Modern' ends everything tied to the Clemens Point camp. Finish these first:",
+        "'Do a companion activity at Clemens Point' (Friends With Benefits).",
+        "'Play The Course of True Love - I', '- II' and '- III' (Lending a Hand).",
+        "'Play Money Lending and Other Sins - IV' (Lending a Hand).",
+        "'Deliver the Chapter 3 camp item requests' (Errand Boy).",
+        "'Play Magicians for Sport and loot the rare rifle' (if you missed the rifle, reload an older save only if you care about it; no trophy needs it).",
+        "Make a manual save now in a new slot and keep it."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits",
+        "trophy-lending-a-hand",
+        "trophy-errand-boy"
+      ],
+      "tip": "The next mission leads straight into the chapter finale. Treat this as your last chance.",
+      "missable": {
+        "deadline": "Before starting 'Blood Feuds, Ancient and Modern'",
+        "deadlineMissionId": "mission-blood-feuds-ancient-and-modern"
+      },
+      "sources": [
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#pixel12"
+      ]
+    },
+    {
+      "id": "ch3-m-blood-feuds-ancient-and-modern",
+      "type": "mission",
+      "title": "Play 'Blood Feuds, Ancient and Modern'",
+      "missionId": "mission-blood-feuds-ancient-and-modern",
+      "where": "Clemens Point camp (Dutch)",
+      "how": [
+        "Start the mission from Dutch's icon at camp.",
+        "Inside Braithwaite Manor, search the upstairs room with the fireplace. Take the Gold Shield valuable and the Letter to Angelo Bronte document. They are only available in this mission and aren't needed for any trophy.",
+        "Stay in cover and fire only in Dead Eye to keep your accuracy high."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "During 'Blood Feuds, Ancient and Modern' (Gold Shield, Letter to Angelo Bronte)",
+        "deadlineMissionId": "mission-blood-feuds-ancient-and-modern"
+      },
+      "unverified": "Game Rant also mentions a Braithwaite Brooch looted during this mission; no other source confirms it. GamesHedge gives 80% instead of 85% for the accuracy objective.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch3-warning-chapter-end",
+      "type": "warning",
+      "title": "Chapter 3 ends with the next mission",
+      "how": [
+        "Everything in 'Point of no return: Chapter 3 extras end next' was already due. There is nothing more to finish here.",
+        "If the game gives you free roam before the next mission, make a manual save in a new slot. Keep your saves from before 'Blood Feuds, Ancient and Modern'.",
+        "After the next mission the gang moves camp and Chapter 4 begins."
+      ],
+      "unverified": "The mission research says 'The Battle of Shady Belle' follows directly after 'Blood Feuds, Ancient and Modern', so you may get no free roam in between. Both missions are marked as points of no return.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch3-m-the-battle-of-shady-belle",
+      "type": "mission",
+      "title": "Play 'The Battle of Shady Belle'",
+      "missionId": "mission-the-battle-of-shady-belle",
+      "where": "Shady Belle, Lemoyne",
+      "how": [
+        "Equip a shotgun for fast room clearing.",
+        "Skip cutscenes to save time.",
+        "Finishing this mission ends Chapter 3 and unlocks Settling Feuds."
+      ],
+      "counts": [
+        "trophy-settling-feuds",
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch3",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "trophies#ppx",
+        "trophies#rdr2org"
+      ]
+    }
+  ]
+}

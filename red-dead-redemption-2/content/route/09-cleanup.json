@@ -1,0 +1,689 @@
+{
+  "part": {
+    "id": "cleanup",
+    "title": "Post-Story Cleanup",
+    "subtitle": "Free roam after the credits",
+    "intro": [
+      "The story is over and the whole map is open, New Austin included. This part is a checklist of free-roam sessions: catch-up for any trophy you skipped earlier, the New Austin sweep, the long grinds (animals, bears, bounties), gold medal replays and the 100% run for Best in the West.",
+      "Nothing in this part can be missed. The order below saves time: quick catch-ups first, then New Austin (it feeds several trackers at once), then the long grinds, and finally the crime spree for Bountiful and Extreme Personality from a backup save, so the drop in Honor never sticks.",
+      "Check Pause > Progress > Total Completion often. It shows exactly what is still missing for 100%. Expect this part to take roughly 100 hours or more, depending on how much you finished as Arthur."
+    ]
+  },
+  "steps": [
+    {
+      "id": "cleanup-start-manual-save",
+      "type": "info",
+      "title": "Make a clean post-story save",
+      "where": "Beecher's Hope (after the credits)",
+      "how": [
+        "Make a manual save in a new slot before you do anything else. Keep this slot as your 'clean' save for the whole cleanup.",
+        "Open Pause > Progress > Total Completion and note which categories are unfinished.",
+        "Open Pause > Progress > Story to see which missions still lack a gold medal.",
+        "Work through the steps below in order. Tick off any catch-up step whose trophy you already have."
+      ],
+      "tip": "Keep rolling manual saves in two or three slots. Before anything that lowers Honor, save to a separate slot so you can reload it afterwards.",
+      "sources": [
+        "missables#ppx",
+        "missables#damnmodz",
+        "trophies#ppx-100"
+      ]
+    },
+    {
+      "id": "cleanup-pony-up",
+      "type": "task",
+      "title": "If not already unlocked: spend $5000 in shops",
+      "where": "Any shop: stable, gunsmith, general store, tailor",
+      "before": [
+        "Money from the Epilogue (finishing the Epilogue pays out a large sum)"
+      ],
+      "how": [
+        "If not already unlocked, make a manual save first.",
+        "Spend money at shops: guns and gun upgrades, a new horse and tack, clothes, supplies.",
+        "Keep buying until Pony Up unlocks. Spending is cumulative, so earlier purchases already count.",
+        "If you want the cash back, reload the save once the trophy has popped."
+      ],
+      "counts": [
+        "trophy-pony-up",
+        "tracker:grind"
+      ],
+      "tip": "Do Locked and Loaded (next step) at the same time, so the gunsmith visit does double duty.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "cleanup-locked-and-loaded",
+      "type": "task",
+      "title": "If not already unlocked: fully upgrade one gun",
+      "where": "Any gunsmith (e.g. Valentine)",
+      "how": [
+        "If not already unlocked, make a manual save.",
+        "Open the gunsmith's weapon customisation and pick one sidearm or longarm, e.g. the Double-Action Revolver.",
+        "Change each component slot on that gun once (grip, barrel length, barrel rifling, sights); you don't need every variant.",
+        "Confirm the trophy pops. Reload the save only if you want the money back."
+      ],
+      "counts": [
+        "trophy-locked-and-loaded"
+      ],
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "cleanup-take-from-the-rich",
+      "type": "task",
+      "title": "If not already unlocked: rob or loot $250",
+      "where": "Anywhere",
+      "how": [
+        "If not already unlocked, loot the body of every enemy you kill during encounters, gang hideouts and bounties.",
+        "Do some robberies (coaches, shops, homesteads). You need them for 100% anyway.",
+        "The total adds up over time. The trophy pops at $250."
+      ],
+      "counts": [
+        "trophy-take-from-the-rich"
+      ],
+      "tip": "Clearing Thieves Landing and Fort Mercer (see the New Austin sweep) gives lots of bodies to loot.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "cleanup-trusty-steed",
+      "type": "task",
+      "title": "If not already unlocked: max bond with a horse",
+      "where": "Any stable",
+      "how": [
+        "If not already unlocked, choose one horse and keep it. Arthur's horses do not carry over to John, so this has to be John's horse.",
+        "Ride it every session, pat it (L3 while calming), feed it horse treats and brush it when dirty.",
+        "Don't drain its stamina core.",
+        "Check the bonding level under Pause > Player > Horse. Bonding level 4 unlocks the trophy and also counts towards 100%."
+      ],
+      "counts": [
+        "trophy-trusty-steed",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "Bonding builds passively as you ride through the rest of this part, so it usually finishes without extra effort.",
+      "sources": [
+        "wildlife#ppx-trophy",
+        "wildlife#fandom-trophies",
+        "wildlife#fandom-100",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "cleanup-hobby-horse",
+      "type": "session",
+      "title": "If not already unlocked: play every table game",
+      "where": "Strawberry, Rhodes, Saint Denis",
+      "how": [
+        "If not already unlocked, open the Hobby Horse tracker.",
+        "Play one game of Five Finger Fillet (e.g. Strawberry).",
+        "Play one game of Blackjack (e.g. Rhodes saloon).",
+        "Play one game of Dominoes (e.g. the park in Saint Denis).",
+        "Play one game of Poker (e.g. a Saint Denis saloon). You don't need to win any of them.",
+        "Check Pause > Progress > Total Completion > Table Games."
+      ],
+      "counts": [
+        "trophy-hobby-horse",
+        "tracker:hobby-horse",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "Stay longer and work on the Gambler challenges while you're there: Blackjack in Rhodes and Van Horn, Five Finger Fillet in Strawberry, Valentine and Van Horn, and Poker in Flatneck Station, Saint Denis and Valentine.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#damnmodz",
+        "challenges#ppx",
+        "challenges#steam"
+      ]
+    },
+    {
+      "id": "cleanup-self-sufficient",
+      "type": "task",
+      "title": "If not already unlocked: craft 30 different items",
+      "where": "Campfire (make camp) and the satchel crafting menu",
+      "how": [
+        "If not already unlocked, make camp and open the crafting menu.",
+        "Craft as many different recipes as you can: each ammo type, each arrow type, tonics, cooked and seasoned meats, horse items.",
+        "It counts 30 different item types, not 30 crafts. Crafting the same thing again does nothing.",
+        "Keep going until the trophy pops."
+      ],
+      "counts": [
+        "trophy-self-sufficient"
+      ],
+      "tip": "The same crafts feed Survivalist 4 and 8 (special arrows, tomahawks, volatile dynamite and fire bottles) and the 100% 'craft each recipe type' task.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase",
+        "challenges#ppx"
+      ]
+    },
+    {
+      "id": "cleanup-breaking-and-entering",
+      "type": "session",
+      "title": "If not already unlocked: rob 4 homestead stashes",
+      "where": "Homesteads across the map (see the Homesteads tracker)",
+      "before": [
+        "A manual save before each robbery"
+      ],
+      "how": [
+        "If not already unlocked, open the Homesteads tracker.",
+        "Make a manual save before each robbery. Killing the owners or failing can close a homestead for good.",
+        "Wear a bandana to reduce the Honor loss.",
+        "Chez Porter: the stash is in the barn loft.",
+        "Aberdeen Pig Farm: greet the owners, then take the stash from the back room.",
+        "Lonnie's Shack: threaten a survivor to learn where the stash is.",
+        "Catfish Jackson's: threaten the son. The stash is in the chimney or an outside crate.",
+        "Watson's Cabin: the shotgun in the cellar counts as the stash.",
+        "Loot everything else in the homestead as well. The counter can fail to register if you only take the stash.",
+        "Stop at 4 stashes."
+      ],
+      "counts": [
+        "trophy-breaking-and-entering",
+        "tracker:homesteads"
+      ],
+      "tip": "One home robbery also ticks the 100% robbery task. If a homestead you already visited as Arthur is empty or its owners are gone, use a different one.",
+      "unverified": "The research doesn't confirm which homesteads can still be robbed after the story if Arthur disturbed them. Willard's Rest (Chapter 6+) and the Van Horn mansion are left out here because the missables research lists some Arthur-era events there as lost after Chapter 6.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#ppx-stash",
+        "trophies#damnmodz",
+        "missables#ppx",
+        "missables#gamesguides"
+      ]
+    },
+    {
+      "id": "cleanup-artificial-intelligence",
+      "type": "task",
+      "title": "If not already unlocked: finish A Bright Bouncing Boy",
+      "where": "Stranger icon for Marko Dragic (see the Strangers tracker)",
+      "how": [
+        "If not already unlocked, go to Marko Dragic's stranger icon and continue the strand.",
+        "Do part II at night. Sleep until night if you need to.",
+        "Wait about 2 in-game days, then return for the final part.",
+        "Artificial Intelligence unlocks at the end of the strand."
+      ],
+      "counts": [
+        "trophy-artificial-intelligence",
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "tip": "This is also one of the 22 strands that count for Western Stranger.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "collectibles#ppx-strangers"
+      ]
+    },
+    {
+      "id": "cleanup-new-austin-sweep",
+      "type": "session",
+      "title": "Sweep New Austin: bones, animals, herbs, hideouts",
+      "where": "New Austin (Cholla Springs, Gaptooth Ridge, Rio Bravo) and the West Elizabeth border",
+      "before": [
+        "Plenty of ammo and a bonded horse"
+      ],
+      "how": [
+        "Open the Dinosaur Bones tracker and collect the 8 New Austin bones. Mail all 30 locations at a post office when you have them.",
+        "Study with binoculars, then kill and skin, the New Austin-only animals: Nine-Banded Armadillo, Californian Condor, Banded Gila Monster, Desert Iguana, Collared Peccary, Sonoran and Baja California Pronghorn (buck and doe), California Quail, Desert Bighorn Ram and Sheep, Black-tailed Rattlesnake, Sonoran Desert Toad and Rio Grande Wild Turkey.",
+        "Come back at night for the Californian Horned Owl.",
+        "Pick every herb you pass. Herbalist 9 (one of each of the 43 herb species) needs the New Austin plants.",
+        "Clear the gang hideouts at Thieves Landing and Fort Mercer if you haven't. Both are needed for the 6 hideouts in 100%.",
+        "Ride from Van Horn to Blackwater in under 17 minutes without touching water for Horseman 9, if it's still open.",
+        "Fish for the Legendary Redfin Pickerel and Legendary Largemouth Bass while you're here (see the legendary fish step)."
+      ],
+      "counts": [
+        "tracker:dinosaur-bones",
+        "tracker:zoologist",
+        "tracker:skin-deep",
+        "tracker:challenges",
+        "tracker:completion",
+        "trophy-zoologist",
+        "trophy-skin-deep",
+        "trophy-best-in-the-west"
+      ],
+      "tip": "Loot every hideout body. It helps Take from the Rich and your cash for Pony Up.",
+      "sources": [
+        "collectibles#ppx-bones",
+        "collectibles#wiki-bones",
+        "collectibles#gr-bones",
+        "collectibles#ppx-gang",
+        "collectibles#ppx-100",
+        "wildlife#ppx-animals",
+        "challenges#ppx",
+        "challenges#steam"
+      ]
+    },
+    {
+      "id": "cleanup-collectors-item",
+      "type": "session",
+      "title": "If not already unlocked: finish one collectible strand",
+      "where": "Post office, then the strand's quest giver",
+      "how": [
+        "If not already unlocked, pick the strand you are closest to finishing. Rock Carvings (Geology for Beginners, 10 carvings) is the quickest.",
+        "Rock Carvings: open the Rock Carvings tracker, find all 10, mail the locations at a post office, wait about 2 days, then visit Francis Sinclair's hut north-west of Strawberry.",
+        "Dinosaur Bones: with all 30 found (New Austin sweep), mail them, wait about 1 day, then meet Deborah MacGuiness at Firwood Rise to finish A Test of Faith.",
+        "Exotics: finish every Duchesses and other Animals list for Algernon Wasp in north Saint Denis (see the exotics step).",
+        "Cigarette Cards: only if you want all 144. Mail all 12 sets to finish Smoking and other Hobbies.",
+        "Collector's Item unlocks when the final visit of the strand is done."
+      ],
+      "counts": [
+        "trophy-collectors-item",
+        "tracker:rock-carvings",
+        "tracker:dinosaur-bones",
+        "tracker:exotics",
+        "tracker:cigarette-cards",
+        "trophy-western-stranger",
+        "trophy-best-in-the-west"
+      ],
+      "tip": "After the Geology for Beginners finale, go back into the cabin at once and take the Old Brass Compass. The cabin locks afterwards. Rock carvings, bones and exotics are all needed for 100% anyway, so none of this work is wasted.",
+      "sources": [
+        "collectibles#ppx-trophy",
+        "collectibles#ppx-rc",
+        "collectibles#wiki-rc",
+        "collectibles#ppx-bones",
+        "trophies#ppx",
+        "trophies#gg-collector"
+      ]
+    },
+    {
+      "id": "cleanup-paying-respects",
+      "type": "session",
+      "title": "Visit all 9 graves",
+      "where": "Across the map (see the Graves tracker)",
+      "how": [
+        "Open the Graves tracker. The graves only appear after the story.",
+        "Two graves side by side in Bluewater Marsh, north of Saint Denis and east of Lagras (tap reveal for names).",
+        "A hill above Flat Iron Lake, north-west of Rhodes.",
+        "A field east of Braithwaite Manor, towards Bolger Glade.",
+        "A cliff above the railway near Emerald Station.",
+        "East of Bacchus Station.",
+        "The west side of Donner Falls.",
+        "Colter.",
+        "Near Spider Gorge / Glacier, north of Colter.",
+        "At each one, walk up and use the interact prompt so it registers. Any order works."
+      ],
+      "counts": [
+        "trophy-paying-respects",
+        "tracker:graves",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "spoiler": [
+        "Bluewater Marsh: Hosea and Lenny. Flat Iron Lake: Sean. Near Braithwaite Manor: Kieran. Near Emerald Station: Susan. East of Bacchus Station: Arthur. Donner Falls: Eagle Flies. Colter: Davey. Near Spider Gorge: Jenny."
+      ],
+      "unverified": "Sources disagree on some spots. HoldToReset and Pixeltwelve (via search summaries) put Susan's grave on a hill south-west of Elysian Pool, and Kieran's between Shady Belle and Bolger Glade. If a grave isn't where this list says, check those alternatives or use the tracker pin.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "trophies#htr-graves",
+        "collectibles#wiki-100",
+        "https://holdtoreset.com/graves-guide-where-to-find-all-9-graves-in-red-dead-redemption-2/",
+        "https://pixeltwelve.com/articles/red-dead-redemption-2-grave-locations"
+      ]
+    },
+    {
+      "id": "cleanup-its-art",
+      "type": "session",
+      "title": "Finish the hunting requests and the statue",
+      "where": "Train stations (request posters), post office, Ms. Hobbs east of Strawberry, Beecher's Hope",
+      "before": [
+        "All 5 hunting requests (A Better World, A New Friend). The 5th, at Van Horn, only appears in the Epilogue."
+      ],
+      "how": [
+        "Take any hunting request posters you still need from the train stations.",
+        "Hunt each requested animal for a perfect carcass and mail it from a post office.",
+        "Once all 5 are done, visit Ms. Hobbs east of Strawberry and collect the squirrel statue.",
+        "Put the statue on the living-room fireplace at Beecher's Hope, then sleep.",
+        "When it goes missing, find it and put it back on the fireplace each time. The hiding places, in order: the chest in the main bedroom, the main bedroom chimney, the chest in the loft above the kitchen, the wheelbarrow by the barn, the chest on the barn's upper floor, and finally Mount Shann, north of Strawberry.",
+        "Put it back one last time. It's Art unlocks."
+      ],
+      "counts": [
+        "trophy-its-art",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "Sleep once after each time you put the statue back, so it moves to the next hiding place.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "trophies#ws-art",
+        "collectibles#wiki-betterworld",
+        "collectibles#ppx-100"
+      ]
+    },
+    {
+      "id": "cleanup-legendary-fish",
+      "type": "session",
+      "title": "Catch the 13 legendary fish",
+      "where": "Lagras bait shop, then the Legendary Fish tracker spots; post office",
+      "before": [
+        "Special Lake, River and Swamp Lures ($20 each, Lagras bait shop)",
+        "A Fisher of Fish started with Jeremy Gill, north shore of Flat Iron Lake"
+      ],
+      "how": [
+        "Open the Legendary Fish tracker.",
+        "Buy all three special lures in Lagras. Any special lure works on every legendary fish; the right one just makes it bite faster. Don't use bait.",
+        "If nothing bites for about a minute, press R2/L2 once to attract fish.",
+        "Catch a heavy one early, such as the Lake Sturgeon (railway bridge south-west of Saint Denis) or the Longnose Gar (Bayou Nwa). Anything over 16 lb unlocks It was THIS Big!",
+        "Mail each legendary fish to Jeremy Gill from a post office. Carry big ones on your horse; small ones fit in the satchel.",
+        "Leave the Rock Bass, Redfin Pickerel and Largemouth Bass for now if you haven't caught them; do them as John in the New Austin sweep.",
+        "Once all 13 are mailed, finish part II when Jeremy Gill's invitation arrives."
+      ],
+      "counts": [
+        "trophy-it-was-this-big",
+        "tracker:legendary-fish",
+        "trophy-western-stranger",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "The same trips cover Survivalist 9 (a fish of 19 lb or more) and Survivalist 10 (one of each fish type). Legendary fish can't be sold or cooked, so if you lose one, catch it again. The Channel Catfish and Northern Pike are extras, not needed.",
+      "unverified": "Sources disagree on the total: 13 are needed for A Fisher of Fish, but some guides count 14 or 15 (adding the Channel Catfish and Northern Pike). Only the 13 are required.",
+      "sources": [
+        "wildlife#ppx-fish",
+        "wildlife#fandom-fisher-of-fish",
+        "wildlife#fandom-fishing",
+        "wildlife#gr-fish",
+        "trophies#ppx",
+        "trophies#rdr2org"
+      ]
+    },
+    {
+      "id": "cleanup-exotics-dreamcatchers-treasure",
+      "type": "session",
+      "title": "Finish exotics, dreamcatchers and treasure hunts",
+      "where": "Lemoyne swamps and Saint Denis (exotics); across the map (dreamcatchers, treasure)",
+      "how": [
+        "If Duchesses and other Animals is unfinished, open the Exotics tracker. Hand each list to Algernon Wasp at the greenhouse in north Saint Denis. The next list opens only after you hand in the previous one.",
+        "Farm egrets, herons and spoonbills around noon in western Bayou Nwa and Bluewater Marsh. To respawn birds, ride away (e.g. to Rhodes), sleep, then come back.",
+        "Open the Dreamcatchers tracker and find all 20. Then go through the waterfall at Elysian Pool for the Ancient Arrowhead.",
+        "Open the Treasure Hunts tracker. For all 10 Explorer challenges, finish three chains: Jack Hall Gang, Poisonous Trail and High Stakes (9 finds plus finding a map). One chain is enough for the 100% treasure task."
+      ],
+      "counts": [
+        "tracker:exotics",
+        "tracker:dreamcatchers",
+        "tracker:treasure-hunts",
+        "tracker:challenges",
+        "trophy-best-in-the-west",
+        "trophy-western-stranger",
+        "trophy-collectors-item"
+      ],
+      "tip": "Plants glow blue in Eagle Eye. Picking exotics orchids also helps Herbalist 9.",
+      "sources": [
+        "collectibles#ppx-exotics",
+        "collectibles#wiki-duchesses",
+        "collectibles#ppx-dc",
+        "collectibles#wiki-dc",
+        "collectibles#wiki-explorer",
+        "collectibles#ppx-treasure",
+        "challenges#ppx",
+        "challenges#steam"
+      ]
+    },
+    {
+      "id": "cleanup-western-stranger",
+      "type": "session",
+      "title": "Finish 10 stranger strands (aim for 12)",
+      "where": "White '?' stranger icons (see the Strangers tracker)",
+      "how": [
+        "Open the Strangers tracker and Pause > Progress > Total Completion > Strangers to see which strands are finished.",
+        "Only these 22 strands count: The Noblest of Men, and a Woman; The Smell of the Grease Paint; Arcadia for Amateurs; American Dreams; A Fine Night For It; Geology for Beginners; A Test of Faith; Smoking and other Hobbies; He's British, of Course; A Fisher of Fish; The Iniquities of History; No Good Deed; Oh, Brother; A Bright Bouncing Boy; The Mercies of Knowledge; The Artist's Way; The Ties That Bind Us; Duchesses and other Animals; Idealism and Pragmatism for Beginners; The Wisdom of the Elders; The Veteran; The American Inferno, Burnt Out.",
+        "These do NOT count: All That Glitters, Fundraiser, Help a Brother Out, The Widow of Willard's Rest.",
+        "Don't rely on A Better World, A New Friend, Brothers and Sisters, One and All, Of Men and Angels or To the Ends of the Earth. It isn't confirmed whether they count.",
+        "Finish every part of each strand. A half-done strand counts for nothing.",
+        "The collectible strands from earlier steps (Geology, Test of Faith, Fisher of Fish, Duchesses) already count, so you may be close.",
+        "Keep going past 10 until the trophy pops."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "10 strands are also needed for 100%. The trophy can lag behind the 10/10 count, so finishing 12 gives you a safety margin.",
+      "unverified": "Collectibles research says all 22 strands can be finished after the story. The missables research says some Arthur-only parts (e.g. The Mercies of Knowledge, Arcadia for Amateurs III) are lost after Chapter 6. If a strand has no icon left, choose another. PowerPyx reports some players needed 12+ strands.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#ppx-trophy",
+        "collectibles#tt-ws",
+        "collectibles#wiki-strangers",
+        "trophies#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "cleanup-zoologist-skin-deep",
+      "type": "session",
+      "title": "Study every animal and skin every species",
+      "where": "The whole main map (Guarma not needed)",
+      "how": [
+        "Open the Zoologist and Skin Deep trackers, and Pause > Progress > Compendium > Animals.",
+        "Always study first: get close, aim with binoculars and press R1 when Study appears. Tracking alone doesn't count. Then kill and skin.",
+        "Zoologist needs 152 species. Study every variant separately, including all 12 dogs (except Rufus), the cat, chickens and roosters, pigs, bulls, oxen, cow, goat, sheep, mule and donkey.",
+        "Skin Deep needs every wild species that gives a pelt, hide or skin (about 71). This includes big birds: ducks, geese, herons, egrets, loons, pheasants, turkeys, the prairie chicken and the roseate spoonbill.",
+        "Night-only: find the Little Brown Bat, Silver Fox and owls at night. Bear Claw near Manzanita Post is good for all three common owls. The Great Horned Owl often shows up around Radley's House near Rhodes.",
+        "Get the Cuban Land Crab and Green Iguana at Flat Iron Lake. Skin the iguana on the largest island.",
+        "Farm snakes in the swamp around Shady Belle. Skin a Northern Water Snake too, to be safe.",
+        "Study Rufus at Beecher's Hope and a Carolina Parakeet in Bayou Nwa as insurance. It costs nothing.",
+        "To cycle spawns, sleep at a camp, or save, quit to the menu and continue."
+      ],
+      "counts": [
+        "trophy-zoologist",
+        "trophy-skin-deep",
+        "tracker:zoologist",
+        "tracker:skin-deep",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "A poison throwing knife makes an aggressive animal wander off so you can study it. After skinning, check the species shows Skinned in the compendium; one player's moose didn't register until he skinned another.",
+      "unverified": "The Zoologist count is 152 in most sources but 165 in one. Skin Deep is quoted as 71, but the only full list names 70 (Northern Water Snake is the likely 71st). Whether Rufus and the Carolina Parakeet are required is disputed. If Skin Deep doesn't pop, also skin one of each livestock type (bull, ox, cow, pig, sheep, goat).",
+      "sources": [
+        "wildlife#ppx-animals",
+        "wildlife#ppx-animals-comments",
+        "wildlife#ppx-trophy",
+        "wildlife#fandom-trophies",
+        "wildlife#steam-skin",
+        "wildlife#ta-snippet",
+        "wildlife#fandom-parakeet"
+      ]
+    },
+    {
+      "id": "cleanup-grin-and-bear-it",
+      "type": "session",
+      "title": "Survive 18 bear attacks",
+      "where": "Between Wallace Station and Watson's Cabin, north of Little Creek River",
+      "before": [
+        "A strong repeater or shotgun (e.g. fully upgraded Carbine Repeater) with Express ammo",
+        "Manual save"
+      ],
+      "how": [
+        "Ride to the area between Wallace Station and Watson's Cabin. Other spots are east of the legendary bear area and around Barrow Lagoon.",
+        "Look for grizzly bears, mostly in the morning and at midday.",
+        "Let the bear knock you down. Press Circle to break free, then shoot it from the ground during the struggle until it dies.",
+        "Only kills made during the struggle count. Shooting it any other way doesn't.",
+        "To respawn bears, leave the area (e.g. take the train to Saint Denis and back), make camp and sleep until morning, or reload a save.",
+        "Repeat until you have 18. Check progress on the Rockstar Social Club."
+      ],
+      "counts": [
+        "trophy-grin-and-bear-it",
+        "tracker:grind",
+        "tracker:challenges"
+      ],
+      "tip": "Expect 5-10 hours because spawns are random. Skin the bears: 3 of them clear Master Hunter 5.",
+      "unverified": "One source summary says only grizzlies count and black bears don't; nothing else confirms or denies it. Farm grizzlies to be safe.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "trophies#ws-bear",
+        "wildlife#ppx-trophy",
+        "wildlife#fandom-trophies"
+      ]
+    },
+    {
+      "id": "cleanup-gold-medal-replays",
+      "type": "session",
+      "title": "Replay missions for 70 gold medals",
+      "where": "Pause > Progress > Story",
+      "how": [
+        "Open the Gold Medals tracker and count your golds. You need 70 of the 104 medal missions.",
+        "Open Pause > Progress > Story, pick a completed mission without a gold, and choose Replay.",
+        "Read the gold objectives in the tracker before you start. All of them must be met in one run.",
+        "Restart from the checkpoint the moment an objective fails.",
+        "Skip cutscenes on timed missions, because the timer includes them. Exception: don't skip the cutscene in Home Improvement for Beginners.",
+        "Choose the easiest missions first. You have 34 spare, so skip known hard ones: The Course of True Love II, Angelo Bronte, a Man of Honor, Visiting Hours and The Course of True Love V.",
+        "Don't abandon a replay you have made challenge progress in. Abandoning it discards that progress."
+      ],
+      "counts": [
+        "trophy-gold-rush",
+        "tracker:gold-medals"
+      ],
+      "tip": "The Special Edition mission High and Low Finance is not part of the 104 and may not count. Last-resort fallback for a missed Lending a Hand: PowerPyx reported that replaying Home Improvement for Beginners after the story once unlocked it anyway. This may be patched, so don't count on it.",
+      "unverified": "Sources disagree on the replay loadout. Some (PowerPyx, the missables research) say replays give a fixed, basic loadout without your tonics. The Red Dead Wiki says that since patch 1.15 replays keep your stats, give 3 of each tonic and let you use your chosen horse. Plan for the basic loadout.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#fandom",
+        "missables#ppx",
+        "missables#gamesguides",
+        "trophies#ppx",
+        "challenges#steam"
+      ]
+    },
+    {
+      "id": "cleanup-all-challenges",
+      "type": "session",
+      "title": "Complete all 90 challenges",
+      "where": "Pause > Progress > Challenges",
+      "how": [
+        "Open the Challenges tracker. There are 9 categories of 10: Bandit, Explorer, Gambler, Herbalist, Horseman, Master Hunter, Sharpshooter, Survivalist, Weapons Expert.",
+        "Each category unlocks in order. Progress made before a challenge is active doesn't count, so re-do herbs for Herbalist 6 and 9.",
+        "Herbalist 9: pick all 43 herb species, including the New Austin ones.",
+        "Horseman 9: ride from Van Horn to Blackwater in under 17 minutes without touching water.",
+        "Horseman 10: break every wild horse breed (9 in most sources). Watch the in-game checklist for the last one.",
+        "Master Hunter 9: chase an opossum until it plays dead, then pick it up. This makes the Giaguaro Panther spawn for Master Hunter 10.",
+        "Weapons Expert 8: fit a long barrel to a revolver or pistol, then kill 15 enemies with it.",
+        "Weapons Expert 10: kill a grizzly with throwing knives only, without taking damage.",
+        "Bandit challenges involve crimes. Make a manual save first and wear a mask to reduce the Honor loss."
+      ],
+      "counts": [
+        "tracker:challenges",
+        "trophy-best-in-the-west",
+        "tracker:completion"
+      ],
+      "tip": "If the opossum won't count when you pick it up, shooting it is the fallback. Killing the Giaguaro also counts as one of the 5 legendary animals for 100%.",
+      "unverified": "Horseman 10 is 9 breeds in most sources but 10 in the Steam guide. The Weapons Expert 8 wording is 'long-barrelled sidearm' in most sources, but PowerPyx says shotgun.",
+      "sources": [
+        "challenges#ppx",
+        "challenges#steam",
+        "challenges#ppx-horses",
+        "challenges#rdr2org-horseman",
+        "challenges#gg-herbalist",
+        "wildlife#fandom-challenges"
+      ]
+    },
+    {
+      "id": "cleanup-best-in-the-west",
+      "type": "session",
+      "title": "Close out 100% completion",
+      "where": "Pause > Progress > Total Completion",
+      "how": [
+        "Open the Completion tracker and Pause > Progress > Total Completion. Go through each category until everything is ticked.",
+        "Missions: all story missions, 10 stranger strands, 5 bounties, 25 random encounters, 1 gang ambush, 6 gang hideouts (Thieves Landing and Fort Mercer post-story).",
+        "Collectibles: 1 point of interest, 9 graves, 1 full cigarette card set (12 cards), all 30 dinosaur bones, 13 legendary fish, all exotics, 10 rock carvings, all 5 hunting requests, 1 treasure hunt chain, 20 dreamcatchers.",
+        "Compendium: 50 animals, 10 equipment, 10 fish, 6 gangs, 10 horse breeds, 20 plants, 48 weapons.",
+        "Player: Health, Stamina and Dead Eye cores at max level (10), horse bonding level 4, all 90 challenges.",
+        "Miscellaneous: 5 shacks, 5 legendary animals, each table game once, 5 ranters/ravers, a bath, a show, a Théâtre Râleur show, one of each of the 6 recipe types crafted, and one coach, home, shop and train robbery.",
+        "Best in the West unlocks at 100%."
+      ],
+      "counts": [
+        "trophy-best-in-the-west",
+        "tracker:completion",
+        "tracker:legendary-animals",
+        "tracker:cigarette-cards"
+      ],
+      "tip": "Cigarette cards: the fastest way to finish a set is to buy Premium Cigarettes at a general store, drop the pack and buy again. Never sell a card you still need to mail. Only 48 of the weapons are needed, which covers the missable ones. Do the robberies from a backup save if you care about Honor.",
+      "unverified": "One PowerPyx page implies all 144 cigarette cards are needed. Its own checklist and the wiki say one set of 12 is enough.",
+      "sources": [
+        "trophies#ppx-100",
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "collectibles#wiki-100",
+        "collectibles#ppx-100",
+        "collectibles#r2o-100",
+        "collectibles#ppx-cards",
+        "wildlife#fandom-100"
+      ]
+    },
+    {
+      "id": "cleanup-bountiful",
+      "type": "task",
+      "title": "Hold a $250 bounty in all states for 3 days",
+      "where": "Lemoyne, New Hanover, West Elizabeth, Ambarino, New Austin, then a remote spot",
+      "before": [
+        "All other cleanup you want to keep, saved in your clean slot",
+        "A new manual save in a separate backup slot (this tanks Honor)"
+      ],
+      "how": [
+        "Make a manual save in a separate slot. Consider switching off autosave so the crime spree can't overwrite your clean save.",
+        "Raise your bounty to $250 or more in Lemoyne, New Hanover, West Elizabeth and Ambarino.",
+        "Check New Austin's bounty on the map. If it isn't already $250+, build one there too.",
+        "Ambarino is the hardest. Rob a train after it crosses into Ambarino, or kill someone in the wilds and carry the body until a witness reports you.",
+        "Dying while you build bounties doesn't matter. Only holding all 5 at once counts.",
+        "With all 5 at $250+, go somewhere remote, make camp and sleep through 3 in-game days.",
+        "Bountiful unlocks. Carry straight on to Extreme Personality from this same save."
+      ],
+      "counts": [
+        "trophy-bountiful",
+        "tracker:grind",
+        "tracker:challenges"
+      ],
+      "tip": "This also clears Bandit 5 ($250 bounty in one state), but that progress is lost if you later reload the backup save.",
+      "unverified": "PowerPyx says New Austin carries a built-in bounty during the story; another source says you never need to make one there. Check the map rather than assuming.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "trophies#ws-bounty",
+        "missables#ppx",
+        "challenges#ppx"
+      ]
+    },
+    {
+      "id": "cleanup-extreme-personality",
+      "type": "task",
+      "title": "If not already unlocked: hit max or min Honor",
+      "where": "Anywhere",
+      "before": [
+        "The backup save from the Bountiful step (or a new manual save)"
+      ],
+      "how": [
+        "If not already unlocked, keep playing from the backup save you made for Bountiful.",
+        "Low route (fastest): commit crimes, kill and loot civilians until the Honor bar reaches the far left.",
+        "High route instead: help strangers, bring bounties in alive, catch and release fish and donate, until the bar reaches the far right.",
+        "Check the Honor bar (d-pad down) as you go. The trophy pops at either end.",
+        "Once it has popped, reload your clean save to get your normal Honor and bounties back. Anything else you did after the backup save is undone."
+      ],
+      "counts": [
+        "trophy-extreme-personality",
+        "tracker:grind"
+      ],
+      "tip": "Doing the low route straight after Bountiful uses the same crime spree for both trophies. The high route needs no reload, but it takes much longer.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "trophies#ws-honor",
+        "missables#ppx",
+        "missables#ggdnsa"
+      ]
+    }
+  ]
+}

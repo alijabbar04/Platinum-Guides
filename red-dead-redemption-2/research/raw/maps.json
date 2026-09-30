@@ -1,0 +1,2254 @@
+{
+  "area": "maps",
+  "generatedAt": "2026-10-01",
+  "sources": [
+    {
+      "id": "rdomap",
+      "title": "jeanropke/RDOMap (GitHub, Unlicense) - data/singleplayer.json, data/discoverables.json, data/fasttravels.json, assets/js/map.js",
+      "url": "https://github.com/jeanropke/RDOMap/tree/922daf072c3ea027c5d5ed097173ce66d70d65b6"
+    },
+    {
+      "id": "rdomap-licence",
+      "title": "jeanropke/RDOMap LICENSE (The Unlicense)",
+      "url": "https://github.com/jeanropke/RDOMap/blob/master/LICENSE"
+    },
+    {
+      "id": "collectorsmap",
+      "title": "jeanropke/RDR2CollectorsMap (GitHub, Unlicense) - data/geojson/*.json road/trail network",
+      "url": "https://github.com/jeanropke/RDR2CollectorsMap/tree/bd9e913bc971842b2929b5cbc9c5c809ba717c38"
+    },
+    {
+      "id": "femga",
+      "title": "femga/rdr3_discoveries (GitHub, no LICENSE file)",
+      "url": "https://github.com/femga/rdr3_discoveries"
+    },
+    {
+      "id": "fxl-fish",
+      "title": "Fextralife RDR2 wiki - Legendary Fish",
+      "url": "https://reddeadredemption2.wiki.fextralife.com/Legendary+Fish"
+    },
+    {
+      "id": "rdr2org-fish",
+      "title": "RDR2.org - A Fisher of Fish legendary fish guide",
+      "url": "https://www.rdr2.org/guides/fisher-fish-legendary-fish-locations-guide/"
+    },
+    {
+      "id": "the0ne",
+      "title": "the0neWhoKnocks/red-dead-redemption-2-map (MIT repo; REJECTED as data source)",
+      "url": "https://github.com/the0neWhoKnocks/red-dead-redemption-2-map"
+    }
+  ],
+  "knownTotals": [
+    {
+      "key": "pins:dinosaur-bones",
+      "value": 30,
+      "sources": [
+        "rdomap"
+      ],
+      "note": "singleplayer.json and discoverables.json both list 30 at matching positions"
+    },
+    {
+      "key": "pins:dreamcatchers",
+      "value": 20,
+      "sources": [
+        "rdomap"
+      ],
+      "note": "singleplayer.json lists 20; discoverables.json overlay lists 21 (see disputes)"
+    },
+    {
+      "key": "pins:rock-carvings",
+      "value": 10,
+      "sources": [
+        "rdomap"
+      ],
+      "note": "both RDOMap files agree"
+    },
+    {
+      "key": "pins:legendary-animals",
+      "value": 16,
+      "sources": [
+        "rdomap"
+      ],
+      "note": "story-mode legendary animal overlay icons (approximate areas)"
+    },
+    {
+      "key": "pins:legendary-fish",
+      "value": 15,
+      "sources": [
+        "rdomap",
+        "rdr2org-fish"
+      ],
+      "note": "13 for Jeremy Gill's 'A Fisher of Fish' + Legendary Channel Catfish + Legendary Northern Pike"
+    }
+  ],
+  "pins": [
+    {
+      "id": "pin-dino-bone-01",
+      "label": "Dinosaur Bone 01 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 366.0,
+      "y": -15.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_01] raw leaflet lat=-63.8404, lng=116.9697; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-02",
+      "label": "Dinosaur Bone 02 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 915.6,
+      "y": -240.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_02] raw leaflet lat=-67.3385, lng=125.5006; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-03",
+      "label": "Dinosaur Bone 03 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 862.2,
+      "y": -435.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_03] raw leaflet lat=-70.3555, lng=124.6707; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-04",
+      "label": "Dinosaur Bone 04 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 285.0,
+      "y": -436.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_04] raw leaflet lat=-70.3704, lng=115.7132; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-05",
+      "label": "Dinosaur Bone 05 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -2392.8,
+      "y": 325.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_05] raw leaflet lat=-58.5431, lng=74.153; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-06",
+      "label": "Dinosaur Bone 06 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -572.9,
+      "y": 958.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_06] raw leaflet lat=-48.7295, lng=102.3986; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-07",
+      "label": "Dinosaur Bone 07 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -965.4,
+      "y": 122.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_07] raw leaflet lat=-61.6991, lng=96.3072; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-08",
+      "label": "Dinosaur Bone 08 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 1636.1,
+      "y": 806.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_08] raw leaflet lat=-51.0793, lng=136.6822; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-09",
+      "label": "Dinosaur Bone 09 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -4436.0,
+      "y": -2216.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_09] raw leaflet lat=-98.0007, lng=42.4426; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-10",
+      "label": "Dinosaur Bone 10 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -4212.2,
+      "y": -2885.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_10] raw leaflet lat=-108.3817, lng=45.9171; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-11",
+      "label": "Dinosaur Bone 11 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -3045.7,
+      "y": -2286.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_11] raw leaflet lat=-99.0856, lng=64.0211; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-12",
+      "label": "Dinosaur Bone 12 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -2693.6,
+      "y": -3191.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_12] raw leaflet lat=-113.1349, lng=69.4857; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-13",
+      "label": "Dinosaur Bone 13 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -143.6,
+      "y": 1159.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_13] raw leaflet lat=-45.6077, lng=109.0607; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-14",
+      "label": "Dinosaur Bone 14 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 730.7,
+      "y": 2023.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_14] raw leaflet lat=-32.19, lng=122.631; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-15",
+      "label": "Dinosaur Bone 15 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 148.9,
+      "y": 1585.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_15] raw leaflet lat=-38.9968, lng=113.6017; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-16",
+      "label": "Dinosaur Bone 16 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 1593.0,
+      "y": 2038.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_16] raw leaflet lat=-31.9702, lng=136.0134; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-17",
+      "label": "Dinosaur Bone 17 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 1351.4,
+      "y": 1450.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_17] raw leaflet lat=-41.0918, lng=132.2637; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-18",
+      "label": "Dinosaur Bone 18 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 2070.6,
+      "y": 1707.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_18] raw leaflet lat=-37.0943, lng=143.4257; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-19",
+      "label": "Dinosaur Bone 19 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 442.6,
+      "y": 1617.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_19] raw leaflet lat=-38.498, lng=118.1597; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-20",
+      "label": "Dinosaur Bone 20 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 2788.9,
+      "y": 1842.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_20] raw leaflet lat=-35.0044, lng=154.5735; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-21",
+      "label": "Dinosaur Bone 21 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 2343.7,
+      "y": 1101.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_21] raw leaflet lat=-46.5038, lng=147.6645; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-22",
+      "label": "Dinosaur Bone 22 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 2803.4,
+      "y": 729.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_22] raw leaflet lat=-52.2816, lng=154.7989; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-23",
+      "label": "Dinosaur Bone 23 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -609.1,
+      "y": 853.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_23] raw leaflet lat=-50.3517, lng=101.837; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-24",
+      "label": "Dinosaur Bone 24 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -2314.2,
+      "y": -15.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_24] raw leaflet lat=-63.836, lng=75.3738; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-25",
+      "label": "Dinosaur Bone 25 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": 441.1,
+      "y": -163.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_25] raw leaflet lat=-66.1352, lng=118.1353; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-26",
+      "label": "Dinosaur Bone 26 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -1517.8,
+      "y": 743.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_26] raw leaflet lat=-52.0561, lng=87.7332; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-27",
+      "label": "Dinosaur Bone 27 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -3571.0,
+      "y": -3605.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_27] raw leaflet lat=-119.5557, lng=55.8674; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-28",
+      "label": "Dinosaur Bone 28 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -4439.4,
+      "y": -3663.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_28] raw leaflet lat=-120.4585, lng=42.3901; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-29",
+      "label": "Dinosaur Bone 29 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -5280.4,
+      "y": -2692.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_29] raw leaflet lat=-105.3898, lng=29.3375; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dino-bone-30",
+      "label": "Dinosaur Bone 30 (dataset numbering)",
+      "set": "dinosaur-bones",
+      "x": -5393.3,
+      "y": -3053.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dino_bones/sp_dino_bone_30] raw leaflet lat=-110.9844, lng=27.5867; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-01",
+      "label": "Dreamcatcher 01 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 299.1,
+      "y": 1795.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_01] raw leaflet lat=-35.7346, lng=115.9319; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-02",
+      "label": "Dreamcatcher 02 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 1884.8,
+      "y": 1927.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_02] raw leaflet lat=-33.6818, lng=140.5428; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-03",
+      "label": "Dreamcatcher 03 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": -942.1,
+      "y": 1011.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_03] raw leaflet lat=-47.8982, lng=96.6686; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-04",
+      "label": "Dreamcatcher 04 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": -490.7,
+      "y": 1356.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_04] raw leaflet lat=-42.5491, lng=103.6751; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-05",
+      "label": "Dreamcatcher 05 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": -524.9,
+      "y": -276.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_05] raw leaflet lat=-67.8894, lng=103.144; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-06",
+      "label": "Dreamcatcher 06 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 1626.3,
+      "y": -1.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_06] raw leaflet lat=-63.6177, lng=136.5295; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-07",
+      "label": "Dreamcatcher 07 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 713.7,
+      "y": 22.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_07] raw leaflet lat=-63.2518, lng=122.3659; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-08",
+      "label": "Dreamcatcher 08 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": -20.6,
+      "y": 218.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_08] raw leaflet lat=-60.2147, lng=110.9696; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-09",
+      "label": "Dreamcatcher 09 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": -539.4,
+      "y": 257.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_09] raw leaflet lat=-59.6029, lng=102.9185; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-10",
+      "label": "Dreamcatcher 10 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": -549.4,
+      "y": 558.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_10] raw leaflet lat=-54.9358, lng=102.7631; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-11",
+      "label": "Dreamcatcher 11 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 1263.8,
+      "y": 528.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_11] raw leaflet lat=-55.4058, lng=130.9038; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-12",
+      "label": "Dreamcatcher 12 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 110.9,
+      "y": 638.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_12] raw leaflet lat=-53.6959, lng=113.0114; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-13",
+      "label": "Dreamcatcher 13 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 1699.1,
+      "y": 721.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_13] raw leaflet lat=-52.4104, lng=137.6598; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-14",
+      "label": "Dreamcatcher 14 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 1986.3,
+      "y": -208.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_14] raw leaflet lat=-66.8315, lng=142.1169; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-15",
+      "label": "Dreamcatcher 15 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 2343.0,
+      "y": 844.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_15] raw leaflet lat=-50.4941, lng=147.6526; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-16",
+      "label": "Dreamcatcher 16 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 2577.7,
+      "y": 1161.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_16] raw leaflet lat=-45.5681, lng=151.2952; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-17",
+      "label": "Dreamcatcher 17 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 2489.9,
+      "y": 1375.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_17] raw leaflet lat=-42.2588, lng=149.9328; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-18",
+      "label": "Dreamcatcher 18 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 2657.8,
+      "y": 1287.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_18] raw leaflet lat=-43.6248, lng=152.5394; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-19",
+      "label": "Dreamcatcher 19 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 2548.7,
+      "y": 1623.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_19] raw leaflet lat=-38.4002, lng=150.8465; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-dreamcatcher-20",
+      "label": "Dreamcatcher 20 (dataset numbering)",
+      "set": "dreamcatchers",
+      "x": 1563.3,
+      "y": -220.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_dreamcatchers/sp_dreamcatcher_20] raw leaflet lat=-67.022, lng=135.553; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-01",
+      "label": "Rock Carving 01 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": -1637.2,
+      "y": 1301.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_01] raw leaflet lat=-43.3984, lng=85.8799; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-02",
+      "label": "Rock Carving 02 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": -236.1,
+      "y": 1796.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_02] raw leaflet lat=-35.7239, lng=107.6262; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-03",
+      "label": "Rock Carving 03 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": 419.0,
+      "y": 1637.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_03] raw leaflet lat=-38.1907, lng=117.7932; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-04",
+      "label": "Rock Carving 04 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": -226.5,
+      "y": 1329.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_04] raw leaflet lat=-42.9703, lng=107.7751; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-05",
+      "label": "Rock Carving 05 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": -2585.7,
+      "y": -444.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_05] raw leaflet lat=-70.5005, lng=71.1607; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-06",
+      "label": "Rock Carving 06 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": -1890.7,
+      "y": -50.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_06] raw leaflet lat=-64.3845, lng=81.9471; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-07",
+      "label": "Rock Carving 07 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": -423.6,
+      "y": -252.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_07] raw leaflet lat=-67.5218, lng=104.7164; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-08",
+      "label": "Rock Carving 08 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": 1324.2,
+      "y": 956.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_08] raw leaflet lat=-48.7506, lng=131.842; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-09",
+      "label": "Rock Carving 09 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": 2677.1,
+      "y": 1697.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_09] raw leaflet lat=-37.2633, lng=152.8391; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-rock-carving-10",
+      "label": "Rock Carving 10 (dataset numbering)",
+      "set": "rock-carvings",
+      "x": 2470.8,
+      "y": 967.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/singleplayer.json [sp_rock_carvings/sp_rock_carving_10] raw leaflet lat=-48.5793, lng=149.6362; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-legendary-fish-bass-large-mouth",
+      "label": "Legendary Largemouth Bass",
+      "set": "legendary-fish",
+      "x": -3022.1,
+      "y": -3378.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_bass_large_mouth] raw leaflet lat=-116.0274, lng=64.3869; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-bass-rock",
+      "label": "Legendary Rock Bass",
+      "set": "legendary-fish",
+      "x": -2582.9,
+      "y": -1444.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_bass_rock] raw leaflet lat=-86.0153, lng=71.2029; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-bass-small-mouth",
+      "label": "Legendary Smallmouth Bass",
+      "set": "legendary-fish",
+      "x": -2395.9,
+      "y": -426.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_bass_small_mouth] raw leaflet lat=-70.2251, lng=74.1062; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-bluegill",
+      "label": "Legendary Bluegill",
+      "set": "legendary-fish",
+      "x": 718.4,
+      "y": -1553.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_bluegill] raw leaflet lat=-87.7154, lng=122.4391; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-catfish-bullhead",
+      "label": "Legendary Bullhead Catfish",
+      "set": "legendary-fish",
+      "x": 3174.3,
+      "y": -703.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_catfish_bullhead] raw leaflet lat=-74.5103, lng=160.5558; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-catfish-channel",
+      "label": "Legendary Channel Catfish",
+      "set": "legendary-fish",
+      "x": -5069.4,
+      "y": -4163.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_catfish_channel] raw leaflet lat=-128.2233, lng=32.6126; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-gar-long-nose",
+      "label": "Legendary Longnose Gar",
+      "set": "legendary-fish",
+      "x": 2239.0,
+      "y": -697.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_gar_long_nose] raw leaflet lat=-74.4249, lng=146.0388; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-muskie",
+      "label": "Legendary Muskie",
+      "set": "legendary-fish",
+      "x": 3082.8,
+      "y": 418.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_muskie] raw leaflet lat=-57.1132, lng=159.1351; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-perch",
+      "label": "Legendary Perch",
+      "set": "legendary-fish",
+      "x": 2365.0,
+      "y": 937.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_perch] raw leaflet lat=-49.0551, lng=147.9951; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-pickerel-chain",
+      "label": "Legendary Chain Pickerel",
+      "set": "legendary-fish",
+      "x": -490.1,
+      "y": -143.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_pickeral_chain] raw leaflet lat=-65.8312, lng=103.6835; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-pickerel-redfin",
+      "label": "Legendary Redfin Pickerel",
+      "set": "legendary-fish",
+      "x": -1828.1,
+      "y": -2433.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_pickeral_redfin] raw leaflet lat=-101.3629, lng=82.9173; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-pike-northern",
+      "label": "Legendary Northern Pike",
+      "set": "legendary-fish",
+      "x": 1573.7,
+      "y": 1515.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_pike_northern] raw leaflet lat=-40.0732, lng=135.714; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-salmon-sockeye",
+      "label": "Legendary Sockeye Salmon",
+      "set": "legendary-fish",
+      "x": -1730.6,
+      "y": 1590.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_salmon_sockeye] raw leaflet lat=-38.9165, lng=84.4311; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-sturgeon-lake",
+      "label": "Legendary Lake Sturgeon",
+      "set": "legendary-fish",
+      "x": 2139.9,
+      "y": -1551.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_sturgeon_lake] raw leaflet lat=-87.6766, lng=144.5017; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fish-trout-steelhead",
+      "label": "Legendary Steelhead Trout",
+      "set": "legendary-fish",
+      "x": 2878.2,
+      "y": 2321.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_fish_trout_steelhead] raw leaflet lat=-27.5746, lng=155.96; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-bear",
+      "label": "Legendary Bharati Grizzly Bear",
+      "set": "legendary-animals",
+      "x": 1498.7,
+      "y": 1706.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_bear] raw leaflet lat=-37.1154, lng=134.5495; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-beaver",
+      "label": "Legendary Beaver",
+      "set": "legendary-animals",
+      "x": 2452.1,
+      "y": 647.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_beaver] raw leaflet lat=-53.5577, lng=149.3459; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-big-horn",
+      "label": "Legendary Big Horn Ram",
+      "set": "legendary-animals",
+      "x": -868.8,
+      "y": 839.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_big_horn] raw leaflet lat=-50.5689, lng=97.8069; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-boar",
+      "label": "Legendary Boar",
+      "set": "legendary-animals",
+      "x": 2423.0,
+      "y": -241.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_boar] raw leaflet lat=-67.3527, lng=148.8956; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-buck",
+      "label": "Legendary Buck",
+      "set": "legendary-animals",
+      "x": -2530.4,
+      "y": -1.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_buck] raw leaflet lat=-63.6187, lng=72.018; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-buffalo",
+      "label": "Legendary Tatanka Bison",
+      "set": "legendary-animals",
+      "x": -1853.6,
+      "y": -2672.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_buffalo] raw leaflet lat=-105.0815, lng=82.5214; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-bullgator",
+      "label": "Legendary Bull Gator",
+      "set": "legendary-animals",
+      "x": 2167.4,
+      "y": -775.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_bullgator] raw leaflet lat=-75.6282, lng=144.9287; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-cougar",
+      "label": "Legendary Cougar",
+      "set": "legendary-animals",
+      "x": -5928.3,
+      "y": -3002.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_cougar] raw leaflet lat=-110.2051, lng=19.2835; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-coyote",
+      "label": "Legendary Coyote",
+      "set": "legendary-animals",
+      "x": 928.5,
+      "y": -586.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_coyote] raw leaflet lat=-72.7015, lng=125.6996; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-elk",
+      "label": "Legendary Elk",
+      "set": "legendary-animals",
+      "x": 615.3,
+      "y": 1450.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_elk] raw leaflet lat=-41.0824, lng=120.8399; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-fox",
+      "label": "Legendary Fox",
+      "set": "legendary-animals",
+      "x": 1312.6,
+      "y": -992.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_fox] raw leaflet lat=-78.9974, lng=131.6616; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-moose",
+      "label": "Legendary Moose",
+      "set": "legendary-animals",
+      "x": 2761.7,
+      "y": 2320.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_moose] raw leaflet lat=-27.5823, lng=154.1512; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-panther",
+      "label": "Legendary Panther",
+      "set": "legendary-animals",
+      "x": 1720.3,
+      "y": -1965.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_panther] raw leaflet lat=-94.0967, lng=137.9885; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-pronghorn",
+      "label": "Legendary Pronghorn",
+      "set": "legendary-animals",
+      "x": -3833.4,
+      "y": -3591.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_pronghorn] raw leaflet lat=-119.3423, lng=51.7952; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-white-buffalo",
+      "label": "Legendary White Bison",
+      "set": "legendary-animals",
+      "x": -1689.6,
+      "y": 1797.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_white_buffalo] raw leaflet lat=-35.7103, lng=85.0677; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-legendary-wolf",
+      "label": "Legendary Wolf",
+      "set": "legendary-animals",
+      "x": 212.2,
+      "y": 1783.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [sp_legendaries/animal_legendary_wolf] raw leaflet lat=-35.9199, lng=114.5829; Unlicense (LICENSE, SPDX: Unlicense); position is the placement of the map-overlay ICON for this legendary (area marker, not an exact spawn point)",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-annesburg",
+      "label": "Annesburg",
+      "set": "towns",
+      "x": 2928.8,
+      "y": 1296.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.annesburg] raw leaflet lat=-43.4814, lng=156.745; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-armadillo",
+      "label": "Armadillo",
+      "set": "towns",
+      "x": -3726.5,
+      "y": -2628.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.armadillo] raw leaflet lat=-104.3897, lng=53.4547; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-blackwater",
+      "label": "Blackwater",
+      "set": "towns",
+      "x": -743.9,
+      "y": -1247.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.blackwater] raw leaflet lat=-82.9581, lng=99.7447; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-colter",
+      "label": "Colter",
+      "set": "towns",
+      "x": -1305.1,
+      "y": 2423.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.colter] raw leaflet lat=-25.9919, lng=91.0348; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-emerald",
+      "label": "Emerald Ranch",
+      "set": "towns",
+      "x": 1515.0,
+      "y": 437.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.emerald] raw leaflet lat=-56.8038, lng=134.8028; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-lagras",
+      "label": "Lagras",
+      "set": "towns",
+      "x": 2097.9,
+      "y": -582.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.lagras] raw leaflet lat=-72.6373, lng=143.8494; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-macfarlanes",
+      "label": "MacFarlane's Ranch",
+      "set": "towns",
+      "x": -2502.2,
+      "y": -2444.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.macfarlanes] raw leaflet lat=-101.5375, lng=72.4558; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-manzanita",
+      "label": "Manzanita Post",
+      "set": "towns",
+      "x": -1963.8,
+      "y": -1609.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.manzanita] raw leaflet lat=-88.5856, lng=80.8118; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-rhodes",
+      "label": "Rhodes",
+      "set": "towns",
+      "x": 1247.0,
+      "y": -1292.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.rhodes] raw leaflet lat=-83.6534, lng=130.6434; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-saint-denis",
+      "label": "Saint Denis",
+      "set": "towns",
+      "x": 2667.5,
+      "y": -1467.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.saint_denis] raw leaflet lat=-86.3787, lng=152.6896; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-strawberry",
+      "label": "Strawberry",
+      "set": "towns",
+      "x": -1737.8,
+      "y": -414.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.strawberry] raw leaflet lat=-70.03, lng=84.3196; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-tumbleweed",
+      "label": "Tumbleweed",
+      "set": "towns",
+      "x": -5441.9,
+      "y": -2946.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.tumbleweed] raw leaflet lat=-109.3272, lng=26.8317; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-valentine",
+      "label": "Valentine",
+      "set": "towns",
+      "x": -186.4,
+      "y": 644.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.valentine] raw leaflet lat=-53.602, lng=108.3971; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-van-horn",
+      "label": "Van Horn",
+      "set": "towns",
+      "x": 2901.7,
+      "y": 635.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.van_horn] raw leaflet lat=-53.7409, lng=156.3243; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-town-wapiti",
+      "label": "Wapiti",
+      "set": "towns",
+      "x": 484.4,
+      "y": 2178.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/fasttravels.json [fasttravel.wapiti] raw leaflet lat=-29.7933, lng=118.8076; Unlicense (LICENSE, SPDX: Unlicense); point is the Red Dead Online fast-travel signpost for this settlement (usually at/near its train station or edge), not the town centre",
+      "approximate": true
+    },
+    {
+      "id": "pin-camp-beaver-hollow",
+      "label": "Beaver Hollow",
+      "set": "camps",
+      "x": 2324.3,
+      "y": 1399.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_beaver_hollow] raw leaflet lat=-41.8859, lng=147.3624; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-camp-clemens-point",
+      "label": "Clemens Point",
+      "set": "camps",
+      "x": 673.9,
+      "y": -1183.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_clemens_point] raw leaflet lat=-81.9668, lng=121.7482; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-camp-colter",
+      "label": "Colter (camp)",
+      "set": "camps",
+      "x": -1259.4,
+      "y": 2472.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_colter] raw leaflet lat=-25.2262, lng=91.7439; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-camp-horseshoe-overlook",
+      "label": "Horseshoe Overlook",
+      "set": "camps",
+      "x": -208.2,
+      "y": 16.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_horseshoe_overlook] raw leaflet lat=-63.3392, lng=108.058; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-camp-shady-belle",
+      "label": "Shady Belle",
+      "set": "camps",
+      "x": 1912.3,
+      "y": -1928.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_shady_belle] raw leaflet lat=-93.5222, lng=140.9695; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-landmark-adler-ranch",
+      "label": "Adler Ranch",
+      "set": "landmarks",
+      "x": -575.6,
+      "y": 2670.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_adler_ranch] raw leaflet lat=-22.152, lng=102.3561; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-landmark-van-horn-mansion",
+      "label": "Van Horn Mansion",
+      "set": "landmarks",
+      "x": 2946.8,
+      "y": 247.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_van_horn_mansion] raw leaflet lat=-59.7527, lng=157.0236; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-landmark-cuevo-seco",
+      "label": "Cueva Seco",
+      "set": "landmarks",
+      "x": -5828.7,
+      "y": -2784.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_cuevo_seco] raw leaflet lat=-106.8204, lng=20.8283; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-landmark-beechers-hope",
+      "label": "Beecher's Hope",
+      "set": "landmarks",
+      "x": -1720.1,
+      "y": -1358.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/settlement_beechers_hope] raw leaflet lat=-84.6878, lng=84.5942; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-landmark-fort-riggs",
+      "label": "Fort Riggs",
+      "set": "landmarks",
+      "x": -1533.3,
+      "y": -977.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/eventarea_fort_riggs] raw leaflet lat=-78.7645, lng=87.4937; Unlicense (LICENSE, SPDX: Unlicense); position is the anchor of the map TEXT LABEL overlay, which can be offset from the actual site",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-abandoned-mission",
+      "label": "Abandoned Mission",
+      "set": "labels",
+      "x": -5642.1,
+      "y": -2599.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_abandoned_mission] raw leaflet lat=-103.9442, lng=23.7239; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-abandoned-oil-well",
+      "label": "Abandoned Oil Well",
+      "set": "labels",
+      "x": 316.7,
+      "y": -28.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_abandoned_oil_well] raw leaflet lat=-64.0379, lng=116.2054; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-abandoned-trading-post",
+      "label": "Abandoned Trading Post",
+      "set": "labels",
+      "x": 2436.1,
+      "y": 2123.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_abandoned_trading_post] raw leaflet lat=-30.641, lng=149.0975; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-burned-settlement",
+      "label": "Burned Settlement",
+      "set": "labels",
+      "x": -362.6,
+      "y": -172.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_burned_settlement] raw leaflet lat=-66.2814, lng=105.6631; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-civil-war-fort",
+      "label": "Civil War Fort",
+      "set": "labels",
+      "x": 2535.3,
+      "y": 284.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_civil_war_fort] raw leaflet lat=-59.1782, lng=150.6385; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-dead-town",
+      "label": "Dead Town",
+      "set": "labels",
+      "x": 1714.3,
+      "y": -419.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_dead_town] raw leaflet lat=-70.1048, lng=137.8954; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-deserted-farm",
+      "label": "Deserted Farm",
+      "set": "labels",
+      "x": -3818.2,
+      "y": -2962.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_deserted_farm] raw leaflet lat=-109.5763, lng=52.032; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-fire-lookout-tower",
+      "label": "Fire Lookout Tower",
+      "set": "labels",
+      "x": 2028.9,
+      "y": 703.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_fire_lookout_tower] raw leaflet lat=-52.6766, lng=142.7783; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-flattened-cabin",
+      "label": "Flattened Cabin",
+      "set": "labels",
+      "x": 1198.6,
+      "y": 1182.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_flattened_cabin] raw leaflet lat=-45.2512, lng=129.8917; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-meteor-house",
+      "label": "Meteor House",
+      "set": "labels",
+      "x": 2418.0,
+      "y": 2018.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_meteor_house] raw leaflet lat=-32.2674, lng=148.818; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-old-dirty-cabin",
+      "label": "Old Dirty Cabin",
+      "set": "labels",
+      "x": -1418.0,
+      "y": -2652.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_old_dirty_cabin] raw leaflet lat=-104.7632, lng=89.283; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-roadside-brothel",
+      "label": "Roadside Brothel",
+      "set": "labels",
+      "x": 2811.7,
+      "y": 826.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_roadside_brothel] raw leaflet lat=-50.7785, lng=154.9275; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-trading-post",
+      "label": "Trading Post",
+      "set": "labels",
+      "x": 230.2,
+      "y": -419.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_trading_post] raw leaflet lat=-70.1164, lng=114.8624; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-utopian-colony-building",
+      "label": "Utopian Colony Building",
+      "set": "labels",
+      "x": 750.4,
+      "y": 1871.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_utopian_colony_building] raw leaflet lat=-34.5614, lng=122.9359; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-witches-cauldron",
+      "label": "Witches Cauldron",
+      "set": "labels",
+      "x": 1204.1,
+      "y": 2060.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/discoverabletext_witches_cauldron] raw leaflet lat=-31.6269, lng=129.977; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-gaptooth-breach",
+      "label": "Gaptooth Breach",
+      "set": "labels",
+      "x": -5918.3,
+      "y": -3284.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_gaptooth_breach] raw leaflet lat=-114.5719, lng=19.4387; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-hanging-dog-ranch",
+      "label": "Hanging Dog Ranch",
+      "set": "labels",
+      "x": -2111.3,
+      "y": 773.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_hanging_dog_ranch] raw leaflet lat=-51.5975, lng=78.5234; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-pikes-basin",
+      "label": "Pike's Basin",
+      "set": "labels",
+      "x": -2653.7,
+      "y": -2324.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_pikes_basin] raw leaflet lat=-99.6783, lng=70.1044; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-six-point-cabin",
+      "label": "Six Point Cabin",
+      "set": "labels",
+      "x": 7.6,
+      "y": 1193.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_six_point_cabin] raw leaflet lat=-45.0765, lng=111.4078; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-solomons-folly",
+      "label": "Solomon's Folly",
+      "set": "labels",
+      "x": -5495.1,
+      "y": -3636.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/hideout_solomons_folly] raw leaflet lat=-120.0371, lng=26.0063; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-aberdeen-pig-farm",
+      "label": "Aberdeen Pig Farm",
+      "set": "labels",
+      "x": 1765.3,
+      "y": -17.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_aberdeen_pig_farm] raw leaflet lat=-63.8632, lng=138.6872; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-carmody-dell",
+      "label": "Carmody Dell",
+      "set": "labels",
+      "x": 779.9,
+      "y": 820.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_carmody_dell] raw leaflet lat=-50.8639, lng=123.394; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-catfish-jacksons",
+      "label": "Catfish Jackson's",
+      "set": "labels",
+      "x": 1303.6,
+      "y": -2240.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_catfish_jacksons] raw leaflet lat=-98.3741, lng=131.5219; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-chez-porter",
+      "label": "Chez Porter",
+      "set": "labels",
+      "x": -413.1,
+      "y": 1775.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_chez_porter] raw leaflet lat=-36.0519, lng=104.879; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-larned-sod",
+      "label": "Larned Sod",
+      "set": "labels",
+      "x": 926.0,
+      "y": 277.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_larned_sod] raw leaflet lat=-59.2869, lng=125.6608; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-lonnies-shack",
+      "label": "Lonnie's Shack",
+      "set": "labels",
+      "x": 1618.7,
+      "y": -294.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_lonnies_shack] raw leaflet lat=-68.164, lng=136.4126; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-macleans-house",
+      "label": "MacLean's House",
+      "set": "labels",
+      "x": 2234.7,
+      "y": -107.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_macleans_house] raw leaflet lat=-65.2683, lng=145.9728; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-painted-sky",
+      "label": "Painted Sky",
+      "set": "labels",
+      "x": -582.1,
+      "y": 10.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_painted_sky] raw leaflet lat=-63.4401, lng=102.2551; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-ridgewood-farm",
+      "label": "Ridgewood Farm",
+      "set": "labels",
+      "x": -4767.3,
+      "y": -2630.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_ridgewood_farm] raw leaflet lat=-104.4294, lng=37.3015; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-watsons-cabin",
+      "label": "Watson's Cabin",
+      "set": "labels",
+      "x": -1750.6,
+      "y": 677.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_watsons_cabin] raw leaflet lat=-53.0919, lng=84.1206; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-willards-rest",
+      "label": "Willard's Rest",
+      "set": "labels",
+      "x": 2938.2,
+      "y": 2206.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/homestead_willards_rest] raw leaflet lat=-29.3601, lng=156.8916; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-beryls-dream",
+      "label": "Beryl's Dream",
+      "set": "labels",
+      "x": -2358.6,
+      "y": 21.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_beryls_dream] raw leaflet lat=-63.2693, lng=74.6846; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-black-balsam-rise",
+      "label": "Black Balsam Rise",
+      "set": "labels",
+      "x": 2881.7,
+      "y": 1582.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_black_balsam_rise] raw leaflet lat=-39.0446, lng=156.0144; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-black-bone-forest",
+      "label": "Black Bone Forest",
+      "set": "labels",
+      "x": -2525.7,
+      "y": 96.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_black_bone_forest] raw leaflet lat=-62.101, lng=72.0917; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-brittlebrush-trawl",
+      "label": "Brittlebrush Trawl",
+      "set": "labels",
+      "x": -2101.7,
+      "y": -3003.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_brittlebrush_trawl] raw leaflet lat=-110.2206, lng=78.6709; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-broken-tree",
+      "label": "Broken Tree",
+      "set": "labels",
+      "x": -1293.2,
+      "y": -1369.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_broken_tree] raw leaflet lat=-84.8469, lng=91.2199; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-canebreak-manor",
+      "label": "Canebreak Manor",
+      "set": "labels",
+      "x": 2523.8,
+      "y": -442.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_canebreak_manor] raw leaflet lat=-70.4619, lng=150.4599; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-chadwick-farm",
+      "label": "Chadwick Farm",
+      "set": "labels",
+      "x": -329.5,
+      "y": 954.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_chadwick_farm] raw leaflet lat=-48.7911, lng=106.1755; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-clingman",
+      "label": "Clingman",
+      "set": "labels",
+      "x": 2042.6,
+      "y": 627.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_clingman] raw leaflet lat=-53.8605, lng=142.9918; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-cochinay",
+      "label": "Cochinay",
+      "set": "labels",
+      "x": -2358.6,
+      "y": -1017.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_cochinay] raw leaflet lat=-79.3856, lng=74.6846; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-compsons-stead",
+      "label": "Compson's Stead",
+      "set": "labels",
+      "x": 1312.4,
+      "y": -438.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_compsons_stead] raw leaflet lat=-70.4075, lng=131.6577; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-copperhead-landing",
+      "label": "Copperhead Landing",
+      "set": "labels",
+      "x": 2859.2,
+      "y": -299.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_copperhead_landing] raw leaflet lat=-68.2455, lng=155.665; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-doverhill",
+      "label": "Doverhill",
+      "set": "labels",
+      "x": 2535.6,
+      "y": 2329.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_doverhill] raw leaflet lat=-27.4465, lng=150.6423; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-downes-ranch",
+      "label": "Downes Ranch",
+      "set": "labels",
+      "x": -789.7,
+      "y": 385.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_downes_ranch] raw leaflet lat=-57.6178, lng=99.0335; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-face-rock",
+      "label": "Face Rock",
+      "set": "labels",
+      "x": 1081.0,
+      "y": -641.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_face_rock] raw leaflet lat=-73.5555, lng=128.0673; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-firwood-rise",
+      "label": "Firwood Rise",
+      "set": "labels",
+      "x": 138.6,
+      "y": 990.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_firwood_rise] raw leaflet lat=-48.2206, lng=113.4417; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-greenhollow",
+      "label": "Greenhollow",
+      "set": "labels",
+      "x": -2781.8,
+      "y": -3187.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_greenhollow] raw leaflet lat=-113.0736, lng=68.117; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-guthrie-farm",
+      "label": "Guthrie Farm",
+      "set": "labels",
+      "x": 1183.1,
+      "y": 480.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_guthrie_farm] raw leaflet lat=-56.1428, lng=129.651; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-hagen-orchards",
+      "label": "Hagen Orchards",
+      "set": "labels",
+      "x": 1953.1,
+      "y": -899.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_hagen_orchards] raw leaflet lat=-77.5651, lng=141.6022; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-hill-haven-ranch",
+      "label": "Hill Haven Ranch",
+      "set": "labels",
+      "x": 1428.7,
+      "y": -890.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_hill_haven_ranch] raw leaflet lat=-77.4254, lng=133.4627; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-houseboat",
+      "label": "Houseboat",
+      "set": "labels",
+      "x": 2307.2,
+      "y": -348.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_houseboat] raw leaflet lat=-69.014, lng=147.0985; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-lake-don-julio-house",
+      "label": "Lake Don Julio House",
+      "set": "labels",
+      "x": -3398.8,
+      "y": -3348.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_lake_don_julio_house] raw leaflet lat=-115.5617, lng=58.5413; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-lone-mule-stead",
+      "label": "Lone Mule Stead",
+      "set": "labels",
+      "x": -870.3,
+      "y": -692.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_lone_mule_stead] raw leaflet lat=-74.3395, lng=97.7836; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-luckys-cabin",
+      "label": "Lucky's Cabin",
+      "set": "labels",
+      "x": -622.7,
+      "y": 552.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_luckys_cabin] raw leaflet lat=-55.0288, lng=101.6263; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-macombs-end",
+      "label": "Macomb's End",
+      "set": "labels",
+      "x": 1834.8,
+      "y": -668.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_macombs_end] raw leaflet lat=-73.9708, lng=139.7663; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-merkins-waller",
+      "label": "Merkins Waller",
+      "set": "labels",
+      "x": 1884.3,
+      "y": -631.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_merkins_waller] raw leaflet lat=-73.4041, lng=140.5348; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-micahs-hideout",
+      "label": "Micah's Hideout",
+      "set": "labels",
+      "x": -1553.8,
+      "y": 1217.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_micahs_hideout] raw leaflet lat=-44.7077, lng=87.1754; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-millesani-claim",
+      "label": "Millesani Claim",
+      "set": "labels",
+      "x": -1338.2,
+      "y": 1072.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_millesani_claim] raw leaflet lat=-46.9552, lng=90.5213; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-mossy-flats",
+      "label": "Mossy Flats",
+      "set": "labels",
+      "x": 2368.8,
+      "y": 346.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_mossy_flats] raw leaflet lat=-58.2233, lng=148.0533; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-nekoti-rock",
+      "label": "Nekoti Rock",
+      "set": "labels",
+      "x": -2205.0,
+      "y": -1139.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_nekoti_rock] raw leaflet lat=-81.2875, lng=77.0679; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-oddfellows-rest",
+      "label": "Oddfellow's Rest",
+      "set": "labels",
+      "x": -4460.4,
+      "y": -2630.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_oddfellows_rest] raw leaflet lat=-104.4294, lng=42.0642; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-old-greenbank-mill",
+      "label": "Old Greenbank Mill",
+      "set": "labels",
+      "x": 781.9,
+      "y": -496.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_old_greenbank_mill] raw leaflet lat=-71.308, lng=123.425; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-old-toms-blind",
+      "label": "Old Tom's Blind",
+      "set": "labels",
+      "x": -1791.9,
+      "y": -194.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_old_toms_blind] raw leaflet lat=-66.6191, lng=83.4802; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-pleasance-house",
+      "label": "Pleasance House",
+      "set": "labels",
+      "x": -4424.9,
+      "y": -2394.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_pleasance_house] raw leaflet lat=-100.769, lng=42.6154; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-prinz-co",
+      "label": "Prinz & Co.",
+      "set": "labels",
+      "x": 2118.9,
+      "y": -1261.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_prinz_co] raw leaflet lat=-83.1778, lng=144.1757; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-radleys-house",
+      "label": "Radley's House",
+      "set": "labels",
+      "x": 1080.8,
+      "y": -1263.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_radleys_house] raw leaflet lat=-83.205, lng=128.0634; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-radleys-pasture",
+      "label": "Radley's Pasture",
+      "set": "labels",
+      "x": 904.2,
+      "y": -1306.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_radleys_pasture] raw leaflet lat=-83.8688, lng=125.3231; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-rattlesnake-hollow",
+      "label": "Rattlesnake Hollow",
+      "set": "labels",
+      "x": -4273.6,
+      "y": -2192.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_rattlesnake_hollow] raw leaflet lat=-97.6211, lng=44.9637; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-repentance",
+      "label": "Repentance",
+      "set": "labels",
+      "x": -4667.3,
+      "y": -3287.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_repentance] raw leaflet lat=-114.6146, lng=38.8542; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-rileys-charge",
+      "label": "Riley's Charge",
+      "set": "labels",
+      "x": -3799.2,
+      "y": -3188.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_rileys_charge] raw leaflet lat=-113.0852, lng=52.327; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-rio-del-lobo-house",
+      "label": "Rio del Lobo House",
+      "set": "labels",
+      "x": -3345.2,
+      "y": -3479.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_rio_del_lobo_house] raw leaflet lat=-117.6033, lng=59.3719; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-scratching-post",
+      "label": "Scratching Post",
+      "set": "labels",
+      "x": -5750.7,
+      "y": -3788.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_scratching_post] raw leaflet lat=-122.3893, lng=22.0393; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-silent-stead",
+      "label": "Silent Stead",
+      "set": "labels",
+      "x": -5641.1,
+      "y": -2410.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_silent_stead] raw leaflet lat=-101.0136, lng=23.7395; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-siltwater-strand",
+      "label": "Siltwater Strand",
+      "set": "labels",
+      "x": 1628.7,
+      "y": -716.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_siltwater_strand] raw leaflet lat=-74.716, lng=136.5679; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-stillwater-cabin",
+      "label": "Stillwater Cabin",
+      "set": "labels",
+      "x": -1773.9,
+      "y": -2381.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_stillwater_cabin] raw leaflet lat=-100.5633, lng=83.7596; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-stilt-shack",
+      "label": "Stilt Shack",
+      "set": "labels",
+      "x": -2521.9,
+      "y": 872.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_stilt_shack] raw leaflet lat=-50.0526, lng=72.15; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-tanners-reach",
+      "label": "Tanner's Reach",
+      "set": "labels",
+      "x": -2413.1,
+      "y": -1549.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_tanners_reach] raw leaflet lat=-87.6416, lng=73.8384; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-taxidermist-house",
+      "label": "Taxidermist House",
+      "set": "labels",
+      "x": -1610.1,
+      "y": -315.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_taxidermist_house] raw leaflet lat=-68.4939, lng=86.302; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-the-hanging-rock",
+      "label": "The Hanging Rock",
+      "set": "labels",
+      "x": -3416.3,
+      "y": -2167.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_the_hanging_rock] raw leaflet lat=-97.2329, lng=58.2696; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-the-loft",
+      "label": "The Loft",
+      "set": "labels",
+      "x": 1930.6,
+      "y": 1980.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_the_loft] raw leaflet lat=-32.869, lng=141.2529; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-valley-view",
+      "label": "Valley View",
+      "set": "labels",
+      "x": -1890.7,
+      "y": 316.9,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_valley_view] raw leaflet lat=-58.6813, lng=81.9469; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-venters-place",
+      "label": "Venter's Place",
+      "set": "labels",
+      "x": -3480.3,
+      "y": -3026.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_venters_place] raw leaflet lat=-110.57, lng=57.2759; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-veterans-homestead",
+      "label": "Veteran's Homestead",
+      "set": "labels",
+      "x": 1694.5,
+      "y": 1541.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_veterans_homestead] raw leaflet lat=-39.6811, lng=137.5887; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-wallace-overlook",
+      "label": "Wallace Overlook",
+      "set": "labels",
+      "x": -1208.4,
+      "y": 515.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/landmark_wallace_overlook] raw leaflet lat=-55.5955, lng=92.5358; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-butcher-creek",
+      "label": "Butcher Creek",
+      "set": "labels",
+      "x": 2621.6,
+      "y": 753.4,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/settlement_butcher_creek] raw leaflet lat=-51.908, lng=151.9776; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-coots-chapel",
+      "label": "Coot's Chapel",
+      "set": "labels",
+      "x": -3301.7,
+      "y": -2884.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/settlement_coots_chapel] raw leaflet lat=-108.3614, lng=60.0473; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-cornwall-kerosene-tar",
+      "label": "Cornwall Kerosene Tar",
+      "set": "labels",
+      "x": 441.5,
+      "y": 740.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/settlement_cornwall_kerosene_tar] raw leaflet lat=-52.1099, lng=118.1422; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-ewing-basin",
+      "label": "Ewing Basin",
+      "set": "labels",
+      "x": -1923.4,
+      "y": 1281.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/settlement_ewing_basin] raw leaflet lat=-43.7141, lng=81.4385; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-castors-pond",
+      "label": "Castor's Pond",
+      "set": "labels",
+      "x": -366.6,
+      "y": 482.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [text/eventarea_castors_pond] raw leaflet lat=-56.1195, lng=105.601; text-label anchor; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-label-shop-saint-denis",
+      "label": "Saint Denis (wardrobe / shop point)",
+      "set": "labels",
+      "x": 2554.4,
+      "y": -1161.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_bay_wardrobe_saint_denis] raw leaflet lat=-81.6223, lng=150.934; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-strawberry",
+      "label": "Strawberry (wardrobe / shop point)",
+      "set": "labels",
+      "x": -1792.8,
+      "y": -391.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_bgv_wardrobe_strawberry] raw leaflet lat=-69.6771, lng=83.4655; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-wallace-station",
+      "label": "Wallace Station (wardrobe / shop point)",
+      "set": "labels",
+      "x": -1299.0,
+      "y": 397.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_bgv_wardrobe_wallace_station] raw leaflet lat=-57.4342, lng=91.1293; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-armadillo",
+      "label": "Armadillo (wardrobe / shop point)",
+      "set": "labels",
+      "x": -3689.1,
+      "y": -2631.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_cho_wardrobe_armadillo] raw leaflet lat=-104.4427, lng=54.0344; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-tumbleweed",
+      "label": "Tumbleweed (wardrobe / shop point)",
+      "set": "labels",
+      "x": -5483.2,
+      "y": -2935.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_gap_wardrobe_tumbleweed] raw leaflet lat=-109.1634, lng=26.1907; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-blackwater",
+      "label": "Blackwater (wardrobe / shop point)",
+      "set": "labels",
+      "x": -766.8,
+      "y": -1293.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_grt_wardrobe_blackwater] raw leaflet lat=-83.675, lng=99.3898; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-valentine",
+      "label": "Valentine (wardrobe / shop point)",
+      "set": "labels",
+      "x": -326.0,
+      "y": 807.2,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_hrt_wardrobe_valentine] raw leaflet lat=-51.0725, lng=106.2308; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-vanhornpost",
+      "label": "Van Horn Trading Post (wardrobe / shop point)",
+      "set": "labels",
+      "x": 3024.7,
+      "y": 561.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_roa_wardrobe_vanhornpost] raw leaflet lat=-54.8857, lng=158.2338; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-shop-rhodes",
+      "label": "Rhodes (wardrobe / shop point)",
+      "set": "labels",
+      "x": 1323.4,
+      "y": -1291.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/shops.json [wardrobe/shop_scm_wardrobe_rhodes] raw leaflet lat=-83.6465, lng=131.8298; exact shop point inside the settlement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-wal-trainstation-int",
+      "label": "Wallace Station (station building)",
+      "set": "labels",
+      "x": -1303.7,
+      "y": 395.7,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [wal_trainstation_int] raw leaflet lat=-57.4586, lng=91.0561; building interior point; code confirmed by lying near the full-named anchor pin-label-shop-wallace-station; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-val-trainstn-int",
+      "label": "Valentine Station (station building)",
+      "set": "labels",
+      "x": -180.8,
+      "y": 627.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [val_trainstn_int] raw leaflet lat=-53.8675, lng=108.4836; building interior point; code confirmed by lying near the full-named anchor pin-label-shop-valentine; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-eme-depot-int",
+      "label": "Emerald Station (depot building)",
+      "set": "labels",
+      "x": 1522.4,
+      "y": 443.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [eme_depot_int] raw leaflet lat=-56.7173, lng=134.9184; building interior point; code confirmed by lying near the full-named anchor pin-town-emerald; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-ann-depot-int",
+      "label": "Annesburg Station (depot building)",
+      "set": "labels",
+      "x": 2935.2,
+      "y": 1283.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [ann_depot_int] raw leaflet lat=-43.6793, lng=156.8446; building interior point; code confirmed by lying near the full-named anchor pin-town-annesburg; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-rho-train-int",
+      "label": "Rhodes Station (station building)",
+      "set": "labels",
+      "x": 1235.2,
+      "y": -1294.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [rho_train_int] raw leaflet lat=-83.6876, lng=130.4608; building interior point; code confirmed by lying near the full-named anchor pin-label-shop-rhodes; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-arm-trainstation-int",
+      "label": "Armadillo Station (station building)",
+      "set": "labels",
+      "x": -3730.7,
+      "y": -2605.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [arm_trainstation_int] raw leaflet lat=-104.0347, lng=53.3888; building interior point; code confirmed by lying near the full-named anchor pin-label-shop-armadillo; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-van-depot-int",
+      "label": "Van Horn (depot building)",
+      "set": "labels",
+      "x": 2983.6,
+      "y": 573.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [van_depot_int] raw leaflet lat=-54.7050, lng=157.5947; building interior point; code confirmed by lying near the full-named anchor pin-town-van-horn; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-lnn-lonnie-shack-int",
+      "label": "Lonnie's Shack (interior)",
+      "set": "labels",
+      "x": 1622.7,
+      "y": -362.8,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [lnn_lonnie_shack_int] raw leaflet lat=-69.2314, lng=136.4747; building interior point; code confirmed by lying near the full-named anchor pin-label-lonnies-shack; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-label-int-lof-outpost-int",
+      "label": "The Loft (interior)",
+      "set": "labels",
+      "x": 1936.0,
+      "y": 1945.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/interiors.json [lof_outpost_int] raw leaflet lat=-33.4038, lng=141.3369; building interior point; code confirmed by lying near the full-named anchor pin-label-the-loft; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": false
+    },
+    {
+      "id": "pin-grave-73d557",
+      "label": "Grave site",
+      "set": "graves",
+      "x": 795.4,
+      "y": 1778.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_arthur_good] (SPOILER: raw name identifies the character) raw leaflet lat=-36.0053, lng=123.6346; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-2a86ba",
+      "label": "Grave site",
+      "set": "graves",
+      "x": -1307.4,
+      "y": 2470.3,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_davey] (SPOILER: raw name identifies the character) raw leaflet lat=-25.2612, lng=90.9987; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-a4971d",
+      "label": "Grave site",
+      "set": "graves",
+      "x": 515.3,
+      "y": 1933.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_eagle_flies] (SPOILER: raw name identifies the character) raw leaflet lat=-33.5987, lng=119.2873; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-852e94",
+      "label": "Grave site",
+      "set": "graves",
+      "x": 2579.1,
+      "y": -628.0,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_hosea_lenny] (SPOILER: raw name identifies the character) raw leaflet lat=-73.3459, lng=151.3177; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-154247",
+      "label": "Grave site",
+      "set": "graves",
+      "x": -1278.4,
+      "y": 2897.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_jenny] (SPOILER: raw name identifies the character) raw leaflet lat=-18.6315, lng=91.4489; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-e6b3f3",
+      "label": "Grave site",
+      "set": "graves",
+      "x": 1736.8,
+      "y": -1894.5,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_kieran] (SPOILER: raw name identifies the character) raw leaflet lat=-93.0021, lng=138.2447; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-7f20e2",
+      "label": "Grave site",
+      "set": "graves",
+      "x": 672.4,
+      "y": -974.1,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_sean] (SPOILER: raw name identifies the character) raw leaflet lat=-78.7179, lng=121.7249; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    },
+    {
+      "id": "pin-grave-b3f4cd",
+      "label": "Grave site",
+      "set": "graves",
+      "x": 2158.9,
+      "y": 795.6,
+      "datasetRef": "jeanropke/RDOMap@922daf0 data/discoverables.json [grave/grave_susan] (SPOILER: raw name identifies the character) raw leaflet lat=-51.2521, lng=144.7967; overlay icon placement; Unlicense (LICENSE, SPDX: Unlicense)",
+      "approximate": true
+    }
+  ],
+  "notes": [
+    "Coordinate conversion (sources: rdomap): RDOMap stores Leaflet [lat, lng] (its JSON fields named x,y in singleplayer.json/fasttravels.json are lat,lng; discoverables.json uses lat,lng). Its own code assets/js/map.js gameToMap() and dev/bounty/index.js use lat = 0.01552 * gameY + -63.6 and lng = 0.01552 * gameX + 111.29. Inverted here: gameX = (lng - 111.29) / 0.01552, gameY = (lat + 63.6) / 0.01552. Raw values are kept in each pin's datasetRef. Map values are stored to 4 decimals, so round-trip error is < 0.01 game units from rounding alone.",
+    "Sanity check of the conversion (sources: rdomap): Saint Denis fast-travel point converts to about (2667, -1468) and Blackwater to about (-744, -1247), i.e. south-east and south-west quadrants as expected; Colter converts to far north (y ~ 2423).",
+    "Dino bones, dreamcatchers and rock carvings come from RDOMap data/singleplayer.json which carries exact point markers (approximate=false). Pin numbering (01..30 etc.) is the dataset's own order, NOT an official in-game or guide numbering; the merge must match pins to guide entries by position/description, not by number (sources: rdomap).",
+    "Legendary animals and legendary fish positions come from RDOMap data/discoverables.json key 'sp_legendaries', which is a list of overlay ICON placements (width/height 90-100 px) drawn over the map for the story-mode legendary areas. They mark the general area, not an exact spawn/fishing spot, so all are approximate=true (sources: rdomap).",
+    "Cross-check inside RDOMap (sources: rdomap): the 30 dino-bone points in singleplayer.json and discoverables.json agree within 7.8 game units; the 10 rock carvings agree within 40.6 game units (discoverables.json icons are overlay placements, so the singleplayer.json points are used).",
+    "CAUTION on camp/landmark text-label pins: text-label anchors were not validated against the true site and could be offset by a few hundred game units (e.g. Horseshoe Overlook converts to (-208, 17)). Use them only to place a map LABEL, never as the precise location of a mission/collectible (sources: rdomap).",
+    "RDOMap data/animal_legendary.json is Red Dead ONLINE legendary animals (e.g. 'Teca Gator'), not story mode; it was NOT used (sources: rdomap).",
+    "Town reference points use RDOMap data/fasttravels.json (Red Dead Online fast-travel signposts). These are inside or at the edge of each settlement (often the station), so they are marked approximate=true for 'town' purposes. Covered: Annesburg, Armadillo, Blackwater, Colter, Emerald Ranch, Lagras, MacFarlane's Ranch, Manzanita Post, Rhodes, Saint Denis, Strawberry, Tumbleweed, Valentine, Van Horn, Wapiti (sources: rdomap).",
+    "Camp/landmark reference points (Beaver Hollow, Clemens Point, Colter camp, Horseshoe Overlook, Shady Belle, Beecher's Hope, Van Horn Mansion, Fort Riggs, Cueva Seco, Adler Ranch) come from RDOMap discoverables.json 'text' overlays = anchor of a map text-label image; approximate=true (sources: rdomap).",
+    "CIGARETTE CARDS: no permissively licensed dataset with story-mode cigarette card coordinates was found (searched GitHub repos and code for rdr2/rdr3 map data and 'cigarette_card'). Zero pins extracted. The 144 total (12 sets x 12 cards) was not re-verified in this pass. Card pins must NOT be guessed; the guide should use text directions only (sources: rdomap).",
+    "femga/rdr3_discoveries has no LICENSE file (GitHub license API returns 404; root lists README.md and data folders only) -> all rights reserved by default; nothing was extracted from it (sources: femga).",
+    "RDOMap singleplayer.json also contains story-mode graves (9), orchids, alligator eggs, wilderness chests (83) and crayfish holes; not extracted here (graves carry spoiler names) but available under the same Unlicense if wanted later (sources: rdomap).",
+    "Line data for drawing our own base map: RDR2CollectorsMap data/geojson/{ambarino,lemoyne,new-austin,new-hanover,west-elizabeth,fasttravel,railroads}.json are GeoJSON LineStrings (coordinates [lng, lat] in the same Leaflet space; same conversion applies) forming the ROAD/TRAIL and RAILROAD network used by the site's route pathfinder (assets/js/pathfinder.worker.js). Unlicense. They are NOT coastlines, rivers or region borders. No open-licensed coast/water/region polygon dataset was found (sources: collectorsmap).",
+    "Map imagery: neither jeanropke repo ships tiles in git; both README files link to a separate download of 'rdr3 tiles' on a CDN with no licence statement. The tiles are Rockstar's in-game map art; the Unlicense on the repos covers the authors' code/data, not Rockstar's artwork. Do NOT bundle tiles (sources: rdomap, collectorsmap).",
+    "Set 'labels' (sources: rdomap): place-name reference points for drawing our own map. From RDOMap discoverables.json 'text' overlays (landmark_/homestead_/settlement_/hideout_/discoverabletext_/eventarea_ keys; text-label anchors, approximate=true; shack_* keys skipped because they are internal stranger/spoiler names, and ones already present as camps/landmarks pins are not duplicated), shops.json wardrobe points (keys spell the settlement name, e.g. shop_hrt_wardrobe_valentine; exact shop points, approximate=false) and nine interiors.json buildings whose code names a place (e.g. wal_trainstation_int), each accepted only because it lies 5-231 units from a full-named anchor (approximate=false). Label names are humanised from the dataset keys.",
+    "Fast-travel town points are at the train stations: e.g. Valentine fast travel (-186, 644) is 20 units from the Valentine station interior point (-181, 627); Emerald 9 units from the Emerald depot; Annesburg 14 units from its depot (sources: rdomap).",
+    "No open dataset with labels for states/regions, mountains, lakes, rivers, or major map-text names (e.g. THE HEARTLANDS, DAKOTA RIVER, Cattail Pond, Flatneck Station, Elysian Pool) was found. In the jeanropke maps those names are part of Rockstar's tile artwork, not data (sources: rdomap, collectorsmap).",
+    "Set 'graves' (sources: rdomap): 8 points from discoverables.json 'grave' group, labelled neutrally 'Grave site'; ids are a hash of the raw key; the raw key (a character name, spoiler) is only in datasetRef. The overlay icons are approximate. singleplayer.json has a 9th grave key not in this group.",
+    "the0neWhoKnocks/red-dead-redemption-2-map (MIT) has 705 hand-placed markers incl. 150 cigarette cards, but its bin/scrape-tiles.sh downloads IGN's map tiles and its marker names match IGN's interactive map, so the data is very likely copied from IGN; its coordinates are also in IGN's tile space, not jeanropke's. Rejected: not used (sources: the0ne).",
+    "pin-links.json links map pins to collectibles.json text items only where an open-licensed label position makes the match clear; see its 'method' field (sources: rdomap)."
+  ],
+  "disputes": [
+    {
+      "topic": "Dreamcatcher count in RDOMap",
+      "details": "RDOMap singleplayer.json has 20 dreamcatcher points; RDOMap discoverables.json overlay layer has 21 dreamcatcher icons. The extra overlay icon has no match within 0.1 map units in singleplayer.json: raw lat=-75.5195, lng=95.4003 -> game (-1023.8, -768.0).",
+      "positions": [
+        {
+          "claim": "20 dreamcatchers (singleplayer.json point list)",
+          "sources": [
+            "rdomap"
+          ]
+        },
+        {
+          "claim": "21 dreamcatcher overlay icons (discoverables.json)",
+          "sources": [
+            "rdomap"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use the 20 singleplayer.json points (matches the known set size of 20). Do not pin the extra overlay icon."
+    },
+    {
+      "topic": "Legendary fish total (13 vs 14 vs 15)",
+      "details": "Jeremy Gill's 'A Fisher of Fish' needs 13 legendary fish; the Legendary Channel Catfish unlocks after mailing those (14 total per Fextralife). RDR2.org also lists the Legendary Northern Pike (obtained separately), and RDOMap's story overlay has 15 fish icons including both.",
+      "positions": [
+        {
+          "claim": "13 for the mission",
+          "sources": [
+            "fxl-fish",
+            "rdr2org-fish"
+          ]
+        },
+        {
+          "claim": "14 total incl. Channel Catfish",
+          "sources": [
+            "fxl-fish"
+          ]
+        },
+        {
+          "claim": "15 map icons incl. Northern Pike",
+          "sources": [
+            "rdomap",
+            "rdr2org-fish"
+          ]
+        }
+      ],
+      "suggestedHandling": "Show all 15 pins but label Channel Catfish and Northern Pike as extras outside the 13 needed for 'A Fisher of Fish'."
+    },
+    {
+      "topic": "Conversion offset constant 111.29 vs 111.294",
+      "details": "RDOMap's runtime map.js and bounty scripts use +111.29; an older dev script (dev/scripts/port-source-coords-to-website-coords.js) uses +111.294. The difference is 0.004 map units = about 0.26 game units in X.",
+      "positions": [
+        {
+          "claim": "lng = 0.01552*gameX + 111.29 (assets/js/map.js)",
+          "sources": [
+            "rdomap"
+          ]
+        },
+        {
+          "claim": "lng = 0.01552*gameX + 111.294 (dev script)",
+          "sources": [
+            "rdomap"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use 111.29 (the live site constant); the difference is negligible at any map zoom."
+    }
+  ]
+}

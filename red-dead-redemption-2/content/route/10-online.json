@@ -1,0 +1,317 @@
+{
+  "part": {
+    "id": "online",
+    "title": "Red Dead Online",
+    "subtitle": "The 17 online trophies and the platinum",
+    "intro": [
+      "This part covers all 17 Red Dead Online trophies (16 bronze, 1 gold), then the platinum. Online needs a PlayStation Plus subscription (except during occasional free-online promotions) and a working internet connection. It needs no Story Mode progress, so you can do it any time, even in parallel with the story. The trophies land on the same RDR2 list, so play Online through the full RDR2 game on the same account you use for Story Mode.",
+      "Server status as of this guide's research (1 October 2026): Red Dead Online is still live. Rockstar stopped big content updates in 2022 but still runs monthly bonus events (for example June to August 2026), and players were still earning every online trophy in 2025-2026. Series playlists rotate, so a mode named here may only be available in some weeks.",
+      "Most of the list can be done alone. Three trophies need other real players: Strength in Numbers (one posse mate), All's Fair (a rival player; easiest with a friend) and The Real Deal (a series lobby with at least 4 players). Budget about $2,150 in online dollars for Posse Up, Horses for Courses and Home Comforts.",
+      "Rough time: 40-100 hours, mostly the Rank 50 grind for Notorious. Nothing here is missable. Do the quick solo trophies first, then the multiplayer ones, then grind to Rank 50 while mopping up anything left over."
+    ]
+  },
+  "steps": [
+    {
+      "id": "online-breakout",
+      "type": "task",
+      "title": "Finish the Red Dead Online intro",
+      "where": "Title screen > Red Dead Online (or Story Mode: Pause > Online)",
+      "before": ["PlayStation Plus", "Internet connection"],
+      "how": [
+        "Choose Red Dead Online from the title screen, or from Story Mode open Pause > Online.",
+        "Create your character in the opening prison sequence and take the mugshot.",
+        "Follow the opening missions: go to the camp, use the wardrobe and set up your camp with Cripps.",
+        "Collect the first job at the post office, clear the gang hideout and use the treasure map from the last enemy to find the chest (use Eagle Eye to spot it).",
+        "Do Clay Davies' horse-theft mission and deliver the horse to the Valentine stables.",
+        "Return to your camp and talk to Cripps; the trophy pops after the cutscene and Free Roam opens up."
+      ],
+      "counts": ["trophy-breakout"],
+      "tip": "The intro takes about 1-2 hours and can't be skipped. Almost every other online trophy needs it done first.",
+      "unverified": "No source confirms whether the standalone Red Dead Online product uses the same trophy list. Play Online through the full RDR2 game to be safe.",
+      "sources": ["online#ppx", "online#psnp", "online#htr", "online#gptips", "online#psnp-search"]
+    },
+    {
+      "id": "online-picked-to-perfection",
+      "type": "task",
+      "title": "Pick 25 plants",
+      "where": "Anywhere in Free Roam",
+      "how": [
+        "Pick any 25 plants: herbs, berries, mushrooms and flowers all count.",
+        "Use Eagle Eye (click L3 + R3) to highlight plants you can pick.",
+        "Check progress under Pause > Progress > Awards > Survivalist."
+      ],
+      "counts": ["trophy-picked-to-perfection"],
+      "tip": "Takes under 10 minutes. Pick plants on the way to your first hunt.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips"]
+    },
+    {
+      "id": "online-butchered",
+      "type": "task",
+      "title": "Sell 20 items to a Butcher",
+      "where": "Any Butcher: Valentine, Strawberry, Blackwater, Rhodes, Saint Denis or Tumbleweed",
+      "how": [
+        "Hunt and skin animals; pelts, meat, feathers, fat and carcasses all count.",
+        "Keep a few pieces of meat for the next step (Master Craftsman).",
+        "Sell 20 items in total at any Butcher.",
+        "Check progress under Pause > Progress > Awards > Trade."
+      ],
+      "counts": ["trophy-butchered"],
+      "tip": "Skinning large animals gives several sellable items at once. One or two hunting trips is enough.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips"]
+    },
+    {
+      "id": "online-master-craftsman",
+      "type": "task",
+      "title": "Craft 20 non-ammo items at a campfire",
+      "where": "Your camp's fire or any campfire you set up",
+      "before": ["Some meat from hunting"],
+      "how": [
+        "Go to a campfire and open crafting.",
+        "Cook meat, plain or with herbs.",
+        "Keep cooking until you have crafted 20 non-ammo items.",
+        "Check progress under Pause > Progress > Awards > Survivalist."
+      ],
+      "counts": ["trophy-master-craftsman"],
+      "tip": "Only a few minutes of work. Ammo does not count here; that is Non-Regulation.",
+      "unverified": "PowerPyx says cooking and eating a piece counts as 2 while stowing counts as 1. Only one source reports this, so watch the award counter rather than relying on it.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips"]
+    },
+    {
+      "id": "online-eventful",
+      "type": "task",
+      "title": "Play 5 Free Roam Events",
+      "where": "Public Free Roam session",
+      "how": [
+        "Play in a public Free Roam session.",
+        "When a Free Roam Event invitation appears (purple text on the left of the screen), press the button shown on screen straight away to join.",
+        "Stay until the event ends; you don't need to win or place well.",
+        "Repeat until you have finished 5 events."
+      ],
+      "counts": ["trophy-eventful"],
+      "tip": "Accept every event invitation you see while doing the other steps. Don't quit mid-event, or it won't count. Monthly bonuses sometimes boost Free Roam Event rewards, which also helps your rank.",
+      "unverified": "Older guides say events start roughly every 45 minutes; the timing may have changed since.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips", "online#worthplaying"]
+    },
+    {
+      "id": "online-gun-for-hire",
+      "type": "task",
+      "title": "Complete 10 Free Roam missions",
+      "where": "Orange circle mission-giver icons in and near towns",
+      "how": [
+        "Open the map and look for the small orange circle mission-giver icons.",
+        "Walk up to the character, accept their Free Roam mission and complete it.",
+        "Take missions from several different givers.",
+        "Repeat until you have done 10.",
+        "Check progress under Pause > Progress > Awards > Free Roam."
+      ],
+      "counts": ["trophy-gun-for-hire"],
+      "tip": "All of these can be done solo. If a giver has no icon, try another town.",
+      "unverified": "Sources disagree on whether any 10 missions count or they must come from different givers. Spreading them across givers covers both readings.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips", "online#gpress"]
+    },
+    {
+      "id": "online-home-comforts",
+      "type": "task",
+      "title": "Buy 5 camp improvements with dollars",
+      "where": "Your camp: talk to Cripps",
+      "before": ["About $250-$300"],
+      "how": [
+        "Do this before you ever buy a camp item with gold bars.",
+        "Go to your camp, talk to Cripps and open the camp upgrades menu.",
+        "Buy 5 different camp flags with dollars ($50 each), all in one visit without leaving the menu.",
+        "If the trophy doesn't pop, buy a 6th different improvement with dollars."
+      ],
+      "counts": ["trophy-home-comforts"],
+      "tip": "Never pay for camp improvements with gold bars until this trophy pops. Some upgrades are rank-locked, but the flags are available early.",
+      "unverified": "This trophy is reported as buggy. Gold-bar purchases may not count and may break it for that character. Some players needed a 6th purchase. Reports suggest that as a last resort you can reset the character and try again. Flag prices come from older guides.",
+      "sources": ["online#ppx", "online#psnp", "online#tt-homecomforts", "online#gptips"]
+    },
+    {
+      "id": "online-horses-for-courses",
+      "type": "task",
+      "title": "Own 5 horses at the same time",
+      "where": "Any stable",
+      "before": ["About $1,700 (check the stable menu for current prices)"],
+      "how": [
+        "Save up enough money first, then visit any stable. Your first stall is free.",
+        "Buy the 4 extra stalls (about $100, $150, $500 and $750).",
+        "Fill all 5 stalls: buy the cheapest horse (Kentucky Saddler, about $50) or use horses you break or claim.",
+        "The trophy pops when you own 5 horses at once."
+      ],
+      "counts": ["trophy-horses-for-courses"],
+      "tip": "Buy the stalls and horses in one go. Every horse you own adds to stable upkeep.",
+      "unverified": "Stall and horse prices come from 2018-2019 guides and may have changed since. No 2025-2026 source confirms them. Budget about $1,700 and check the stable menu.",
+      "sources": ["online#ppx", "online#psnp", "online#tt-horses", "online#gptips"]
+    },
+    {
+      "id": "online-non-regulation",
+      "type": "task",
+      "title": "Craft 25 pieces of ammunition",
+      "where": "Any Fence (pamphlet), then any campfire",
+      "before": ["Rank 28 for the Split Point pamphlet (or Rank 22 for Small Game Arrows)", "At least 25 normal rounds of a matching calibre"],
+      "how": [
+        "If you aren't Rank 22 yet, skip this step for now and come back when you reach it.",
+        "At Rank 28, buy the Split Point ammo pamphlet from a Fence. It only needs regular bullets.",
+        "Or, at Rank 22, buy the Small Game Arrow pamphlet instead. It needs arrows, shotgun shells and flight feathers.",
+        "Go to a campfire, open crafting and choose the Ammo tab.",
+        "Craft the same ammo type again and again until you have made 25 pieces.",
+        "Check progress under Pause > Progress > Awards > Survivalist."
+      ],
+      "counts": ["trophy-non-regulation"],
+      "tip": "You pass Rank 28 on the way to Rank 50 anyway, so there's no rush.",
+      "unverified": "The Rank 22 and 28 pamphlet requirements come from 2018-2019 guides and may have changed. Check the Fence catalogue for the ranks it shows.",
+      "sources": ["online#ppx", "online#psnp", "online#tt-nonreg", "online#gptips"]
+    },
+    {
+      "id": "online-series-major",
+      "type": "task",
+      "title": "Play a Series to the end",
+      "where": "Pause > Online > Series playlists (or Player Menu > Quick Join)",
+      "how": [
+        "Open Pause > Online and pick any Series: Showdown Series, Race Series or the weekly Featured Series.",
+        "Or press d-pad left for the Player Menu and use Quick Join.",
+        "Play the whole match; the trophy pops after the results screen, not when you join."
+      ],
+      "counts": ["trophy-series-major"],
+      "tip": "Any series type counts, races included. Don't quit early. Every series you play is also a chance at MVP for The Real Deal.",
+      "unverified": "Playlists rotate in 2026, so the named series may not always be available. Any series counts.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips", "online#gpress", "online#worthplaying"]
+    },
+    {
+      "id": "online-buckle-up",
+      "type": "task",
+      "title": "Earn 5 gold award buckles",
+      "where": "Pause > Progress > Awards",
+      "how": [
+        "Open Pause > Progress > Awards to see each award's bronze, silver and gold tiers.",
+        "Reach the gold tier on any 5 awards.",
+        "Quick options: kill a flying bird with an arrow (Hunting) and the timed rides between towns (Travel).",
+        "More quick options: sell to 3 different shop types or spend $1,000 in shops (Trade), and max your horse bond (Horse)."
+      ],
+      "counts": ["trophy-buckle-up"],
+      "tip": "Skip the Posse category; those awards are long grinds. This often pops naturally during the Rank 50 grind.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips"]
+    },
+    {
+      "id": "online-getting-started",
+      "type": "task",
+      "title": "Reach Rank 10",
+      "where": "Anywhere online",
+      "how": [
+        "Keep playing the Red Dead Online story missions, Free Roam missions, series and Daily Challenges.",
+        "Check your rank under Pause > Progress > Rank Unlocks.",
+        "The trophy pops at Rank 10, after about 8,000-10,000 XP in total."
+      ],
+      "counts": ["trophy-getting-started"],
+      "tip": "This usually comes within the first few hours, often while doing the steps above.",
+      "sources": ["online#ppx", "online#psnp", "online#fandom-ranks"]
+    },
+    {
+      "id": "online-posse-up",
+      "type": "task",
+      "title": "Form a Persistent Posse",
+      "where": "Player Menu (d-pad left) > Posse",
+      "before": ["$200 set-up fee (may be free during a Rockstar event)"],
+      "how": [
+        "Press d-pad left to open the Player Menu, then go to Posse > Form Posse.",
+        "Set the posse type to Persistent (not Temporary), name it and confirm.",
+        "The trophy pops right away, even if you are the only member.",
+        "Keep the posse for the next step (Strength in Numbers)."
+      ],
+      "counts": ["trophy-posse-up"],
+      "tip": "The fee isn't refunded if you disband the posse. Rockstar sometimes waives it; one waiver ran from 30 June to 3 August 2026.",
+      "unverified": "The $200 fee comes from older guides. No source confirms that the trophy pops when the fee is waived, though creating the posse should be the trigger.",
+      "sources": ["online#ppx", "online#psnp", "online#tt-posseup", "online#gptips", "online#worthplaying"]
+    },
+    {
+      "id": "online-strength-in-numbers",
+      "type": "task",
+      "title": "Do a Free Roam mission in a 2-player posse",
+      "where": "Any orange Free Roam mission giver",
+      "before": ["One other real player (friend or someone in your session)"],
+      "how": [
+        "Invite a friend or a player in your session to your posse (a free Temporary posse also works).",
+        "Or open Pause > Online > Posse Up to join a random posse.",
+        "With at least 2 members in the posse, start any Free Roam mission (orange icon).",
+        "Complete the mission; the trophy pops at the end."
+      ],
+      "counts": ["trophy-strength-in-numbers"],
+      "tip": "This can't be done alone. Pair it with the All's Fair boost: do this mission together first, then your friend leaves the posse for the next step.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips", "online#steam-online"]
+    },
+    {
+      "id": "online-alls-fair",
+      "type": "task",
+      "title": "Sabotage a rival player's Free Roam mission",
+      "where": "Public Free Roam session with a friend or other players",
+      "before": ["A friend in the same session but NOT in your posse (recommended)"],
+      "how": [
+        "Have your friend join your session but stay out of your posse.",
+        "Your friend accepts a Free Roam mission from a giver who stands outdoors.",
+        "When the mission starts, go to their objective and stop them, for example by killing the target or the carriage horses.",
+        "The trophy pops when their mission fails.",
+        "Without a friend, watch for the red notification that a nearby player has started a mission you can counter, then go and stop them."
+      ],
+      "counts": ["trophy-alls-fair"],
+      "tip": "With a friend this takes a few minutes. Using an outdoor giver matters: indoor givers reportedly moved players to another session. You don't need to be in a posse yourself.",
+      "sources": ["online#ppx", "online#psnp", "online#gptips", "online#steam-online"]
+    },
+    {
+      "id": "online-the-real-deal",
+      "type": "task",
+      "title": "Earn MVP 3 times in 4+ player series",
+      "where": "Pause > Online > Series playlists",
+      "before": ["A series lobby with at least 4 players"],
+      "how": [
+        "Join series with at least 4 players in the lobby. The 3 MVPs don't need to be in a row.",
+        "Solo, option A: play territory modes such as Hostile Territory or Takeover. Capture a point near your spawn and hold it as long as you can.",
+        "Solo, option B: play Race Series, where the winner almost always gets MVP. In Open Races, learn a checkpoint route (Tumbleweed and Saint Denis/Rhodes are recommended).",
+        "In standard races, hang back to avoid the opening pile-up, then catch up.",
+        "Solo, option C: play Hardcore series (free aim, no ability cards or tonics), which evens out the odds against veterans.",
+        "Boosting: get a group of 4 friends and queue a quiet series so only your group fills the lobby.",
+        "When boosting, take turns being MVP until everyone has 3."
+      ],
+      "counts": ["trophy-the-real-deal"],
+      "tip": "MVP comes from the game's overall performance score, not just kills or winning, so the MVP can be on the losing team. In 2025 one player got MVP in about 15 games by sprinting to capture points. Another got 2 from races and 1 from Hostile Territory by camping an objective. Choose popular or Featured Series for solo attempts.",
+      "unverified": "Lobby sizes in 2025-2026 depend on the playlist; some (such as Elimination) are thin, and races are full of veterans. Playlists rotate, so the named modes may not always be available. The old TrueTrophies 'Call to Arms' posse boost reportedly stopped working in 2023; don't rely on it. Boosting groups were still forming in 2026.",
+      "sources": ["online#ppx", "online#psnp", "online#psnp-mvp", "online#tt-realdeal", "online#steam-mvp", "online#worthplaying"]
+    },
+    {
+      "id": "online-notorious",
+      "type": "task",
+      "title": "Reach Rank 50",
+      "where": "Anywhere online",
+      "how": [
+        "Finish the Red Dead Online story missions for good XP and cash.",
+        "Do all 7 Daily Challenges every real-life day for XP and streak bonuses.",
+        "Keep doing Free Roam missions, Free Roam Events and series.",
+        "For bonus XP, get kills from horseback, headshots, Dead Eye kills and special-ammo kills.",
+        "Take up the Collector role: buy the Collector's Bag from Madame Nazar with gold bars (watch for discounts).",
+        "Collect and sell complete collectible sets; items and sets give XP, and collectibles reset daily.",
+        "Check Rockstar's current monthly bonuses and play whatever is boosted.",
+        "Track progress under Pause > Progress > Rank Unlocks."
+      ],
+      "counts": ["trophy-notorious"],
+      "tip": "Rank 50 takes roughly 175,000 XP. Gold award buckles give XP, and Buckle Up, Gun For Hire and Eventful come naturally along the way. A community collector map (for example jeanropke's RDR2 Collectors Map) makes daily collector routes quick.",
+      "unverified": "Sources disagree on the total XP: about 175,000 (PowerPyx and the Red Dead Wiki table) versus over 200,000 (PSNProfiles). Trust the in-game Rank Unlocks screen. Time estimates range from about 40 hours to about 100 hours. Monthly bonuses rotate; the June-August 2026 triple XP on bounties and Free Roam Events has ended.",
+      "sources": ["online#ppx", "online#psnp", "online#fandom-ranks", "online#worthplaying"]
+    },
+    {
+      "id": "online-legend-of-the-west",
+      "type": "task",
+      "title": "Final check: unlock the platinum",
+      "where": "This app's Trophies screen",
+      "before": ["All 34 other Story Mode trophies", "All 17 Red Dead Online trophies"],
+      "how": [
+        "Open the Trophies screen in this app.",
+        "Go through the list and confirm every trophy other than Legend of the West is marked done: 34 Story Mode and 17 Online.",
+        "Compare with the trophy list on your console and look for any trophy that hasn't popped.",
+        "For any trophy still missing, go back to its step in the route or its tracker and finish it.",
+        "Legend of the West pops automatically once the last trophy unlocks."
+      ],
+      "counts": ["trophy-legend-of-the-west"],
+      "tip": "The 4 missable story trophies (Lending a Hand, Friends With Benefits, Give to the Poor, Errand Boy) need a new Story Mode save if you missed them. Check those first.",
+      "sources": ["trophies#ppx", "trophies#rdr2org", "trophies#gtabase", "online#psnp"]
+    }
+  ]
+}

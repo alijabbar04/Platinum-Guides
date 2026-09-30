@@ -1,0 +1,784 @@
+{
+  "part": {
+    "id": "ch4",
+    "title": "Chapter 4",
+    "subtitle": "Saint Denis",
+    "intro": [
+      "Chapter 4 moves the gang to a camp at Shady Belle and opens up the city of Saint Denis. It is the last chapter with the gang's camp extras, so its final mission, 'Banking, the Old American Art', is the biggest point of no return in the game.",
+      "Missable here: the Chapter 4 companion activity (this is when Friends With Benefits pops), the last chance for Errand Boy (5 item requests in total) and Give to the Poor ($250 in the tithing box), and five Honor mission parts for Lending a Hand: Help a Brother Out, Brothers and Sisters, One and All, Fatherhood and Other Dreams I and II, and Money Lending and Other Sins V. Brothers and Sisters also unlocks a Chapter 6 Honor mission, so skipping it costs you twice.",
+      "This chapter also opens seven Stranger strands. They include A Bright Bouncing Boy (Artificial Intelligence trophy) and Duchesses and other Animals (the exotics collection). Saint Denis also has the dominoes and poker you need for Hobby Horse.",
+      "Do the Honor missions and camp extras as soon as they appear, and leave the story finale for last. The whole story takes roughly 50-60 hours."
+    ]
+  },
+  "steps": [
+    {
+      "id": "ch4-manual-save-start",
+      "type": "task",
+      "title": "Make a Chapter 4 start save",
+      "where": "Shady Belle camp",
+      "how": [
+        "When Chapter 4 begins, make a manual save in a separate slot and don't overwrite it.",
+        "Keep saving manually before each story mission so you can reload a failed gold."
+      ],
+      "sources": [
+        "missables#ppx",
+        "missables#damnmodz",
+        "missions-ch4-e2#ppx"
+      ]
+    },
+    {
+      "id": "ch4-m-the-joys-of-civilization",
+      "type": "mission",
+      "title": "Play 'The Joys of Civilization'",
+      "missionId": "mission-the-joys-of-civilization",
+      "where": "Saint Denis (Dutch)",
+      "how": [
+        "Start the mission from Dutch's icon.",
+        "Ride your own bonded horse instead of the one the mission offers.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-friends-with-benefits-activity",
+      "type": "task",
+      "title": "Do a companion activity at Shady Belle",
+      "where": "Shady Belle camp",
+      "how": [
+        "Return to camp during the day and look for an outing offer.",
+        "Accept one: a stagecoach robbery with Micah or Lenny, hunting with Pearson, or the cattle theft with Uncle.",
+        "Play the activity through to the end. Friends With Benefits pops if you did one in Chapters 2 and 3 as well.",
+        "If nobody offers one, do a story mission or sleep in your tent, then check camp again.",
+        "Don't count on table games with gang members. Do an outing."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits"
+      ],
+      "tip": "Special/Ultimate Edition owners can do Charles's bank robbery instead: see 'Play High and Low Finance (Special Edition)'.",
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "Sources disagree on whether camp table games count as companion activities. PowerPyx and DamnModz say they don't.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#damnmodz",
+        "trophies#ppx",
+        "trophies#ws-fwb",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "ch4-m-high-and-low-finance",
+      "type": "mission",
+      "title": "Play 'High and Low Finance' (Special Edition)",
+      "missionId": "mission-high-and-low-finance",
+      "optional": true,
+      "where": "Shady Belle camp (Charles)",
+      "before": [
+        "Special or Ultimate Edition of the game"
+      ],
+      "how": [
+        "If you own the Special or Ultimate Edition, talk to Charles at camp and accept his bank robbery.",
+        "Save manually before starting it.",
+        "It also counts as your Chapter 4 companion activity for Friends With Benefits."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "Only one source covers this mission's details. It has gold objectives, but PowerPyx and a Steam guide say it is not one of the 104 medal missions that count towards Gold Rush; GTABase counts 105 including it. Don't rely on it for the 70 golds.",
+      "sources": [
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#gtabase",
+        "missions-ch4-e2#ppx"
+      ]
+    },
+    {
+      "id": "ch4-m-angelo-bronte-a-man-of-honor",
+      "type": "mission",
+      "title": "Play 'Angelo Bronte, a Man of Honor'",
+      "missionId": "mission-angelo-bronte-a-man-of-honor",
+      "where": "Saint Denis (Dutch)",
+      "how": [
+        "Start the mission from Dutch's icon.",
+        "Save manually before starting it. The timer is very strict."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "Many players rate this among the hardest golds. It's a fair one to skip if needed, because Gold Rush only needs 70.",
+      "unverified": "A Steam guide reports that the fifth enemy sometimes fails to spawn; restarting the game fixes it.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-m-help-a-brother-out",
+      "type": "mission",
+      "title": "Play 'Help a Brother Out'",
+      "missionId": "mission-help-a-brother-out",
+      "where": "Saint Denis (Brother Dorkins, white stranger-style marker)",
+      "how": [
+        "Find Brother Dorkins' marker in Saint Denis and start the mission.",
+        "Save manually before starting it.",
+        "In the shop, don't threaten the owner. Go straight to the bookshelf clue and pull the shelf."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch4-m-brothers-and-sisters-one-and-all",
+      "type": "mission",
+      "title": "Play 'Brothers and Sisters, One and All'",
+      "missionId": "mission-brothers-and-sisters-one-and-all",
+      "where": "Saint Denis, church area (Brother Dorkins / Sister Calderon)",
+      "how": [
+        "Wait a few in-game hours after 'Help a Brother Out' (sleep or do other things), then return to the church area in Saint Denis.",
+        "Start the mission from the marker.",
+        "Save manually before starting it.",
+        "At the crossroads, ignore the injured man and run straight down the right-hand path to find the kid."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "tip": "This mission also unlocks the Chapter 6 Honor mission 'Of Men and Angels', which Lending a Hand needs too.",
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "missables#ppx",
+        "missables#ppxomaa"
+      ]
+    },
+    {
+      "id": "ch4-fatherhood-and-other-dreams-i",
+      "type": "task",
+      "title": "Read Mary's letter: 'Fatherhood and Other Dreams - I'",
+      "where": "Shady Belle camp, then Saint Denis",
+      "before": [
+        "'Angelo Bronte, a Man of Honor' completed"
+      ],
+      "how": [
+        "After 'Angelo Bronte, a Man of Honor', find and read Mary Linton's letter at camp in Arthur's room.",
+        "Ride to the marker in Saint Denis and play part I. It has no gold medal.",
+        "Part II becomes available afterwards (next step)."
+      ],
+      "counts": [
+        "trophy-lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "The research data doesn't list part I as a separate mission. Its content (the letter, and that part II is the one with the medal) comes from the missables data and the mission name notes.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#fandom-missables",
+        "missions-ch4-e2#ppx"
+      ]
+    },
+    {
+      "id": "ch4-m-fatherhood-and-other-dreams",
+      "type": "mission",
+      "title": "Play 'Fatherhood and Other Dreams - II'",
+      "missionId": "mission-fatherhood-and-other-dreams",
+      "where": "Saint Denis (Mary Linton)",
+      "how": [
+        "Start part II from Mary's marker in Saint Denis.",
+        "Save manually before starting it.",
+        "When the coach bolts, chase it straight away on a nearby horse or your own.",
+        "At the end, agree when Mary suggests going to the theatre."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-money-lending-and-other-sins-v",
+      "type": "task",
+      "title": "Do 'Money Lending and Other Sins - V' for Strauss",
+      "where": "Shady Belle camp (Strauss)",
+      "how": [
+        "Don't rob or knock out anyone at the Davisons' homestead before taking this debt.",
+        "Talk to Strauss at camp and accept the new debt collection.",
+        "Collect the debt. This part isn't shown in the Story log, but Lending a Hand needs it.",
+        "This debt is at Catfish Jackson's (the Davison family). If you already robbed that homestead or hurt Algie or Nate Davison, the debt may be gone: check the Story log."
+      ],
+      "counts": [
+        "trophy-lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "The research data doesn't list Money Lending V as a separate mission, and doesn't give the debtor's exact location beyond the Davisons' homestead.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#fandom-missables",
+        "https://reddead.fandom.com/wiki/Money_Lending_and_Other_Sins_V"
+      ]
+    },
+    {
+      "id": "ch4-m-no-no-and-thrice-no",
+      "type": "mission",
+      "title": "Play 'No, No and Thrice, No'",
+      "missionId": "mission-no-no-and-thrice-no",
+      "where": "Shady Belle camp (Mary-Beth / Susan)",
+      "how": [
+        "Start the mission from its icon at camp.",
+        "Save manually before starting it.",
+        "Use Dead Eye during the chase so you get your shots in before Susan does."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "The Red Dead Wiki missables page says killing Anthony Foreman in this mission removes a later Epilogue bounty. That isn't needed for any trophy, and the research doesn't say how this fits with the gold objective to kill both Foreman boys.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase",
+        "missions-ch4-e2#fandom-missables"
+      ]
+    },
+    {
+      "id": "ch4-m-the-gilded-cage",
+      "type": "mission",
+      "title": "Play 'The Gilded Cage'",
+      "missionId": "mission-the-gilded-cage",
+      "where": "Shady Belle camp (Hosea and Dutch)",
+      "how": [
+        "Start the mission from its icon at camp.",
+        "Save manually before starting it.",
+        "At the party, accept the opera ticket when it's offered as a gift."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "Finishing this mission opens the Stranger strands 'Duchesses and other Animals' and (per one source) 'Idealism and Pragmatism for Beginners'.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase",
+        "collectibles#wiki-duchesses"
+      ]
+    },
+    {
+      "id": "ch4-m-duchesses-and-other-animals",
+      "type": "mission",
+      "title": "Start 'Duchesses and other Animals' (exotics)",
+      "missionId": "mission-duchesses-and-other-animals",
+      "where": "Greenhouse behind the hotel in north Saint Denis (Algernon Wasp)",
+      "before": [
+        "'The Gilded Cage' completed"
+      ],
+      "how": [
+        "Go to the greenhouse behind the hotel in north Saint Denis and talk to Algernon Wasp to start the strand.",
+        "Open the Exotics tracker. Gather and hand in request 1 now if you can: egret plumes around noon in the west Bayou Nwa, plus Lady of the Night orchids on trees in Bayou Nwa.",
+        "Each list only opens after you hand in the previous one, so keep gathering plumes, gator eggs and orchids while you play Chapter 4.",
+        "You don't have to finish all five lists now. They can be completed after the story."
+      ],
+      "counts": [
+        "tracker:exotics",
+        "tracker:strangers",
+        "trophy-western-stranger",
+        "trophy-collectors-item",
+        "trophy-best-in-the-west"
+      ],
+      "tip": "Plants glow blue in Eagle Eye. Egrets, herons and spoonbills respawn if you ride away (for example to Rhodes), sleep, and come back.",
+      "unverified": "Guides give slightly different cash totals for the strand ($750 or $760).",
+      "sources": [
+        "collectibles#wiki-duchesses",
+        "collectibles#ppx-duchesses",
+        "collectibles#ppx-exotics",
+        "collectibles#ppx-strangers"
+      ]
+    },
+    {
+      "id": "ch4-m-a-bright-bouncing-boy",
+      "type": "mission",
+      "title": "Do 'A Bright Bouncing Boy' (Artificial Intelligence)",
+      "missionId": "mission-a-bright-bouncing-boy",
+      "where": "Saint Denis (Marko Dragic)",
+      "how": [
+        "Find Marko Dragic's stranger icon in Saint Denis and play part I.",
+        "Play part II at night. Sleep in camp or a hotel to skip to night if needed.",
+        "Wait about 2 in-game days (sleep or play other steps), then return for the final part.",
+        "Finish the final part to unlock Artificial Intelligence."
+      ],
+      "counts": [
+        "trophy-artificial-intelligence",
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "The research data gives the chapter (4) but not the exact start spot; Saint Denis comes from the PowerPyx stranger map. Not missable: it can also be finished after the story.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "collectibles#ppx-strangers",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch4-m-the-mercies-of-knowledge",
+      "type": "mission",
+      "title": "Do the Stranger strand 'The Mercies of Knowledge'",
+      "missionId": "mission-the-mercies-of-knowledge",
+      "where": "North-east Saint Denis",
+      "how": [
+        "Look for the white stranger icon in north-east Saint Denis and start the strand.",
+        "Finish every part as Arthur (don't leave it for after the story)."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "Sources conflict on whether this strand is missable. The collectibles data says it can be done after the story, but the Codeberg checklist (in missables.json) lists it among the Arthur-only strangers lost at the end of Chapter 6, and PowerPyx comments call it potentially missable. Finish it now to be safe. The start location and giver (Prof. Andrew Bell III, after 'The Joys of Civilization') come from Fextralife and PowerPyx only.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "missables#codeberg",
+        "https://www.powerpyx.com/red-dead-redemption-2-stranger-missions-walkthrough/",
+        "https://reddeadredemption2.wiki.fextralife.com/The_Mercies_of_Knowledge"
+      ]
+    },
+    {
+      "id": "ch4-m-the-artists-way",
+      "type": "mission",
+      "title": "Do the Stranger strand 'The Artist's Way'",
+      "missionId": "mission-the-artists-way",
+      "where": "Saint Denis",
+      "how": [
+        "Look for the white stranger icon in Saint Denis and start the strand.",
+        "Play every part that becomes available. Anything left over can be finished later."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "The start location (Saint Denis) comes from the PowerPyx stranger map, not the research data.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch4-m-idealism-and-pragmatism-for-beginners",
+      "type": "mission",
+      "title": "Do 'Idealism and Pragmatism for Beginners'",
+      "missionId": "mission-idealism-and-pragmatism-for-beginners",
+      "where": "Mayor's house, north-west Saint Denis",
+      "before": [
+        "'The Gilded Cage' completed"
+      ],
+      "how": [
+        "After 'The Gilded Cage', read the letter from the Mayor when it arrives.",
+        "Go to the Mayor's house in north-west Saint Denis at night and start the strand.",
+        "Play every part that becomes available. Anything left over can be finished later."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "The research data only places this strand in Chapter 4. The unlock condition (after 'The Gilded Cage' plus the Mayor's letter), the location and the night-time window (about 22:00-05:00) come from Fextralife and the PowerPyx stranger map.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "https://reddeadredemption2.wiki.fextralife.com/Idealism_and_Pragmatism_for_Beginners",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch4-m-the-ties-that-bind-us",
+      "type": "mission",
+      "title": "Do the Stranger strand 'The Ties That Bind Us'",
+      "missionId": "mission-the-ties-that-bind-us",
+      "where": "Southern Rhodes, by the railway tracks",
+      "how": [
+        "Ride to the hill by the railway tracks in southern Rhodes and talk to the two men at the stranger icon.",
+        "Play every part that becomes available. Anything left over can be finished later."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "The start location and unlock condition (Chapter 4, after 'The Joys of Civilization') come from Fextralife and the PowerPyx stranger map, not the research data.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "https://reddeadredemption2.wiki.fextralife.com/The_Ties_That_Bind_Us",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch4-m-oh-brother",
+      "type": "mission",
+      "title": "Do the Stranger strand 'Oh, Brother'",
+      "missionId": "mission-oh-brother",
+      "where": "Valentine",
+      "how": [
+        "Look for the white stranger icon in Valentine and start the strand.",
+        "Play every part that becomes available. Anything left over can be finished later."
+      ],
+      "counts": [
+        "trophy-western-stranger",
+        "tracker:strangers"
+      ],
+      "unverified": "The start location (Valentine) comes from the PowerPyx stranger map, not the research data.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#tt-ws",
+        "https://www.powerpyx.com/red-dead-redemption-2-all-stranger-locations-map/"
+      ]
+    },
+    {
+      "id": "ch4-hobby-horse-saint-denis",
+      "type": "task",
+      "title": "Play dominoes and poker in Saint Denis",
+      "where": "Saint Denis (park for dominoes, saloon for poker)",
+      "how": [
+        "Find the dominoes table in a Saint Denis park and play one game. You don't need to win.",
+        "Join a poker game in a Saint Denis saloon and play one game.",
+        "If you still lack them: blackjack is at the Rhodes saloon and five finger fillet in Strawberry.",
+        "Check Pause > Progress > Total Completion > Table Games. Hobby Horse pops once all four games are played."
+      ],
+      "counts": [
+        "trophy-hobby-horse",
+        "tracker:hobby-horse"
+      ],
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#damnmodz"
+      ]
+    },
+    {
+      "id": "ch4-american-fathers-i",
+      "type": "task",
+      "title": "Meet Rains Fall in Saint Denis ('American Fathers - I')",
+      "where": "Saint Denis courthouse",
+      "how": [
+        "Go to the marker at the Saint Denis courthouse to trigger the scene with Rains Fall. This part has no gold medal.",
+        "This opens 'American Fathers - II' (next step)."
+      ],
+      "unverified": "The research data only mentions part I in the notes for 'American Fathers (II)'. It is not listed as a separate mission.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "ch4-m-american-fathers",
+      "type": "mission",
+      "title": "Play 'American Fathers - II'",
+      "missionId": "mission-american-fathers",
+      "where": "Near Cornwall Kerosene & Tar, Heartland Oil Fields (Eagle Flies)",
+      "how": [
+        "Ride to the marker near Cornwall Kerosene & Tar and start the mission.",
+        "Save manually before starting it.",
+        "When the escape starts, look behind you and Dead Eye both horseback pursuers at once. They can crash and die on their own, which fails the objective."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "tip": "Optional for the story, but it has a gold medal and disappears from free roam when Chapter 4 ends (you can replay it after the story).",
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art' (replayable after the story)",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-m-a-fine-night-of-debauchery",
+      "type": "mission",
+      "title": "Play 'A Fine Night of Debauchery'",
+      "missionId": "mission-a-fine-night-of-debauchery",
+      "where": "Saint Denis (Josiah Trelawny)",
+      "how": [
+        "Start the mission from Trelawny's icon.",
+        "Save manually before starting it.",
+        "Don't leave the boat until Javier tells you to go. Leaving early fails the mission."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-give-to-the-poor-final-check",
+      "type": "task",
+      "title": "Make sure you've donated $250 to the tithing box",
+      "where": "Shady Belle camp, tithing box",
+      "how": [
+        "Walk to the camp tithing box and check your personal donation total in the ledger.",
+        "If it is under $250, donate cash until your own total reaches $250. Other gang members' donations don't count.",
+        "Confirm that Give to the Poor has popped."
+      ],
+      "counts": [
+        "trophy-give-to-the-poor"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art' (the tithing box is gone afterwards)",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "PowerPyx says donated valuables also count; other guides recommend cash. Use cash to be sure.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#damnmodz",
+        "trophies#ppx",
+        "trophies#pixel-miss",
+        "trophies#damnmodz"
+      ]
+    },
+    {
+      "id": "ch4-errand-boy-finish",
+      "type": "task",
+      "title": "Finish Errand Boy (5 item requests)",
+      "where": "Shady Belle camp",
+      "how": [
+        "If Errand Boy hasn't popped yet, spend daytime (about 08:00-20:00) in camp and talk to gang members until someone asks for an item.",
+        "Easy ones: give Abigail $5, buy Kentucky Bourbon for Sean or Pomade for Bill at a general store, or buy Moonshine at a fence for Charles.",
+        "If Sadie asks for her Harmonica, deliver it too.",
+        "Hand each item over in camp until your total reaches 5 and the trophy pops."
+      ],
+      "counts": [
+        "trophy-errand-boy"
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "The Red Dead Wiki (via a search snippet) says item requests also appear in Epilogue Part 2. Most guides treat Chapter 4 as the hard deadline, so finish it here.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#gamesguides",
+        "missables#damnmodz",
+        "trophies#ws-errand"
+      ]
+    },
+    {
+      "id": "ch4-m-horsemen-apocalypses",
+      "type": "mission",
+      "title": "Play 'Horsemen, Apocalypses'",
+      "missionId": "mission-horsemen-apocalypses",
+      "where": "Shady Belle camp (Sadie)",
+      "how": [
+        "Before starting, equip good sidearms. The gold needs sidearms only.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-m-urban-pleasures",
+      "type": "mission",
+      "title": "Play 'Urban Pleasures'",
+      "missionId": "mission-urban-pleasures",
+      "where": "Saint Denis (Dutch)",
+      "how": [
+        "Equip the double-barrel Sawed-Off Shotgun as a sidearm before starting.",
+        "Bring plenty of Dead Eye tonics. They don't count as health items.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-m-country-pursuits",
+      "type": "mission",
+      "title": "Play 'Country Pursuits'",
+      "missionId": "mission-country-pursuits",
+      "where": "Shady Belle camp / Lagras (Dutch)",
+      "how": [
+        "Start the mission from Dutch's icon.",
+        "Save manually before starting it."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-m-revenge-is-a-dish-best-eaten",
+      "type": "mission",
+      "title": "Play 'Revenge is a Dish Best Eaten'",
+      "missionId": "mission-revenge-is-a-dish-best-eaten",
+      "where": "Lagras (Dutch)",
+      "how": [
+        "Bring a revolver or repeater for the headshots. Shotgun kills may not register as headshots.",
+        "Save manually before starting it.",
+        "Search every room in the mansion. Pick up the 'List of Accounts' and 'Telegram to Police Chief Lambert' documents if you want them; no trophy needs them."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "During 'Revenge is a Dish Best Eaten' (the two documents only)",
+        "deadlineMissionId": "mission-revenge-is-a-dish-best-eaten"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#gtabase"
+      ]
+    },
+    {
+      "id": "ch4-warning-banking",
+      "type": "warning",
+      "title": "Point of no return: finish all camp extras first",
+      "how": [
+        "Starting 'Banking, the Old American Art' ends the gang's camp extras for good. Finish these first:",
+        "'Do a companion activity at Shady Belle' (Friends With Benefits must have popped).",
+        "'Make sure you've donated $250 to the tithing box' (Give to the Poor must have popped).",
+        "'Finish Errand Boy (5 item requests)' (Errand Boy must have popped).",
+        "'Play Help a Brother Out' and 'Play Brothers and Sisters, One and All' (Lending a Hand; also unlocks a Chapter 6 Honor mission).",
+        "'Read Mary's letter: Fatherhood and Other Dreams - I' and 'Play Fatherhood and Other Dreams - II' (Lending a Hand).",
+        "'Do Money Lending and Other Sins - V for Strauss' (Lending a Hand; not shown in the Story log).",
+        "Optional before the cut-off: 'Play American Fathers - II' (gold medal) and 'Play High and Low Finance (Special Edition)'.",
+        "Open Pause > Progress > Story and check that no yellow Honor mission icons are left.",
+        "Make a manual save now in a new slot and keep it. Tap reveal for what happens to your gear."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits",
+        "trophy-give-to-the-poor",
+        "trophy-errand-boy",
+        "trophy-lending-a-hand"
+      ],
+      "spoiler": [
+        "After this mission you temporarily lose your weapons, money, horses and journal. They are all returned later in Chapter 5, so you don't need to spend your money first."
+      ],
+      "missable": {
+        "deadline": "Before completing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#fandom-missables",
+        "missables#ppx",
+        "missables#codeberg",
+        "trophies#ppx"
+      ]
+    },
+    {
+      "id": "ch4-m-banking-the-old-american-art",
+      "type": "mission",
+      "title": "Play 'Banking, the Old American Art'",
+      "missionId": "mission-banking-the-old-american-art",
+      "where": "Shady Belle camp (Dutch)",
+      "how": [
+        "Only start this after every item in 'Point of no return: finish all camp extras first' is done.",
+        "Carry plenty of Dead Eye tonics and sidearm ammo.",
+        "At the safe, turn slowly as you approach each number. The controller vibrates strongly near the right one.",
+        "Finishing the mission ends Chapter 4 and unlocks Washed Ashore."
+      ],
+      "counts": [
+        "trophy-washed-ashore",
+        "tracker:gold-medals"
+      ],
+      "tip": "The safe combination is always 19, 72, 54.",
+      "unverified": "A Steam guide reports this mission is buggy on replay (companions can stop during the ride), so try for the gold now.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#gtabase",
+        "trophies#ppx"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3230 @@
+{
+  "area": "wildlife",
+  "generatedAt": "2026-10-01",
+  "sources": [
+    {
+      "id": "ppx-trophy",
+      "title": "PowerPyx - Red Dead Redemption 2 Trophy Guide & Roadmap",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/"
+    },
+    {
+      "id": "ppx-animals",
+      "title": "PowerPyx - RDR2 All Animal Locations (Zoologist & Skin Deep)",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/"
+    },
+    {
+      "id": "ppx-animals-comments",
+      "title": "PowerPyx - reader comments on the All Animal Locations page (user 'Goatlips' Jan 2024 list of skin-required animals; other readers on Carolina Parakeet)",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/"
+    },
+    {
+      "id": "ppx-leg",
+      "title": "PowerPyx - RDR2 Legendary Animals Locations",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-legendary-animals-locations/"
+    },
+    {
+      "id": "ppx-fish",
+      "title": "PowerPyx - RDR2 All Legendary Fish Locations",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-all-legendary-fish-locations/"
+    },
+    {
+      "id": "fandom-trophies",
+      "title": "Red Dead Wiki (Fandom) - Trophies/Achievements in Redemption 2",
+      "url": "https://reddead.fandom.com/wiki/Trophies/Achievements_in_Redemption_2"
+    },
+    {
+      "id": "fandom-100",
+      "title": "Red Dead Wiki (Fandom) - 100% Completion (RDR2)",
+      "url": "https://reddead.fandom.com/wiki/100%25_Completion_(RDR2)"
+    },
+    {
+      "id": "fandom-species",
+      "title": "Red Dead Wiki (Fandom) - Animals/Redemption 2 species",
+      "url": "https://reddead.fandom.com/wiki/Animals/Redemption_2_species"
+    },
+    {
+      "id": "fandom-parakeet",
+      "title": "Red Dead Wiki (Fandom) - Parakeet",
+      "url": "https://reddead.fandom.com/wiki/Parakeet"
+    },
+    {
+      "id": "fandom-legendary",
+      "title": "Red Dead Wiki (Fandom) - Legendary Animals",
+      "url": "https://reddead.fandom.com/wiki/Legendary_Animals"
+    },
+    {
+      "id": "fandom-bharati",
+      "title": "Red Dead Wiki (Fandom) - Legendary Bharati Grizzly Bear",
+      "url": "https://reddead.fandom.com/wiki/Legendary_Bharati_Grizzly_Bear"
+    },
+    {
+      "id": "fandom-bullgator",
+      "title": "Red Dead Wiki (Fandom) - Legendary Bullgator \"Lacartus\"",
+      "url": "https://reddead.fandom.com/wiki/Legendary_Bullgator_%22Lacartus%22"
+    },
+    {
+      "id": "fandom-giaguaro",
+      "title": "Red Dead Wiki (Fandom) - Legendary Giaguaro Panther",
+      "url": "https://reddead.fandom.com/wiki/Legendary_Giaguaro_Panther"
+    },
+    {
+      "id": "fandom-murfree",
+      "title": "Red Dead Wiki (Fandom) - That's Murfree Country",
+      "url": "https://reddead.fandom.com/wiki/That%27s_Murfree_Country"
+    },
+    {
+      "id": "fandom-exit-pursued",
+      "title": "Red Dead Wiki (Fandom) - Exit Pursued by a Bruised Ego",
+      "url": "https://reddead.fandom.com/wiki/Exit_Pursued_by_a_Bruised_Ego"
+    },
+    {
+      "id": "fandom-the-wheel",
+      "title": "Red Dead Wiki (Fandom) - The Wheel",
+      "url": "https://reddead.fandom.com/wiki/The_Wheel"
+    },
+    {
+      "id": "fandom-fishing",
+      "title": "Red Dead Wiki (Fandom) - Fishing",
+      "url": "https://reddead.fandom.com/wiki/Fishing"
+    },
+    {
+      "id": "fandom-legendary-fish-pages",
+      "title": "Red Dead Wiki (Fandom) - individual Legendary fish pages (Bluegill, Bullhead Catfish, Chain Pickerel, Channel Catfish, Lake Sturgeon, Largemouth Bass, Longnose Gar, Muskie, Northern Pike, Perch, Redfin Pickerel, Rock Bass, Smallmouth Bass, Sockeye Salmon, Steelhead Trout)",
+      "url": "https://reddead.fandom.com/wiki/Legendary_Bluegill"
+    },
+    {
+      "id": "fandom-fisher-of-fish",
+      "title": "Red Dead Wiki (Fandom) - A Fisher of Fish",
+      "url": "https://reddead.fandom.com/wiki/A_Fisher_of_Fish"
+    },
+    {
+      "id": "fandom-fisher-of-men",
+      "title": "Red Dead Wiki (Fandom) - A Fisher of Men",
+      "url": "https://reddead.fandom.com/wiki/A_Fisher_of_Men"
+    },
+    {
+      "id": "fandom-veteran",
+      "title": "Red Dead Wiki (Fandom) - The Veteran (stranger mission)",
+      "url": "https://reddead.fandom.com/wiki/The_Veteran"
+    },
+    {
+      "id": "fandom-satchel",
+      "title": "Red Dead Wiki (Fandom) - Satchel",
+      "url": "https://reddead.fandom.com/wiki/Satchel"
+    },
+    {
+      "id": "fandom-challenges",
+      "title": "Red Dead Wiki (Fandom) - Single-player Challenges in Redemption 2",
+      "url": "https://reddead.fandom.com/wiki/Single-player_Challenges_in_Redemption_2"
+    },
+    {
+      "id": "gr-leg",
+      "title": "GamesRadar+ - Red Dead Redemption 2 legendary animals guide",
+      "url": "https://www.gamesradar.com/red-dead-redemption-2-legendary-animals-guide/"
+    },
+    {
+      "id": "gr-fish",
+      "title": "GamesRadar+ - Red Dead Redemption 2 legendary fish guide",
+      "url": "https://www.gamesradar.com/red-dead-redemption-2-legendary-fish-guide/"
+    },
+    {
+      "id": "gamerant-fish",
+      "title": "Game Rant - RDR2 All Legendary Fish (partial page read)",
+      "url": "https://gamerant.com/red-dead-redemption-2-all-legendary-fish-locations-rdr2-guide/"
+    },
+    {
+      "id": "steam-skin",
+      "title": "Steam Community - 'cows, bulls and chickens needed for skin deep achievement?' thread",
+      "url": "https://steamcommunity.com/app/1174180/discussions/0/732501101224438146/"
+    },
+    {
+      "id": "rdr2org-zoo",
+      "title": "RDR2.org Forums - Zoologist Trophy Pt. 2",
+      "url": "https://www.rdr2.org/forums/topic/8153-zoologist-trophy-pt-2/"
+    },
+    {
+      "id": "selphie",
+      "title": "selphie1999gaming - RDR2 Zoologist & Skin Deep guide",
+      "url": "https://selphie1999gaming.com/game-guides/rdr2-red-dead-redemption-2-zoologist-skin-deep-trophy-achievement-guide/"
+    },
+    {
+      "id": "ta-snippet",
+      "title": "TrueAchievements - Zoologist achievement (search-result snippet only; page itself returned 403)",
+      "url": "https://www.trueachievements.com/a262362/zoologist-achievement"
+    }
+  ],
+  "knownTotals": [
+    {
+      "key": "compendium-animal-entries",
+      "value": 178,
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "note": "162 regular species plus 16 legendary animals. Horses and fish have their own compendium sections and are not in this 178."
+    },
+    {
+      "key": "legendary-animals",
+      "value": 16,
+      "sources": [
+        "ppx-leg",
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "note": "Story Mode legendary animals. Compendium entries #163-#178."
+    },
+    {
+      "key": "zoologist-required-species",
+      "value": 152,
+      "sources": [
+        "ppx-animals",
+        "ppx-animals-comments",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "ta-snippet"
+      ],
+      "note": "Worked out as 178 minus 16 legendary, 8 Guarma-only, the Carolina Parakeet and Rufus. Matches the TrueAchievements figure of 152. selphie1999gaming gives 165, see disputes."
+    },
+    {
+      "key": "skin-deep-required-species",
+      "value": 71,
+      "sources": [
+        "ppx-animals-comments",
+        "steam-skin",
+        "ta-snippet"
+      ],
+      "note": "Wild animals that can be skinned. Livestock is excluded. The published community list names only 70; this file adds #143 Northern Water Snake as the likely 71st (see disputes)."
+    },
+    {
+      "key": "guarma-only-species-excluded",
+      "value": 8,
+      "sources": [
+        "ppx-animals",
+        "ppx-trophy",
+        "fandom-trophies"
+      ],
+      "note": "Blue and Yellow Macaw, Great Green Macaw, Scarlet Macaw, Red-footed Booby, Red Boa, Rainbow Boa, Sunglow Boa, Fer-de-Lance. Cuban Land Crab and Green Iguana also live on Guarma but spawn at Flat Iron Lake too, so they ARE required."
+    },
+    {
+      "key": "legendary-fish-for-a-fisher-of-fish",
+      "value": 13,
+      "sources": [
+        "ppx-fish",
+        "fandom-fisher-of-fish",
+        "gr-fish"
+      ],
+      "note": "Mailed to Jeremy Gill. This quest counts toward 100% completion, not toward any animal trophy. Other totals: PowerPyx and GamesRadar count 14 (they add the catfish from part II); Fandom and Game Rant count 15 (they also add the Northern Pike from The Veteran)."
+    },
+    {
+      "key": "legendary-animals-for-100-percent",
+      "value": 5,
+      "sources": [
+        "ppx-leg",
+        "fandom-100"
+      ],
+      "note": "Kill any 5 of them for Best in the West."
+    },
+    {
+      "key": "horse-max-bonding-level",
+      "value": 4,
+      "sources": [
+        "ppx-trophy",
+        "fandom-100"
+      ],
+      "note": "Needed for Trusty Steed and for 100% completion."
+    }
+  ],
+  "trophies": [
+    {
+      "id": "trophy-zoologist",
+      "name": "Zoologist",
+      "officialDescription": "Study every animal across all states in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "A late-game or post-game grind. About 16 required species live only in New Austin, which Arthur cannot enter, so the trophy realistically finishes in the Epilogue or after the credits.",
+      "howTo": [
+        "Track progress under Pause Menu > Progress > Compendium > Animals.",
+        "When an animal is close, aim at it with binoculars and press R1 when the Study prompt appears. Tracking alone does not count.",
+        "Study every sub-species and breed separately: all 12 dogs except Rufus, the cat, chickens and roosters, pigs, bulls, oxen, the cow, the goat, sheep, the mule and the donkey.",
+        "Do not bother with Guarma-only animals, legendary animals, the Carolina Parakeet or Rufus. All 152 required species can be found on the main map.",
+        "Get the Cuban Land Crab and Green Iguana at Flat Iron Lake. They spawn there as well as on Guarma.",
+        "Do New Austin species (desert pronghorns, desert bighorn, peccary, gila monster, condor, quail, Rio Grande turkey, Californian horned owl and others) as John in the Epilogue.",
+        "Find owls and bats at night. To cycle spawns, sleep at a camp or save, quit to the menu and continue."
+      ],
+      "relatedTrackers": [
+        "compendium-animals"
+      ],
+      "tips": [
+        "PowerPyx names Bear Claw, near Manzanita Post, as the best spot for mixed birds and all three common owl types.",
+        "If an aggressive animal won't hold still, hit it with a poison throwing knife. It walks off and can then be studied.",
+        "Always study first, then kill and skin. This also progresses Skin Deep."
+      ],
+      "sources": [
+        "ppx-trophy",
+        "ppx-animals",
+        "fandom-trophies",
+        "fandom-parakeet"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-skin-deep",
+      "name": "Skin Deep",
+      "officialDescription": "Skin every species of animal in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Alongside Zoologist, usually in the Epilogue because several required species live only in New Austin.",
+      "howTo": [
+        "Skin every wild species in the compendium that yields a pelt, hide or skin. The community figure is 71 species; see the compendium-animals:study-and-skin set.",
+        "Livestock and domestic animals (bulls, cows, oxen, pigs, sheep, goats), dogs, cats, the mule, the donkey and horses are not needed.",
+        "Small birds and rodents that are plucked or go straight into the satchel are not needed. Some large birds are needed (ducks, geese, herons, egrets, loons, pheasants, turkeys, the prairie chicken and the roseate spoonbill).",
+        "Guarma-only animals and legendary animals are not needed.",
+        "Check a species' Skinned status in the compendium after skinning. A PowerPyx reader reported a Western Moose that did not register until he skinned another one."
+      ],
+      "relatedTrackers": [
+        "compendium-animals"
+      ],
+      "tips": [
+        "Skin the Green Iguana on the largest island in Flat Iron Lake.",
+        "Farm snakes in the swamp around Shady Belle."
+      ],
+      "sources": [
+        "ppx-trophy",
+        "ppx-animals",
+        "ppx-animals-comments",
+        "steam-skin",
+        "fandom-trophies"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-it-was-this-big",
+      "name": "It was THIS Big!",
+      "officialDescription": "Catch a fish weighing at least 16 lbs (7.3 kg).",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Usually pops on its own while catching the heavier legendary fish for A Fisher of Fish.",
+      "howTo": [
+        "Start A Fisher of Fish (Jeremy Gill, north shore of Flat Iron Lake, south-east of Flatneck Station). It opens after the Chapter 2 mission 'A Fisher of Men'.",
+        "Buy the Special Lake, River and Swamp Lures ($20 each) at the bait shop in Lagras.",
+        "Catch a large legendary fish such as the Lake Sturgeon (railroad bridge south-west of Saint Denis) or the Longnose Gar (Bayou Nwa). Both are listed at over 40 lbs."
+      ],
+      "relatedTrackers": [
+        "legendary-fish"
+      ],
+      "sources": [
+        "ppx-trophy",
+        "ppx-fish",
+        "fandom-trophies",
+        "fandom-fisher-of-fish",
+        "fandom-fisher-of-men",
+        "fandom-legendary-fish-pages",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-trusty-steed",
+      "name": "Trusty Steed",
+      "officialDescription": "Reach max bonding level with a horse.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Comes naturally during the story if you keep one horse.",
+      "howTo": [
+        "Keep the same horse and reach bonding level 4 (Pause Menu > Player > Horse shows bonding).",
+        "Pet it (L3 when calming), feed it horse treats, brush it when dirty, and ride without draining its stamina core.",
+        "Automatic travel (cinematic autopilot) also builds bonding passively."
+      ],
+      "tips": [
+        "No story trophy requires owning or riding several horse breeds. 'Horses for Courses' is a Red Dead Online trophy. For 100% you only discover any 10 horse breeds in the compendium and reach bonding level 4."
+      ],
+      "sources": [
+        "ppx-trophy",
+        "fandom-trophies",
+        "fandom-100"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "trophy-grin-and-bear-it",
+      "name": "Grin and Bear it",
+      "officialDescription": "Survive 18 bear attacks and kill the bear each time in Story Mode.",
+      "grade": "bronze",
+      "hidden": false,
+      "online": false,
+      "missable": false,
+      "earnedWhen": "Deliberate grind. PowerPyx estimates 5-10 hours because bear spawns are random.",
+      "howTo": [
+        "Let a bear grab you, press Circle to escape, then kill it during the struggle sequence.",
+        "Use a strong rifle such as a fully upgraded Carbine Repeater with Express ammo.",
+        "Hunt between Wallace Station and Watson's Cabin. Alternatives are east of the legendary bear area and around Barrow Lagoon.",
+        "If no bear appears, move away, make camp, sleep until morning and return. Bears show up mostly in the morning and at midday.",
+        "Track progress on the Rockstar Social Club."
+      ],
+      "sources": [
+        "ppx-trophy",
+        "fandom-trophies"
+      ],
+      "confidence": "confirmed"
+    }
+  ],
+  "collectibles": [
+    {
+      "id": "legendary-bharati-grizzly-bear",
+      "set": "legendary-animals",
+      "name": "Legendary Bharati Grizzly Bear",
+      "region": "Grizzlies East, Ambarino",
+      "location": "North of O'Creagh's Run in Grizzlies East. It needs only two clues instead of three.",
+      "availableFrom": "Chapter 2, during Hosea's mission 'Exit Pursued by a Bruised Ego'. You can kill it in the mission or come back later in free roam.",
+      "sources": [
+        "fandom-bharati",
+        "fandom-exit-pursued",
+        "gr-leg",
+        "ppx-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed",
+      "missableNote": "Not missable. If you back out during the mission, it stays huntable in free roam (PowerPyx, GamesRadar)."
+    },
+    {
+      "id": "legendary-moose",
+      "set": "legendary-animals",
+      "name": "Legendary Moose",
+      "region": "Roanoke Ridge, New Hanover",
+      "location": "Roanoke Ridge, near a wooded lake.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-beaver",
+      "set": "legendary-animals",
+      "name": "Legendary Beaver",
+      "region": "Roanoke Ridge, New Hanover",
+      "location": "By a small dam near Butcher Creek, west of Van Horn Trading Post. The in-game compendium names Elysian Pool, which is close by.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-boar",
+      "set": "legendary-animals",
+      "name": "Legendary Boar",
+      "region": "Bluewater Marsh, Lemoyne",
+      "location": "Bluewater Marsh, in the marshland north of Lagras.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-bullgator",
+      "set": "legendary-animals",
+      "name": "Legendary Bullgator",
+      "region": "Bayou Nwa, Lemoyne",
+      "location": "Bayou Nwa swamp, south of Lagras and west of Lakay. First seen in the Chapter 4 mission 'Country Pursuits'.",
+      "availableFrom": "After 'That's Murfree Country', the Chapter 5 mission back at Beaver Hollow after Guarma (see disputes).",
+      "sources": [
+        "fandom-bullgator",
+        "fandom-murfree",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-fox",
+      "set": "legendary-animals",
+      "name": "Legendary Fox",
+      "region": "Scarlett Meadows, Lemoyne",
+      "location": "Near Mattock Pond, just north of Rhodes.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-coyote",
+      "set": "legendary-animals",
+      "name": "Legendary Coyote",
+      "region": "Scarlett Meadows, Lemoyne (see disputes)",
+      "location": "In the hills of Scarlett Meadows. The in-game compendium says The Heartlands, New Hanover, and GamesRadar's heading says Old Greenbank Mill.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-bighorn-ram",
+      "set": "legendary-animals",
+      "name": "Legendary Bighorn Ram",
+      "region": "Cattail Pond area, New Hanover (see disputes)",
+      "location": "East of Cattail Pond, a short ride north-west of Valentine. The in-game compendium says Grizzlies West.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-elk",
+      "set": "legendary-animals",
+      "name": "Legendary Elk",
+      "region": "Cumberland Forest, New Hanover",
+      "location": "Just east of Bacchus Station in Cumberland Forest.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-wolf",
+      "set": "legendary-animals",
+      "name": "Legendary Wolf",
+      "region": "Grizzlies, Ambarino",
+      "location": "Among the geysers of Cotorra Springs, south-west of the Wapiti reservation.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-white-bison",
+      "set": "legendary-animals",
+      "name": "Legendary White Bison",
+      "region": "Grizzlies West, Ambarino",
+      "location": "Around frozen Lake Isabella in the far north. Wear cold-weather clothing.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-buck",
+      "set": "legendary-animals",
+      "name": "Legendary Buck",
+      "region": "Big Valley, West Elizabeth",
+      "location": "Black Bone Forest in Big Valley, north of Owanjila and north-west of Strawberry.",
+      "availableFrom": "Chapter 2, after Hosea's mission 'Exit Pursued by a Bruised Ego'",
+      "sources": [
+        "fandom-legendary",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-tatanka-bison",
+      "set": "legendary-animals",
+      "name": "Legendary Tatanka Bison",
+      "region": "Hennigan's Stead, New Austin",
+      "location": "Hennigan's Stead, north-west of Manteca Falls.",
+      "availableFrom": "Epilogue (Fandom: after 'The Wheel', Epilogue Part 1). New Austin is off-limits to Arthur.",
+      "sources": [
+        "fandom-legendary",
+        "fandom-the-wheel",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-pronghorn",
+      "set": "legendary-animals",
+      "name": "Legendary Pronghorn",
+      "region": "Rio Bravo, New Austin",
+      "location": "Near Rio Del Lobo Rock in Rio Bravo, east of Fort Mercer.",
+      "availableFrom": "Epilogue (Fandom: after 'The Wheel').",
+      "sources": [
+        "fandom-legendary",
+        "fandom-the-wheel",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-cougar",
+      "set": "legendary-animals",
+      "name": "Legendary Cougar",
+      "region": "Gaptooth Ridge, New Austin",
+      "location": "Gaptooth Ridge, near Tumbleweed.",
+      "availableFrom": "Epilogue (Fandom: after 'The Wheel').",
+      "sources": [
+        "fandom-legendary",
+        "fandom-the-wheel",
+        "gr-leg",
+        "ppx-animals"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-giaguaro-panther",
+      "set": "legendary-animals",
+      "name": "Legendary Giaguaro Panther",
+      "region": "Scarlett Meadows, Lemoyne (see disputes)",
+      "location": "South-east of Bolger Glade, almost at the coast, south of Rhodes. GamesRadar says west of Shady Belle. Predator Bait helps draw it into the open.",
+      "availableFrom": "Only spawns after you finish Master Hunter challenge 9. Killing it completes Master Hunter 10.",
+      "sources": [
+        "fandom-giaguaro",
+        "ppx-leg",
+        "gr-leg",
+        "fandom-challenges",
+        "fandom-legendary"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-steelhead-trout",
+      "set": "legendary-fish",
+      "name": "Legendary Steelhead Trout",
+      "region": "Roanoke Ridge, New Hanover",
+      "location": "Upper Kamassa River by the waterfall, west of Willard's Rest. Fish from an island in the stream. Lure: Special River Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "gamerant-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-perch",
+      "set": "legendary-fish",
+      "name": "Legendary Perch",
+      "region": "Roanoke Ridge, New Hanover",
+      "location": "Elysian Pool, south of Annesburg. Stand on the rocks near the west bank or east of the waterfall. Lure: Special Lake Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-muskie",
+      "set": "legendary-fish",
+      "name": "Legendary Muskie",
+      "region": "Roanoke Ridge, New Hanover",
+      "location": "By the lighthouse at Van Horn Trading Post. Fandom says east of the lighthouse, GamesRadar says south of it. It is large, so carry it on your horse. Lure: Special River Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-longnose-gar",
+      "set": "legendary-fish",
+      "name": "Legendary Longnose Gar",
+      "region": "Bayou Nwa, Lemoyne",
+      "location": "Bayou Nwa, north of the Lakay camp (GamesRadar says the swamp near Lagras). Watch for alligators. Lure: Special Swamp Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-bullhead-catfish",
+      "set": "legendary-fish",
+      "name": "Legendary Bullhead Catfish",
+      "region": "Lemoyne",
+      "location": "Channel on the south-west/west side of the Sisika Penitentiary island (a restricted area). Swim your horse over from Copperhead Landing or use a boat. Lure: Special River Lure per PowerPyx and GamesRadar; Game Rant and the in-game text say Swamp Lure. Any special lure works.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "gamerant-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-lake-sturgeon",
+      "set": "legendary-fish",
+      "name": "Legendary Lake Sturgeon",
+      "region": "Bayou Nwa, Lemoyne",
+      "location": "From the railroad bridge south-west of Saint Denis, on its south side. Keep the line from going under the bridge and watch for trains. Lure: Special River Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-bluegill",
+      "set": "legendary-fish",
+      "name": "Legendary Bluegill",
+      "region": "Scarlett Meadows, Lemoyne",
+      "location": "Flat Iron Lake shore south-west/west of Rhodes, south of Gill's pier. Lure: Special Lake Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "gamerant-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-chain-pickerel",
+      "set": "legendary-fish",
+      "name": "Legendary Chain Pickerel",
+      "region": "The Heartlands, New Hanover",
+      "location": "Dakota River, west of Limpany and north-west of Flatneck Station. Lure: Special River Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "gamerant-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-sockeye-salmon",
+      "set": "legendary-fish",
+      "name": "Legendary Sockeye Salmon",
+      "region": "Grizzlies West, Ambarino",
+      "location": "Lake Isabella, cast from the ice edge or from the west bank where the water is open. Lure: Special Lake Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-smallmouth-bass",
+      "set": "legendary-fish",
+      "name": "Legendary Smallmouth Bass",
+      "region": "Big Valley, West Elizabeth",
+      "location": "Lake Owanjila by the Owanjila Dam, west of Strawberry. Lure: Special Lake Lure.",
+      "availableFrom": "Once 'A Fisher of Fish' is started (it opens after the Chapter 2 mission 'A Fisher of Men') and you have the special lures from Lagras",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-rock-bass",
+      "set": "legendary-fish",
+      "name": "Legendary Rock Bass",
+      "region": "Tall Trees, West Elizabeth",
+      "location": "Aurora Basin, west of Manzanita Post. Cast from the dock at Swadbass Point. Lure: Special Lake Lure.",
+      "availableFrom": "Epilogue only (Fandom and Game Rant)",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "fandom-fisher-of-fish",
+        "gamerant-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-redfin-pickerel",
+      "set": "legendary-fish",
+      "name": "Legendary Redfin Pickerel",
+      "region": "Hennigan's Stead, New Austin",
+      "location": "Stillwater Creek, south-west of Thieves Landing. Fish from the pier on the north side of the creek. Lure: Special Lake Lure (PowerPyx, GamesRadar, Fandom); Game Rant says River Lure. Any special lure works.",
+      "availableFrom": "Epilogue only (New Austin)",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "fandom-fisher-of-fish",
+        "gamerant-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-largemouth-bass",
+      "set": "legendary-fish",
+      "name": "Legendary Largemouth Bass",
+      "region": "New Austin",
+      "location": "San Luis River near Rio Del Lobo Rock, in the shallows. Lure: Special River Lure (PowerPyx, Fandom); GamesRadar says Lake Lure. Any special lure works.",
+      "availableFrom": "Epilogue only (New Austin)",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-fishing",
+        "ppx-fish",
+        "gr-fish",
+        "fandom-fisher-of-fish"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "legendary-channel-catfish",
+      "set": "legendary-fish",
+      "name": "Legendary Channel Catfish (not required)",
+      "region": "Rio Bravo, New Austin",
+      "location": "San Luis River, south of Benedict Point. Part II of A Fisher of Fish, which comes by mail invitation after all 13 fish are sent. Lure: n/a (scripted).",
+      "availableFrom": "Epilogue",
+      "sources": [
+        "ppx-fish",
+        "fandom-legendary-fish-pages",
+        "fandom-fisher-of-fish"
+      ],
+      "confidence": "confirmed",
+      "missableNote": "Not required for 100% or any trophy. Fandom says the player never actually lands it; PowerPyx words it as catching it with Jeremy."
+    },
+    {
+      "id": "legendary-northern-pike",
+      "set": "legendary-fish",
+      "name": "Legendary Northern Pike (not required)",
+      "region": "Grizzlies East, Ambarino",
+      "location": "O'Creagh's Run. Only caught during 'The Veteran' stranger mission, Part II (Hamish Sinclair), which Fandom says opens in Chapter 6. Lure: Special Lake Lure (Hamish gives you one).",
+      "availableFrom": "Chapter 6 or later",
+      "sources": [
+        "fandom-legendary-fish-pages",
+        "fandom-veteran",
+        "fandom-fisher-of-fish"
+      ],
+      "confidence": "single-source",
+      "missableNote": "Not part of A Fisher of Fish and not needed for any trophy or for 100%."
+    },
+    {
+      "id": "animal-american-alligator",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Alligator (compendium #1)",
+      "location": "Habitat per in-game compendium: swamp and river delta regions of Lemoyne - in southern Bluewater Marsh and all around Bayou Nwa.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-alligator-small",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Alligator (small) (compendium #2)",
+      "location": "Habitat per in-game compendium: swamp and river delta regions of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-nine-banded-armadillo",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Nine-Banded Armadillo (compendium #3)",
+      "location": "Habitat per in-game compendium: regions of Gaptooth Ridge, Cholla Springs and Rio Bravo.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-american-badger",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Badger (compendium #4)",
+      "location": "Habitat per in-game compendium: more arid climates of America.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-little-brown-bat",
+      "set": "compendium-animals:study",
+      "name": "Little Brown Bat (compendium #5)",
+      "location": "Habitat per in-game compendium: most of America at night. Night only.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-black-bear",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Black Bear (compendium #6)",
+      "location": "Habitat per in-game compendium: remote woodlands of Roanoke, Big Valley and Tall Trees.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-grizzly-bear",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Grizzly Bear (compendium #7)",
+      "location": "Habitat per in-game compendium: Grizzlies East.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-north-american-beaver",
+      "set": "compendium-animals:study-and-skin",
+      "name": "North American Beaver (compendium #8)",
+      "location": "Habitat per in-game compendium: along the Kamassa River in Roanoke.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-blue-jay",
+      "set": "compendium-animals:study",
+      "name": "Blue Jay (compendium #9)",
+      "location": "Habitat per in-game compendium: forested regions of the American Heartland.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-wild-boar",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Wild Boar (compendium #10)",
+      "location": "Habitat per in-game compendium: states of New Hanover, Lemoyne, and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-whitetail-buck",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Whitetail Buck (compendium #11)",
+      "location": "Habitat per in-game compendium: forested areas across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-whitetail-deer",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Whitetail Deer (compendium #12)",
+      "location": "Habitat per in-game compendium: forests of New Hanover, Lemoyne and West Elizabeth (also other habitats across the states).",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-bison",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Bison (compendium #13)",
+      "location": "Habitat per in-game compendium: plains of New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-angus-bull",
+      "set": "compendium-animals:study",
+      "name": "Angus Bull (compendium #14)",
+      "location": "Habitat per in-game compendium: farms and ranches across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-devon-bull",
+      "set": "compendium-animals:study",
+      "name": "Devon Bull (compendium #15)",
+      "location": "Habitat per in-game compendium: ranches across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-hereford-bull",
+      "set": "compendium-animals:study",
+      "name": "Hereford Bull (compendium #16)",
+      "location": "Habitat per in-game compendium: ranches across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-bullfrog",
+      "set": "compendium-animals:study",
+      "name": "American Bullfrog (compendium #17)",
+      "location": "Habitat per in-game compendium: calm and shallow waters in warmer climates like the Bayou and Bluewater Marsh.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-northern-cardinal",
+      "set": "compendium-animals:study",
+      "name": "Northern Cardinal (compendium #18)",
+      "location": "Habitat per in-game compendium: woodland areas of New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-domestic-cat",
+      "set": "compendium-animals:study",
+      "name": "American Domestic Cat (compendium #19)",
+      "location": "Habitat per in-game compendium: ranches and in towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-cedar-waxwing",
+      "set": "compendium-animals:study",
+      "name": "Cedar Waxwing (compendium #20)",
+      "location": "Habitat per in-game compendium: open and forested areas across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-dominique-chicken",
+      "set": "compendium-animals:study",
+      "name": "Dominique Chicken (compendium #21)",
+      "location": "Habitat per in-game compendium: ranches, homesteads and towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-dominique-rooster",
+      "set": "compendium-animals:study",
+      "name": "Dominique Rooster (compendium #22)",
+      "location": "Habitat per in-game compendium: ranches across Lemoyne, New Hanover, West Elizabeth and New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-java-chicken",
+      "set": "compendium-animals:study",
+      "name": "Java Chicken (compendium #23)",
+      "location": "Habitat per in-game compendium: ranches, homesteads and in towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-java-rooster",
+      "set": "compendium-animals:study",
+      "name": "Java Rooster (compendium #24)",
+      "location": "Habitat per in-game compendium: ranches across Lemoyne, New Hanover, West Elizabeth and New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-leghorn-chicken",
+      "set": "compendium-animals:study",
+      "name": "Leghorn Chicken (compendium #25)",
+      "location": "Habitat per in-game compendium: ranches across Lemoyne, New Hanover, West Elizabeth and New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-leghorn-rooster",
+      "set": "compendium-animals:study",
+      "name": "Leghorn Rooster (compendium #26)",
+      "location": "Habitat per in-game compendium: ranches across Lemoyne, New Hanover, West Elizabeth and New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-greater-prairie-chicken",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Greater Prairie Chicken (compendium #27)",
+      "location": "Habitat per in-game compendium: the Great Plains grasslands. PowerPyx: usually seen flying.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-chipmunk",
+      "set": "compendium-animals:study",
+      "name": "Western Chipmunk (compendium #28)",
+      "location": "Habitat per in-game compendium: forested and brush heavy areas of New Hanover, Lemoyne and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-californian-condor",
+      "set": "compendium-animals:study",
+      "name": "Californian Condor (compendium #29)",
+      "location": "Habitat per in-game compendium: New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-cougar",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Cougar (compendium #30)",
+      "location": "Habitat per in-game compendium: states of New Austin, West Elizabeth and remote forested sections of New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-double-crested-cormorant",
+      "set": "compendium-animals:study",
+      "name": "Double-crested Cormorant (compendium #31)",
+      "location": "Habitat per in-game compendium: near water across Lemoyne, New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-neotropic-cormorant",
+      "set": "compendium-animals:study",
+      "name": "Neotropic Cormorant (compendium #32)",
+      "location": "Habitat per in-game compendium: wetlands and coastal waters of New Hanover, Lemoyne and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-florida-cracker-cow",
+      "set": "compendium-animals:study",
+      "name": "Florida Cracker Cow (compendium #33)",
+      "location": "Habitat per in-game compendium: ranches and homesteads across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-california-valley-coyote",
+      "set": "compendium-animals:study-and-skin",
+      "name": "California Valley Coyote (compendium #34)",
+      "location": "Habitat per in-game compendium: New Austin, West Elizabeth, Lemoyne and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-cuban-land-crab",
+      "set": "compendium-animals:study",
+      "name": "Cuban Land Crab (compendium #35)",
+      "location": "Habitat per in-game compendium: Guarma, and on the main map around the shores and islands of Flat Iron Lake. PowerPyx: also spawns on the northern shore and islands of Flat Iron Lake on the main map, so it can still be obtained after Guarma.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-red-swamp-crayfish",
+      "set": "compendium-animals:study",
+      "name": "Red Swamp Crayfish (compendium #36)",
+      "location": "Habitat per in-game compendium: swampland of Bayou Nwa.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-whooping-crane",
+      "set": "compendium-animals:study",
+      "name": "Whooping Crane (compendium #37)",
+      "location": "Habitat per in-game compendium: wetlands of Lemoyne and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-sandhill-crane",
+      "set": "compendium-animals:study",
+      "name": "Sandhill Crane (compendium #38)",
+      "location": "Habitat per in-game compendium: wet and grassy marshland of Lemoyne and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-crow",
+      "set": "compendium-animals:study",
+      "name": "American Crow (compendium #39)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-fox-hound",
+      "set": "compendium-animals:study",
+      "name": "American Fox Hound (compendium #40)",
+      "location": "Habitat per in-game compendium: towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-australian-shepherd",
+      "set": "compendium-animals:study",
+      "name": "Australian Shepherd (compendium #41)",
+      "location": "Habitat per in-game compendium: most towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-bloodhound",
+      "set": "compendium-animals:study",
+      "name": "Bloodhound (compendium #42)",
+      "location": "Habitat per in-game compendium: towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-bluetick-coonhound",
+      "set": "compendium-animals:study",
+      "name": "Bluetick Coonhound (compendium #43)",
+      "location": "Habitat per in-game compendium: ranches or in towns across Lemoyne and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-border-collie",
+      "set": "compendium-animals:study",
+      "name": "Border Collie (compendium #44)",
+      "location": "Habitat per in-game compendium: ranches and in towns across Lemoyne and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-catahoula-cur",
+      "set": "compendium-animals:study",
+      "name": "Catahoula Cur (compendium #45)",
+      "location": "Habitat per in-game compendium: towns across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-chesapeake-bay-retriever",
+      "set": "compendium-animals:study",
+      "name": "Chesapeake Bay Retriever (compendium #46)",
+      "location": "Habitat per in-game compendium: ranches, homesteads, train stations and towns across New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-siberian-husky",
+      "set": "compendium-animals:study",
+      "name": "Siberian Husky (compendium #47)",
+      "location": "Habitat per in-game compendium: towns and on ranches across West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-labrador-retriever",
+      "set": "compendium-animals:study",
+      "name": "Labrador Retriever (compendium #48)",
+      "location": "Habitat per in-game compendium: farms and ranches across New Hanover and New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-poodle",
+      "set": "compendium-animals:study",
+      "name": "Poodle (compendium #49)",
+      "location": "Habitat per in-game compendium: wealthy neighborhoods of Saint Denis and Rhodes.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-mutt",
+      "set": "compendium-animals:study",
+      "name": "Mutt (compendium #50)",
+      "location": "Habitat per in-game compendium: Armadillo and Saint Denis.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rufus",
+      "set": "compendium-animals:not-required",
+      "name": "Rufus (compendium #51)",
+      "location": "Habitat per in-game compendium: Beecher's Hope farm, west of Blackwater (Epilogue only), usually near the front porch.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue",
+      "missableNote": "Rufus (Marston family dog) only appears at Beecher's Hope in the Epilogue. Reported as not required for Zoologist (see disputes)."
+    },
+    {
+      "id": "animal-standard-donkey",
+      "set": "compendium-animals:study",
+      "name": "Standard Donkey (compendium #52)",
+      "location": "Habitat per in-game compendium: ranches and farms across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-mallard-duck",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Mallard Duck (compendium #53)",
+      "location": "Habitat per in-game compendium: wetlands of West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-pekin-duck",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Pekin Duck (compendium #54)",
+      "location": "Habitat per in-game compendium: wetlands of West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-bald-eagle",
+      "set": "compendium-animals:study",
+      "name": "Bald Eagle (compendium #55)",
+      "location": "Habitat per in-game compendium: mountain habitats of Ambarino and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-golden-eagle",
+      "set": "compendium-animals:study",
+      "name": "Golden Eagle (compendium #56)",
+      "location": "Habitat per in-game compendium: mountain habitats of Ambarino and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-reddish-egret",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Reddish Egret (compendium #57)",
+      "location": "Habitat per in-game compendium: swampland of Bayou Nwa.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-little-egret",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Little Egret (compendium #58)",
+      "location": "Habitat per in-game compendium: swampland of Bayou Nwa.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-snowy-egret",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Snowy Egret (compendium #59)",
+      "location": "Habitat per in-game compendium: swamp and marshland of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rocky-mountain-bull-elk",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Rocky Mountain Bull Elk (compendium #60)",
+      "location": "Habitat per in-game compendium: Ambarino and northern New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rocky-mountain-cow-elk",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Rocky Mountain Cow Elk (compendium #61)",
+      "location": "Habitat per in-game compendium: Ambarino and northern New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-red-fox",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Red Fox (compendium #62)",
+      "location": "Habitat per in-game compendium: forests and grasslands of West Elizabeth, New Hanover, and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-gray-fox",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Gray Fox (compendium #63)",
+      "location": "Habitat per in-game compendium: forests and grasslands of West Elizabeth, New Hanover, and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-silver-fox",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Silver Fox (compendium #64)",
+      "location": "Habitat per in-game compendium: various habitats across the states, mostly at night. Night only.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-banded-gila-monster",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Banded Gila Monster (compendium #65)",
+      "location": "Habitat per in-game compendium: deserts of New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-alpine-goat",
+      "set": "compendium-animals:study",
+      "name": "Alpine Goat (compendium #66)",
+      "location": "Habitat per in-game compendium: ranches and farms across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-canada-goose",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Canada Goose (compendium #67)",
+      "location": "Habitat per in-game compendium: grasslands of New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-ferruginous-hawk",
+      "set": "compendium-animals:study",
+      "name": "Ferruginous Hawk (compendium #68)",
+      "location": "Habitat per in-game compendium: states (flying). PowerPyx: usually seen flying.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-red-tailed-hawk",
+      "set": "compendium-animals:study",
+      "name": "Red-tailed Hawk (compendium #69)",
+      "location": "Habitat per in-game compendium: open fields and deserts of New Austin, West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rough-legged-hawk",
+      "set": "compendium-animals:study",
+      "name": "Rough-legged Hawk (compendium #70)",
+      "location": "Habitat per in-game compendium: open areas and alongside cliffs across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-great-blue-heron",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Great Blue Heron (compendium #71)",
+      "location": "Habitat per in-game compendium: wet and grassy marshlands of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-tricolored-heron",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Tricolored Heron (compendium #72)",
+      "location": "Habitat per in-game compendium: wet and grassy marshlands of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-desert-iguana",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Desert Iguana (compendium #73)",
+      "location": "Habitat per in-game compendium: New Austin, most often on the small islands in the San Luis River.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-green-iguana",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Green Iguana (compendium #74)",
+      "location": "Habitat per in-game compendium: Guarma, and on the main map on the largest island in Flat Iron Lake. PowerPyx: also spawns on the largest island in Flat Iron Lake on the main map, so it can still be obtained (and skinned) after Guarma.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-collared-peccary",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Collared Peccary (compendium #75)",
+      "location": "Habitat per in-game compendium: New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-common-loon",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Common Loon (compendium #76)",
+      "location": "Habitat per in-game compendium: calm and quiet wetlands of West Elizabeth, Ambarino and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-pacific-loon",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Pacific Loon (compendium #77)",
+      "location": "Habitat per in-game compendium: remote lakes and ponds of West Elizabeth, Ambarino and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-yellow-billed-loon",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Yellow-billed Loon (compendium #78)",
+      "location": "Habitat per in-game compendium: wetlands of West Elizabeth and Ambarino.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-bull-moose",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Western Bull Moose (compendium #79)",
+      "location": "Habitat per in-game compendium: state of West Elizabeth. PowerPyx: also spawns at Cairn Lake in Ambarino.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-moose",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Western Moose (compendium #80)",
+      "location": "Habitat per in-game compendium: remote forested areas of West Elizabeth, Ambarino and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-mule",
+      "set": "compendium-animals:study",
+      "name": "Mule (compendium #81)",
+      "location": "Habitat per in-game compendium: farms and ranches across New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-muskrat",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Muskrat (compendium #82)",
+      "location": "Habitat per in-game compendium: along the rivers and shores of New Austin, West Elizabeth, Lemoyne and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-baltimore-oriole",
+      "set": "compendium-animals:study",
+      "name": "Baltimore Oriole (compendium #83)",
+      "location": "Habitat per in-game compendium: Roanoke Ridge.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-hooded-oriole",
+      "set": "compendium-animals:study",
+      "name": "Hooded Oriole (compendium #84)",
+      "location": "Habitat per in-game compendium: West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-californian-horned-owl",
+      "set": "compendium-animals:study",
+      "name": "Californian Horned Owl (compendium #85)",
+      "location": "Habitat per in-game compendium: New Austin. Night only. PowerPyx recommends Bear Claw near Manzanita Post for owls generally (this species' listed habitat is New Austin).",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-coastal-horned-owl",
+      "set": "compendium-animals:study",
+      "name": "Coastal Horned Owl (compendium #86)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states. Night only. Night only; usually near water.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-great-horned-owl",
+      "set": "compendium-animals:study",
+      "name": "Great Horned Owl (compendium #87)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states. Night only. PowerPyx: often spawns on the roof of Radley's House area near Rhodes at night; Bear Claw near Manzanita Post is also good for all owls.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-angus-ox",
+      "set": "compendium-animals:study",
+      "name": "Angus Ox (compendium #88)",
+      "location": "Habitat per in-game compendium: ranches and farms across West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-devon-ox",
+      "set": "compendium-animals:study",
+      "name": "Devon Ox (compendium #89)",
+      "location": "Habitat per in-game compendium: ranches and farms across West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-panther",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Panther (compendium #90)",
+      "location": "Habitat per in-game compendium: remote forested wetlands of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-florida-panther",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Florida Panther (compendium #91)",
+      "location": "Habitat per in-game compendium: remote forested wetlands of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-carolina-parakeet",
+      "set": "compendium-animals:not-required",
+      "name": "Carolina Parakeet (compendium #92)",
+      "location": "Habitat per in-game compendium: Bayou Nwa.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)",
+      "missableNote": "Carolina Parakeet: not needed for Zoologist or Skin Deep (PowerPyx comments, fandom, rdr2.org forum). Only 25 exist in the Bayou and they do not respawn, so it is missable for the compendium only."
+    },
+    {
+      "id": "animal-blue-and-yellow-macaw",
+      "set": "compendium-animals:not-required",
+      "name": "Blue and Yellow Macaw (compendium #93)",
+      "location": "Habitat per in-game compendium: exclusively in Chapter 5 on Guarma island.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-great-green-macaw",
+      "set": "compendium-animals:not-required",
+      "name": "Great Green Macaw (compendium #94)",
+      "location": "Habitat per in-game compendium: exclusively in Chapter 5 on Guarma island.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-scarlet-macaw",
+      "set": "compendium-animals:not-required",
+      "name": "Scarlet Macaw (compendium #95)",
+      "location": "Habitat per in-game compendium: exclusively in Chapter 5 on Guarma island.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-american-white-pelican",
+      "set": "compendium-animals:study",
+      "name": "American White Pelican (compendium #96)",
+      "location": "Habitat per in-game compendium: coastal areas of West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-brown-pelican",
+      "set": "compendium-animals:study",
+      "name": "Brown Pelican (compendium #97)",
+      "location": "Habitat per in-game compendium: coastal areas of West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-ring-necked-pheasant",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Ring-necked Pheasant (compendium #98)",
+      "location": "Habitat per in-game compendium: grasslands of New Hanover and West Elizabeth. PowerPyx: spawns south-west of Valentine.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-chinese-ring-necked-pheasant",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Chinese Ring-necked Pheasant (compendium #99)",
+      "location": "Habitat per in-game compendium: grass and forest lands of New Hanover and West Elizabeth. PowerPyx: spawns south-west of Valentine.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-berkshire-pig",
+      "set": "compendium-animals:study",
+      "name": "Berkshire Pig (compendium #100)",
+      "location": "Habitat per in-game compendium: ranches and in towns across New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-big-china-pig",
+      "set": "compendium-animals:study",
+      "name": "Big China Pig (compendium #101)",
+      "location": "Habitat per in-game compendium: on ranches and in towns across New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-old-spot-pig",
+      "set": "compendium-animals:study",
+      "name": "Old Spot Pig (compendium #102)",
+      "location": "Habitat per in-game compendium: ranches and in towns across New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-band-tailed-pigeon",
+      "set": "compendium-animals:study",
+      "name": "Band-tailed Pigeon (compendium #103)",
+      "location": "Habitat per in-game compendium: damp forests of West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rock-pigeon",
+      "set": "compendium-animals:study",
+      "name": "Rock Pigeon (compendium #104)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-virginia-opossum",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Virginia Opossum (compendium #105)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-pronghorn-buck",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Pronghorn Buck (compendium #106)",
+      "location": "Habitat per in-game compendium: wide open grasslands of New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-pronghorn-doe",
+      "set": "compendium-animals:study-and-skin",
+      "name": "American Pronghorn Doe (compendium #107)",
+      "location": "Habitat per in-game compendium: wide open grasslands of New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-sonoran-pronghorn-buck",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Sonoran Pronghorn Buck (compendium #108)",
+      "location": "Habitat per in-game compendium: open deserts of New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-sonoran-pronghorn-doe",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Sonoran Pronghorn Doe (compendium #109)",
+      "location": "Habitat per in-game compendium: open deserts of New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-baja-california-pronghorn-buck",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Baja California Pronghorn Buck (compendium #110)",
+      "location": "Habitat per in-game compendium: Gaptooth Ridge and Rio Bravo.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-baja-california-pronghorn-doe",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Baja California Pronghorn Doe (compendium #111)",
+      "location": "Habitat per in-game compendium: Gaptooth Ridge and Rio Bravo.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-california-quail",
+      "set": "compendium-animals:study",
+      "name": "California Quail (compendium #112)",
+      "location": "Habitat per in-game compendium: New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-sierra-nevada-bighorn-ram",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Sierra Nevada Bighorn Ram (compendium #113)",
+      "location": "Habitat per in-game compendium: New Austin and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-sierra-nevada-bighorn-sheep",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Sierra Nevada Bighorn Sheep (compendium #114)",
+      "location": "Habitat per in-game compendium: New Austin and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-desert-bighorn-ram",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Desert Bighorn Ram (compendium #115)",
+      "location": "Habitat per in-game compendium: New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-desert-bighorn-sheep",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Desert Bighorn Sheep (compendium #116)",
+      "location": "Habitat per in-game compendium: varied terrain of New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-rocky-mountain-bighorn-ram",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Rocky Mountain Bighorn Ram (compendium #117)",
+      "location": "Habitat per in-game compendium: Grizzlies region.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rocky-mountain-bighorn-sheep",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Rocky Mountain Bighorn Sheep (compendium #118)",
+      "location": "Habitat per in-game compendium: Grizzlies and Cumberland Forest.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-black-tailed-jackrabbit",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Black-tailed Jackrabbit (compendium #119)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-north-american-raccoon",
+      "set": "compendium-animals:study-and-skin",
+      "name": "North American Raccoon (compendium #120)",
+      "location": "Habitat per in-game compendium: Lemoyne, New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-black-rat",
+      "set": "compendium-animals:study",
+      "name": "Black Rat (compendium #121)",
+      "location": "Habitat per in-game compendium: Saint Denis and other highly populated areas.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-brown-rat",
+      "set": "compendium-animals:study",
+      "name": "Brown Rat (compendium #122)",
+      "location": "Habitat per in-game compendium: Armadillo and other densely populated areas.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-raven",
+      "set": "compendium-animals:study",
+      "name": "Western Raven (compendium #123)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-red-footed-booby",
+      "set": "compendium-animals:not-required",
+      "name": "Red-footed Booby (compendium #124)",
+      "location": "Habitat per in-game compendium: Guarma (only accessible in Chapter 5).",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-american-robin",
+      "set": "compendium-animals:study",
+      "name": "American Robin (compendium #125)",
+      "location": "Habitat per in-game compendium: wide range of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-roseate-spoonbill",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Roseate Spoonbill (compendium #126)",
+      "location": "Habitat per in-game compendium: Bayou Nwa.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-herring-gull",
+      "set": "compendium-animals:study",
+      "name": "Herring Gull (compendium #127)",
+      "location": "Habitat per in-game compendium: Bluewater Marsh. PowerPyx: all gull types also spawn around the coast of Flat Iron Lake.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-laughing-gull",
+      "set": "compendium-animals:study",
+      "name": "Laughing Gull (compendium #128)",
+      "location": "Habitat per in-game compendium: Lemoyne. PowerPyx: all gull types also spawn around the coast of Flat Iron Lake.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-ring-billed-gull",
+      "set": "compendium-animals:study",
+      "name": "Ring-billed Gull (compendium #129)",
+      "location": "Habitat per in-game compendium: Saint Denis. PowerPyx: all gull types also spawn around the coast of Flat Iron Lake.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-merino-sheep",
+      "set": "compendium-animals:study",
+      "name": "Merino Sheep (compendium #130)",
+      "location": "Habitat per in-game compendium: ranches and in towns across New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-striped-skunk",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Striped Skunk (compendium #131)",
+      "location": "Habitat per in-game compendium: variety of habitats across the states.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-red-boa-snake",
+      "set": "compendium-animals:not-required",
+      "name": "Red Boa Snake (compendium #132)",
+      "location": "Habitat per in-game compendium: Guarma.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-rainbow-boa-snake",
+      "set": "compendium-animals:not-required",
+      "name": "Rainbow Boa Snake (compendium #133)",
+      "location": "Habitat per in-game compendium: Guarma.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-sunglow-boa-snake",
+      "set": "compendium-animals:not-required",
+      "name": "Sunglow Boa Snake (compendium #134)",
+      "location": "Habitat per in-game compendium: Guarma.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-diamondback-rattlesnake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Diamondback Rattlesnake (compendium #135)",
+      "location": "Habitat per in-game compendium: Lemoyne, New Hanover and parts of West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-fer-de-lance-snake",
+      "set": "compendium-animals:not-required",
+      "name": "Fer-de-Lance Snake (compendium #136)",
+      "location": "Habitat per in-game compendium: Guarma.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "fandom-trophies",
+        "fandom-parakeet",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed",
+      "availableFrom": "Chapter 5 (Guarma only)",
+      "missableNote": "Guarma-exclusive (Chapter 5 only). Not needed for Zoologist or Skin Deep; permanently missable once you leave Guarma."
+    },
+    {
+      "id": "animal-black-tailed-rattlesnake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Black-tailed Rattlesnake (compendium #137)",
+      "location": "Habitat per in-game compendium: New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-timber-rattlesnake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Timber Rattlesnake (compendium #138)",
+      "location": "Habitat per in-game compendium: Lemoyne, New Hanover and parts of West Elizabeth. PowerPyx: most snakes can be farmed in the swamp around Shady Belle.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-northern-copperhead-snake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Northern Copperhead Snake (compendium #139)",
+      "location": "Habitat per in-game compendium: New Hanover and Lemoyne. PowerPyx: most snakes can be farmed in the swamp around Shady Belle.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-southern-copperhead-snake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Southern Copperhead Snake (compendium #140)",
+      "location": "Habitat per in-game compendium: New Hanover, Lemoyne, and southern areas of West Elizabeth. PowerPyx: most snakes can be farmed in the swamp around Shady Belle.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-midland-water-snake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Midland Water Snake (compendium #141)",
+      "location": "Habitat per in-game compendium: coastal shores of Roanoke Ridge and the swamplands of Lemoyne (in the water). Swims in water; PowerPyx: farm snakes in the swamp around Shady Belle.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-cottonmouth-snake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Cottonmouth Snake (compendium #142)",
+      "location": "Habitat per in-game compendium: coastal shores of Roanoke Ridge and the swamplands of Lemoyne (in the water). Swims in water; PowerPyx: farm snakes in the swamp around Shady Belle.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-northern-water-snake",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Northern Water Snake (compendium #143)",
+      "location": "Habitat per in-game compendium: coastal shores of Roanoke Ridge and the swamplands of Lemoyne (in the water). Swims in water; PowerPyx: farm snakes in the swamp around Shady Belle.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)",
+      "missableNote": "Not in the 70-name community list behind the \"71 animals\" figure, although every other main-map snake is. Probably the missing 71st entry; skin it to be safe (see disputes)."
+    },
+    {
+      "id": "animal-scarlet-tanager-songbird",
+      "set": "compendium-animals:study",
+      "name": "Scarlet Tanager Songbird (compendium #144)",
+      "location": "Habitat per in-game compendium: forested areas across Lemoyne, New Hanover and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-tanager-songbird",
+      "set": "compendium-animals:study",
+      "name": "Western Tanager Songbird (compendium #145)",
+      "location": "Habitat per in-game compendium: New Austin, West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-eurasian-tree-sparrow",
+      "set": "compendium-animals:study",
+      "name": "Eurasian Tree Sparrow (compendium #146)",
+      "location": "Habitat per in-game compendium: grasslands of West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-tree-sparrow",
+      "set": "compendium-animals:study",
+      "name": "American Tree Sparrow (compendium #147)",
+      "location": "Habitat per in-game compendium: grasslands of West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-golden-crowned-sparrow",
+      "set": "compendium-animals:study",
+      "name": "Golden Crowned Sparrow (compendium #148)",
+      "location": "Habitat per in-game compendium: brushy grasslands of West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-american-red-squirrel",
+      "set": "compendium-animals:study",
+      "name": "American Red Squirrel (compendium #149)",
+      "location": "Habitat per in-game compendium: forested regions of West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-gray-squirrel",
+      "set": "compendium-animals:study",
+      "name": "Western Gray Squirrel (compendium #150)",
+      "location": "Habitat per in-game compendium: forested regions of West Elizabeth and New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-black-squirrel",
+      "set": "compendium-animals:study",
+      "name": "Black Squirrel (compendium #151)",
+      "location": "Habitat per in-game compendium: woodlands of New Hanover and parts of West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-toad",
+      "set": "compendium-animals:study",
+      "name": "Western Toad (compendium #152)",
+      "location": "Habitat per in-game compendium: Lemoyne wetlands.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-sonoran-desert-toad",
+      "set": "compendium-animals:study",
+      "name": "Sonoran Desert Toad (compendium #153)",
+      "location": "Habitat per in-game compendium: Rio Bravo.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-eastern-wild-turkey",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Eastern Wild Turkey (compendium #154)",
+      "location": "Habitat per in-game compendium: forested or brushy regions of West Elizabeth, New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-rio-grande-wild-turkey",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Rio Grande Wild Turkey (compendium #155)",
+      "location": "Habitat per in-game compendium: New Austin.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Epilogue (listed habitat is New Austin, which Arthur cannot safely enter)"
+    },
+    {
+      "id": "animal-alligator-snapping-turtle",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Alligator Snapping Turtle (compendium #156)",
+      "location": "Habitat per in-game compendium: swamplands of Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-eastern-turkey-vulture",
+      "set": "compendium-animals:study",
+      "name": "Eastern Turkey Vulture (compendium #157)",
+      "location": "Habitat per in-game compendium: New Hanover and Lemoyne.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-western-turkey-vulture",
+      "set": "compendium-animals:study",
+      "name": "Western Turkey Vulture (compendium #158)",
+      "location": "Habitat per in-game compendium: variety of habitats across New Austin and West Elizabeth.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-gray-wolf",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Gray Wolf (compendium #159)",
+      "location": "Habitat per in-game compendium: Big Valley and Tall Trees North.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-timber-wolf",
+      "set": "compendium-animals:study-and-skin",
+      "name": "Timber Wolf (compendium #160)",
+      "location": "Habitat per in-game compendium: Cumberland Forest and the Grizzlies.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species",
+        "ppx-animals-comments",
+        "steam-skin"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-red-bellied-woodpecker",
+      "set": "compendium-animals:study",
+      "name": "Red-bellied Woodpecker (compendium #161)",
+      "location": "Habitat per in-game compendium: Roanoke Ridge.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    },
+    {
+      "id": "animal-pileated-woodpecker",
+      "set": "compendium-animals:study",
+      "name": "Pileated Woodpecker (compendium #162)",
+      "location": "Habitat per in-game compendium: woodland areas of New Hanover.",
+      "sources": [
+        "ppx-animals",
+        "fandom-species"
+      ],
+      "confidence": "single-source",
+      "availableFrom": "Whenever the listed region is reachable (random spawns; quit-and-continue or sleeping cycles spawns)"
+    }
+  ],
+  "missables": [
+    {
+      "id": "miss-guarma-animal-species",
+      "what": "Eight Guarma-only species: Blue and Yellow Macaw, Great Green Macaw, Scarlet Macaw, Red-footed Booby, Red Boa, Rainbow Boa, Sunglow Boa, Fer-de-Lance",
+      "deadline": "Leaving Guarma at the end of the Chapter 5 Guarma missions",
+      "recommendedTiming": "Optional. Only for a full compendium; not needed for any trophy.",
+      "why": "Guarma can't be revisited. These species don't count for Zoologist or Skin Deep.",
+      "howTo": [
+        "While on Guarma in Chapter 5, study the macaws and booby with binoculars.",
+        "PowerPyx: all four Guarma snakes can be farmed at one spot, under the letter 'E' of 'Arroyo De La Vibora' on the map. Kill one, then advance time or quit and continue for another species."
+      ],
+      "sources": [
+        "ppx-animals",
+        "ppx-trophy",
+        "fandom-trophies"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-carolina-parakeet-compendium",
+      "what": "Carolina Parakeet compendium entry",
+      "deadline": "Killing all 25 parakeets in the Bayou (they do not respawn)",
+      "recommendedTiming": "Optional. Study one with binoculars the first time you see one in Bayou Nwa.",
+      "why": "Not needed for Zoologist, Skin Deep or 100% (Fandom, PowerPyx readers, rdr2.org). Only relevant for a complete compendium.",
+      "howTo": [
+        "Study a parakeet in Bayou Nwa instead of shooting the flock."
+      ],
+      "sources": [
+        "fandom-parakeet",
+        "fandom-100",
+        "ppx-animals-comments",
+        "rdr2org-zoo"
+      ],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-legendary-animal-carcass",
+      "what": "Pelt from a legendary animal killed and not skinned",
+      "deadline": "Each legendary animal spawns only once per save; after it dies (even to an NPC or predator) it never comes back",
+      "recommendedTiming": "Skin every legendary right after you kill it.",
+      "why": "Legendary animals are not needed for Zoologist or Skin Deep. Any 5 kills count for 100%, and the Giaguaro kill is Master Hunter 10. PowerPyx says a lost legendary pelt is sent to the Trapper anyway.",
+      "howTo": [
+        "Skin immediately. Skinning a legendary also completes its compendium Study."
+      ],
+      "sources": [
+        "ppx-leg",
+        "ppx-animals",
+        "fandom-legendary"
+      ],
+      "confidence": "confirmed"
+    }
+  ],
+  "notes": [
+    "The Animal compendium has 178 entries (#1-#162 regular, #163-#178 legendary), in the same order as the in-game compendium. Horses and fish are separate compendium sections (sources: ppx-animals, fandom-species).",
+    "No Zoologist or Skin Deep species is story-missable. The two Guarma animals that are required (Cuban Land Crab, Green Iguana) also spawn around Flat Iron Lake. The PowerPyx trophy guide separately notes one missable lion from a stranger mission that doesn't count (sources: ppx-animals, ppx-trophy).",
+    "No source reports any animal that exists only in the Chapter 2 area (sources checked: ppx-animals, ppx-trophy, fandom-trophies).",
+    "Species whose compendium habitat is only New Austin can't practically be done as Arthur and are left for the Epilogue: Nine-Banded Armadillo, Californian Condor, Banded Gila Monster, Desert Iguana, Collared Peccary, Californian Horned Owl, Sonoran and Baja California Pronghorn (buck and doe), California Quail, Desert Bighorn Ram and Sheep, Black-tailed Rattlesnake, Sonoran Desert Toad, Rio Grande Wild Turkey. This list is built from the compendium habitat text; some may also spawn at the edges of West Elizabeth (sources: ppx-animals).",
+    "Night-only species: Little Brown Bat, Silver Fox (mostly night), Californian/Coastal/Great Horned Owl (sources: ppx-animals).",
+    "Legendary animals are not needed for Zoologist or Skin Deep. For 100% (Best in the West) you need any 5 legendary kills; Master Hunter 10 (part of the 90 challenges needed for 100%) needs the Giaguaro Panther (sources: ppx-leg, fandom-100, fandom-challenges).",
+    "Legendary pelts go to the Trapper (Saint Denis, plus other trapper locations) for unique outfit pieces. Legendary parts such as claws and horns go to Fences for talismans and trinkets. Neither is needed for a trophy (sources: fandom-bharati, fandom-bullgator, gr-leg, ppx-leg).",
+    "Satchels are crafted by Pearson at camp, not the Trapper. Each of the 6 category satchels needs a camp milestone and perfect pelts. The Legend of the East satchel needs all 6 plus perfect Deer, Cougar and Wolf pelts. In the Epilogue, John can buy missing satchels at a Fence. No trophy and no 100% requirement involves satchels (sources: fandom-satchel, fandom-100).",
+    "Satchel pelt totals for everything: 7 perfect Deer, 2 perfect Elk, and one each of perfect Bison, Raccoon, Badger, Squirrel, Boar, Iguana, Panther, Beaver, Rabbit, Cougar and Wolf (sources: fandom-satchel).",
+    "Best in the West (100%) animal and fishing parts: discover any 50 animal species, any 10 fish species and any 10 horse breeds; reach bonding level 4 with a horse; kill any 5 legendary animals; complete 'A Fisher of Fish' (13 legendary fish) and 'Duchesses and Other Animals' (sources: fandom-100, ppx-leg, ppx-fish).",
+    "Related challenges (needed for 100%): Survivalist 9 = catch a fish of at least 19 lbs; Survivalist 10 = catch one of each fish type; Master Hunter 5 = skin 3 bears; Master Hunter 6 = kill 5 cougars with a bow and skin them; Master Hunter 10 = kill the Giaguaro Panther (sources: fandom-challenges).",
+    "Horse trophies in Story Mode: only Trusty Steed (bonding level 4). No story trophy asks for a number of horse breeds; 'Horses for Courses' (own 5 horses) is a Red Dead Online trophy (sources: fandom-trophies, ppx-trophy).",
+    "Legendary fish can't be sold, cooked or donated; they are only mailed to Jeremy Gill at a Post Office. Large ones must be carried on your horse to the post office, while small ones go in the satchel. If you lose one, catch it again (sources: ppx-fish, fandom-fishing).",
+    "Any special lure (Lake, River or Swamp) works on every legendary fish; the 'right' lure only speeds up the bite. Don't use bait. Press R2/L2 once to attract fish if nothing bites for about a minute (sources: ppx-fish, fandom-fishing).",
+    "A Fisher of Fish rewards: 1 fish mailed gives a Lake Lure; 10 give $45 and fish meat; 13 bring Jeremy Gill's invitation for Part II, which can't arrive before Epilogue Part II (sources: fandom-fisher-of-fish)."
+  ],
+  "disputes": [
+    {
+      "topic": "Number of animals required for Zoologist",
+      "details": "Most sources exclude the same groups (legendaries, 8 Guarma species, Carolina Parakeet, Rufus), giving 152. One smaller guide gives a very different number.",
+      "positions": [
+        {
+          "claim": "152 species (178 minus 16 legendary, 8 Guarma, the Carolina Parakeet and Rufus)",
+          "sources": [
+            "ta-snippet",
+            "ppx-animals",
+            "ppx-animals-comments",
+            "fandom-trophies",
+            "fandom-parakeet"
+          ]
+        },
+        {
+          "claim": "165 for Zoologist and 151 for Skin Deep",
+          "sources": [
+            "selphie"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use 152 and the compendium-animals:study and :study-and-skin sets. Tell players to study anything they see anyway; it costs nothing."
+    },
+    {
+      "topic": "Whether Rufus (Epilogue dog) is required for Zoologist",
+      "details": "Rufus is excluded only by the TrueAchievements count (152 only works if he is left out) and a PowerPyx reader comment ('nor a dog from the Epilogue'). Fandom's trophy description mentions only Guarma animals and the Carolina Parakeet.",
+      "positions": [
+        {
+          "claim": "Not required",
+          "sources": [
+            "ppx-animals-comments",
+            "ta-snippet"
+          ]
+        },
+        {
+          "claim": "Not mentioned as an exclusion (description only excludes Guarma animals and the Carolina Parakeet)",
+          "sources": [
+            "fandom-trophies"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players to study Rufus at Beecher's Hope in the Epilogue anyway. It's trivial and removes the risk."
+    },
+    {
+      "topic": "Whether the Carolina Parakeet is required",
+      "details": "The PowerPyx guide lists it with no exclusion note, and a 2025 PowerPyx reader asked whether it is needed.",
+      "positions": [
+        {
+          "claim": "Not required for Zoologist or Skin Deep",
+          "sources": [
+            "fandom-parakeet",
+            "fandom-trophies",
+            "ppx-animals-comments",
+            "rdr2org-zoo"
+          ]
+        },
+        {
+          "claim": "Listed as a normal entry with no exclusion note",
+          "sources": [
+            "ppx-animals"
+          ]
+        }
+      ],
+      "suggestedHandling": "Mark it not required, but suggest studying one with binoculars in Bayou Nwa if the player sees one."
+    },
+    {
+      "topic": "Skin Deep list: 71 vs 70 named animals, and livestock",
+      "details": "The only full list found (a PowerPyx reader comment) claims 71 but names 70. The only main-map snake it leaves out is #143 Northern Water Snake. Fandom's trophy description lists the non-skinnable exclusions (dogs, cats, mules, donkeys, horses, 10-foot red boa, Guarma, parakeet) but says nothing about livestock. PowerPyx itself only says 'everything with a pelt'.",
+      "positions": [
+        {
+          "claim": "71 wild animals; livestock (cows, bulls, oxen, pigs, sheep, goats) not required",
+          "sources": [
+            "ppx-animals-comments",
+            "steam-skin",
+            "ta-snippet"
+          ]
+        },
+        {
+          "claim": "Every skinnable species, with no livestock exclusion mentioned",
+          "sources": [
+            "fandom-trophies",
+            "ppx-animals"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use the 71-entry study-and-skin set (70 named plus Northern Water Snake). Tell players that if the trophy doesn't pop, they should skin one of each livestock type (bulls, ox, cow, pigs, sheep, goat) as a fallback, and re-check each species' Skinned status in the compendium."
+    },
+    {
+      "topic": "When the Legendary Bullgator becomes huntable",
+      "details": "",
+      "positions": [
+        {
+          "claim": "After 'That's Murfree Country' (Chapter 5, after returning from Guarma)",
+          "sources": [
+            "fandom-bullgator",
+            "fandom-murfree"
+          ]
+        },
+        {
+          "claim": "After the Chapter 4 mission 'Country Pursuits'",
+          "sources": [
+            "gr-leg"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players it's reliably available after 'That's Murfree Country'. It isn't needed for any trophy anyway."
+    },
+    {
+      "topic": "Legendary animal locations that differ between the in-game compendium and guides",
+      "details": "The compendium habitat text (PowerPyx quotes it) differs from where guides say the animals actually spawn, for the Coyote (compendium: The Heartlands; guides: Scarlett Meadows), the Bighorn Ram (compendium: Grizzlies West; guides: Cattail Pond near Valentine) and the Beaver (compendium: Elysian Pool; guides: Butcher Creek). GamesRadar also labels the Beaver 'Lemoyne' and the Moose 'Ambarino', but both places are in Roanoke Ridge, New Hanover. For the Giaguaro, Fandom and PowerPyx say south-east of Bolger Glade, while GamesRadar says west of Shady Belle.",
+      "positions": [
+        {
+          "claim": "Map spawn points as given in the legendary-animals set",
+          "sources": [
+            "fandom-legendary",
+            "gr-leg",
+            "fandom-giaguaro",
+            "ppx-leg"
+          ]
+        },
+        {
+          "claim": "In-game compendium habitat text",
+          "sources": [
+            "ppx-animals"
+          ]
+        }
+      ],
+      "suggestedHandling": "Use the guide spawn areas. Tell players to go to the legendary map icon and wait for the 'Legendary Animal Territory' prompt before searching for clues."
+    },
+    {
+      "topic": "Total number of legendary fish",
+      "details": "",
+      "positions": [
+        {
+          "claim": "13 (the ones needed for A Fisher of Fish and 100%)",
+          "sources": [
+            "fandom-fisher-of-fish",
+            "ppx-fish",
+            "gr-fish"
+          ]
+        },
+        {
+          "claim": "14 (adds the catfish from A Fisher of Fish Part II)",
+          "sources": [
+            "ppx-fish",
+            "gr-fish"
+          ]
+        },
+        {
+          "claim": "15 (also adds the Northern Pike from The Veteran)",
+          "sources": [
+            "fandom-fishing",
+            "gamerant-fish"
+          ]
+        }
+      ],
+      "suggestedHandling": "Show 13 as required, with the Channel Catfish and Northern Pike as optional extras."
+    },
+    {
+      "topic": "Recommended special lure for some legendary fish",
+      "details": "Sources disagree on the lure for the Largemouth Bass (River vs Lake), Redfin Pickerel (Lake vs River) and Bullhead Catfish (River vs Swamp).",
+      "positions": [
+        {
+          "claim": "Any special lure works on every legendary fish",
+          "sources": [
+            "ppx-fish",
+            "fandom-fishing"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players to carry all three special lures; the lure only changes bite speed."
+    },
+    {
+      "topic": "Legendary Rock Bass availability for Arthur",
+      "details": "Aurora Basin is in Tall Trees, which Arthur can see on the map. Fandom and Game Rant still say the fish is Epilogue-only; Game Rant blames the sniper that kills Arthur in that area. PowerPyx doesn't mention a restriction.",
+      "positions": [
+        {
+          "claim": "Epilogue only",
+          "sources": [
+            "fandom-fisher-of-fish",
+            "gamerant-fish"
+          ]
+        }
+      ],
+      "suggestedHandling": "Tell players to leave the Rock Bass, Redfin Pickerel and Largemouth Bass for the Epilogue."
+    }
+  ]
+}

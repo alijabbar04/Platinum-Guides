@@ -1,0 +1,931 @@
+{
+  "generated": "2026-10-01",
+  "notes": [
+    "Lending a Hand = 28 parts, confirmed by PowerPyx, the Red Dead Wiki and Pixel Twelve. Pouring Forth Oil II and American Fathers are NOT included. All 28 are in the route before their cut-offs.",
+    "Home Improvement for Beginners replay workaround: reported working on patch 1.02/1.03 (PowerPyx, wiki). Search summaries of the PSNProfiles thread and a TrueAchievements comment report it still working in 2022-2025, with one Dec 2025 report that it failed. Those pages were blocked, so this is unverified. Status on the current patch is unclear. Keep it as a last resort only, as the route already does (09-cleanup).",
+    "Chapter cut-offs: Ch2 ends with A Strange Kindness, Ch3 with The Battle of Shady Belle, Ch4 with Banking. The route's earlier cut-offs (The Sheep and the Goats; Blessed are the Peacemakers / Blood Feuds) are conservative and safe. In Ch6, Of Men and Angels (and in practice the Rains Fall chain) end at The Fine Art of Conversation. Sadie ends at My Last Boy, and the other Ch6 strands end with the chapter."
+  ],
+  "sources": [
+    {
+      "id": "ppx",
+      "title": "PowerPyx - Red Dead Redemption 2 Trophy Guide & Roadmap",
+      "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/"
+    },
+    {
+      "id": "w-lah",
+      "title": "Red Dead Wiki - Lending a Hand",
+      "url": "https://reddead.fandom.com/wiki/Lending_a_Hand"
+    },
+    {
+      "id": "w-missable",
+      "title": "Red Dead Wiki - Missable Content in Redemption 2",
+      "url": "https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2"
+    },
+    {
+      "id": "w-sadie",
+      "title": "Red Dead Wiki - Mrs. Sadie Adler, Widow",
+      "url": "https://reddead.fandom.com/wiki/Mrs._Sadie_Adler,_Widow"
+    },
+    {
+      "id": "w-omaa",
+      "title": "Red Dead Wiki - Of Men and Angels",
+      "url": "https://reddead.fandom.com/wiki/Of_Men_and_Angels"
+    },
+    {
+      "id": "w-fwb",
+      "title": "Red Dead Wiki - Friends With Benefits",
+      "url": "https://reddead.fandom.com/wiki/Friends_With_Benefits"
+    },
+    {
+      "id": "w-errand",
+      "title": "Red Dead Wiki - Errand Boy",
+      "url": "https://reddead.fandom.com/wiki/Errand_Boy"
+    },
+    {
+      "id": "w-home",
+      "title": "Red Dead Wiki - Home Improvement for Beginners",
+      "url": "https://reddead.fandom.com/wiki/Home_Improvement_for_Beginners"
+    },
+    {
+      "id": "w-dnsa",
+      "title": "Red Dead Wiki - Do Not Seek Absolution I",
+      "url": "https://reddead.fandom.com/wiki/Do_Not_Seek_Absolution_I"
+    },
+    {
+      "id": "w-ml5",
+      "title": "Red Dead Wiki - Money Lending and Other Sins V",
+      "url": "https://reddead.fandom.com/wiki/Money_Lending_and_Other_Sins_V"
+    },
+    {
+      "id": "w-ml12",
+      "title": "Red Dead Wiki - Money Lending and Other Sins I & II",
+      "url": "https://reddead.fandom.com/wiki/Money_Lending_and_Other_Sins_I_%26_II"
+    },
+    {
+      "id": "w-ml3",
+      "title": "Red Dead Wiki - Money Lending and Other Sins III",
+      "url": "https://reddead.fandom.com/wiki/Money_Lending_and_Other_Sins_III"
+    },
+    {
+      "id": "w-pfo2",
+      "title": "Red Dead Wiki - Pouring Forth Oil II",
+      "url": "https://reddead.fandom.com/wiki/Pouring_Forth_Oil_II"
+    },
+    {
+      "id": "w-af2",
+      "title": "Red Dead Wiki - American Fathers II",
+      "url": "https://reddead.fandom.com/wiki/American_Fathers_II"
+    },
+    {
+      "id": "w-ctl1",
+      "title": "Red Dead Wiki - The Course of True Love I",
+      "url": "https://reddead.fandom.com/wiki/The_Course_of_True_Love_I"
+    },
+    {
+      "id": "w-ctl4",
+      "title": "Red Dead Wiki - The Course of True Love IV",
+      "url": "https://reddead.fandom.com/wiki/The_Course_of_True_Love_IV"
+    },
+    {
+      "id": "w-fdod",
+      "title": "Red Dead Wiki - Fatherhood and Other Dreams",
+      "url": "https://reddead.fandom.com/wiki/Fatherhood_and_Other_Dreams"
+    },
+    {
+      "id": "w-arch",
+      "title": "Red Dead Wiki - Archeology for Beginners",
+      "url": "https://reddead.fandom.com/wiki/Archeology_for_Beginners"
+    },
+    {
+      "id": "w-hat",
+      "title": "Red Dead Wiki - Honor, Amongst Thieves",
+      "url": "https://reddead.fandom.com/wiki/Honor,_Amongst_Thieves"
+    },
+    {
+      "id": "w-fineart",
+      "title": "Red Dead Wiki - The Fine Art of Conversation",
+      "url": "https://reddead.fandom.com/wiki/The_Fine_Art_of_Conversation"
+    },
+    {
+      "id": "w-favored",
+      "title": "Red Dead Wiki - Favored Sons",
+      "url": "https://reddead.fandom.com/wiki/Favored_Sons"
+    },
+    {
+      "id": "w-goodbye",
+      "title": "Red Dead Wiki - Goodbye, Dear Friend",
+      "url": "https://reddead.fandom.com/wiki/Goodbye,_Dear_Friend"
+    },
+    {
+      "id": "w-kingsson",
+      "title": "Red Dead Wiki - The King's Son",
+      "url": "https://reddead.fandom.com/wiki/The_King's_Son"
+    },
+    {
+      "id": "w-mylastboy",
+      "title": "Red Dead Wiki - My Last Boy",
+      "url": "https://reddead.fandom.com/wiki/My_Last_Boy"
+    },
+    {
+      "id": "w-sheep",
+      "title": "Red Dead Wiki - The Sheep and the Goats",
+      "url": "https://reddead.fandom.com/wiki/The_Sheep_and_the_Goats"
+    },
+    {
+      "id": "w-strange",
+      "title": "Red Dead Wiki - A Strange Kindness",
+      "url": "https://reddead.fandom.com/wiki/A_Strange_Kindness"
+    },
+    {
+      "id": "w-shadybelle",
+      "title": "Red Dead Wiki - The Battle of Shady Belle",
+      "url": "https://reddead.fandom.com/wiki/The_Battle_of_Shady_Belle"
+    },
+    {
+      "id": "w-banking",
+      "title": "Red Dead Wiki - Banking, The Old American Art",
+      "url": "https://reddead.fandom.com/wiki/Banking,_The_Old_American_Art"
+    },
+    {
+      "id": "w-peace",
+      "title": "Red Dead Wiki - Blood Feuds, Ancient and Modern (plus Blessed are the Peacemakers / A Short Walk infoboxes)",
+      "url": "https://reddead.fandom.com/wiki/Blood_Feuds,_Ancient_and_Modern"
+    },
+    {
+      "id": "gg-sadie",
+      "title": "GamerGuides - Mrs Sadie Adler, Widow (Chapter 6 walkthrough)",
+      "url": "https://www.gamerguides.com/red-dead-redemption-2/guide/walkthrough/chapter-6/mrs-sadie-adler-widow"
+    },
+    {
+      "id": "gtabase-sadie",
+      "title": "GTABase - Mrs. Sadie Adler, Widow (I & II)",
+      "url": "https://www.gtabase.com/red-dead-redemption-2/missions/mrs-sadie-adler-widow-ii"
+    },
+    {
+      "id": "rdr2org-ch6",
+      "title": "RDR2.org - Chapter 6 Missions and Gold Medals Guide (page 3)",
+      "url": "https://www.rdr2.org/guides/chapter-6-missions-gold-medals-guide/3/"
+    },
+    {
+      "id": "pixel12",
+      "title": "Pixel Twelve - RDR2 Missable Content: Missions, Weapons, and Trophies",
+      "url": "https://pixeltwelve.com/articles/red-dead-redemption-2-missable-content"
+    },
+    {
+      "id": "psnp-workaround",
+      "title": "PSNProfiles forum - Lending a Hand workaround thread p.5 (search summary only; page blocked)",
+      "url": "https://forum.psnprofiles.com/topic/67688-lending-a-hand-workaround-if-you-missed-this-trophy/page/5/"
+    },
+    {
+      "id": "ta-comment",
+      "title": "TrueAchievements - Lending a Hand guide comment (search summary only; page blocked)",
+      "url": "https://www.trueachievements.com/viewcomment.aspx?commentid=1221385"
+    }
+  ],
+  "verdicts": [
+    {
+      "stepId": "start-honor-strategy",
+      "claim": "Honor level 4 of 8 needed by Chapter 6 or an honor mission (Do Not Seek Absolution) will not start",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: Do Not Seek Absolution needs Honor level 4/8 (halfway to the white side). Pixel Twelve agrees on level 4. The wiki says the mission is unavailable at low Honor. The wiki also says DNSA I can be played in Chapter 5 (after A Fork in the Road) as well as Chapter 6.",
+      "sources": [
+        "ppx",
+        "pixel12",
+        "w-dnsa"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "start-missable-trophies",
+      "claim": "Four missable trophies: LAH (Ch2/3/4/6 honor missions, each set lost when its chapter ends), FWB (one activity per Ch2/3/4 camp), Give to the Poor ($250 before Ch4 ends), Errand Boy (5 requests before Ch4 ends)",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx lists exactly these 4 missables. The wiki table has all three camp trophies available from Eastward Bound until Banking, the Old American Art. Small caveat: two Chapter 6 honor missions end before the chapter does (Of Men and Angels at The Fine Art of Conversation, Sadie Adler Widow before My Last Boy).",
+      "sources": [
+        "ppx",
+        "w-missable",
+        "w-omaa"
+      ],
+      "fix": "Optional wording: 'Each set is lost by the end of its chapter, and some Chapter 6 missions end earlier (see the Chapter 6 steps).'"
+    },
+    {
+      "stepId": "ch1-w-before-leviticus-cornwall",
+      "claim": "Cornwall letters only obtainable during the mission",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related (compendium documents). Not checked within budget.",
+      "sources": [],
+      "fix": null
+    },
+    {
+      "stepId": "ch1-m-who-the-hell-is-leviticus-cornwall",
+      "claim": "Cornwall letters lost when the mission ends",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. Not checked. PowerPyx tells a commenter that nothing is missable in Chapter 1 (trophy-wise), which fits the route.",
+      "sources": [
+        "ppx"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch1-w-before-eastward-bound",
+      "claim": "Nothing trophy-related is lost in Chapter 1",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx confirms in its comments that nothing is missable in Chapter 1. The wiki says the camp trophies become available after Eastward Bound.",
+      "sources": [
+        "ppx",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-t-give-to-the-poor",
+      "claim": "Donate $250 total (cumulative, own donations only) before finishing Banking, the Old American Art",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: the tithing box exists only in Chapters 2-4. The $250 is cumulative, only your own donations count, and valuables count. Wiki table: available until Banking. Pixel Twelve: the box disappears after Chapter 4, and item donations count at their cash value.",
+      "sources": [
+        "ppx",
+        "w-missable",
+        "pixel12"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-t-friends-with-benefits",
+      "claim": "One companion activity in the Ch2 camp (Charles hunt / Javier robbery) before The Sheep and the Goats; table games may not count",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx and the wiki list Charles (bison hunt) and Javier (home robbery) for Chapter 2, and both say these can carry into Chapter 3. PowerPyx says table games do not count. The wiki lists them as activities, so avoiding them is the safe choice. The deadline is conservative because the Chapter 2 camp lasts until A Strange Kindness.",
+      "sources": [
+        "ppx",
+        "w-fwb",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-t-errand-boy",
+      "claim": "5 item requests total across Ch2-4; Chapter-2-only requests (Abigail $5, Jack, Javier, Mary-Beth pen, Sean bourbon, Pearson rabbit)",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx and the wiki both mark Abigail, Javier, Mary-Beth and Jack (thimble) as Chapter 2 only. Wiki: players have only triggered the Pearson rabbit request in Chapter 2. PowerPyx lists Sean's bourbon under Chapter 2, and the wiki gives Chapters 2 and 3. Both say requests happen 08:00-20:00. The wiki lists Uncle and Charles requests in Epilogue 2, but its own missable table ends Errand Boy at Banking. The Chapter 4 hard deadline is right.",
+      "sources": [
+        "ppx",
+        "w-errand",
+        "w-missable"
+      ],
+      "fix": "Minor: call Jack's book a 'Penny Dreadful' (not 'comic book') to match both sources."
+    },
+    {
+      "stepId": "ch2-m-money-lending-and-other-sins-i-ii",
+      "claim": "ML I & II required; before The Sheep and the Goats",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: all three Chapter 2 debt collections are needed, and only part III appears in the log. Wiki: I & II are not honor missions themselves but unlock the later ones, and they expire with Chapter 2. The route has them before the cut-off.",
+      "sources": [
+        "ppx",
+        "w-ml12",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-m-money-lending-and-other-sins-iii",
+      "claim": "ML III required; before The Sheep and the Goats",
+      "verdict": "confirmed",
+      "evidence": "Required per PowerPyx and the wiki Lending a Hand list. The wiki infobox for The Sheep and the Goats lists ML III as a prerequisite.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-ml3",
+        "w-sheep"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-m-pouring-forth-oil-ii",
+      "claim": "Pouring Forth Oil II counts for Lending a Hand",
+      "verdict": "wrong",
+      "evidence": "PowerPyx says outright that it is NOT an honor mission and does not count for Lending a Hand. It only lists it as a missable mission to be safe. The wiki Lending a Hand list leaves it out, and the 28-part total only works without it. The wiki missable page adds an important detail: Pouring Forth Oil II is skipped if left active for about 4 in-game hours.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable",
+        "w-pfo2"
+      ],
+      "fix": "Remove 'trophy-lending-a-hand' from counts. Change the unverified note to: 'Not an honor mission, so it doesn't count for Lending a Hand (PowerPyx, Red Dead Wiki). It is missable for 100%/gold medals.' Add to how: 'Start it as soon as John's icon appears. The wiki says it is skipped if left active for about 4 in-game hours.'"
+    },
+    {
+      "stepId": "ch2-m-we-loved-once-and-true-i-ii",
+      "claim": "WLO I & II start from the letter in Arthur's tent; before The Sheep and the Goats",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: read the letter in Arthur's tent, and only part III is logged. Wiki lists WLO I & II as Chapter 2 missable. Wiki missable page says each honor strand expires when its chapter is over, so this deadline is earlier than needed (safe).",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-m-we-loved-once-and-true-iii",
+      "claim": "WLO III required; before The Sheep and the Goats",
+      "verdict": "confirmed",
+      "evidence": "On both the PowerPyx and wiki lists. Wiki missable page says each honor strand expires when its chapter is over, so this deadline is earlier than needed (safe).",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-m-good-honest-snake-oil",
+      "claim": "Good, Honest, Snake Oil required; before The Sheep and the Goats",
+      "verdict": "confirmed",
+      "evidence": "Required by PowerPyx and the wiki. The wiki missable page says it does not expire until Chapter 6, so the Chapter 2 deadline is very conservative but not wrong.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-t-lending-a-hand-check",
+      "claim": "Chapter 2 honor list includes Pouring Forth Oil II",
+      "verdict": "wrong",
+      "evidence": "Everything else in the list is correct, but Pouring Forth Oil II is not an honor mission (PowerPyx, wiki). PowerPyx confirms ML I/II are not in the log.",
+      "sources": [
+        "ppx",
+        "w-lah"
+      ],
+      "fix": "Replace 'Pouring Forth Oil II' in the list with a note: 'Pouring Forth Oil II (not needed for the trophy, but missable)'. Make the same change in ch2-w-before-the-sheep-and-the-goats."
+    },
+    {
+      "stepId": "ch2-t-chapter-2-documents",
+      "claim": "Chapter 2 documents missable before The Sheep and the Goats",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. Not checked.",
+      "sources": [],
+      "fix": null
+    },
+    {
+      "stepId": "ch2-w-before-the-sheep-and-the-goats",
+      "claim": "The Sheep and the Goats is the Chapter 2 cut-off",
+      "verdict": "confirmed",
+      "evidence": "Per the wiki, A Strange Kindness is the final Chapter 2 mission, and strands expire when the chapter ends. The Sheep and the Goats needs ML III, Pouring Forth Oil IV and A Fisher of Men done first. Using The Sheep and the Goats as the cut-off is conservative and safe. Only the Pouring Forth Oil II label needs fixing.",
+      "sources": [
+        "w-missable",
+        "w-sheep",
+        "w-strange"
+      ],
+      "fix": "In the bullet list, mark Pouring Forth Oil II as 'not needed for Lending a Hand'."
+    },
+    {
+      "stepId": "ch2-w-before-a-strange-kindness",
+      "claim": "A Strange Kindness ends Chapter 2",
+      "verdict": "confirmed",
+      "evidence": "The wiki calls A Strange Kindness the final Chapter 2 mission.",
+      "sources": [
+        "w-strange",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-friends-with-benefits-activity",
+      "claim": "At this point (right after The New South) talk to Sean or Bill for a stagecoach robbery, or fish with Javier/Kieran",
+      "verdict": "wrong",
+      "evidence": "The wiki missable page says the Sean and Bill coach robberies only appear AFTER Friends in Very Low Places, which is route step 86. This step is at 67, so its main advice points to activities that don't exist yet. PowerPyx and the wiki list Javier or Kieran fishing and Sean's home robbery for Chapter 3, and say Charles's hunt and Javier's robbery can carry over from Chapter 2. The route's own cut-off (before Blessed are the Peacemakers, checkpoint 88) still leaves room after step 86.",
+      "sources": [
+        "w-missable",
+        "ppx",
+        "w-fwb"
+      ],
+      "fix": "Reorder how: first 'Fishing with Javier or Kieran, Sean's home robbery, or Charles's hunt / Javier's robbery if still offered from Chapter 2'. Then 'Sean's and Bill's stagecoach robberies only appear after Friends in Very Low Places. If nothing else is offered, do one of those at the Chapter 3 checkpoint'."
+    },
+    {
+      "stepId": "ch3-errand-boy-requests",
+      "claim": "Chapter 3 requests (Hosea ginseng, Kieran burdock, Molly mirror at Martha's Swain, Tilly necklace, Pearson compass)",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx and the wiki both list these. Molly's mirror at Martha's Swain is in both, so the note that only Game Rant has it can go. Tilly's necklace only comes up while playing dominoes with her, and Pearson's compass only while playing poker with him (PowerPyx, wiki). Errand Boy stays open until Banking.",
+      "sources": [
+        "ppx",
+        "w-errand",
+        "w-missable"
+      ],
+      "fix": "Add: 'Tilly asks only while you play dominoes with her; Pearson asks for the compass only during poker.' Drop the 'Only Game Rant gives the Pocket Mirror location' note."
+    },
+    {
+      "stepId": "ch3-m-the-course-of-true-love-i",
+      "claim": "CTL I required; before A Short Walk in a Pretty Town",
+      "verdict": "confirmed",
+      "evidence": "Required per PowerPyx and the wiki. The wiki shows it unlocks after American Distillation (route step 70, before 72) and expires at the end of Chapter 3. The route deadline is conservative.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-ctl1",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-m-the-course-of-true-love-ii",
+      "claim": "CTL II required; Chapter 3 deadline",
+      "verdict": "confirmed",
+      "evidence": "Listed by PowerPyx and the wiki. Wiki missable page says each honor strand expires when its chapter is over, so this deadline is earlier than needed (safe).",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-m-the-course-of-true-love-iii",
+      "claim": "CTL III required; Chapter 3 deadline",
+      "verdict": "confirmed",
+      "evidence": "Listed by PowerPyx and the wiki. Wiki missable page says each honor strand expires when its chapter is over, so this deadline is earlier than needed (safe).",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-m-money-lending-and-other-sins-iv",
+      "claim": "ML IV required; before Blood Feuds / Peacemakers",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: required but not added to the log. The wiki lists it for Chapter 3. Wiki missable page says each honor strand expires when its chapter is over, so this deadline is earlier than needed (safe).",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-m-magicians-for-sport",
+      "claim": "Rare rifle only during Magicians for Sport",
+      "verdict": "unclear",
+      "evidence": "Not trophy-critical (PowerPyx: only 48 of 62 weapons needed). Not checked further.",
+      "sources": [
+        "ppx",
+        "pixel12"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-checkpoint-camp-extras",
+      "claim": "Everything Chapter 3 done before Blessed are the Peacemakers",
+      "verdict": "confirmed",
+      "evidence": "Conservative. The wiki says strands and camp activities end with the chapter, and the final mission is The Battle of Shady Belle. This checkpoint (88) comes after Friends in Very Low Places (86), so the coach robberies are available here.",
+      "sources": [
+        "w-missable",
+        "w-shadybelle"
+      ],
+      "fix": "Add: 'If you haven't done a Chapter 3 companion activity yet, Sean's and Bill's stagecoach robberies are available now (they unlock after Friends in Very Low Places).'"
+    },
+    {
+      "stepId": "ch3-warning-blood-feuds",
+      "claim": "Blood Feuds starts the Chapter 3 end",
+      "verdict": "confirmed",
+      "evidence": "Blood Feuds leads straight into The Battle of Shady Belle, which the wiki calls the final Chapter 3 mission. Conservative and safe.",
+      "sources": [
+        "w-peace",
+        "w-shadybelle"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-m-blood-feuds-ancient-and-modern",
+      "claim": "Gold Shield / Letter to Angelo Bronte only during the mission",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. The wiki missable page lists items on the nightstand and above the fireplace during this mission. Not checked in detail.",
+      "sources": [
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch3-warning-chapter-end",
+      "claim": "Battle of Shady Belle ends Chapter 3",
+      "verdict": "confirmed",
+      "evidence": "The wiki calls The Battle of Shady Belle the final Chapter 3 mission.",
+      "sources": [
+        "w-shadybelle"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-friends-with-benefits-activity",
+      "claim": "Ch4 activity (Micah/Lenny coach, Pearson hunt, Uncle rustling, Charles bank SE) before Banking",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx and the wiki list the same options. The wiki table has Banking as the deadline, and PowerPyx says the trophy pops in Chapter 4.",
+      "sources": [
+        "ppx",
+        "w-fwb",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-m-high-and-low-finance",
+      "claim": "Charles bank robbery (Special/Ultimate) counts as the Ch4 companion activity",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx and the wiki both list it as a Chapter 4 companion activity, Special/Ultimate Edition only.",
+      "sources": [
+        "ppx",
+        "w-fwb"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-m-help-a-brother-out",
+      "claim": "Help a Brother Out required; before Banking",
+      "verdict": "confirmed",
+      "evidence": "Listed by PowerPyx and the wiki for Chapter 4. The wiki missable page says it expires at the end of Chapter 4.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-m-brothers-and-sisters-one-and-all",
+      "claim": "Brothers and Sisters required; before Banking; unlocks the Ch6 Of Men and Angels",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: appears a few in-game hours after Help a Brother Out. PowerPyx and the wiki: Of Men and Angels only becomes available if this was done.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-omaa"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-fatherhood-and-other-dreams-i",
+      "claim": "Fatherhood I starts from Mary's letter in Arthur's room after Angelo Bronte",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: read the letter in Arthur's room, and only part II is logged. The wiki infobox puts it after Angelo Bronte, a Man of Honor (route step 99).",
+      "sources": [
+        "ppx",
+        "w-fdod"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-m-fatherhood-and-other-dreams",
+      "claim": "Fatherhood II required; before Banking",
+      "verdict": "confirmed",
+      "evidence": "Required per PowerPyx and the wiki, with Chapter 4 as the deadline.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-money-lending-and-other-sins-v",
+      "claim": "ML V: don't rob or knock out anyone at the Davisons' homestead first",
+      "verdict": "confirmed",
+      "evidence": "Correct but vague. The wiki says the debtor is Algie Davison (son Nate) at Catfish Jacksons. The missable page says ML V can be cancelled automatically if you knock out or kill Algie or Nate, or get past stage 3-4 of the Catfish Jacksons homestead robbery before starting it. PowerPyx confirms it is required and not in the log.",
+      "sources": [
+        "w-ml5",
+        "w-missable",
+        "ppx"
+      ],
+      "fix": "Name the place: 'Don't rob the Catfish Jacksons homestead (Algie and Nate Davison) or knock out or kill them before this debt. Doing so can cancel Money Lending V.' Remove the 'research doesn't give the location' note."
+    },
+    {
+      "stepId": "ch4-m-american-fathers",
+      "claim": "American Fathers II: gold medal only, not Lending a Hand",
+      "verdict": "confirmed",
+      "evidence": "The route correctly leaves it out of Lending a Hand. It is not on the PowerPyx or wiki honor lists. The wiki infobox shows it leading into Banking.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "w-af2"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-give-to-the-poor-final-check",
+      "claim": "Tithing box gone after Banking",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: no tithing box after Chapter 4. The wiki table has Banking as the deadline.",
+      "sources": [
+        "ppx",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-errand-boy-finish",
+      "claim": "Errand Boy before Banking",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: Chapters 2-4 only. The wiki table has Banking as the deadline.",
+      "sources": [
+        "ppx",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-m-revenge-is-a-dish-best-eaten",
+      "claim": "Two documents only during the mission",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. Not checked.",
+      "sources": [],
+      "fix": null
+    },
+    {
+      "stepId": "ch4-warning-banking",
+      "claim": "Banking is the point of no return for the camp trophies and Ch4 honor missions",
+      "verdict": "confirmed",
+      "evidence": "The wiki calls Banking the final Chapter 4 mission, and its missable table ends all three camp trophies there. PowerPyx agrees.",
+      "sources": [
+        "w-banking",
+        "w-missable",
+        "ppx"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch5-guarma-animals",
+      "claim": "Guarma animals missable",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related (PowerPyx: they don't affect the trophy). Not checked further.",
+      "sources": [
+        "ppx"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch5-warning-leaving-guarma",
+      "claim": "Last chance on Guarma",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. Not checked.",
+      "sources": [],
+      "fix": null
+    },
+    {
+      "stepId": "ch5-honor-heads-up",
+      "claim": "Need Honor 4/8 for a Ch6 honor mission",
+      "verdict": "confirmed",
+      "evidence": "Same as start-honor-strategy. Worth adding: the wiki says Do Not Seek Absolution I can already be done in Chapter 5 after A Fork in the Road.",
+      "sources": [
+        "ppx",
+        "pixel12",
+        "w-dnsa"
+      ],
+      "fix": "Optional tip: 'Do Not Seek Absolution can already start in Chapter 5 after A Fork in the Road if your Honor is high enough.'"
+    },
+    {
+      "stepId": "ch6-honor-check",
+      "claim": "Honor 4/8 before Do Not Seek Absolution; +50% Honor gain in Ch6",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx gives both the 4/8 requirement and the +50% Chapter 6 gain. Pixel Twelve also says level 4.",
+      "sources": [
+        "ppx",
+        "pixel12"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-honor-missions-overview",
+      "claim": "Ch6 list: ML VI-VII, DNSA I-II, OMaA I-II, CTL IV-V, Archeology, Honor Amongst Thieves, Sadie Adler Widow I-II; replays do not count",
+      "verdict": "confirmed",
+      "evidence": "Matches PowerPyx, the wiki Lending a Hand page (no part numbers there) and Pixel Twelve exactly. PowerPyx says replays from the Story menu do not count. With Chapters 2-4, the total is 28 parts: ML I-VII (7), Good Honest Snake Oil, WLO I-III, CTL I-V, Help a Brother Out, Brothers and Sisters, Fatherhood I-II, DNSA I-II, OMaA I-II, Archeology, Honor Amongst Thieves, Sadie I-II. Pouring Forth Oil II and American Fathers are not included.",
+      "sources": [
+        "ppx",
+        "w-lah",
+        "pixel12"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-money-lending-vi-vii",
+      "claim": "ML VI & VII required; do before Sadie Adler Widow; deadline Fine Art",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: required but not in the log. The wiki missable page warns that ML VI & VII can disappear if Mrs. Sadie Adler, Widow is finished first, which is what the route says. The wiki says the strand expires with Chapter 6, so the Fine Art deadline is conservative.",
+      "sources": [
+        "ppx",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-m-do-not-seek-absolution-i",
+      "claim": "DNSA I needs Honor 4; before Fine Art",
+      "verdict": "confirmed",
+      "evidence": "Honor 4 comes from PowerPyx and Pixel Twelve. The wiki says it is unavailable at low Honor and can be played in Chapter 5 or 6 after A Fork in the Road. The deadline is conservative.",
+      "sources": [
+        "ppx",
+        "pixel12",
+        "w-dnsa",
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-m-do-not-seek-absolution-ii",
+      "claim": "DNSA II required; about 4 in-game hours after part I",
+      "verdict": "confirmed",
+      "evidence": "Required per PowerPyx and the wiki. The 4-hour gap was not checked independently.",
+      "sources": [
+        "ppx",
+        "w-lah"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-of-men-and-angels",
+      "claim": "OMaA I & II needs Brothers and Sisters; lost at The Fine Art of Conversation",
+      "verdict": "confirmed",
+      "evidence": "The wiki says it must be played before Trelawny's The Fine Art of Conversation and needs Brothers and Sisters from Chapter 4. Pixel Twelve gives the same window (after A Fork in the Road, before Fine Art). PowerPyx confirms it is needed and not in the log.",
+      "sources": [
+        "w-omaa",
+        "pixel12",
+        "ppx"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-course-of-true-love-iv",
+      "claim": "CTL IV starts from Penelope's letter; before Fine Art",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx: read the letter in Arthur's tent, and only part V is logged. The wiki infobox puts it after CTL III and That's Murfree Country (route step 139). The deadline is conservative.",
+      "sources": [
+        "ppx",
+        "w-ctl4"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-m-the-course-of-true-love-v",
+      "claim": "CTL V required; before Fine Art",
+      "verdict": "confirmed",
+      "evidence": "Required per PowerPyx and the wiki. The deadline is conservative.",
+      "sources": [
+        "ppx",
+        "w-lah"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-m-the-widow-of-willards-rest",
+      "claim": "Widow of Willard's Rest must be finished as Arthur",
+      "verdict": "confirmed",
+      "evidence": "Not needed for a trophy. The wiki says it is available after A Fork in the Road. If you meet her as Arthur but leave it unfinished, she is gone (dead) by the Epilogue.",
+      "sources": [
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-m-archeology-for-beginners",
+      "claim": "Archeology required; accept Monroe's request or Honor Amongst Thieves never appears; before Fine Art",
+      "verdict": "confirmed",
+      "evidence": "PowerPyx and Pixel Twelve: accept Monroe's request to unlock Honor, Amongst Thieves. The wiki shows The Fine Art of Conversation can follow Archeology, Honor Amongst Thieves or just A Rage Unleashed, so starting Fine Art early skips the Rains Fall chain. The before-Fine-Art deadline is right.",
+      "sources": [
+        "ppx",
+        "pixel12",
+        "w-arch",
+        "w-fineart"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-m-honor-amongst-thieves",
+      "claim": "HAT required; before Fine Art",
+      "verdict": "confirmed",
+      "evidence": "Required by PowerPyx and the wiki. The wiki has The Fine Art of Conversation as the next mission, and RDR2.org says Fine Art unlocks after it.",
+      "sources": [
+        "ppx",
+        "w-hat",
+        "rdr2org-ch6"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-fundraiser-check",
+      "claim": "Fundraiser stranger lost after Ch6",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. The wiki only says it is unavailable in the Epilogue.",
+      "sources": [
+        "w-missable"
+      ],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-warning-fine-art-of-conversation",
+      "claim": "All Ch6 honor missions except Sadie Adler Widow before Fine Art; Sadie \"only appears later\"",
+      "verdict": "confirmed",
+      "evidence": "Putting everything except Sadie before Fine Art is correct and safe. The claim that Sadie only appears later is slightly off. The wiki says Sadie unlocks after Favored Sons and The Delights of Van Horn (plus The Bridge to Nowhere, depending on order). GamerGuides says after Goodbye, Dear Friend, with no more than one other open mission. RDR2.org's mission order has Goodbye, Dear Friend, Sadie and Favored Sons before Archeology and Fine Art. Sadie is not tied to Fine Art, so it can come before or after it.",
+      "sources": [
+        "w-sadie",
+        "gg-sadie",
+        "rdr2org-ch6",
+        "w-goodbye",
+        "w-favored"
+      ],
+      "fix": "Change the Sadie bullet to: 'Mrs. Sadie Adler, Widow is not tied to this mission. It unlocks after Goodbye, Dear Friend / Favored Sons and is lost when My Last Boy starts, so it is covered after this mission.' Optional belt-and-braces reorder that also satisfies the Codeberg checklist: move Goodbye, Dear Friend (162), Favored Sons (163) and both Sadie steps (164-165) before Archeology for Beginners (156). The wiki and RDR2.org both allow that order."
+    },
+    {
+      "stepId": "ch6-sadie-adler-widow-i",
+      "claim": "Sadie Widow I unlocks only after Fine Art/Favored Sons; deadline end of Chapter 6",
+      "verdict": "wrong",
+      "evidence": "The placement after Favored Sons is valid, and Codeberg's claim that it is lost at Fine Art is false. The wiki shows it unlocks from Favored Sons + The Delights of Van Horn (+ The Bridge to Nowhere), and The King's Son needs Fine Art + Favored Sons, so Sadie can come after Fine Art. Two things are wrong. (1) The deadline is too loose: the wiki has My Last Boy as Sadie's next mission and lists Sadie as a My Last Boy prerequisite, so it is gone once My Last Boy starts, not at the end of the chapter. (2) The route never says you must ACCEPT: the wiki says declining Sadie's request in part I lowers Honor and blocks part II, which loses Lending a Hand.",
+      "sources": [
+        "w-sadie",
+        "w-favored",
+        "w-kingsson",
+        "w-mylastboy",
+        "gg-sadie",
+        "gtabase-sadie"
+      ],
+      "fix": "Set deadline to \"before starting 'My Last Boy'\" (deadlineMissionId mission-my-last-boy). Add to how: 'When Sadie asks for help, ACCEPT. Declining lowers Honor and part II never appears, which loses Lending a Hand.' Change the unlock note to: 'Unlocks after Favored Sons and The Delights of Van Horn (and The Bridge to Nowhere if you did Van Horn before Favored Sons). GamerGuides adds that you may need to have no more than one other mission open.'"
+    },
+    {
+      "stepId": "ch6-m-mrs-sadie-adler-widow",
+      "claim": "Sadie Widow II required; deadline end of Chapter 6",
+      "verdict": "wrong",
+      "evidence": "Required per PowerPyx, the wiki, GTABase and Pixel Twelve. As with part I, it is lost when My Last Boy starts (the wiki puts My Last Boy right after Sadie Widow). The end-of-chapter deadline is too late, although the route still places it (165) before My Last Boy (167).",
+      "sources": [
+        "w-sadie",
+        "w-mylastboy",
+        "ppx",
+        "gtabase-sadie"
+      ],
+      "fix": "Set deadline to \"before starting 'My Last Boy'\"."
+    },
+    {
+      "stepId": "ch6-spend-cash",
+      "claim": "Spend cash before the finale",
+      "verdict": "unclear",
+      "evidence": "Not trophy-related. Not checked.",
+      "sources": [],
+      "fix": null
+    },
+    {
+      "stepId": "ch6-warning-chapter-end",
+      "claim": "Chapter 6 finale is the point of no return; check that Sadie is done",
+      "verdict": "confirmed",
+      "evidence": "The Chapter 6 warning is correct, but Sadie is already lost at My Last Boy (167), before this warning (170). The Sadie check here only helps if My Last Boy has not been started.",
+      "sources": [
+        "w-mylastboy",
+        "w-sadie"
+      ],
+      "fix": "Put a Sadie/honor check in a warning placed right before 'My Last Boy' (step 167), e.g. 'Stop: Mrs. Sadie Adler, Widow I & II must be done before My Last Boy'."
+    },
+    {
+      "stepId": "e2-before-final-mission",
+      "claim": "Save before the final mission",
+      "verdict": "unclear",
+      "evidence": "Not a missable. Not checked.",
+      "sources": [],
+      "fix": null
+    }
+  ],
+  "missing": [
+    {
+      "what": "Pouring Forth Oil II is skipped if it stays active for about 4 in-game hours. The route doesn't warn about this. It isn't needed for Lending a Hand, but it is missable for completion and gold medals.",
+      "deadline": "About 4 in-game hours after it appears (Chapter 2)",
+      "sources": [
+        "w-missable",
+        "ppx"
+      ]
+    },
+    {
+      "what": "Breaking and Entering homestead choice: Catfish Jacksons (Algie and Nate Davison) must NOT be robbed, and they must not be knocked out or killed, before Money Lending and Other Sins V in Chapter 4, or the Lending a Hand debt can be cancelled. ch2-s-homesteads doesn't exclude this homestead.",
+      "deadline": "Before 'Money Lending and Other Sins V' is completed (Chapter 4)",
+      "sources": [
+        "w-missable",
+        "w-ml5"
+      ]
+    },
+    {
+      "what": "Mrs. Sadie Adler, Widow I: you must ACCEPT Sadie's request. Declining blocks part II and loses Lending a Hand.",
+      "deadline": "Part I conversation (Chapter 6, before 'My Last Boy')",
+      "sources": [
+        "w-sadie"
+      ]
+    },
+    {
+      "what": "A hard warning before 'My Last Boy'. Sadie Adler Widow is lost there, but the route's last check comes after it, at ch6-warning-chapter-end.",
+      "deadline": "Before starting 'My Last Boy'",
+      "sources": [
+        "w-sadie",
+        "w-mylastboy"
+      ]
+    },
+    {
+      "what": "Chapter 3 companion activity timing: Sean's and Bill's stagecoach robberies only appear after 'Friends in Very Low Places'. The Chapter 3 companion step (67) comes before that mission.",
+      "deadline": "Clemens Point camp (conservatively before 'Blessed are the Peacemakers')",
+      "sources": [
+        "w-missable",
+        "ppx"
+      ]
+    }
+  ]
+}

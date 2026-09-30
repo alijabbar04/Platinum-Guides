@@ -1,0 +1,1253 @@
+{
+  "part": {
+    "id": "ch2",
+    "title": "Chapter 2",
+    "subtitle": "Horseshoe Overlook",
+    "intro": [
+      "Chapter 2 is the first open chapter. You start story missions from map icons whenever you like, and there is a lot of free roam. Go back to camp between missions: companion activities and item requests only happen there.",
+      "Missable here: the first Lending a Hand set (Money Lending I-III, We Loved Once and True I-III, Good, Honest, Snake Oil), a Chapter 2 companion activity for Friends With Benefits, and the Chapter-2-only item requests. Finish all of them before 'The Sheep and the Goats'. Start Give to the Poor and Errand Boy now too.",
+      "Nothing else here is truly missable, but this is the best time to begin challenges, rock carvings, homesteads, table games and several stranger missions. Arthur should stay out of New Austin, where bounty hunters kill him, and avoid Blackwater and Tall Trees to be safe.",
+      "Expect about 12-20 hours, depending on how much free roam you do."
+    ]
+  },
+  "steps": [
+    {
+      "id": "ch2-i-open-chapter",
+      "type": "info",
+      "title": "Know how Chapter 2 works",
+      "how": [
+        "Missions start from icons on the map. The order below is a recommendation, except that 'The Sheep and the Goats' and then 'A Strange Kindness' end the chapter.",
+        "Go back to Horseshoe Overlook camp between missions, in daytime (roughly 08:00-20:00). That's when gang members offer activities and ask for items.",
+        "If a companion prompt doesn't appear, do a story mission or sleep in your tent, then check camp again.",
+        "Stay out of New Austin (far south-west) for now: bounty hunters kill Arthur there. Avoid Blackwater and Tall Trees as well."
+      ],
+      "unverified": "Guides list Chapter 2 missions in different orders; only the chapter's final two missions are fixed. That Arthur is shot on sight in Blackwater is disputed (PowerPyx says yes; a Fandom summary says almost everything is doable as Arthur). Avoid it to be safe. The Tall Trees danger (a sniper) is only mentioned by Game Rant in the fishing research.",
+      "sources": [
+        "missions-ch1-3#px",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#ppx",
+        "missables#ppx",
+        "challenges#ppx",
+        "challenges#fandom-snippets",
+        "wildlife#ppx-animals",
+        "collectibles#ppx-bones"
+      ]
+    },
+    {
+      "id": "ch2-m-polite-society-valentine-style",
+      "type": "mission",
+      "title": "Play 'Polite Society, Valentine Style'",
+      "missionId": "mission-polite-society-valentine-style",
+      "where": "Horseshoe Overlook camp, then Valentine",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "This mission opens Chapter 2. Start it at camp.",
+        "When the stranded wagon owner asks for help, bring back the loose horse."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-t-trusty-steed",
+      "type": "task",
+      "title": "Pick one horse and bond with it",
+      "how": [
+        "Choose the horse you'll ride for the rest of the story and always ride that one.",
+        "Pat it, brush it and feed it regularly, and calm it when it's scared.",
+        "Keep going until the Horse screen shows bonding level 4."
+      ],
+      "counts": [
+        "trophy-trusty-steed",
+        "tracker:completion"
+      ],
+      "tip": "Level 4 bonding is also part of 100% completion, so this does double duty.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#damnmodz",
+        "wildlife#ppx-trophy",
+        "wildlife#fandom-100"
+      ]
+    },
+    {
+      "id": "ch2-t-give-to-the-poor",
+      "type": "task",
+      "title": "Donate $250 to the camp tithing box",
+      "where": "Horseshoe Overlook camp, tithing (donation) box",
+      "how": [
+        "Walk to the tithing box in camp and interact with it.",
+        "Donate cash. Your donations add up across visits.",
+        "Keep donating from story payouts until your own total reaches $250. Gang members' donations don't count.",
+        "Tick this step when the trophy pops."
+      ],
+      "counts": [
+        "trophy-give-to-the-poor"
+      ],
+      "missable": {
+        "deadline": "before finishing 'Banking, the Old American Art' (end of Chapter 4)",
+        "deadlineMissionId": "mission-banking-the-old-american-art"
+      },
+      "unverified": "PowerPyx says donated valuables also count towards the $250. Other guides recommend plain cash because it's tracked reliably. Donate cash to be safe.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#gamesguides",
+        "missables#damnmodz",
+        "trophies#ppx",
+        "trophies#pixel-miss"
+      ]
+    },
+    {
+      "id": "ch2-m-americans-at-rest",
+      "type": "mission",
+      "title": "Play 'Americans at Rest'",
+      "missionId": "mission-americans-at-rest",
+      "where": "Smithfield's Saloon, Valentine",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it at the mission icon in Valentine.",
+        "React at once when Javier is threatened.",
+        "In the fistfight, block and counter rather than trading blows."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-m-exit-pursued-by-a-bruised-ego",
+      "type": "mission",
+      "title": "Play 'Exit Pursued by a Bruised Ego'",
+      "missionId": "mission-exit-pursued-by-a-bruised-ego",
+      "where": "Horseshoe Overlook camp (Hosea)",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it from Hosea's icon at camp.",
+        "Skip cutscenes and do the crafting and cooking steps quickly. The mission is timed.",
+        "This mission unlocks most legendary animals. You don't need to hunt the legendary bear it introduces now; it stays huntable in free roam."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "rdr2.org lists only two gold objectives for this mission; PowerPyx, Hold To Reset and GamesHedge list three, including tracking the bear within 1:30. Aim for all three.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "missions-ch1-3#rdr2org-ch2",
+        "wildlife#ppx-leg"
+      ]
+    },
+    {
+      "id": "ch2-t-friends-with-benefits",
+      "type": "task",
+      "title": "Do a companion activity with Charles",
+      "where": "Horseshoe Overlook camp",
+      "how": [
+        "Go back to camp in daytime and talk to Charles.",
+        "Accept his hunting outing and finish it.",
+        "If he doesn't offer it, do another story mission or sleep in your tent, then try again.",
+        "Javier's home robbery in Valentine also counts, but it costs Honor. Prefer the hunt.",
+        "Don't rely on table games with gang members (five finger fillet, dominoes). They may not count."
+      ],
+      "counts": [
+        "trophy-friends-with-benefits"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "tip": "You need one activity in each of the Chapter 2, 3 and 4 camps. Doing extra in Chapter 2 does not make up for a missed later chapter.",
+      "unverified": "Guides disagree on whether finished camp table games (such as Lenny's five finger fillet) count. PowerPyx and DamnModz say they don't; one search-summary source says they do. Guides also disagree on whether Javier's Chapter 2 home robbery can still be done in Chapter 3. Do Charles's hunt in Chapter 2 to be safe. The research says the hunt is for bison but that detail comes from one source.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#gamesguides",
+        "missables#damnmodz",
+        "missables#pixel12",
+        "trophies#ppx",
+        "trophies#ws-fwb",
+        "missions-ch1-3#cb"
+      ]
+    },
+    {
+      "id": "ch2-t-errand-boy",
+      "type": "task",
+      "title": "Deliver camp item requests",
+      "where": "Horseshoe Overlook camp",
+      "how": [
+        "Spend some daytime (08:00-20:00) in camp and talk to gang members. Some will ask for an item.",
+        "Do the Chapter-2-only requests first: Abigail wants $5, Jack a comic book and a thimble, Javier Oleander Sage, Mary-Beth a fountain pen, Sean Kentucky Bourbon, Pearson an unskinned rabbit.",
+        "Buy Kentucky Bourbon (Sean) or Pomade (Bill) at a General Store. Buy Moonshine for Charles at a Fence.",
+        "Mary-Beth's fountain pen is on a nightstand at Osman Grove, east of Emerald Ranch.",
+        "Hand each item over by talking to the person who asked.",
+        "Deliver 5 in total. Chapters 3 and 4 give more chances, but finish in Chapter 2 if you can."
+      ],
+      "counts": [
+        "trophy-errand-boy"
+      ],
+      "missable": {
+        "deadline": "Chapter 2 requests: before 'The Sheep and the Goats'. Trophy: before finishing 'Banking, the Old American Art'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "tip": "Requests are random and appear more often after you've done a story mission with that person.",
+      "unverified": "One source (the Red Dead Wiki, via search summary) says item requests also appear in the Epilogue. Other guides say Chapters 2-4 only. Treat the end of Chapter 4 as the hard deadline.",
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "missables#gamesguides",
+        "missables#damnmodz",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#px",
+        "trophies#ws-errand"
+      ]
+    },
+    {
+      "id": "ch2-m-paying-a-social-call",
+      "type": "mission",
+      "title": "Play 'Paying a Social Call'",
+      "missionId": "mission-paying-a-social-call",
+      "where": "Horseshoe Overlook camp",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it from the mission icon at camp.",
+        "Use the bow, throwing knives or takedowns for the silent kills before the shooting starts.",
+        "Don't use any health items during the mission."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-s-start-challenges",
+      "type": "session",
+      "title": "Start the challenges",
+      "how": [
+        "Open Pause > Progress > Challenges. There are 9 categories of 10.",
+        "Open the Challenges tracker and work on the first few of each category as you play.",
+        "Each challenge only unlocks when the previous one in its category is done. Progress made before a challenge unlocks doesn't count.",
+        "Throwing knives are now available, which some Weapons Expert and Herbalist challenges need.",
+        "Leave anything that needs New Austin or Blackwater for the Epilogue."
+      ],
+      "counts": [
+        "tracker:challenges",
+        "trophy-best-in-the-west"
+      ],
+      "tip": "Nothing here is missable. All 90 challenges are needed for 100%, so every one you finish now saves time later.",
+      "unverified": "A Steam guide estimates 83 of 90 challenges are possible in Chapter 2; this is single-source. The mission that unlocks tomahawks is disputed.",
+      "sources": [
+        "challenges#ppx",
+        "challenges#steam",
+        "challenges#ppx-trophy"
+      ]
+    },
+    {
+      "id": "ch2-m-a-quiet-time",
+      "type": "mission",
+      "title": "Play 'A Quiet Time'",
+      "missionId": "mission-a-quiet-time",
+      "where": "Horseshoe Overlook camp",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it from the mission icon at camp.",
+        "During the drinking, find Tommy in the saloon and talk to him several times.",
+        "At the end, flee Valentine instead of fighting the lawmen."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "rdr2.org describes 'make amends' as talking to Tommy four times; other sources just say 'make amends'.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#rdr2org-ch2"
+      ]
+    },
+    {
+      "id": "ch2-m-who-is-not-without-sin",
+      "type": "mission",
+      "title": "Play 'Who is Not without Sin'",
+      "missionId": "mission-who-is-not-without-sin",
+      "where": "Mission icon for Reverend Swanson",
+      "before": [
+        "Manual save",
+        "A Horse Stimulant in your satchel"
+      ],
+      "how": [
+        "Start it from Reverend Swanson's mission icon.",
+        "After the poker tutorial, keep playing until you've won two hands.",
+        "Take a Horse Stimulant for the timed ride back to camp."
+      ],
+      "counts": [
+        "tracker:gold-medals",
+        "tracker:hobby-horse"
+      ],
+      "unverified": "rdr2.org places the start near Flatneck Station; this wasn't cross-checked. Whether the poker in this mission counts for Hobby Horse isn't stated in the research; check Pause > Progress > Total Completion > Table Games afterwards.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-m-smoking-and-other-hobbies",
+      "type": "mission",
+      "title": "Accept the cigarette card collector's quest",
+      "missionId": "mission-smoking-and-other-hobbies",
+      "where": "Flatneck Station (Phineas T. Ramsbottom)",
+      "how": [
+        "Ride to Flatneck Station and talk to Phineas T. Ramsbottom to start 'Smoking and other Hobbies'.",
+        "Accept it now even if you won't collect cards yet. About one card per set only appears in the world once the quest is accepted.",
+        "Don't sell any card you still need. You mail physical cards, so keep them.",
+        "You only need one complete set of 12 for 100%. All 144 are only for Collector's Item, and rock carvings are a faster way to get that trophy."
+      ],
+      "counts": [
+        "tracker:cigarette-cards",
+        "tracker:strangers"
+      ],
+      "sources": [
+        "collectibles#ppx-cards",
+        "collectibles#wiki-cards",
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-100"
+      ]
+    },
+    {
+      "id": "ch2-m-all-that-glitters",
+      "type": "mission",
+      "title": "Buy the first treasure map",
+      "missionId": "mission-all-that-glitters",
+      "where": "Treasure hunter Maximo, on a ridge by the river west of Flatneck Station",
+      "how": [
+        "Find Maximo Cristobal Valdespino west of Flatneck Station (south-west of Horseshoe Overlook).",
+        "Turn down his first price of $10; he drops it to $5. Buy the Jack Hall Gang map.",
+        "Picking up the map completes Explorer challenge 1.",
+        "Open the Treasure Hunts tracker to follow the map. Its clues are at Caliban's Seat, Cotorra Springs and O'Creagh's Run.",
+        "If you lose the map, buy another from a Fence."
+      ],
+      "counts": [
+        "tracker:treasure-hunts",
+        "tracker:challenges"
+      ],
+      "tip": "This strand does not count for Western Stranger, but it covers the one treasure hunt 100% needs.",
+      "sources": [
+        "collectibles#ppx-treasure",
+        "collectibles#wiki-treasure",
+        "collectibles#ppx-strangers",
+        "challenges#ppx-treasure",
+        "challenges#rdr2org-explorer"
+      ]
+    },
+    {
+      "id": "ch2-m-the-spines-of-america",
+      "type": "mission",
+      "title": "Play 'The Spines of America'",
+      "missionId": "mission-the-spines-of-america",
+      "where": "Hosea's mission icon",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it from Hosea's mission icon. It is done at night.",
+        "Search every drawer, chest and surface in the house.",
+        "On the way back, follow the marked road without stopping."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-m-money-lending-and-other-sins-i-ii",
+      "type": "mission",
+      "title": "Collect Strauss's debts (Money Lending I & II)",
+      "missionId": "mission-money-lending-and-other-sins-i-ii",
+      "where": "Horseshoe Overlook camp (Leopold Strauss)",
+      "how": [
+        "Talk to Leopold Strauss in camp to get the debt-collection jobs.",
+        "Visit every debtor on his list, not just one. The story only needs one, but guides say all of them must be done for Lending a Hand.",
+        "There is no gold medal for this part."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "unverified": "The mission research says collecting one debtor is enough to move on; the missables research says every collection task must be done for Lending a Hand. Collect them all.",
+      "sources": [
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#cb",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch2-m-money-lending-and-other-sins-iii",
+      "type": "mission",
+      "title": "Play 'Money Lending and Other Sins III'",
+      "missionId": "mission-money-lending-and-other-sins-iii",
+      "where": "Horseshoe Overlook camp (Hosea / Strauss)",
+      "before": [
+        "Manual save",
+        "Strauss's debts collected"
+      ],
+      "how": [
+        "Start it from the mission icon at camp once it appears.",
+        "Skip cutscenes and ride hard. The gold medal is only a time limit."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch2-m-blessed-are-the-meek",
+      "type": "mission",
+      "title": "Play 'Blessed are the Meek?'",
+      "missionId": "mission-blessed-are-the-meek",
+      "where": "Dutch's mission icon, then Strawberry",
+      "before": [
+        "Manual save",
+        "Dead Eye items (no health items allowed)"
+      ],
+      "how": [
+        "Start it from Dutch's mission icon at camp.",
+        "Use Dead Eye throughout. Refill Dead Eye, not health.",
+        "During the escape on horseback, headshot the mounted lawmen quickly in Dead Eye."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "GamesHedge gives the accuracy objective as 75%; PowerPyx, Hold To Reset and rdr2.org say 70%. Aim above 75%.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch2-m-the-first-shall-be-last",
+      "type": "mission",
+      "title": "Play 'The First Shall Be Last'",
+      "missionId": "mission-the-first-shall-be-last",
+      "where": "Javier's mission icon at camp",
+      "before": [
+        "Manual save",
+        "Throwing knives if you have them"
+      ],
+      "how": [
+        "Start it from Javier's mission icon.",
+        "Use throwing knives or stealth takedowns for the two men by the river.",
+        "In the firefight, shoot the sniper on the water tower first.",
+        "Don't use any health items during the mission."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-m-an-american-pastoral-scene",
+      "type": "mission",
+      "title": "Play 'An American Pastoral Scene'",
+      "missionId": "mission-an-american-pastoral-scene",
+      "where": "Mission icon at camp",
+      "before": [
+        "Manual save",
+        "'Blessed are the Meek?' done"
+      ],
+      "how": [
+        "Look for this mission's icon after 'Blessed are the Meek?'. It may take several in-game hours to appear.",
+        "If it's there, do it now. If it isn't, carry on; it will then appear after 'The Sheep and the Goats'.",
+        "Use Dead Eye on every mounted guard and skip cutscenes. There's a time limit.",
+        "Don't use any health items during the mission."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "The research lists this mission after 'The Sheep and the Goats' (PowerPyx order). PowerPyx's own walkthrough page says it unlocks after 'Blessed are the Meek?' and is given by Micah, and a search summary says it appears about 12 in-game hours later. Some player reports say it may not unlock if 'The Sheep and the Goats' comes first. Doing it before the finale avoids that risk.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh",
+        "https://www.powerpyx.com/red-dead-redemption-2-an-american-pastoral-scene-walkthrough/"
+      ]
+    },
+    {
+      "id": "ch2-m-pouring-forth-oil-i",
+      "type": "mission",
+      "title": "Play 'Pouring Forth Oil I'",
+      "missionId": "mission-pouring-forth-oil-i",
+      "where": "John's mission icon at camp",
+      "how": [
+        "Start it from John's mission icon. It's a short conversation that sets up part II.",
+        "There is no gold medal for this part."
+      ],
+      "unverified": "Only PowerPyx confirms that this part has no gold medal.",
+      "sources": [
+        "missions-ch1-3#ppx"
+      ]
+    },
+    {
+      "id": "ch2-m-pouring-forth-oil-ii",
+      "type": "mission",
+      "title": "Play 'Pouring Forth Oil II'",
+      "missionId": "mission-pouring-forth-oil-ii",
+      "where": "John's mission icon at camp",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it from John's mission icon.",
+        "Kill pursuers quickly and keep the wagon at full speed on the road.",
+        "Don't leave it sitting once it is available: the wiki reports the mission is skipped if left active for about 4 in-game hours. It is NOT an honor mission and does not count for Lending a Hand."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "unverified": "Not an honor mission (PowerPyx and the Red Dead Wiki's Lending a Hand list both leave it out; a fact-check confirmed this). The 4-hour skip is from the Red Dead Wiki only.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#cb",
+        "missions-ch1-3#gtab",
+        "missables#ppx",
+        "https://reddead.fandom.com/wiki/Pouring_Forth_Oil_II",
+        "https://reddead.fandom.com/wiki/Lending_a_Hand"
+      ]
+    },
+    {
+      "id": "ch2-m-a-fisher-of-men",
+      "type": "mission",
+      "title": "Play 'A Fisher of Men'",
+      "missionId": "mission-a-fisher-of-men",
+      "where": "Abigail's mission icon at camp",
+      "before": [
+        "Manual save"
+      ],
+      "how": [
+        "Start it from Abigail's mission icon.",
+        "Skip cutscenes. At the river, cast at once towards splashes in the water.",
+        "There's no combat in this mission."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr"
+      ]
+    },
+    {
+      "id": "ch2-m-pouring-forth-oil-iii",
+      "type": "mission",
+      "title": "Play 'Pouring Forth Oil III'",
+      "missionId": "mission-pouring-forth-oil-iii",
+      "where": "Mission icon at camp",
+      "how": [
+        "Start it from the mission icon once it appears. It prepares the train job.",
+        "There is no separate gold medal listed for this part."
+      ],
+      "unverified": "Only PowerPyx covers this part; it lists gold medals for parts II and IV only.",
+      "sources": [
+        "missions-ch1-3#ppx"
+      ]
+    },
+    {
+      "id": "ch2-m-pouring-forth-oil-iv",
+      "type": "mission",
+      "title": "Play 'Pouring Forth Oil IV'",
+      "missionId": "mission-pouring-forth-oil-iv",
+      "where": "Mission icon at camp",
+      "before": [
+        "Manual save",
+        "Dead Eye items (no health items allowed)"
+      ],
+      "how": [
+        "Start it from the mission icon.",
+        "Move fast at the start so the guards are dead before Sean fires.",
+        "Clear the baggage car: cabinets behind the left door, the right-hand shelf, the green cabinet, the cabinet above the mail bags and the chest by the back door.",
+        "Change cover when the second wave of guards arrives."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch2-m-we-loved-once-and-true-i-ii",
+      "type": "mission",
+      "title": "Read the letter in Arthur's tent (We Loved Once I & II)",
+      "missionId": "mission-we-loved-once-and-true-i-ii",
+      "where": "Arthur's tent at Horseshoe Overlook camp, then the Valentine area",
+      "how": [
+        "Check Arthur's tent for a letter. Read it to start 'We Loved Once and True'.",
+        "The letter may arrive earlier than this point. Start it as soon as it's there.",
+        "Play parts I and II. They have no gold medals, but you need them to reach part III."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#cb",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch2-m-we-loved-once-and-true-iii",
+      "type": "mission",
+      "title": "Play 'We Loved Once and True III'",
+      "missionId": "mission-we-loved-once-and-true-iii",
+      "where": "Meet near Valentine",
+      "before": [
+        "Manual save",
+        "A Horse Stimulant in your satchel",
+        "Parts I and II done"
+      ],
+      "how": [
+        "Start part III when it's offered.",
+        "Stay peaceful the whole way through.",
+        "When talking to the group's leader, answer 'Undecided', then 'Purpose'.",
+        "If a gun is drawn, shoot the gun out of his hand. Don't shoot the person.",
+        "Use a Horse Stimulant for the timed ride back to Valentine station."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "unverified": "The dialogue answers come from rdr2.org only.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#cb"
+      ]
+    },
+    {
+      "id": "ch2-m-good-honest-snake-oil",
+      "type": "mission",
+      "title": "Take the bounty from the Valentine sheriff",
+      "missionId": "mission-good-honest-snake-oil",
+      "where": "Valentine Sheriff's Office",
+      "before": [
+        "Manual save",
+        "A Horse Stimulant in your satchel"
+      ],
+      "how": [
+        "Go to the Valentine Sheriff's Office and start 'Good, Honest, Snake Oil'.",
+        "Approach the target calmly and act promptly. He doesn't run at first, so there's no need to sneak.",
+        "Hogtie him. Don't kill him.",
+        "Use a Horse Stimulant for the timed return to the sheriff."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand",
+        "tracker:gold-medals"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "unverified": "Codeberg says this mission stays available until the end of Chapter 5; PowerPyx treats it as a Chapter 2 mission. Do it now.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "missables#ppx",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch2-t-lending-a-hand-check",
+      "type": "task",
+      "title": "Check the Chapter 2 honor missions are done",
+      "how": [
+        "Open Pause > Progress > Story.",
+        "Confirm these are complete: Money Lending and Other Sins III, We Loved Once and True I-III, Good, Honest, Snake Oil.",
+        "Money Lending I and II aren't listed in the log. Make sure you visited every debtor Strauss gave you.",
+        "If any yellow honor-mission icon is still on the map, do it now."
+      ],
+      "counts": [
+        "trophy-lending-a-hand",
+        "tracker:lending-a-hand"
+      ],
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "sources": [
+        "missables#ppx",
+        "missables#codeberg",
+        "trophies#ppx",
+        "https://reddead.fandom.com/wiki/Lending_a_Hand"
+      ]
+    },
+    {
+      "id": "ch2-t-locked-and-loaded",
+      "type": "task",
+      "title": "Buy every upgrade for one gun",
+      "where": "Gunsmith in Valentine",
+      "before": [
+        "Some cash for one set of component changes on one gun",
+        "Manual save"
+      ],
+      "how": [
+        "Make a manual save outside the gunsmith.",
+        "Go to Customize and pick one gun you own, for example the Double-Action Revolver (PowerPyx's example) or the Cattleman.",
+        "Change each component slot once: grip, barrel length, barrel rifling and sights. You don't need every variant of a slot.",
+        "When Locked and Loaded pops, you can reload the save to get your money back."
+      ],
+      "counts": [
+        "trophy-locked-and-loaded",
+        "trophy-pony-up"
+      ],
+      "tip": "Pony Up needs $5,000 of shop spending in total. If you have the cash, keep shopping before you reload. Trophies you earn stay earned after the reload.",
+      "unverified": "The research doesn't give component prices. If you can't afford everything yet, do this later in the story.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "ch2-s-hobby-horse",
+      "type": "session",
+      "title": "Play the table games you can reach",
+      "how": [
+        "Open the Hobby Horse tracker. You need to play one game each of Poker, Blackjack, Dominoes and Five Finger Fillet. You don't need to win.",
+        "Five Finger Fillet: Valentine, Strawberry or Van Horn.",
+        "Blackjack: the Rhodes saloon or Van Horn.",
+        "Poker: Valentine or Flatneck Station, if the story poker didn't count.",
+        "Dominoes is in Saint Denis. The route covers it in Chapter 4.",
+        "Check Pause > Progress > Total Completion > Table Games to confirm each one."
+      ],
+      "counts": [
+        "trophy-hobby-horse",
+        "tracker:hobby-horse",
+        "tracker:challenges"
+      ],
+      "tip": "Poker and Blackjack wins also count towards the Gambler challenges.",
+      "unverified": "GamerGuides also lists blackjack in Saint Denis and Blackwater; no other source confirms it. Use Rhodes or Van Horn.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#damnmodz",
+        "challenges#ppx",
+        "challenges#steam",
+        "challenges#gg-gambler"
+      ]
+    },
+    {
+      "id": "ch2-m-geology-for-beginners",
+      "type": "mission",
+      "title": "Meet the rock carving collector",
+      "missionId": "mission-geology-for-beginners",
+      "where": "Hut north-west of Strawberry, north-east of Owanjila Dam, Big Valley (Francis Sinclair)",
+      "how": [
+        "Ride to the hut north-west of Strawberry and talk to Francis Sinclair to start 'Geology for Beginners'.",
+        "Do this before hunting carvings. Only 9 of the 10 can be recorded until you've met him."
+      ],
+      "counts": [
+        "tracker:rock-carvings",
+        "tracker:strangers",
+        "trophy-western-stranger"
+      ],
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#ppx-rc",
+        "collectibles#wiki-rc"
+      ]
+    },
+    {
+      "id": "ch2-s-rock-carvings",
+      "type": "session",
+      "title": "Find all 10 rock carvings",
+      "before": [
+        "'Geology for Beginners' started",
+        "Warm clothing for the Grizzlies"
+      ],
+      "how": [
+        "Open the Rock Carvings tracker and collect all 10. They are spread across the Grizzlies, New Hanover and West Elizabeth, and all are reachable as Arthur.",
+        "Mail the map at any post office once all 10 are recorded.",
+        "Wait about 2 in-game days, then go back to Sinclair's hut to finish the strand.",
+        "After the final cutscene, go back into the hut and take the Old Brass Compass from the table before you leave."
+      ],
+      "counts": [
+        "trophy-collectors-item",
+        "trophy-western-stranger",
+        "tracker:rock-carvings",
+        "tracker:strangers"
+      ],
+      "tip": "This is the fastest way to earn Collector's Item, and the strand is needed for 100% anyway. Don't leave Sinclair's hut after the final cutscene without the Old Brass Compass on the table (a talisman material, not needed for any trophy): the hut may lock afterwards.",
+      "unverified": "PowerPyx says the hut locks after the finale. The wiki says a reload trick or patch may reopen it. The compass is a talisman material and no trophy needs it.",
+      "sources": [
+        "collectibles#wiki-rc",
+        "collectibles#ppx-rc",
+        "collectibles#ppx-trophy",
+        "collectibles#wiki-100",
+        "trophies#ppx",
+        "trophies#gg-collector"
+      ]
+    },
+    {
+      "id": "ch2-m-a-test-of-faith",
+      "type": "mission",
+      "title": "Meet the dinosaur bone collector",
+      "missionId": "mission-a-test-of-faith",
+      "where": "The Heartlands, south-east of Horseshoe Overlook, north-east of Flatneck Station (Deborah MacGuiness)",
+      "how": [
+        "Find Deborah MacGuiness in the Heartlands and start 'A Test of Faith'.",
+        "Start it now. The 30th bone can't be recorded until you've met her.",
+        "Collect any bones you pass using the Dinosaur Bones tracker, but don't go looking for the 8 in New Austin as Arthur.",
+        "You can only finish this strand in the Epilogue."
+      ],
+      "counts": [
+        "tracker:dinosaur-bones",
+        "tracker:strangers"
+      ],
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#ppx-bones",
+        "collectibles#wiki-bones"
+      ]
+    },
+    {
+      "id": "ch2-m-the-noblest-of-men-and-a-woman",
+      "type": "mission",
+      "title": "Start 'The Noblest of Men, and a Woman'",
+      "missionId": "mission-the-noblest-of-men-and-a-woman",
+      "where": "Keane's Saloon, Valentine",
+      "how": [
+        "Look for the stranger icon at Keane's Saloon in Valentine and start the strand.",
+        "Do the parts available now. The rest opens in Chapter 4.",
+        "After each duel, pick up the gunslinger's unique revolver. It can't be picked up later."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "tip": "Not missable. It can be finished after the story, but doing it as Arthur keeps your options open.",
+      "unverified": "The start location and 'part 2 needs Chapter 4' come from Game Rant only; they aren't in the research files.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "missables#ppxweap",
+        "https://gamerant.com/red-dead-redemption-2-all-stranger-missions-locations/"
+      ]
+    },
+    {
+      "id": "ch2-m-the-smell-of-the-grease-paint",
+      "type": "mission",
+      "title": "Start 'The Smell of the Grease Paint'",
+      "missionId": "mission-the-smell-of-the-grease-paint",
+      "where": "Old Light Saloon, Van Horn Trading Post",
+      "how": [
+        "Look for the stranger icon at the Old Light Saloon in Van Horn and start the strand.",
+        "Do every part that's available now."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "tip": "Not missable. It can be finished after the story.",
+      "unverified": "The start location comes from Game Rant only; it isn't in the research files.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "https://gamerant.com/red-dead-redemption-2-all-stranger-missions-locations/"
+      ]
+    },
+    {
+      "id": "ch2-m-arcadia-for-amateurs",
+      "type": "mission",
+      "title": "Start 'Arcadia for Amateurs'",
+      "missionId": "mission-arcadia-for-amateurs",
+      "where": "West of Riggs Station, West Elizabeth",
+      "how": [
+        "Look for the stranger icon west of Riggs Station and start the strand.",
+        "Do every part that's available now. Later parts open over time."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "tip": "The Codeberg checklist says the third part is Arthur-only (lost when Chapter 6 ends). Western Stranger has plenty of spare strands, but finishing it as Arthur keeps the buffer.",
+      "unverified": "The start location comes from Game Rant only.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "missables#codeberg",
+        "https://gamerant.com/red-dead-redemption-2-all-stranger-missions-locations/"
+      ]
+    },
+    {
+      "id": "ch2-m-american-dreams",
+      "type": "mission",
+      "title": "Start 'American Dreams'",
+      "missionId": "mission-american-dreams",
+      "where": "South-east of Valentine",
+      "how": [
+        "Look for the stranger icon south-east of Valentine and start the strand.",
+        "Follow the clues it gives you. The strand has several parts."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "tip": "Not missable. It can be finished after the story.",
+      "unverified": "The start location and 'several parts' come from Game Rant only. Game Rant says some finds are needed before the strand opens up.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "https://gamerant.com/red-dead-redemption-2-all-stranger-missions-locations/"
+      ]
+    },
+    {
+      "id": "ch2-m-a-fine-night-for-it",
+      "type": "mission",
+      "title": "Trigger 'A Fine Night For It'",
+      "missionId": "mission-a-fine-night-for-it",
+      "where": "South of Bluewater Marsh, Lemoyne, at night",
+      "how": [
+        "Ride south of Bluewater Marsh at night, roughly 22:00 to 04:00.",
+        "Wait for the random encounter that starts the strand, then follow it."
+      ],
+      "counts": [
+        "tracker:strangers"
+      ],
+      "tip": "Not missable. If it doesn't trigger, try again another night or leave it for later.",
+      "unverified": "The start area and time window come from Game Rant only; they aren't in the research files.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "https://gamerant.com/red-dead-redemption-2-all-stranger-missions-locations/"
+      ]
+    },
+    {
+      "id": "ch2-m-a-better-world-a-new-friend",
+      "type": "mission",
+      "title": "Start the Ms. Hobbs hunting requests",
+      "missionId": "mission-a-better-world-a-new-friend",
+      "where": "Hunting request posters at post offices / train stations (Valentine, Rhodes, Strawberry, Van Horn)",
+      "how": [
+        "Look for a hunting request poster at the post office or station in Valentine, Rhodes, Strawberry or Van Horn.",
+        "Each request asks for perfect animal carcasses, mailed to Ms. L. Hobbs from a post office.",
+        "Do the four requests that are available before the Epilogue. The fifth only appears in the Epilogue.",
+        "If no poster is up yet, do this early in Chapter 3 instead."
+      ],
+      "counts": [
+        "tracker:strangers",
+        "tracker:completion"
+      ],
+      "tip": "All 5 requests are needed for 100% and lead to the It's Art trophy after the story.",
+      "unverified": "The research says the first four requests are available from Chapter 2. GTABase (via search summary) says this strand only opens after Chapter 2 ends. Whether it counts for Western Stranger isn't stated by PowerPyx, so don't count on it for that trophy. Poster towns come from web search, not the research.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "collectibles#wiki-betterworld",
+        "collectibles#ppx-100",
+        "https://www.gtabase.com/red-dead-redemption-2/strangers/a-better-world-a-new-friend-hunting-requests"
+      ]
+    },
+    {
+      "id": "ch2-m-fundraiser",
+      "type": "mission",
+      "title": "Do the 'Fundraiser' stranger mission (optional)",
+      "missionId": "mission-fundraiser",
+      "where": "North-west Saint Denis, near the tailor",
+      "how": [
+        "When you first visit Saint Denis, look for the woman collecting donations near the tailor.",
+        "Talk to her and finish the mission. If Saint Denis isn't open to you yet, do it when it is.",
+        "Tick this whenever it's done, up to the end of Chapter 6."
+      ],
+      "optional": true,
+      "tip": "No trophy needs this. It doesn't count for Western Stranger and is only available until Chapter 6.",
+      "unverified": "The research files list Fundraiser as a Chapter 2 stranger. GTABase (via search summary) says it only opens after Chapter 2 and puts it in Saint Denis. Its location isn't in the research files.",
+      "sources": [
+        "collectibles#ppx-strangers",
+        "collectibles#wiki-strangers",
+        "https://www.gtabase.com/red-dead-redemption-2/strangers/fundraiser"
+      ]
+    },
+    {
+      "id": "ch2-s-homesteads",
+      "type": "session",
+      "title": "Rob 4 homestead stashes",
+      "before": [
+        "Manual save before EACH homestead",
+        "A bandana to wear"
+      ],
+      "how": [
+        "Open the Homesteads tracker. You need 4 of the 7 stashes.",
+        "Make a manual save before each one.",
+        "Put your bandana on before robbing. It reduces Honor loss.",
+        "Loot everything at the homestead, not just the stash. Otherwise the trophy counter may not register it.",
+        "Never kill the owners of a homestead you haven't robbed yet. That can close it for good.",
+        "Do NOT rob Catfish Jackson's, and don't knock out or kill Algie or Nate Davison, before you have finished Money Lending V in Chapter 4: that can cancel the debt, and Money Lending V is needed for Lending a Hand.",
+        "Skip Willard's Rest (Chapter 6 or later) and the Van Horn mansion for now. Choose from the others.",
+        "If a robbery goes wrong or costs too much Honor, reload."
+      ],
+      "counts": [
+        "trophy-breaking-and-entering",
+        "tracker:homesteads"
+      ],
+      "unverified": "Most guides say this trophy isn't missable; GamerGuides treats it as missable and recommends Chapters 2-3. The research doesn't confirm which homesteads can be robbed in Chapter 2, only that the trophy is possible from Chapter 2.",
+      "sources": [
+        "missables#ppx",
+        "missables#ggroadmap",
+        "missables#damnmodz",
+        "missables#gosunoob",
+        "trophies#ppx",
+        "trophies#ppx-stash",
+        "https://reddead.fandom.com/wiki/Money_Lending_and_Other_Sins_V"
+      ]
+    },
+    {
+      "id": "ch2-s-legendary-animals",
+      "type": "session",
+      "title": "Hunt legendary animals if you like",
+      "how": [
+        "Open the Legendary Animals tracker. Most of them are available now.",
+        "Go to a legendary map icon and wait for the 'Legendary Animal Territory' prompt before looking for clues.",
+        "Skin every legendary you kill. Each one spawns only once per save.",
+        "Skip the three in New Austin, the Bullgator (later chapter) and the Giaguaro Panther (needs Master Hunter 9).",
+        "Wear cold-weather clothing for the Grizzlies (for example the White Bison at Lake Isabella)."
+      ],
+      "counts": [
+        "tracker:legendary-animals"
+      ],
+      "optional": true,
+      "tip": "No trophy needs these directly. 100% needs any 5 legendary kills, and legendary pelts give trapper outfits.",
+      "sources": [
+        "wildlife#ppx-leg",
+        "wildlife#fandom-legendary",
+        "wildlife#gr-leg",
+        "wildlife#fandom-100"
+      ]
+    },
+    {
+      "id": "ch2-i-self-sufficient",
+      "type": "info",
+      "title": "Craft many different items",
+      "how": [
+        "Self Sufficient needs 30 different item types crafted, not 30 crafts in total.",
+        "Craft a variety as you play: ammo types, tonics, cooked meats, horse items and arrows.",
+        "Improved, fire and small game arrows can already be crafted. Dynamite and poison arrows need pamphlets from a Fence."
+      ],
+      "counts": [
+        "trophy-self-sufficient"
+      ],
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase",
+        "challenges#steam"
+      ]
+    },
+    {
+      "id": "ch2-i-natural-progress",
+      "type": "info",
+      "title": "Let two trophies come naturally",
+      "how": [
+        "Take From the Rich: loot the bodies of enemies you kill in missions. The cash adds up to $250 on its own.",
+        "Pony Up: $5,000 of shop spending in total. It builds up from gunsmith, stable, general store and tailor purchases.",
+        "If Pony Up hasn't popped by the late story, save, spend on anything, then reload."
+      ],
+      "counts": [
+        "trophy-take-from-the-rich",
+        "trophy-pony-up"
+      ],
+      "sources": [
+        "trophies#ppx",
+        "trophies#rdr2org",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "ch2-t-chapter-2-documents",
+      "type": "task",
+      "title": "Grab the Chapter 2 documents (optional)",
+      "how": [
+        "Dutch's Speech Notes: near the broken wagon at Horseshoe Overlook.",
+        "Charity Handbill: on Thomas Downes's table.",
+        "Antique Watch: in a drawer in Wrobel's house."
+      ],
+      "optional": true,
+      "missable": {
+        "deadline": "before starting 'The Sheep and the Goats'",
+        "deadlineMissionId": "mission-the-sheep-and-the-goats"
+      },
+      "tip": "For compendium completeness only. No trophy needs these.",
+      "unverified": "Only one source (Codeberg) lists these, and it doesn't give full locations: 'Thomas Downes' table in Valentine' and 'Wrobel's house' aren't described further in the research.",
+      "sources": [
+        "missions-ch1-3#cb",
+        "missables#codeberg"
+      ]
+    },
+    {
+      "id": "ch2-w-before-the-sheep-and-the-goats",
+      "type": "warning",
+      "title": "Stop: Chapter 2 extras end with the next mission",
+      "how": [
+        "Don't start 'The Sheep and the Goats' until everything below is ticked.",
+        "'Check the Chapter 2 honor missions are done': Money Lending I-III, We Loved Once and True I-III, Good, Honest, Snake Oil.",
+        "'Do a companion activity with Charles' (Friends With Benefits, Chapter 2).",
+        "'Deliver camp item requests': hand in any Chapter-2-only request you're holding.",
+        "'Donate $250 to the camp tithing box': not lost yet (deadline Chapter 4), but finish it now if you can.",
+        "Do the 'An American Pastoral Scene' step if its icon is already on the map.",
+        "'Grab the Chapter 2 documents (optional)' if you want them.",
+        "Make a manual save now, in a slot you will keep."
+      ],
+      "unverified": "Codeberg names 'The Sheep and the Goats' as the cut-off for Chapter 2 missables. Other sources say only 'end of Chapter 2' (after 'A Strange Kindness'). The earlier deadline is used here to be safe.",
+      "sources": [
+        "missions-ch1-3#cb",
+        "missions-ch1-3#px",
+        "missables#codeberg",
+        "missables#ppx"
+      ]
+    },
+    {
+      "id": "ch2-m-the-sheep-and-the-goats",
+      "type": "mission",
+      "title": "Play 'The Sheep and the Goats'",
+      "missionId": "mission-the-sheep-and-the-goats",
+      "where": "Mission icon for John, Valentine",
+      "before": [
+        "Everything in the warning above",
+        "A strong rifle",
+        "Dead Eye items (no health items allowed)"
+      ],
+      "how": [
+        "Buy a strong rifle beforehand. rdr2.org suggests the Rolling Block.",
+        "Start it from John's mission icon.",
+        "Stay behind the flock and shout to push the sheep. Don't fire near them.",
+        "In the shootout, use Dead Eye a lot and watch the balconies and rooftops."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "unverified": "GamesHedge gives the accuracy objective as 75%; PowerPyx, Hold To Reset and rdr2.org say 70%. Aim above 75%.",
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "missions-ch1-3#gh"
+      ]
+    },
+    {
+      "id": "ch2-w-before-a-strange-kindness",
+      "type": "warning",
+      "title": "Save before the last Chapter 2 mission",
+      "how": [
+        "The next mission ends Chapter 2. The gang then leaves Horseshoe Overlook, and everything tied to that camp is gone.",
+        "If you haven't done the 'An American Pastoral Scene' step yet, do it now if its icon is on the map.",
+        "Give to the Poor and Errand Boy can still be finished in Chapters 3 and 4.",
+        "Make a manual save now, in a slot you will keep."
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missables#codeberg",
+        "missables#ppx"
+      ]
+    },
+    {
+      "id": "ch2-m-a-strange-kindness",
+      "type": "mission",
+      "title": "Play 'A Strange Kindness'",
+      "missionId": "mission-a-strange-kindness",
+      "where": "Dutch's mission icon at Horseshoe Overlook camp",
+      "before": [
+        "Manual save",
+        "A Horse Stimulant in your satchel",
+        "Dead Eye items (no health items allowed)"
+      ],
+      "how": [
+        "Start it from Dutch's mission icon.",
+        "Spot riders from range and use Dead Eye for clean headshots.",
+        "Ride straight back with a Horse Stimulant ready. There's a time limit.",
+        "Chapter 2 ends when the mission is over."
+      ],
+      "counts": [
+        "trophy-to-greener-pastures",
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch1-3#ppx",
+        "missions-ch1-3#rdr2org-ch2",
+        "missions-ch1-3#htr",
+        "trophies#ppx"
+      ]
+    }
+  ]
+}

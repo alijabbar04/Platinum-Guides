@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-10-01",
+  "method": "Pins (maps.json, RDOMap singleplayer.json exact points, game coords) are linked to text items (collectibles.json) only when the item text names a place whose position exists in open (Unlicense) RDOMap label data (discoverables text labels, shops.json wardrobe points, interiors.json, fasttravels.json), and the nearest pin of that set to that label is within 450 units and either (high) the next-nearest pin is at least 2.5x as far and 400+ units farther with any stated compass direction matching, or (high) it is a mutual nearest match within 150 units, or (medium) the text's compass direction is satisfied only by the nearest pin and the next-nearest is 1.5x+ as far, or the next-nearest is 2x+ as far and 400+ units farther. No open state/region polygons exist, so region-elimination was not used. Label anchors are approximate. Pin numbering is the dataset's and unrelated to guide numbering.",
+  "links": [
+    {
+      "itemId": "bone-new-hanover-3",
+      "pinId": "pin-dino-bone-08",
+      "evidence": "text: 'Near Emerald Station'; label 'Emerald Station (depot building)' at (1522.4, 443.5) [rdomap interiors.json [eme_depot_int]]; nearest dinosaur-bones pin pin-dino-bone-08 is 381 units N of it; next-nearest pin-dino-bone-02 is 915 units SW of it",
+      "confidence": "medium"
+    },
+    {
+      "itemId": "bone-new-hanover-9",
+      "pinId": "pin-dino-bone-22",
+      "evidence": "text: 'head south from the roadside brothel'; label 'Roadside Brothel' at (2811.7, 826.1) [pin-label-roadside-brothel]; nearest dinosaur-bones pin pin-dino-bone-22 is 97 units S of it; next-nearest pin-dino-bone-21 is 543 units NW of it; direction matches",
+      "confidence": "high"
+    },
+    {
+      "itemId": "bone-west-elizabeth-3",
+      "pinId": "pin-dino-bone-24",
+      "evidence": "text: 'under the m of Beryl's Dream'; label 'Beryl's Dream' at (-2358.6, 21.3) [pin-label-beryls-dream]; nearest dinosaur-bones pin pin-dino-bone-24 is 57 units SE of it; next-nearest pin-dino-bone-05 is 306 units N of it; mutual nearest match (the pin's nearest cited label is 'Beryl's Dream'); direction matches",
+      "confidence": "high"
+    },
+    {
+      "itemId": "bone-new-austin-1",
+      "pinId": "pin-dino-bone-11",
+      "evidence": "text: 'Hennigan's Stead / Pike's Basin'; label 'Pike's Basin' at (-2653.7, -2324.6) [pin-label-pikes-basin]; nearest dinosaur-bones pin pin-dino-bone-11 is 394 units W of it; next-nearest pin-dino-bone-12 is 868 units S of it",
+      "confidence": "medium"
+    },
+    {
+      "itemId": "bone-new-austin-3",
+      "pinId": "pin-dino-bone-09",
+      "evidence": "text: 'near Rattlesnake Hollow'; label 'Rattlesnake Hollow' at (-4273.6, -2192.1) [pin-label-rattlesnake-hollow]; nearest dinosaur-bones pin pin-dino-bone-09 is 164 units W of it; next-nearest pin-dino-bone-10 is 696 units S of it",
+      "confidence": "high"
+    },
+    {
+      "itemId": "bone-new-austin-6",
+      "pinId": "pin-dino-bone-27",
+      "evidence": "text: 'Rio Del Lobo Rock' (label is Rio del Lobo House, a different feature name); label 'Rio del Lobo House' at (-3345.2, -3479.6) [pin-label-rio-del-lobo-house]; nearest dinosaur-bones pin pin-dino-bone-27 is 258 units SW of it; next-nearest pin-dino-bone-12 is 712 units NE of it; downgraded: the text names Rio Del Lobo Rock but the only open label is Rio del Lobo House",
+      "confidence": "medium"
+    },
+    {
+      "itemId": "bone-new-austin-8",
+      "pinId": "pin-dino-bone-30",
+      "evidence": "text: 'south of the L of TUMBLEWEED ... overlooking Tumbleweed'; label 'Tumbleweed' at (-5441.9, -2946.3) [pin-town-tumbleweed]; nearest dinosaur-bones pin pin-dino-bone-30 is 117 units SE of it; next-nearest pin-dino-bone-29 is 301 units NE of it; mutual nearest match (the pin's nearest cited label is 'Tumbleweed'); direction matches",
+      "confidence": "high"
+    },
+    {
+      "itemId": "dreamcatcher-04",
+      "pinId": "pin-dreamcatcher-02",
+      "evidence": "text: 'just downhill from The Loft'; label 'The Loft' at (1930.6, 1980.1) [pin-label-the-loft]; nearest dreamcatchers pin pin-dreamcatcher-02 is 70 units SW of it; next-nearest pin-dreamcatcher-19 is 713 units SE of it",
+      "confidence": "high"
+    },
+    {
+      "itemId": "dreamcatcher-17",
+      "pinId": "pin-dreamcatcher-11",
+      "evidence": "text: 'north-east of Guthrie Farm'; label 'Guthrie Farm' at (1183.1, 480.5) [pin-label-guthrie-farm]; nearest dreamcatchers pin pin-dreamcatcher-11 is 94 units NE of it; next-nearest pin-dreamcatcher-13 is 569 units NE of it; direction matches",
+      "confidence": "high"
+    },
+    {
+      "itemId": "dreamcatcher-18",
+      "pinId": "pin-dreamcatcher-06",
+      "evidence": "text: 'north-west of Aberdeen Pig Farm'; label 'Aberdeen Pig Farm' at (1765.3, -17.0) [pin-label-aberdeen-pig-farm]; nearest dreamcatchers pin pin-dreamcatcher-06 is 140 units W of it; next-nearest pin-dreamcatcher-20 is 287 units SW of it; mutual nearest match (the pin's nearest cited label is 'Aberdeen Pig Farm'); direction matches",
+      "confidence": "high"
+    },
+    {
+      "itemId": "dreamcatcher-19",
+      "pinId": "pin-dreamcatcher-20",
+      "evidence": "text: 'just north-west of the LONNIE'S SHACK label'; label 'Lonnie's Shack' at (1618.7, -294.1) [pin-label-lonnies-shack]; nearest dreamcatchers pin pin-dreamcatcher-20 is 92 units NW of it; next-nearest pin-dreamcatcher-06 is 293 units N of it; mutual nearest match (the pin's nearest cited label is 'Lonnie's Shack'); direction matches",
+      "confidence": "high"
+    },
+    {
+      "itemId": "rock-carving-06",
+      "pinId": "pin-rock-carving-06",
+      "evidence": "text: 'North of Strawberry'; label 'Strawberry' at (-1737.8, -414.3) [pin-town-strawberry]; nearest rock-carvings pin pin-rock-carving-06 is 395 units NW of it; next-nearest pin-rock-carving-05 is 848 units W of it; only the nearest pin lies N of the label as the text says",
+      "confidence": "medium"
+    }
+  ],
+  "unlinked": [
+    {
+      "itemId": "bone-ambarino-1",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-ambarino-2",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-ambarino-3",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-ambarino-4",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-ambarino-5",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-lemoyne-1",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-lemoyne-2",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-1",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-2",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-4",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-5",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-6",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-7",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-8",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-10",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-11",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-hanover-12",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-west-elizabeth-1",
+      "reason": "ambiguous: text: 'north-west of Wallace Station'; label 'Wallace Station (station building)' at (-1303.7, 395.7) [rdomap interiors.json [wal_trainstation_int]]; nearest dinosaur-bones pin pin-dino-bone-26 is 409 units NW of it; next-nearest pin-dino-bone-07 is 435 units SE of it"
+    },
+    {
+      "itemId": "bone-west-elizabeth-2",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-austin-2",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-austin-4",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-austin-5",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "bone-new-austin-7",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-01",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-02",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-03",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-05",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-06",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-07",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-08",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-09",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-10",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-11",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-12",
+      "reason": "ambiguous: text: 'Annesburg area'; label 'Annesburg' at (2928.8, 1296.3) [pin-town-annesburg]; nearest dreamcatchers pin pin-dreamcatcher-18 is 271 units W of it; next-nearest pin-dreamcatcher-16 is 376 units W of it"
+    },
+    {
+      "itemId": "dreamcatcher-13",
+      "reason": "ambiguous: text: 'South of the U of ANNESBURG'; label 'Annesburg' at (2928.8, 1296.3) [pin-town-annesburg]; nearest dreamcatchers pin pin-dreamcatcher-18 is 271 units W of it; next-nearest pin-dreamcatcher-16 is 376 units W of it; nearest pin is not S of the label as the text says"
+    },
+    {
+      "itemId": "dreamcatcher-14",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-15",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-16",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "dreamcatcher-20",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-01",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-02",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-03",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-04",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-05",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-07",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-08",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-09",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    },
+    {
+      "itemId": "rock-carving-10",
+      "reason": "text names no place for which an open-licensed label position exists (or only map-text-letter cues such as 'the O of HANOVER', which our data cannot position); no state/region polygons available"
+    }
+  ],
+  "unusedPins": [
+    "pin-dino-bone-01",
+    "pin-dino-bone-02",
+    "pin-dino-bone-03",
+    "pin-dino-bone-04",
+    "pin-dino-bone-05",
+    "pin-dino-bone-06",
+    "pin-dino-bone-07",
+    "pin-dino-bone-10",
+    "pin-dino-bone-12",
+    "pin-dino-bone-13",
+    "pin-dino-bone-14",
+    "pin-dino-bone-15",
+    "pin-dino-bone-16",
+    "pin-dino-bone-17",
+    "pin-dino-bone-18",
+    "pin-dino-bone-19",
+    "pin-dino-bone-20",
+    "pin-dino-bone-21",
+    "pin-dino-bone-23",
+    "pin-dino-bone-25",
+    "pin-dino-bone-26",
+    "pin-dino-bone-28",
+    "pin-dino-bone-29",
+    "pin-dreamcatcher-01",
+    "pin-dreamcatcher-03",
+    "pin-dreamcatcher-04",
+    "pin-dreamcatcher-05",
+    "pin-dreamcatcher-07",
+    "pin-dreamcatcher-08",
+    "pin-dreamcatcher-09",
+    "pin-dreamcatcher-10",
+    "pin-dreamcatcher-12",
+    "pin-dreamcatcher-13",
+    "pin-dreamcatcher-14",
+    "pin-dreamcatcher-15",
+    "pin-dreamcatcher-16",
+    "pin-dreamcatcher-17",
+    "pin-dreamcatcher-18",
+    "pin-dreamcatcher-19",
+    "pin-rock-carving-01",
+    "pin-rock-carving-02",
+    "pin-rock-carving-03",
+    "pin-rock-carving-04",
+    "pin-rock-carving-05",
+    "pin-rock-carving-07",
+    "pin-rock-carving-08",
+    "pin-rock-carving-09",
+    "pin-rock-carving-10"
+  ]
+}

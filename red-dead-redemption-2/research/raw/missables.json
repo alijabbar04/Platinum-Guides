@@ -1,0 +1,317 @@
+{
+  "area": "missables",
+  "generatedAt": "2026-10-01",
+  "sources": [
+    { "id": "ppx", "title": "PowerPyx - Red Dead Redemption 2 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/red-dead-redemption-2-trophy-guide-roadmap/" },
+    { "id": "ppx100", "title": "PowerPyx - RDR2 100% Guide & Checklist", "url": "https://www.powerpyx.com/red-dead-redemption-2-100-guide-checklist/" },
+    { "id": "ppxweap", "title": "PowerPyx - RDR2 All Weapons Locations", "url": "https://www.powerpyx.com/red-dead-redemption-2-all-weapons-locations/" },
+    { "id": "ppxanimals", "title": "PowerPyx - RDR2 All Animal Locations (Zoologist & Skin Deep)", "url": "https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/" },
+    { "id": "ppxomaa", "title": "PowerPyx - RDR2 Of Men and Angels Walkthrough", "url": "https://www.powerpyx.com/red-dead-redemption-2-of-men-and-angels-walkthrough/" },
+    { "id": "codeberg", "title": "mycus - RDR2 Missables Checklist (Codeberg)", "url": "https://codeberg.org/mycus/rdr2-missables-checklist" },
+    { "id": "ggroadmap", "title": "GamerGuides - RDR2 Trophy Guide Roadmap", "url": "https://www.gamerguides.com/red-dead-redemption-2/guide/extras/trophy-guide/" },
+    { "id": "ggdnsa", "title": "GamerGuides - Do Not Seek Absolution walkthrough", "url": "https://www.gamerguides.com/red-dead-redemption-2/guide/walkthrough/chapter-6/do-not-seek-absolution" },
+    { "id": "gamesguides", "title": "Games-Guides.com - RDR2 Trophy Guide & Roadmap", "url": "https://games-guides.com/all-guide-list/red-dead-redemption-2-trophy-guide-roadmap/" },
+    { "id": "damnmodz", "title": "DamnModz - RDR2 Trophy Guide & Platinum Roadmap", "url": "https://damnmodz.com/wiki/playstation-trophies/red-dead-redemption-2/" },
+    { "id": "pixel12", "title": "PixelTwelve - RDR2 Missable Content Checklist", "url": "https://pixeltwelve.com/articles/red-dead-redemption-2-missable-content" },
+    { "id": "gosunoob", "title": "GosuNoob - RDR2 Homestead Stash Locations (Breaking & Entering)", "url": "https://www.gosunoob.com/red-dead-redemption-2/homestead-stash-locations-breaking-entering-trophy/" },
+    { "id": "rdr2org", "title": "RDR2.org Forums - Zoologist Trophy Pt. 2", "url": "https://www.rdr2.org/forums/topic/8153-zoologist-trophy-pt-2/" }
+  ],
+  "knownTotals": [
+    { "key": "missable-trophies", "value": 4, "sources": ["ppx", "damnmodz", "gamesguides"], "note": "Lending a Hand, Friends With Benefits, Give to the Poor, Errand Boy. GamerGuides additionally treats Breaking and Entering as missable (see disputes)." },
+    { "key": "minimum-playthroughs", "value": 1, "sources": ["ppx", "gamesguides", "damnmodz"], "note": "Gold medals are done via mission replay from the story log; no second playthrough needed if missables are handled." },
+    { "key": "weapons-required-for-100", "value": 48, "sources": ["ppx", "ppx100", "ppxweap"], "note": "Total weapon count given as 62 (roadmap) vs 59 (100% guide); see disputes." }
+  ],
+  "missables": [
+    {
+      "id": "miss-give-to-the-poor",
+      "what": "Donate $250 (cumulative) of your own money/valuables to the gang tithing box",
+      "trophy": "trophy-give-to-the-poor",
+      "deadline": "End of Chapter 4 (last chance: before finishing 'Banking, the Old American Art'). The tithing box does not exist after Chapter 4.",
+      "recommendedTiming": "Chapter 2, as soon as you have spare cash (story payouts easily exceed $250). Do it in one or a few deposits at the Horseshoe Overlook camp.",
+      "why": "The camp tithing/donation box is only present in the Chapter 2, 3 and 4 camps.",
+      "howTo": [
+        "At camp, walk to the tithing (donation) box near Dutch's/Pearson's area and interact with it.",
+        "Donate cash; valuables looted from bodies (e.g. jewellery) can also be donated and count toward the total.",
+        "Keep donating until your personal contribution reaches $250 - donations made by other gang members do not count.",
+        "Check the camp ledger/Social Club progress if unsure it counted."
+      ],
+      "sources": ["ppx", "codeberg", "gamesguides", "damnmodz"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-friends-with-benefits",
+      "what": "Complete at least one companion (camp) activity in each of the Chapter 2, Chapter 3 and Chapter 4 camps",
+      "trophy": "trophy-friends-with-benefits",
+      "deadline": "Per chapter: Chapter 2 activity before 'The Sheep and the Goats'; Chapter 3 activity before 'Blood Feuds, Ancient and Modern'; Chapter 4 activity before 'Banking, the Old American Art'. Missing any one of the three chapters makes the trophy unobtainable.",
+      "recommendedTiming": "Do one activity early in each of Chapters 2, 3 and 4 (don't leave it to the end of a chapter). Trophy pops in Chapter 4.",
+      "why": "Companion activities are tied to the specific camp of each chapter; the trophy needs one in each of the three camps.",
+      "howTo": [
+        "Chapter 2: talk to Charles at camp (Bison hunt) or Javier (home robbery in Valentine; this one can also carry into Chapter 3).",
+        "Chapter 3: Sean or Bill (stagecoach robbery), Javier or Kieran (fishing), or Javier's home robbery if not done in Chapter 2.",
+        "Chapter 4: Micah or Lenny (stagecoach robbery), Pearson (hunting), Uncle (cattle theft), or Charles (bank robbery - Deluxe/Ultimate Edition only).",
+        "If no activity prompt appears, advance a story mission or sleep in your tent and check again at another time of day.",
+        "Table games (poker, dominoes, five finger fillet) with gang members do NOT count per PowerPyx.",
+        "Make a manual save at the start of each chapter as a fallback."
+      ],
+      "sources": ["ppx", "codeberg", "gamesguides", "damnmodz", "pixel12"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-errand-boy",
+      "what": "Deliver 5 camp companion item requests",
+      "trophy": "trophy-errand-boy",
+      "deadline": "End of Chapter 4 (before finishing 'Banking, the Old American Art'). Chapter 2-only requests expire at 'The Sheep and the Goats'; Chapter 3-only requests expire at 'Blood Feuds, Ancient and Modern'.",
+      "recommendedTiming": "Chapters 2-3, mostly early Chapter 2 while hanging around camp between missions (requests are offered roughly 08:00-20:00 in-game).",
+      "why": "Item requests are only offered by gang members in the Chapter 2-4 camps.",
+      "howTo": [
+        "Spend daytime (08:00-20:00) at camp and talk to members; requests are random and multiply after you've done a story mission with each person.",
+        "Easy ones: give Abigail $5; buy Kentucky Bourbon for Sean or Pomade for Bill at a General Store; buy Moonshine at a Fence for Charles; pick Oleander Sage for Javier/Charles, Oregano x2 for Susan, American Ginseng x2 for Hosea (Ch3), Burdock Root x2 for Kieran (Ch3); hunt a rabbit for Pearson.",
+        "Other items: Mary-Beth's Fountain Pen (Osman Grove nightstand, east of Emerald Ranch), Pearson's Naval Compass (Braithwaite Manor boathouse), Dutch's Pipe and Lenny's Pocket Watch (huts near Pronghorn Ranch), Hosea's book (Hagen Orchards), Molly's Pocket Mirror (Ch3), Sadie's Harmonica (Ch3-4), Jack's Penny Dreadful book and Abigail's Thimble.",
+        "Hand the item over by talking to the requester at camp; 5 deliveries unlock the trophy."
+      ],
+      "sources": ["ppx", "codeberg", "gamesguides", "damnmodz"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-lending-a-hand-ch2",
+      "what": "Lending a Hand - Chapter 2 optional honor missions: Money Lending and Other Sins I, II, III (Strauss debt collections); Good, Honest, Snake Oil (Valentine sheriff); We Loved Once and True I-III (Mary Linton letter in Arthur's tent). Also Pouring Forth Oil II (John) - not an honor mission but PowerPyx says do it to be safe.",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Chapter 2 ending: before completing 'The Sheep and the Goats' (Money Lending I-II/III, We Loved Once and True, Pouring Forth Oil II). Codeberg lists 'Good, Honest, Snake Oil' as available until end of Chapter 5, but do it in Chapter 2.",
+      "recommendedTiming": "Chapter 2, before starting 'The Sheep and the Goats'. Check Pause > Progress > Story log after the chapter for missed entries.",
+      "why": "Optional story missions expire when the chapter (camp) ends; replaying them from the story log after the game does NOT count for the trophy.",
+      "howTo": [
+        "Talk to Leopold Strauss in camp for the debt-collection tasks; only part III is logged, but all collection tasks must be done.",
+        "Take 'Good, Honest, Snake Oil' from the Valentine Sheriff's Office.",
+        "Read Mary's letter in Arthur's tent to start We Loved Once and True I, then continue II and III.",
+        "Do John's 'Pouring Forth Oil II' as insurance.",
+        "Manual save before 'The Sheep and the Goats'."
+      ],
+      "sources": ["ppx", "codeberg"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-lending-a-hand-ch3",
+      "what": "Lending a Hand - Chapter 3 optional honor missions: The Course of True Love I, II, III (Gray/Braithwaite letters, Caliga Hall near Rhodes) and Money Lending and Other Sins IV (Strauss)",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Before completing 'Blood Feuds, Ancient and Modern' (end of Chapter 3).",
+      "recommendedTiming": "Mid Chapter 3, before the Braithwaite/Gray feud finale.",
+      "why": "Chapter-bound optional missions are lost when Chapter 3 ends.",
+      "howTo": [
+        "Start The Course of True Love at Caliga Hall (Rhodes); only II and III appear in the log.",
+        "Talk to Strauss for Money Lending IV (not shown in the log but required).",
+        "Manual save before 'Blood Feuds, Ancient and Modern'."
+      ],
+      "sources": ["ppx", "codeberg"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-lending-a-hand-ch4",
+      "what": "Lending a Hand - Chapter 4 optional honor missions: Help a Brother Out and Brothers and Sisters, One and All (Brother Dorkins, Saint Denis), Fatherhood and Other Dreams I, II (Mary letter), Money Lending and Other Sins V (Strauss)",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Before completing 'Banking, the Old American Art' (end of Chapter 4). 'Brothers and Sisters, One and All' is also the prerequisite for Chapter 6's 'Of Men and Angels'.",
+      "recommendedTiming": "Chapter 4, well before the Saint Denis bank mission.",
+      "why": "Chapter 4 optional missions are lost when the chapter ends, and skipping Brothers and Sisters also locks out Of Men and Angels in Chapter 6.",
+      "howTo": [
+        "Find Brother Dorkins in Saint Denis for 'Help a Brother Out'; a few in-game hours later he offers 'Brothers and Sisters, One and All'.",
+        "Read Mary's letter in Arthur's room to start 'Fatherhood and Other Dreams'.",
+        "Talk to Strauss for Money Lending V (not logged but required).",
+        "Manual save before 'Banking, the Old American Art'."
+      ],
+      "sources": ["ppx", "codeberg", "ppxomaa"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-lending-a-hand-ch6",
+      "what": "Lending a Hand - Chapter 6 optional honor missions: Do Not Seek Absolution I, II (Edith Downes, Annesburg - needs Honor 4/8), Of Men and Angels I, II (Sister Calderon, Saint Denis church), The Course of True Love IV, V (Penelope letter), Archeology for Beginners (Rains Fall), Honor, Amongst Thieves (Captain Monroe), Money Lending and Other Sins VI, VII (Strauss), Mrs. Sadie Adler, Widow I, II",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Before starting/completing 'The Fine Art of Conversation' in Chapter 6 (Of Men and Angels and Do Not Seek Absolution explicitly; codeberg lists all of these as lost at that mission).",
+      "recommendedTiming": "Immediately on returning from Guarma at the start of Chapter 6: raise honor first if below 4/8, then clear every optional mission before doing any further main missions past the early chapter 6 ones.",
+      "why": "The gang's collapse in Chapter 6 removes these missions; Do Not Seek Absolution will not start without enough honor.",
+      "howTo": [
+        "Check honor (d-pad down); it must be at least halfway into the white (honorable) side = level 4 of 8. Fastest gains: catch-and-release fish, bounties; Chapter 6 gives +50% honor gain.",
+        "Talk to Edith Downes in Annesburg for Do Not Seek Absolution I; part II opens after ~4 in-game hours.",
+        "Visit Sister Calderon at the Saint Denis church (only if Brothers and Sisters was done in Ch4) for Of Men and Angels I and II.",
+        "Read Penelope's letter in Arthur's tent for Course of True Love IV-V.",
+        "Start Archeology for Beginners with Rains Fall at the Wapiti Reservation; accept Captain Monroe's request during it to unlock Honor, Amongst Thieves.",
+        "Talk to Strauss (LS) in camp for Money Lending VI and VII (not logged but required).",
+        "Talk to Sadie in camp for Mrs. Sadie Adler, Widow I and II.",
+        "Manual save before 'The Fine Art of Conversation'."
+      ],
+      "sources": ["ppx", "codeberg", "ppxomaa", "ggdnsa", "damnmodz"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-honor-level-4-by-ch6",
+      "what": "Reach and keep Honor at level 4 of 8 (half-way into the white/honorable side) by early Chapter 6",
+      "trophy": "trophy-lending-a-hand",
+      "deadline": "Needed before 'The Fine Art of Conversation' (Chapter 6) so that Do Not Seek Absolution can be started.",
+      "recommendedTiming": "Play honorably from Chapter 1. If you do something dishonorable, reload. Do Extreme Personality (max/min honor) only in Chapter 6 while honourable, or post-game from a manual save.",
+      "why": "Do Not Seek Absolution is gated behind high honor; low honor locks Lending a Hand.",
+      "howTo": [
+        "Greet people, help strangers, spare/hog-tie instead of killing, don't loot/kill randoms.",
+        "Catch and release fish repeatedly and turn in bounties alive for fast honor.",
+        "Make a manual save before any deliberate crime spree (Bountiful, Extreme Personality dishonor route)."
+      ],
+      "sources": ["ppx", "damnmodz", "gamesguides", "ggdnsa"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-breaking-and-entering-homesteads",
+      "what": "Recover the stash from 4 homesteads (7 exist); some depend on companion activities or on not killing owners",
+      "trophy": "trophy-breaking-and-entering",
+      "deadline": "Not officially missable; individual homesteads can become permanently unavailable if their owners are killed or the encounter is botched. GamerGuides recommends finishing it during Chapters 2-3 to be safe.",
+      "recommendedTiming": "Chapters 2-3, with a manual save before each homestead.",
+      "why": "Limited pool of homesteads; some are tied to companion activities and can be lost.",
+      "howTo": [
+        "Save before each robbery.",
+        "Loot everything in the homestead area, not just the stash, because the trophy counter can fail to register otherwise (e.g. Chez Porter).",
+        "Candidates include Chez Porter (Ambarino), Lonnie's Shack and Aberdeen Pig Farm (Lemoyne), Watson's Cabin (near Wallace Station)."
+      ],
+      "sources": ["ppx", "ggroadmap", "damnmodz", "gosunoob"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-guarma-animals",
+      "what": "Guarma-only compendium animals (macaws, Guarma boas, red-footed booby)",
+      "trophy": "trophy-zoologist",
+      "deadline": "Chapter 5 - lost after 'Paradise Mercifully Departed' (you can never return to Guarma).",
+      "recommendedTiming": "Optional: study/skin them while on Guarma in Chapter 5 if convenient. They are NOT required for Zoologist or Skin Deep; they only count as extras for the compendium.",
+      "why": "Guarma is only accessible during Chapter 5.",
+      "howTo": [
+        "Study with binoculars (R1) and skin what you can while on Guarma.",
+        "Cuban Land Crab and Green Iguana also spawn on the main map (Flat Iron Lake islands/shores), so they are not lost."
+      ],
+      "sources": ["ppx", "ppxanimals", "codeberg"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-missable-weapons",
+      "what": "Missable weapons for the compendium: Rare Rolling Block Rifle (Chapter 3 bounty hunter sniper in 'Magicians for Sport'), Rare Shotgun (hermit north of Annesburg, one chance), legendary gunslinger revolvers (Flaco's, Granger's, Midnight's, Calloway's) from 'The Noblest of Men, and a Woman' duels",
+      "trophy": "trophy-best-in-the-west",
+      "deadline": "Rare Rolling Block: before 'Blood Feuds, Ancient and Modern' (Ch3). Gunslinger revolvers: must be picked up at each duel (lost if not looted). Rare Shotgun: single pickup opportunity.",
+      "recommendedTiming": "Loot these at the moment they are available; not critical since only 48 weapons are needed for 100%.",
+      "why": "Only 48 weapons are needed for 100% so missing a few is harmless, but it reduces the buffer.",
+      "howTo": [
+        "Always pick up dropped weapons from named enemies.",
+        "During the Ch3 mission where a sniper shoots at you from a shed, loot his Rolling Block Rifle.",
+        "After each legendary gunslinger duel, pick up their unique revolver."
+      ],
+      "sources": ["ppxweap", "codeberg", "pixel12"],
+      "confidence": "confirmed"
+    },
+    {
+      "id": "miss-carolina-parakeet",
+      "what": "Study the Carolina Parakeet (Lemoyne bayou) during the story",
+      "trophy": "trophy-zoologist",
+      "deadline": "Codeberg lists it as missable (study before it becomes extinct; deadline given as end of Epilogue). Other sources say it is not needed for Zoologist.",
+      "recommendedTiming": "Study one whenever you pass through the Lemoyne bayou during Chapters 3-6 as cheap insurance.",
+      "why": "Conflicting claims about whether it can disappear and whether it counts; studying it early removes the risk.",
+      "howTo": [
+        "Look for flocks of small green/yellow parrots in the bayou/Lagras area and study with binoculars (R1)."
+      ],
+      "sources": ["codeberg", "ppxanimals", "rdr2org"],
+      "confidence": "single-source"
+    }
+  ],
+  "notes": [
+    "Missable trophy count is 4: Lending a Hand (silver), Friends With Benefits, Give to the Poor, Errand Boy. The three camp trophies must be done in Chapters 2-4; Lending a Hand spans Chapters 2, 3, 4 and 6. (sources: ppx, damnmodz, gamesguides, codeberg)",
+    "Roadmap (PowerPyx / DamnModz / Games-Guides agree): Stage 1 = story playthrough (~50-60h) handling the 4 missables, all optional honor missions, staying honourable, attempting gold medals on first play, starting challenges; Stage 2 = post-epilogue free roam cleanup for 100% (collectibles, 90 challenges, graves, 10 stranger strands etc.) plus mission replays for 70/104 gold medals; Stage 3 = study/skin all main-map animals (only 50 needed for 100%, the rest for Zoologist/Skin Deep); Stage 4 = Red Dead Online to rank 50 (18 online trophies). (sources: ppx, damnmodz, gamesguides)",
+    "Estimated difficulty 6/10; time 240-300 hours (about 200h single-player plus 40-100h online depending on XP methods). (sources: ppx, damnmodz)",
+    "There are no difficulty settings in RDR2 story mode, so nothing is difficulty-locked. Using cheats disables trophy progress. (sources: ppx, damnmodz)",
+    "No chapter select exists. After the story, completed story missions can be replayed from Pause > Progress > Story for gold medals, but replays have basic weapons/no tonics and replaying optional honor missions does NOT count toward Lending a Hand. (sources: ppx, gamesguides)",
+    "Minimum playthroughs: 1. A second playthrough is only needed if a missable is lost, and Lending a Hand has a known workaround (see disputes). Keep rolling manual saves at the start of every chapter and before each chapter-ending mission. (sources: ppx, damnmodz, gamesguides)",
+    "Honor: no trophy directly requires a specific honor tier except indirectly Lending a Hand (Do Not Seek Absolution needs honor 4/8) and Extreme Personality (max or min honor). Extreme Personality cannot unlock before finishing Chapter 5's 'Paradise Mercifully Departed'; do it in Chapter 6 (honor gains +50%) or post-game from a manual save; the dishonourable route is faster but reload afterwards. Honor also affects shop prices and some outfit purchases and the ending variant, but all endings give the story trophies. (sources: ppx, damnmodz, gamesguides, ggdnsa)",
+    "Bountiful (hold $250 bounty in all states for 3 days): during the story New Austin already carries a bounty automatically, so only the other four states are needed until the Epilogue; post-game New Austin must be done too. Make a manual save first because the crime spree tanks honor. (sources: ppx)",
+    "100% completion itself is described by PowerPyx as having nothing missable - everything can be cleaned up post-epilogue; missed story missions just need the epilogue finished, graves and the last two gang hideouts are post-game only. (sources: ppx100)",
+    "Points of no return (chapter enders): Ch1 'Who the Hell is Leviticus Cornwall?'; Ch2 'The Sheep and the Goats' (Ch2 honor missions, Ch2-only companion activities and requests; followed by transition mission 'A Strange Kindness'); Ch3 'Blood Feuds, Ancient and Modern' (Course of True Love I-III, Money Lending IV, Ch3 activities/requests, Rare Rolling Block Rifle); Ch4 'Banking, the Old American Art' (tithing box, all companion activities and item requests, Help a Brother Out, Brothers and Sisters, Fatherhood and Other Dreams, Money Lending V); Ch5 'Paradise Mercifully Departed' (Guarma animals); Ch6 'The Fine Art of Conversation' (Do Not Seek Absolution, Of Men and Angels, Course of True Love IV-V, Archeology for Beginners, Honor Amongst Thieves, Money Lending VI-VII, Sadie Adler Widow); end of Ch6 (Arthur-only strangers such as The Mercies of Knowledge, Arcadia for Amateurs III, The Widow of Willard's Rest, Fundraiser; Van Horn mansion robbery; Appleseed/Castor's Ridge/Railroad camp events); Epilogue 'American Venom' (only cosmetic/misc items). (sources: codeberg, ppx, ppxomaa)",
+    "Stranger missions lost at the end of Chapter 6 are not a trophy risk because Western Stranger / 100% only need 10 strands and plenty remain post-game, but doing them as Arthur keeps the buffer. (sources: codeberg, ppx100)",
+    "Known glitches/workarounds: (1) Lending a Hand - replaying 'Home Improvement for Beginners' (Epilogue) from the story log after finishing the game reportedly unlocks the trophy regardless of missed missions (found around patch 1.02/1.03). (2) Western Stranger may lag behind the 10/10 tracker. (3) Breaking and Entering may not register unless you loot the whole homestead. (4) Zoologist: if the last animal won't register, verify each entry shows 'Studied' on Social Club, and save/quit/reload to respawn wildlife. PowerPyx lists no glitched trophies. (sources: ppx, gosunoob, rdr2org, ggroadmap)",
+    "Legendary animals reportedly do not count for Zoologist/Skin Deep; a Chapter-based stranger-mission lion is also not a compendium animal. Rufus the dog and Guarma-exclusive species are also cited as not required. (sources: ppxanimals, rdr2org)",
+    "PSNProfiles, PlayStationTrophies, TrueTrophies/TrueAchievements, XboxAchievements and GameFAQs pages returned HTTP 403 to the research tool, so their roadmaps could not be read directly; search-result snippets attributed to PSNProfiles agree on the 4 missables, on 'Of Men and Angels' being lost after 'The Fine Art of Conversation', and on the Home Improvement for Beginners workaround. The merge step should treat these as unverified. (sources: ppx)",
+    "PS4/PS5: RDR2 is a PS4 title played on PS5 via backward compatibility with the same trophy list; no PS5-specific trophy patch notes affecting missables were found. (sources: ppx)"
+  ],
+  "disputes": [
+    {
+      "topic": "Is Breaking and Entering missable?",
+      "details": "PowerPyx and DamnModz list only 4 missables but warn homesteads are limited and can be lost; GamerGuides counts Breaking and Entering as a 5th missable and advises doing it in Chapters 2-3.",
+      "positions": [
+        { "claim": "Not officially missable, but homesteads can become unavailable; be careful.", "sources": ["ppx", "damnmodz"] },
+        { "claim": "Treat as missable; complete 4 stashes during Chapters 2 or 3.", "sources": ["ggroadmap"] }
+      ],
+      "suggestedHandling": "Place it in the route as a soft-missable: rob 4 homesteads in Chapters 2-3 with a save before each, never kill homestead owners you haven't robbed."
+    },
+    {
+      "topic": "Exact honor requirement for Do Not Seek Absolution",
+      "details": "PowerPyx/DamnModz state Honor level 4 of 8; GamerGuides says only 'high honor'; Games-Guides says at least half the bar on the right (white) side.",
+      "positions": [
+        { "claim": "Honor rank 4/8 required.", "sources": ["ppx", "damnmodz"] },
+        { "claim": "'High' honor, no exact level given.", "sources": ["ggdnsa"] },
+        { "claim": "At least halfway on the white side of the honor bar.", "sources": ["gamesguides", "ppx"] }
+      ],
+      "suggestedHandling": "Tell the player to be at 4/8 or higher (ideally max) before starting Chapter 6 optional missions; these descriptions are consistent (4/8 = halfway)."
+    },
+    {
+      "topic": "Deadline for Errand Boy",
+      "details": "Most guides say before the end of Chapter 4; one search-snippet source said 'before Chapter 6'.",
+      "positions": [
+        { "claim": "Only Chapters 2-4; finish before Chapter 4 ends.", "sources": ["ppx", "codeberg", "damnmodz"] }
+      ],
+      "suggestedHandling": "Use end of Chapter 4 ('Banking, the Old American Art') as the hard deadline; aim for Chapter 2."
+    },
+    {
+      "topic": "Lending a Hand workaround still working",
+      "details": "PowerPyx documents replaying 'Home Improvement for Beginners' post-game as unlocking the trophy (patch 1.03, credit Reddit user). A search snippet claims a user confirmed it in April 2026, but no source was directly verified on the current PS4/PS5 build.",
+      "positions": [
+        { "claim": "Replaying 'Home Improvement for Beginners' after the story unlocks Lending a Hand regardless of missed missions.", "sources": ["ppx"] },
+        { "claim": "Optional missions replayed from the story log do not count toward the trophy (only the workaround mission does).", "sources": ["ppx"] }
+      ],
+      "suggestedHandling": "Route all honor missions normally; mention the workaround only as a last-resort fallback that may be patched."
+    },
+    {
+      "topic": "Which Guarma animals are exclusive / Fer-de-Lance",
+      "details": "PowerPyx lists 8 Guarma-exclusive species including the Fer-de-Lance snake; Codeberg lists 7 (Blue & Yellow, Great Green, Scarlet Macaw, Rainbow, Red-tailed, Sunglow Boa, Red-footed Booby) and omits Fer-de-Lance. Both agree none are required for trophies.",
+      "positions": [
+        { "claim": "Fer-de-Lance is Guarma-only (not needed).", "sources": ["ppx", "ppxanimals"] },
+        { "claim": "Guarma-only list without Fer-de-Lance.", "sources": ["codeberg"] }
+      ],
+      "suggestedHandling": "State that no Guarma animal is needed for Zoologist/Skin Deep; optionally study all snakes/birds on Guarma for completeness."
+    },
+    {
+      "topic": "Carolina Parakeet",
+      "details": "Codeberg lists studying the Carolina Parakeet as missable; an RDR2.org forum user reports it was not needed for Zoologist; PowerPyx's animal guide lists it as a normal bayou animal without a missable warning.",
+      "positions": [
+        { "claim": "Missable compendium entry - study before it disappears.", "sources": ["codeberg"] },
+        { "claim": "Not needed for Zoologist.", "sources": ["rdr2org"] },
+        { "claim": "Listed as a regular Lemoyne bayou animal, no warning.", "sources": ["ppxanimals"] }
+      ],
+      "suggestedHandling": "Tell the player to study one during Chapters 3-6 in the bayou as insurance."
+    },
+    {
+      "topic": "Do table games with gang members count as companion activities?",
+      "details": "Codeberg lists Lenny/Micah Five Finger Fillet and Tilly Dominoes among 'companion activities'; PowerPyx says table games with gang members do not count for Friends With Benefits.",
+      "positions": [
+        { "claim": "Table games don't count for the trophy.", "sources": ["ppx"] },
+        { "claim": "Listed as companion activities in the missables checklist.", "sources": ["codeberg"] }
+      ],
+      "suggestedHandling": "Instruct the player to do a hunting/robbery/fishing activity each chapter; don't rely on table games."
+    },
+    {
+      "topic": "Total weapons count",
+      "details": "PowerPyx roadmap says 48 of 62 weapons; PowerPyx 100% guide says 48 of 59.",
+      "positions": [
+        { "claim": "48 of 62", "sources": ["ppx"] },
+        { "claim": "48 of 59", "sources": ["ppx100"] }
+      ],
+      "suggestedHandling": "Only state the 48 requirement."
+    },
+    {
+      "topic": "Good, Honest, Snake Oil deadline",
+      "details": "PowerPyx lists it as a Chapter 2 optional honor mission; Codeberg says it stays available until the end of Chapter 5.",
+      "positions": [
+        { "claim": "Chapter 2 mission.", "sources": ["ppx"] },
+        { "claim": "Available Chapters 2-5.", "sources": ["codeberg"] }
+      ],
+      "suggestedHandling": "Route it in Chapter 2."
+    }
+  ]
+}

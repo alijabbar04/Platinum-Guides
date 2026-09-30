@@ -1,0 +1,116 @@
+{
+  "part": {
+    "id": "start",
+    "title": "Before You Start",
+    "subtitle": "How this guide works",
+    "intro": [
+      "This part explains how to use the route, the game rules that matter for trophies, and the one habit that protects the platinum: staying honourable and keeping manual saves.",
+      "Nothing here is missable. Read it once, tick the steps, then start a new game.",
+      "Expect roughly 240-300 hours for the full platinum: about 50-60 hours of story, a long single-player clean-up, then Red Dead Online. The online part depends heavily on how you earn XP."
+    ]
+  },
+  "steps": [
+    {
+      "id": "start-how-to-use",
+      "type": "info",
+      "title": "Learn how the route works",
+      "how": [
+        "Work top to bottom. Every step sits where it should be done; you never need to scroll back.",
+        "Tick each step when it's done. Mission steps list their gold-medal objectives underneath.",
+        "Long goals (collectibles, challenges, animals) live in trackers. A 'session' step tells you when to open a tracker and what to do in it.",
+        "Use the missables filter to see only steps with a cut-off. Each shows the mission after which it is lost.",
+        "A 'warning' step always comes just before a point-of-no-return mission. Don't start that mission until every item in the warning is ticked.",
+        "Text marked as a spoiler stays hidden until you tap reveal."
+      ],
+      "sources": ["missables#ppx", "missions-ch1-3#ppx"]
+    },
+    {
+      "id": "start-game-facts",
+      "type": "info",
+      "title": "Know the game rules that affect trophies",
+      "how": [
+        "Story mode has no difficulty setting, so no trophy depends on difficulty.",
+        "Never enter a cheat code. Cheats disable saving and trophy progress.",
+        "Red Dead Redemption 2 is a PS4 game. On PS5 it runs through backward compatibility and uses the same PS4 trophy list.",
+        "There is no chapter select. Anything you miss in a chapter needs an older save or a new playthrough.",
+        "One playthrough is enough if you follow the warnings.",
+        "Completed story missions can be replayed after the story from Pause > Progress > Story to earn gold medals you missed. Replays use basic gear and no tonics, so they are harder.",
+        "Replaying an optional honor mission from the Story menu does NOT count towards Lending a Hand. Those must be done during the story."
+      ],
+      "counts": ["tracker:gold-medals"],
+      "sources": ["missables#ppx", "missables#damnmodz", "missables#gamesguides", "trophies#damnmodz", "trophies#ws-server"]
+    },
+    {
+      "id": "start-manual-saves",
+      "type": "task",
+      "title": "Set up a manual save habit",
+      "how": [
+        "Make a manual save at the start of every chapter.",
+        "Make a manual save before every story mission on your first playthrough. All gold objectives for a mission must be met in one run, and checkpoint restarts reset the counters.",
+        "Keep a separate save before each point-of-no-return mission. The route reminds you with a warning step.",
+        "Save before any robbery or crime spree, so you can reload if it goes wrong or costs too much Honor."
+      ],
+      "tip": "Rotate between several save slots so an autosave never overwrites the save you'd need to go back to.",
+      "sources": ["missables#ppx", "missables#damnmodz", "missables#gamesguides", "missions-ch1-3#ppx"]
+    },
+    {
+      "id": "start-gold-medals",
+      "type": "info",
+      "title": "Understand gold medals",
+      "how": [
+        "Gold Rush needs gold medals in 70 of the 104 story missions that have them, so 34 can be skipped.",
+        "Try for gold on your first run, but don't restart a mission endlessly. Missed ones can be replayed after the story.",
+        "Timed objectives include cutscenes. Skip cutscenes to save time.",
+        "'No health items' objectives only ban health items. Dead Eye items are allowed.",
+        "Restart from the checkpoint as soon as you fail an objective."
+      ],
+      "counts": ["trophy-gold-rush", "tracker:gold-medals"],
+      "unverified": "Sources count gold-medal missions differently: PowerPyx says 104, GTABase says 105. The 70 needed for the trophy is the same either way.",
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch2", "missions-ch1-3#gtab", "trophies#ppx"]
+    },
+    {
+      "id": "start-honor-strategy",
+      "type": "info",
+      "title": "Stay honourable for the whole story",
+      "how": [
+        "Keep Arthur's Honor on the good (white) side from the very start.",
+        "You need at least Honor level 4 of 8 by Chapter 6, or one of the optional honor missions will not start and Lending a Hand is lost.",
+        "Greet people, help strangers you meet on the road, and hogtie rather than kill when you can.",
+        "Don't rob or kill random people. If you do something dishonourable by accident, reload.",
+        "Catching and releasing fish, and handing in bounties alive, are quick ways to raise Honor.",
+        "Leave Extreme Personality (maximum Honor) for Chapter 6 or later. The top Honor level is locked until late in the story."
+      ],
+      "counts": ["trophy-lending-a-hand", "trophy-extreme-personality"],
+      "unverified": "Guides describe the Chapter 6 requirement as 'level 4 of 8', 'halfway into the white' or just 'high honor'. These mean the same thing, but aim higher to be safe.",
+      "sources": ["missables#ppx", "missables#damnmodz", "missables#gamesguides", "missables#ggdnsa", "trophies#ppx"]
+    },
+    {
+      "id": "start-missable-trophies",
+      "type": "info",
+      "title": "Know the four missable trophies",
+      "how": [
+        "Lending a Hand: every optional honor mission in Chapters 2, 3, 4 and 6. Each set is lost when its chapter ends.",
+        "Friends With Benefits: one companion activity in each of the Chapter 2, 3 and 4 camps.",
+        "Give to the Poor: donate $250 to the camp tithing box before Chapter 4 ends.",
+        "Errand Boy: deliver 5 item requests to gang members before Chapter 4 ends.",
+        "The route puts each of these well before its deadline."
+      ],
+      "counts": ["tracker:lending-a-hand"],
+      "unverified": "One guide (GamerGuides) also treats Breaking and Entering as missable, because homesteads can be lost. The route does it in Chapter 2 to be safe.",
+      "sources": ["missables#ppx", "missables#damnmodz", "missables#codeberg", "trophies#ppx", "missables#ggroadmap"]
+    },
+    {
+      "id": "start-time-budget",
+      "type": "info",
+      "title": "Plan your time",
+      "how": [
+        "Stage 1, story (about 50-60 hours): handle the missables, do every optional honor mission, stay honourable, try for gold medals and start challenges.",
+        "Stage 2, after the story: collectibles, all 90 challenges, graves, stranger missions and gold-medal replays.",
+        "Stage 3: study and skin the animals for Zoologist and Skin Deep.",
+        "Stage 4, Red Dead Online to rank 50. It needs PlayStation Plus and can be done at any time."
+      ],
+      "unverified": "Red Dead Online servers were reported as working in late September 2026, with no shutdown announced. Check again before relying on the online trophies.",
+      "sources": ["missables#ppx", "missables#damnmodz", "missables#gamesguides", "trophies#ws-server"]
+    }
+  ]
+}

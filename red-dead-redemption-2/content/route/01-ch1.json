@@ -1,0 +1,134 @@
+{
+  "part": {
+    "id": "ch1",
+    "title": "Chapter 1",
+    "subtitle": "Colter",
+    "intro": [
+      "Chapter 1 is a short, linear run through six story missions in the snowy mountains. There is no free roam worth doing here.",
+      "No trophy can be missed in this chapter. The only missables are two optional documents you can pick up during the train mission.",
+      "All six missions have gold medals. Save before each one. Expect about 2-3 hours."
+    ]
+  },
+  "steps": [
+    {
+      "id": "ch1-m-outlaws-from-the-west",
+      "type": "mission",
+      "title": "Play 'Outlaws from the West'",
+      "missionId": "mission-outlaws-from-the-west",
+      "where": "Colter camp, Grizzlies (the story starts here)",
+      "how": [
+        "Start a new game. The mission begins automatically.",
+        "Search every cupboard, drawer, nightstand and the loft for loot before you leave the ranch."
+      ],
+      "counts": ["tracker:gold-medals"],
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "missions-ch1-3#htr"]
+    },
+    {
+      "id": "ch1-m-enter-pursued-by-a-memory",
+      "type": "mission",
+      "title": "Play 'Enter, Pursued by a Memory'",
+      "missionId": "mission-enter-pursued-by-a-memory",
+      "where": "Colter camp",
+      "before": ["Manual save"],
+      "how": [
+        "Start it from the mission marker at Colter camp after the first mission.",
+        "When the wolves attack, stay on high rocks and use Dead Eye to protect your accuracy."
+      ],
+      "counts": ["trophy-just-a-scratch", "tracker:gold-medals"],
+      "unverified": "The trophy research says Just a Scratch pops on finishing 'Enter, Pursued by a Memory' but labels that mission as Chapter 2. Mission research puts it in Chapter 1. It is counted here, and the trophy should pop when this mission ends.",
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "trophies#ppx", "trophies#rdr2org"]
+    },
+    {
+      "id": "ch1-m-the-aftermath-of-genesis",
+      "type": "mission",
+      "title": "Play 'The Aftermath of Genesis'",
+      "missionId": "mission-the-aftermath-of-genesis",
+      "where": "Colter camp",
+      "before": ["Manual save"],
+      "how": [
+        "Start it from the mission marker at Colter camp.",
+        "Crouch and approach the deer slowly. Check the wind direction so they can't smell you."
+      ],
+      "counts": ["tracker:gold-medals"],
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "missions-ch1-3#htr"]
+    },
+    {
+      "id": "ch1-m-old-friends",
+      "type": "mission",
+      "title": "Play 'Old Friends'",
+      "missionId": "mission-old-friends",
+      "where": "Colter camp",
+      "before": ["Manual save"],
+      "how": [
+        "Start it from the mission marker at Colter camp.",
+        "Equip the lasso before the chase so you can react at once.",
+        "Don't use any health items during the mission. Dead Eye items are fine."
+      ],
+      "counts": ["tracker:gold-medals"],
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "missions-ch1-3#htr"]
+    },
+    {
+      "id": "ch1-w-before-leviticus-cornwall",
+      "type": "warning",
+      "title": "Save before the train mission",
+      "how": [
+        "Make a manual save now.",
+        "The next mission contains two documents that can only be picked up during it: 'Mining Company Letter to Cornwall' and 'Oil Company Letter to Cornwall'.",
+        "They are for compendium completeness only. No trophy needs them, so don't reload just for these."
+      ],
+      "missable": {
+        "deadline": "during 'Who the Hell is Leviticus Cornwall?'",
+        "deadlineMissionId": "mission-who-the-hell-is-leviticus-cornwall"
+      },
+      "optional": true,
+      "unverified": "Only one source (the Codeberg missables checklist) lists these two documents as missable. The research does not say exactly where in the train they are.",
+      "sources": ["missions-ch1-3#cb", "missables#codeberg"]
+    },
+    {
+      "id": "ch1-m-who-the-hell-is-leviticus-cornwall",
+      "type": "mission",
+      "title": "Play 'Who the Hell is Leviticus Cornwall?'",
+      "missionId": "mission-who-the-hell-is-leviticus-cornwall",
+      "where": "Colter camp",
+      "before": ["Manual save"],
+      "how": [
+        "Start it from the mission marker at Colter camp.",
+        "After the shootout, search the train cars and pick up both Cornwall letters before you leave.",
+        "Don't use any health items during the mission."
+      ],
+      "counts": ["tracker:gold-medals"],
+      "missable": {
+        "deadline": "the two Cornwall letters are lost when this mission ends",
+        "deadlineMissionId": "mission-who-the-hell-is-leviticus-cornwall"
+      },
+      "unverified": "Only one source lists the Cornwall letters, and it gives no exact location inside the train.",
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "missions-ch1-3#htr", "missions-ch1-3#cb"]
+    },
+    {
+      "id": "ch1-w-before-eastward-bound",
+      "type": "warning",
+      "title": "Save before leaving the mountains",
+      "how": [
+        "Make a manual save now, in a slot you will keep.",
+        "The next mission ends Chapter 1 and you can't return to Colter camp during the story.",
+        "Nothing trophy-related is lost here. If you skipped the Cornwall letters during the train mission, they are already gone. That doesn't matter for trophies."
+      ],
+      "unverified": "Sources disagree on which mission closes Chapter 1. The mission research marks 'Eastward Bound' as the point of no return, while the missables research names 'Who the Hell is Leviticus Cornwall?'. There are no trophy missables in Chapter 1 either way.",
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "missables#codeberg"]
+    },
+    {
+      "id": "ch1-m-eastward-bound",
+      "type": "mission",
+      "title": "Play 'Eastward Bound'",
+      "missionId": "mission-eastward-bound",
+      "where": "Colter camp",
+      "how": [
+        "Start it from the mission marker at Colter camp.",
+        "Skip cutscenes and keep the wagon at full speed. This mission is timed.",
+        "Chapter 1 ends when the mission is over."
+      ],
+      "counts": ["trophy-back-in-the-mud", "tracker:gold-medals"],
+      "sources": ["missions-ch1-3#ppx", "missions-ch1-3#rdr2org-ch1", "missions-ch1-3#htr", "trophies#ppx", "trophies#rdr2org"]
+    }
+  ]
+}

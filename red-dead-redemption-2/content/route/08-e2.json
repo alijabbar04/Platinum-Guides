@@ -1,0 +1,347 @@
+{
+  "part": {
+    "id": "e2",
+    "title": "Epilogue Part 2",
+    "subtitle": "Beecher's Hope",
+    "intro": [
+      "Part 2 is based at Beecher's Hope, west of Blackwater. It has eleven gold-medal missions and one cutscene with no medal.",
+      "Two story trophies unlock here automatically: Cowboy Builder (for 'A New Jerusalem') and Endless Summer (for finishing the Epilogue).",
+      "Nothing trophy-related can be lost in Part 2. The last Ms. Hobbs hunting request is now available, but hunting requests are handled in the Cleanup part.",
+      "Keep a manual save before each mission. After the final mission and the credits, the game returns you to free roam with every mission replayable."
+    ]
+  },
+  "steps": [
+    {
+      "id": "e2-m-bare-knuckle-friendships",
+      "type": "mission",
+      "title": "Find an old friend in Saint Denis",
+      "missionId": "mission-bare-knuckle-friendships",
+      "where": "Beecher's Hope (mission marker)",
+      "how": [
+        "Start the mission at the marker at Beecher's Hope.",
+        "In Saint Denis, head to the fence rather than the bar; speak to the shopkeeper at the door and leave straight away for the next location.",
+        "When the enemies appear at the end, tag them all in Dead Eye at once."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e2-hobbs-final-request",
+      "type": "info",
+      "title": "Note: the last hunting request is now available",
+      "how": [
+        "The fifth Ms. L. Hobbs hunting request (the Van Horn list) only becomes available after Epilogue Part 1.",
+        "You need all five for It's Art and 100%, but there is no deadline.",
+        "Leave it for the Cleanup part, where the hunting requests and the squirrel statue are handled together."
+      ],
+      "optional": true,
+      "unverified": "Research wording differs slightly: trophies.json says the last request unlocks after Epilogue Part 1; collectibles.json only says 'in the Epilogue'.",
+      "sources": [
+        "trophies#ppx",
+        "trophies#ws-art",
+        "collectibles#wiki-betterworld",
+        "collectibles#ppx-100"
+      ]
+    },
+    {
+      "id": "e2-m-home-improvement-for-beginners",
+      "type": "mission",
+      "title": "Clear out the old shack",
+      "missionId": "mission-home-improvement-for-beginners",
+      "where": "Beecher's Hope",
+      "how": [
+        "Start the mission at the marker at Beecher's Hope.",
+        "Do NOT skip the opening cutscene: skipping adds loading time that counts against the 18-second limit."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e2-m-an-honest-days-labors",
+      "type": "mission",
+      "title": "Recover a bounty",
+      "missionId": "mission-an-honest-days-labors",
+      "where": "Blackwater Saloon",
+      "how": [
+        "Ride to the mission marker at the Blackwater Saloon.",
+        "Don't use any health items during the mission.",
+        "Take careful, aimed shots to keep your accuracy above 70%."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "e2-m-the-tool-box",
+      "type": "mission",
+      "title": "Haul lumber for the ranch",
+      "missionId": "mission-the-tool-box",
+      "where": "Blackwater (mission marker)",
+      "how": [
+        "Equip two sidearms and use only them for the whole mission.",
+        "Start the mission at the marker in Blackwater.",
+        "Hip-fire the machete rushers; there is no accuracy objective.",
+        "When your companion warns about ambushers in the trees, tag their heads carefully in Dead Eye.",
+        "Don't use any health items."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e2-m-a-new-jerusalem",
+      "type": "mission",
+      "title": "Build the house",
+      "missionId": "mission-a-new-jerusalem",
+      "where": "Beecher's Hope",
+      "how": [
+        "Start the mission at the marker at Beecher's Hope.",
+        "Hammer each nail cleanly: sources suggest either rapid presses or holding the button for a split second per nail; use whichever keeps your accuracy above 80%.",
+        "Finish the mission: Cowboy Builder unlocks automatically."
+      ],
+      "counts": [
+        "trophy-cowboy-builder",
+        "tracker:gold-medals"
+      ],
+      "unverified": "Sources disagree on the best nailing technique (rapid presses vs a short hold per nail).",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "trophies#ppx",
+        "trophies#gtabase"
+      ]
+    },
+    {
+      "id": "e2-study-rufus",
+      "type": "task",
+      "title": "Study the ranch dog at Beecher's Hope",
+      "where": "Beecher's Hope, usually near the front porch",
+      "how": [
+        "Find Rufus, the family dog, near the front porch of the house.",
+        "Look at him through your binoculars until he is marked as studied."
+      ],
+      "counts": [
+        "tracker:zoologist"
+      ],
+      "optional": true,
+      "tip": "Most sources say Rufus is not needed for Zoologist, but studying him takes seconds and removes any doubt.",
+      "unverified": "Whether Rufus counts for Zoologist is disputed; the usual count of 152 excludes him.",
+      "sources": [
+        "wildlife#ppx-animals-comments",
+        "wildlife#ta-snippet",
+        "wildlife#fandom-trophies"
+      ]
+    },
+    {
+      "id": "e2-m-a-quick-favor-for-an-old-friend",
+      "type": "mission",
+      "title": "Answer a call for help in Rhodes",
+      "missionId": "mission-a-quick-favor-for-an-old-friend",
+      "where": "Beecher's Hope",
+      "how": [
+        "Equip a shotgun, a long scoped rifle and high-damage weapons before starting.",
+        "Start the mission at the marker at Beecher's Hope.",
+        "Get your 4 hip-fire kills with the shotgun right at the start of the ambush.",
+        "Don't use any health items."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e2-m-uncles-bad-day",
+      "type": "mission",
+      "title": "Mount a rescue in Tall Trees",
+      "missionId": "mission-uncles-bad-day",
+      "where": "Beecher's Hope",
+      "how": [
+        "Make sure you have a bow and arrows equipped.",
+        "Start the mission at the marker at Beecher's Hope.",
+        "Use Dead Eye with the bow: tagged arrows home in, making the 5 bow headshots easy.",
+        "Stay just ahead of your companions and clear enemies so they keep moving.",
+        "Near the horses, quickly kill the three enemies that appear behind the group.",
+        "Don't use any health items."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e2-the-best-of-women",
+      "type": "info",
+      "title": "Watch the next cutscene (no medal)",
+      "where": "Follows the previous mission",
+      "how": [
+        "'The Best of Women' is a cutscene with no gold medal.",
+        "Afterwards the next two missions open up; they can be done in either order."
+      ],
+      "unverified": "Placement (right after 'Uncle's Bad Day', before 'Trying Again' and 'A Really Big Bastard') comes from web guides; research only records that it has no medal.",
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#steamgm",
+        "https://guides4gamers.com/red-dead-redemption-2/quest/the-best-of-women/",
+        "https://www.ireddead.com/rdr2/guides/the-best-of-women"
+      ]
+    },
+    {
+      "id": "e2-m-trying-again",
+      "type": "mission",
+      "title": "Go fishing",
+      "missionId": "mission-trying-again",
+      "where": "Beecher's Hope",
+      "how": [
+        "Start the mission at the marker at Beecher's Hope.",
+        "Land a fish before the conversation turns to the dog, then put the rod away immediately to stay inside the time limit."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm"
+      ]
+    },
+    {
+      "id": "e2-m-a-really-big-bastard",
+      "type": "mission",
+      "title": "Track a bounty in Tall Trees",
+      "missionId": "mission-a-really-big-bastard",
+      "where": "Beecher's Hope",
+      "how": [
+        "Start the mission at the marker at Beecher's Hope.",
+        "Have a fast-firing weapon ready so you can shoot the charging bear 4 times.",
+        "Keep Dead Eye topped up for the two rival bounty hunters."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "e2-m-a-new-future-imagined",
+      "type": "mission",
+      "title": "Spend a day in Blackwater",
+      "missionId": "mission-a-new-future-imagined",
+      "where": "Beecher's Hope",
+      "how": [
+        "Start the mission at the marker at Beecher's Hope.",
+        "Go straight to each objective; the only gold objective is the time limit."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom"
+      ]
+    },
+    {
+      "id": "e2-before-final-mission",
+      "type": "warning",
+      "title": "Save before the final mission",
+      "how": [
+        "Make a manual save now in a separate slot.",
+        "Nothing trophy-related is lost by finishing the story: every mission can be replayed afterwards and all collectibles stay available.",
+        "Optional insurance: study a Carolina Parakeet in the Lemoyne bayou if you haven't yet (one source claims it can disappear).",
+        "Put a repeater with high-velocity ammo and a scoped bolt-action rifle in your weapon loadout."
+      ],
+      "unverified": "Only one source (a Codeberg missables list) treats the Carolina Parakeet as missable; others say it is not needed for Zoologist.",
+      "sources": [
+        "missables#codeberg",
+        "missables#ppx",
+        "missables#ppx100",
+        "missions-ch4-e2#ppx"
+      ]
+    },
+    {
+      "id": "e2-m-american-venom",
+      "type": "mission",
+      "title": "Play the final mission",
+      "missionId": "mission-american-venom",
+      "where": "Beecher's Hope",
+      "how": [
+        "Equip a repeater with high-velocity ammo and a scoped bolt-action rifle.",
+        "Start the mission at the marker at Beecher's Hope.",
+        "For the sniper: advance to the rocks nearest him with your companion, wait for the prompt, then lean out in Dead Eye and tag his head. Leaning out early gets you killed.",
+        "Favour body shots to keep accuracy above 85%.",
+        "Don't use any health items.",
+        "Watch the credits: Endless Summer unlocks for finishing the Epilogue."
+      ],
+      "counts": [
+        "trophy-endless-summer",
+        "tracker:gold-medals"
+      ],
+      "sources": [
+        "missions-ch4-e2#ppx",
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#steamgm",
+        "missions-ch4-e2#ppxt",
+        "trophies#ppx",
+        "trophies#rdr2org"
+      ]
+    },
+    {
+      "id": "e2-after-the-credits",
+      "type": "info",
+      "title": "What unlocks after the credits",
+      "where": "Beecher's Hope",
+      "how": [
+        "You receive a $20,000 reward.",
+        "The game returns you to free roam at Beecher's Hope, with the whole map (including New Austin) open.",
+        "Replay any story mission, including optional ones you missed, from Pause > Progress > Story to earn gold medals; Gold Rush needs 70 of the 104.",
+        "Replays do NOT count for Lending a Hand.",
+        "Carry on with the Cleanup part: gold medals, collectibles, challenges and 100%."
+      ],
+      "counts": [
+        "tracker:gold-medals"
+      ],
+      "spoiler": [
+        "You can also pick up Micah's Revolver at the final showdown location on Mount Hagen."
+      ],
+      "unverified": "The Micah's Revolver pick-up comes from a single source (Steam 100% guide).",
+      "sources": [
+        "missions-ch4-e2#fandom",
+        "missions-ch4-e2#ppxt",
+        "missions-ch4-e2#steamgm",
+        "trophies#ppx"
+      ]
+    }
+  ]
+}
