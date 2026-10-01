@@ -504,7 +504,7 @@
       "hidden": false,
       "online": false,
       "missable": true,
-      "missableDeadline": "Each mission is lost when its chapter ends: Chapter 2 set before finishing Chapter 2, Chapter 3 set before finishing Chapter 3, Chapter 4 set before finishing Chapter 4, Chapter 6 set before starting/finishing the final Chapter 6 mission ('Red Dead Redemption'). Some are time-sensitive even within a chapter.",
+      "missableDeadline": "Each chapter's honor missions are lost when that chapter ends (Chapter 2: before 'The Sheep and the Goats' to be safe; Chapter 3: before 'Blood Feuds, Ancient and Modern'; Chapter 4: before 'Banking, the Old American Art'). Chapter 6: Of Men and Angels and Do Not Seek Absolution before 'The Fine Art of Conversation'; Mrs. Sadie Adler, Widow before 'My Last Boy'. Replaying after the story does not count.",
       "earnedWhen": "Story - after the last required optional honor mission in a single playthrough.",
       "howTo": [
         "Chapter 2: do Money Lending and Other Sins I-III (Strauss debts), Good, Honest, Snake Oil (Valentine sheriff's office area), We Loved Once and True I-III (letter in Arthur's tent).",

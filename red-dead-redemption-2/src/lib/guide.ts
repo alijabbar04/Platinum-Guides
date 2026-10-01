@@ -61,8 +61,11 @@ export function trackerProgress(p: ProgressState, t: Tracker): { done: number; g
 export function trophyProgress(p: ProgressState, t: Trophy) {
   if (p.checks[t.id] !== undefined) return 1;
   const parts: number[] = [];
-  const steps = t.stepIds;
-  if (steps.length) parts.push(steps.filter((s) => p.checks[s] !== undefined).length / steps.length);
+  // Trophies with a dedicated tracker are measured by it; otherwise by the route steps that count.
+  if (!t.trackerIds.length) {
+    const steps = t.stepIds;
+    if (steps.length) parts.push(steps.filter((s) => p.checks[s] !== undefined).length / steps.length);
+  }
   for (const tid of t.trackerIds) {
     const tr = trackerById.get(tid);
     if (tr) parts.push(trackerProgress(p, tr).fraction);

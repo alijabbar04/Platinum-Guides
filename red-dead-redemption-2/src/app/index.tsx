@@ -67,6 +67,18 @@ export default function RouteScreen() {
     }
   }, [p.loaded, nextIndex, rows, scrollToRow]);
 
+  // After switching the missables filter, jump to the next unticked step in the new list.
+  const firstFilterRun = useRef(true);
+  useEffect(() => {
+    if (firstFilterRun.current) {
+      firstFilterRun.current = false;
+      return;
+    }
+    const i = nextIndex();
+    const t = setTimeout(() => (i >= 0 ? scrollToRow(rows[i - 1]?.kind === 'part' ? i - 1 : i, false) : list.current?.scrollToOffset({ offset: 0 })), 60);
+    return () => clearTimeout(t);
+  }, [missablesOnly]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // Jump to a specific step (from search / trophies).
   useEffect(() => {
     if (!params.focus) return;
@@ -101,10 +113,10 @@ export default function RouteScreen() {
       <View style={[styles.top, { paddingTop: insets.top + 4, backgroundColor: c.bg, borderColor: c.border }]}>
         <View style={styles.topRow}>
           <View style={{ flex: 1 }}>
-            <T v="display" style={{ fontSize: 21, lineHeight: 26 }}>
+            <T v="display" style={{ fontSize: 21, lineHeight: 26 }} numberOfLines={1} adjustsFontSizeToFit>
               Platinum Ledger
             </T>
-            <T v="label" color={c.inkFaint}>
+            <T v="label" color={c.inkFaint} numberOfLines={1} adjustsFontSizeToFit>
               {`${rp.done}/${rp.total} STEPS · ${tu}/${guide.trophies.length} TROPHIES`}
             </T>
           </View>

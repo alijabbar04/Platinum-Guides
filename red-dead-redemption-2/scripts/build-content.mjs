@@ -759,8 +759,8 @@ TR.push({
   title: 'Grind Counters',
   short: 'Grind',
   description: ['Running totals for the trophies that build up over time. Use + and − to keep count; the game only shows some of these.'],
-  goal: 7,
-  goalLabel: 'goals met',
+  goal: 11,
+  goalLabel: 'targets met',
   trophyIds: ['trophy-take-from-the-rich', 'trophy-pony-up', 'trophy-grin-and-bear-it', 'trophy-self-sufficient', 'trophy-bountiful', 'trophy-extreme-personality', 'trophy-trusty-steed'],
   groups: [
     {
@@ -908,7 +908,7 @@ const outSteps = steps.map((s) => {
     partId: s.partId,
     type: s.type,
     title: s.title,
-    missionName: m && norm(m.name) !== norm(s.title) ? m.name : undefined,
+    missionName: m && !norm(s.title).includes(norm(m.name)) ? m.name : undefined,
     where: s.where,
     before: s.before?.length ? s.before : undefined,
     how: s.how,
@@ -992,7 +992,7 @@ const rail = linesToPath('railroads.json');
 Object.values(pinsOut).forEach(grow);
 const labels = labelPins.map((l) => ({ text: l.label.replace(/\s*\(.*\)\s*$/, ''), x: Math.round(l.x), y: Math.round(l.y), kind: l.set === 'towns' ? 'town' : 'place' }));
 labels.forEach(grow);
-const pad = 250;
+const pad = 700;
 for (const k of ['minX', 'minY']) bounds[k] = Math.floor(bounds[k] - pad);
 for (const k of ['maxX', 'maxY']) bounds[k] = Math.ceil(bounds[k] + pad);
 

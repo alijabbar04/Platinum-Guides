@@ -1,6 +1,6 @@
 // Self-drawn map: roads/rail/labels/pins from open (Unlicense) coordinate data.
 // No game map imagery is used. Approximate pins are drawn and labelled as such.
-import React, { useCallback, useMemo, useState } from 'react';
+import React, { useCallback, useMemo, useRef, useState } from 'react';
 import { LayoutChangeEvent, Pressable, StyleSheet, View } from 'react-native';
 import { router, Stack, useLocalSearchParams } from 'expo-router';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
@@ -21,6 +21,7 @@ const W = B.maxX - B.minX;
 const H = B.maxY - B.minY;
 const MIN_Z = 1;
 const MAX_Z = 14;
+const MAX_RENDER_Z = 8; // the SVG is re-drawn at up to 8x so it stays sharp; beyond that it is scaled
 
 type Entry = { item: TrackerItem; pin: Pin };
 
@@ -31,8 +32,10 @@ export default function MapScreen() {
   const p = useProgress();
   const insets = useSafeAreaInsets();
   const [box, setBox] = useState({ w: 0, h: 0 });
+  const [base0, setBase0] = useState(0); // fixed at first layout so later resizes don't rescale the map
   const [zoom, setZoom] = useState(1);
   const [selected, setSelected] = useState<string | undefined>(focusPin);
+  const initialised = useRef(false);
 
   const entries: Entry[] = useMemo(() => {
     const out: Entry[] = [];
@@ -43,7 +46,7 @@ export default function MapScreen() {
   const anyExact = entries.some((e) => !e.pin.approximate);
 
   // content px per world unit at zoom 1 (fit whole map in the box)
-  const base = box.w && box.h ? Math.min(box.w / W, box.h / H) : 0.05;
+  const base = base0 || 0.05;
   const cw = W * base;
   const ch = H * base;
 
@@ -51,6 +54,7 @@ export default function MapScreen() {
   const tx = useSharedValue(0);
   const ty = useSharedValue(0);
   const startS = useSharedValue(1);
+  const rz = useSharedValue(1); // zoom level the SVG is currently drawn at
   const startX = useSharedValue(0);
   const startY = useSharedValue(0);
 
@@ -70,7 +74,11 @@ export default function MapScreen() {
   const onLayout = (e: LayoutChangeEvent) => {
     const { width, height } = e.nativeEvent.layout;
     setBox({ w: width, h: height });
+    // only position the map on first layout; later size changes (info card) keep the user's zoom
+    if (initialised.current) return;
+    initialised.current = true;
     const b = Math.min(width / W, height / H);
+    setBase0(b);
     const fp = focusPin ? guide.pins[focusPin] : undefined;
     if (fp) {
       const pt = { x: (fp.x - B.minX) * b, y: (B.maxY - fp.y) * b };
@@ -139,8 +147,11 @@ export default function MapScreen() {
   const gesture = Gesture.Simultaneous(pinch, pan, Gesture.Exclusive(doubleTap, tap));
 
   const animStyle = useAnimatedStyle(() => ({
-    transform: [{ translateX: tx.value }, { translateY: ty.value }, { scale: s.value }],
+    transform: [{ translateX: tx.value }, { translateY: ty.value }, { scale: s.value / rz.value }],
   }));
+  // draw the SVG at the settled zoom so it is crisp instead of a stretched bitmap
+  const renderZoom = Math.min(MAX_RENDER_Z, Math.max(1, zoom));
+  rz.value = renderZoom;
 
   const zoomBy = (f: number) => {
     const ns = Math.min(MAX_Z, Math.max(MIN_Z, s.value * f));
@@ -172,13 +183,13 @@ export default function MapScreen() {
       <View style={{ flex: 1, overflow: 'hidden' }} onLayout={onLayout}>
         <GestureDetector gesture={gesture}>
           <View style={StyleSheet.absoluteFill} collapsable={false}>
-            <Animated.View style={[{ width: cw, height: ch, transformOrigin: 'top left' }, animStyle]}>
-              <Svg width={cw} height={ch} viewBox={`${B.minX} ${-B.maxY} ${W} ${H}`}>
+            <Animated.View style={[{ width: cw * renderZoom, height: ch * renderZoom, transformOrigin: 'top left' }, animStyle]}>
+              <Svg width={cw * renderZoom} height={ch * renderZoom} viewBox={`${B.minX} ${-B.maxY} ${W} ${H}`}>
                 <G>
                   <Path d={guide.map.roads} stroke={roadColor} strokeWidth={px(1.1) / base} fill="none" />
                   <Path d={guide.map.rail} stroke={c.inkMuted} strokeWidth={px(1.6) / base} strokeDasharray={`${px(5) / base} ${px(3) / base}`} fill="none" />
                   {guide.map.labels
-                    .filter((l) => l.kind === 'town' || zoom >= 3)
+                    .filter((l) => l.kind === 'town' || zoom >= 4)
                     .map((l) => (
                       <SvgText
                         key={`${l.text}-${l.x}`}
@@ -217,7 +228,7 @@ export default function MapScreen() {
           </View>
         </GestureDetector>
 
-        <View style={[styles.zoomCol, { bottom: (sel ? 190 : 20) + insets.bottom }]}>
+        <View style={[styles.zoomCol, { bottom: 16 }]}>
           <ZoomBtn label="Zoom in" onPress={() => zoomBy(1.8)}>
             <PlusIcon color={c.ink} />
           </ZoomBtn>
@@ -233,8 +244,8 @@ export default function MapScreen() {
               setZoom(1);
             }}
           >
-            <T v="label" color={c.ink}>
-              ALL
+            <T v="label" color={c.ink} style={{ fontSize: 12 }}>
+              FIT
             </T>
           </ZoomBtn>
         </View>
